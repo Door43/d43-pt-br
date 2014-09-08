@@ -1,0 +1,16 @@
+
+----
+
+**Recursos**
+
+  * [[pt-br:obs|Historias Livres da Biblia]]
+
+**Sobre Porta43**
+
+
+**Recent Changes**
+{{changes>ns = pt-br}}
+
+**Latest Status**
+{{page>en:uwadmin:pt-br:obs:status}}
+
