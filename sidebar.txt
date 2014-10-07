@@ -8,6 +8,10 @@
 **Sobre Porta43**
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pt-br|d43-pt-br repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pt-br/archive/master.zip|d43-pt-br.zip]]
+
 **Recent Changes**
 {{changes>ns = pt-br}}
 
