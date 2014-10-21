@@ -18,3 +18,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Latest Status**
 {{page>en:uwadmin:pt-br:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pt-br|Ethnologue data]]
