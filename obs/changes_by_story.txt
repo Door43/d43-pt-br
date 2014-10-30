@@ -1,1 +1,3 @@
-{{changes>ns=pt-br:obs&maxage=6048000&render=pagelist(header,date,user,nocomments)}}
+~~NOCACHE~~
+
+{{changes>ns=pt-br:obs&maxage=60480000&render=pagelist(header,date,user,nocomments)}}
