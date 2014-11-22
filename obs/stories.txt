@@ -43,16 +43,15 @@
   - [[:pt-br:obs:41|Jesus Ressucita Dentre os Mortos]]
   - [[:pt-br:obs:42|A Ascenção de Jesus aos Céus]]
   - [[:pt-br:obs:43|O Início da Igreja]]
-  - [[:pt-br:obs:44|A Cura de Um  Mendigo]]
+  - [[:pt-br:obs:44|A Cura de Um Mendigo]]
   - [[:pt-br:obs:45|Felipe e o Oficial Etíope]]
   - [[:pt-br:obs:46|A Conversão de Paulo]]
   - [[:pt-br:obs:47|Paulo e Silas em Filipos]]
   - [[:pt-br:obs:48|Jesus é o Messias prometido]]
-  - [[:pt-br:obs:49|A Nova Aliança de Deus]]
+  - [[:pt-br:obs:49|A Nova Aliança com Deus]]
   - [[:pt-br:obs:50|A Volta de Jesus]]
 
   * [[:pt-br:obs:front-matter|Front Matter]]
   * [[:pt-br:obs:back-matter|Back Matter]]
   * [[:pt-br:obs:app_words|Mobile App Words]]
-~~COMPLEX_TABLES~~
 
