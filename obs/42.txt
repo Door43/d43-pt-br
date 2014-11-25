@@ -47,3 +47,5 @@ Quarenta dias depois que Jesus ressucitou de dentre os mortos, Ele falou aos seu
 //Uma história da Bíblia: Mateus 28:16-20, Marcos 16:12-20, Lucas 24:13-53, João 20:19-23, Atos 1:1-11//
 
  ~~COMPLEX_TABLES~~
+
+~~DISCUSSION~~
