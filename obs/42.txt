@@ -2,11 +2,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?direct&}}
 
-No mesmo dia em que Jesus havia ressuscitado dentre os mortos, dois dos Seus discípulos a caminho de um uma cidade. Enquanto caminhavam, conversavam sobre o que havia acontecido com Jesus. Eles esperavam que Ele fosse o Messias, más depois ele foi morto. Agora as mulheres avisaram que ele estava vivo novamente. Eles não sabiam em que acreditar.
+No mesmo dia em que Jesus havia ressuscitado dentre os mortos, dois dos Seus discípulos estavam  a caminho de um uma cidade. Enquanto caminhavam, conversavam sobre o que havia acontecido com Jesus. Eles esperavam que Ele fosse o Messias, mas depois ele foi morto. Agora as mulheres avisaram que ele estava vivo novamente. Eles não sabiam em que acreditar.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?direct&}}
 
-Jesus se aproximou e começou a caminhar com eles, mas eles não reconheceram que aquele homem era Jesus. Ele perguntou sobre o que eles estavam a falar, e eles contaram sobre os acontecimentos marcantes que havia havia se passado nos últimos dias sobre Jesus. Eles pensaram que estavam conversando com um visitante que não sabia o que acontecera em Jerusalém.
+Jesus se aproximou e começou a caminhar com eles, mas eles não reconheceram que aquele homem era Jesus. Ele perguntou sobre o que eles estavam a falar, e eles contaram sobre os acontecimentos marcantes que havia  se passado nos últimos dias sobre Jesus. Eles pensaram que estavam conversando com um visitante que não sabia o que acontecera em Jerusalém.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-03.jpg?direct&}}
 
@@ -14,11 +14,11 @@ Então, Jesus explicou-lhes o que a Palavra de Deus dizia sobre o Messias. Ele l
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?direct&}}
 
-Os dois homens convidaram a Jesus para ficar com eles, e assim ele fez. Na hora do jantar, Jesus pegou o pão, deu graças a Deus por ele, então o partiu. De repente eles reconheceram que aquele homem era Jesus.  Más naquele mesmo momento Ele desapareceu diante deles.
+Os dois homens convidaram a Jesus para ficar com eles, e assim ele fez. Na hora do jantar, Jesus pegou o pão, deu graças a Deus por ele, então o partiu. De repente eles reconheceram que aquele homem era Jesus. Mas naquele mesmo momento Ele desapareceu diante deles.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?direct&}}
 
-Os dois homens disseram um ao outro: "Era Jesus! Por isso nossos corações queimavam enquanto Ele no explicava a Palavra de Deus! Imediatamente eles voltaram para Jerusalém e disseram aos discípulos: "Jesus está vivo! Nós O vimos e falamos com Ele!"
+Os dois homens disseram um ao outro: "Era Jesus! Por isso nossos corações queimavam enquanto Ele nos explicava a Palavra de Deus! Imediatamente eles voltaram para Jerusalém e disseram aos discípulos: "Jesus está vivo! Nós O vimos e falamos com Ele!"
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?direct&}}
 
@@ -30,11 +30,11 @@ Jesus disse: "Eu já tinha dito a vocês que tudo o que estava escrito sobre Mim
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?direct&}}
 
-"Também está escrito que os Meus discípulos anunciariam a todos arrependimento para perdão dos pecados. Anunciarão isto desde Jerusalém até  todos os grupos de povos e em todos os lugares. Vocês são testemunhas de todas estas coisas."
+"Também está escrito que os Meus discípulos anunciariam a todos o arrependimento para perdão dos pecados. Anunciarão isto desde Jerusalém até todos os  povos e em todos os lugares. Vocês são testemunhas de todas estas coisas."
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-09.jpg?direct&}}
 
-Durante quarenta dias seguintes, Jesus apareceu aos Seus discípulos muitas vezes. Uma vez, Ele até apareceu a mais de 500 pessoas ao mesmo tempo! De muitas maneiras Ele provou aos Seus discípulos que estava vivo, e os ensinou sobre o Reino de Deus.
+Durante os  quarenta dias seguintes, Jesus apareceu aos Seus discípulos muitas vezes. Uma vez, Ele até apareceu a mais de 500 pessoas ao mesmo tempo! De muitas maneiras Ele provou aos Seus discípulos que estava vivo e os ensinou sobre o Reino de Deus.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?direct&}}
 
@@ -42,10 +42,8 @@ Jesus disse aos Seus discípulos: "Toda a autoridade no céu e na terra foi dada
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?direct&}}
 
-Quarenta dias depois que Jesus ressucitou de dentre os mortos, Ele falou aos seus discípulos: "Fiquem em Jerusalém e esperem até receberem  do Pai poder quando descer sobre vocês o Espírito Santo." Então, Jesus foi elevado ao céu, e uma nuvem O encobriu da vista deles. Jesus sentou-se à direita de Deus para governar sobre todas as coisas.
+Quarenta dias depois que Jesus ressucitou dentre os mortos, Ele falou aos seus discípulos: "Fiquem em Jerusalém e esperem até receberem do Pai poder quando descer sobre vocês o Espírito Santo." Então, Jesus foi elevado ao céu e uma nuvem O encobriu da vista deles. Jesus sentou-se à direita de Deus para governar sobre todas as coisas.
 
 //Uma história da Bíblia: Mateus 28:16-20, Marcos 16:12-20, Lucas 24:13-53, João 20:19-23, Atos 1:1-11//
 
- ~~COMPLEX_TABLES~~
-
-~~DISCUSSION~~
+ ~~DISCUSSION~~
