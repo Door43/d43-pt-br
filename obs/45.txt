@@ -2,19 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?direct&}}
 
-Estêvão, um dos líderes da igreja primitiva, chamado Estevão, tinha um bom testemunho e era cheio do Espírito Santo e de sabedoria. Fez muitos milagres, e argumentava persuasivamente as razões pelas quais as pessoas deviam crêr em Jesus.
+Um dos líderes da igreja primitiva, chamado Estevão, tinha um bom testemunho e era cheio do Espírito Santo e de sabedoria. Fez muitos milagres, e argumentava persuasivamente as razões pelas quais as pessoas deviam crêr em Jesus.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?direct&}}
 
-Um dia, enquanto Estêvão estava ensinando sobre Jesus, alguns dos judeus que não criam em Cristo começaram a discutir com Estêvão. Com muita raiva, inventaram mentiras sobre ele aos líderes religiosos. Disseram: " Ouvimos  maldizer Moisés e a Deus!" Então, eles o prenderam e o levaram à presença do sumo sacerdote e de outros líderes judeus, onde foram ouvidas mais falsas testemunhas e mais mentiras contra ele.
+Um dia, enquanto Estevão estava ensinando sobre Jesus, alguns dos judeus que não criam em Cristo começaram a discutir com Estevão. Com muita raiva, inventaram mentiras sobre ele aos líderes religiosos. Disseram: " Ouvimos maldizer Moisés e a Deus!" Então, eles o prenderam e o levaram à presença do sumo sacerdote e de outros líderes judeus, onde foram ouvidas mais falsas testemunhas e mais mentiras contra ele.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?direct&}}
 
-O sumo sacerdote perguntou a Estêvão: " Isto é verdade?" Estêvão respondeu lembrando a eles as grandes coisas que Deus tinha feito, desde a época de Abraão até a de Jesus, e como o povo de Deus continuamente O desobedecia. Então, disse: "Ó povo religioso rebelde e teimoso! Que rejeita o Espírito Santo, assim como seus ancestrais sempre rejeitaram a Deus e mataram os profetas."
+O sumo sacerdote perguntou a Estevão: " Isto é verdade?" Estevão respondeu lembrando a eles as grandes coisas que Deus tinha feito, desde a época de Abraão até a de Jesus, e como o povo de Deus continuamente O desobedecia. Então, disse: "Ó povo religioso rebelde e teimoso! Que rejeita o Espírito Santo, assim como seus ancestrais sempre rejeitaram a Deus e mataram os profetas."
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?direct&}}
 
-Ao ouvirem isso, taparam os ouvidos, recusando-se a escutar o que Estêvão dizia, e gritavam bem alto, furiosos. Logo o arrastaram para fora da cidade e o apedrejaram até a morte.
+Ao ouvirem isso, taparam os ouvidos, recusando-se a escutar o que Estevão dizia, e gritavam bem alto, furiosos. Logo o arrastaram para fora da cidade e o apedrejaram até a morte.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?direct&}}
 
@@ -46,7 +46,7 @@ Felipe e o etíope viajaram, ao passarem por um lugar onde havia um pouco de ág
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?direct&}}
 
-Então eles entraram na água, e Felipe batizou o etíope. Depois de voltarem, o Espírito Santo levou Felipe embora para outro lugar, onde continuou a falar sobre Jesus.
+Então eles entraram na água  e Felipe batizou o etíope. Depois de voltarem, o Espírito Santo levou Felipe embora para outro lugar, onde continuou a falar sobre Jesus.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?direct&}}
 
@@ -54,6 +54,4 @@ O etíope seguiu o seu caminho, feliz por ter conhecido Jesus.
 
 //Uma história da Bíblia: Atos 8:26-40 //
 
- ~~COMPLEX_TABLES~~
-
-~~DISCUSSION~~
+ ~~DISCUSSION~~
