@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?direct&}}
 
-Depois que Jesus foi crucificado, os líderes judeus, que não criam que Jesus era o Filho de Deus, disseram a Pilatos: "Jesus, aquele mentiroso, tinha dito que ia ressuscitar dos mortos em três dias. Alguem deve guardar a túmulo, para que, porventura, Seus discípulos não roubem Seu corpo e depois digam que Ele ressurgiu dentre os mortos.
+Depois que Jesus foi crucificado, os líderes judeus, que não criam que Jesus era o Filho de Deus, disseram a Pilatos: "Jesus, aquele mentiroso, tinha dito que ia ressuscitar dos mortos em três dias. Alguém deve guardar a túmulo, para que, porventura, Seus discípulos não roubem Seu corpo e depois digam que Ele ressurgiu dentre os mortos.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?direct&}}
 
@@ -10,7 +10,7 @@ Sendo assim, Pilatos ordenou: " Tomem soldados e faça do túmulo o mais seguro 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?direct&}}
 
-O dia seguinte ao sepultamento de Jesus era um sábado, e não era permitido aos judeus ir ao túmulo naquele dia. No entanto, bem cedo na manhã depois do sábado, várias mulheres se preparavam para ir ao túmulo de Jesus e colocar em Seu corpo mais especiarias de enterro.
+O dia seguinte ao sepultamento de Jesus era um sábado e não era permitido aos judeus ir ao túmulo naquele dia. No entanto, bem cedo na manhã, depois do sábado, várias mulheres se preparavam para ir ao túmulo de Jesus e colocar em Seu corpo mais especiarias de enterro.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?direct&}}
 
@@ -34,4 +34,4 @@ Qundo as mulheres estavam no caminho para contar as boas novas aos discípulos, 
 
 //Uma história da Bíblia: Mateus 27:62-28:15, Marcos 16:1-11, Lucas 24:1-12, João 20:1-18//
 
-~~DISCUSSION~~
+ ~~DISCUSSION~~
