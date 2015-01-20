@@ -1,40 +1,27 @@
-//Translation for the unfoldingWord mobile app interface // 
+//Translation for the unfoldingWord mobile app interface //
 
-
-Select a language: Selecione um idioma
-
+Select a language: Selecionar idioma
 
 Chapters: Capítulos
 
-
 Languages: Idiomas
-
 
 Next chapter: Próximo capítulo
 
+OK: Confirmar
 
-OK: Confirma
-
-
-Cancel: Cancela
-
+Cancel: Cancelar
 
 Save locally: Salvar localmente
 
-
 Save this string: Salvar seqüência
-
 
 Save this language locally for offline use: Salvar idioma para uso local offline.
 
-
 Remove locally: Apagar localmente
-
 
 Remove this string: Apagar seqüência
 
-
 Remove this language from offline storage. You will need an internet connection to view it in the future.
 
-
-Apagar esse idioma da armazenagem offline. Você precisará de conexão de internet para acessar no futuro.
+Apagar esse idioma da armazenagem offline. Você precisará de conexão à Internet para acessá-lo no futuro.
