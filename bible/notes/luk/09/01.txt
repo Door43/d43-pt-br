@@ -1,0 +1,61 @@
+====== Luke 09:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add One day\add* Jesus summoned his twelve \add apostles\add*, and gave them power to expel all \add kinds of\add* demons and to heal \add people with\add* diseases. He gave them authority to do that.
+\v 2 \add Before\add* he sent them out to heal people and to tell people \add what it meant to let\add* God rule\f + \ft Or: have complete control \add over\add* \f* \add their lives\add*,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Jesus called together his twelve disciples and gave them the right and power to drive out all kinds of demons and to heal people's diseases.
+\v 2 He sent them out to heal people and to teach them about God's kingdom.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 He called the twelve together, and gave them power and authority over all the demons and to cure diseases.
+\v 2 He sent them out to preach the kingdom of God and to heal the sick.
+</usfm>
+
+
+===== Important Terms: =====
+
+
+    * [[:pt-br:bible:notes:key-terms:apostle|the twelve]]
+    * [[:pt-br:bible:notes:key-terms:power|power]]
+    * [[:pt-br:bible:notes:key-terms:authority|authority]]
+    * [[:pt-br:bible:notes:key-terms:demon|demon]]
+    * [[:pt-br:bible:notes:key-terms:preach|preach]]
+    * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
+    * [[:pt-br:bible:notes:key-terms:heal|heal]]
+
+
+===== Translation Notes: =====
+
+  * **the twelve **- This is the group of disciples that Jesus chose to be his apostles.
+  * **power and authority**- These two terms are used together to show that the twelve had both the ability and the right to heal people. Translate this phrase with a combination of words that include both of these ideas.
+  * **diseases**  - "sicknesses." This refers to what makes a person sick.
+  * **sent them out**  - This could be translated as "sent them to various places" or "told them to go."
+
+===== Links: =====
+
+  * **[[pt-br/bible/notes:luk/questions/comprehension/09|Luke Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[pt-br/bible/notes/luk/08/54|<<]] | [[pt-br/bible/notes/luk/09/03|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish apostle power authority}}
