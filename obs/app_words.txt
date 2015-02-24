@@ -22,6 +22,4 @@ Remove locally: Apagar localmente
 
 Remove this string: Apagar seqüência
 
-Remove this language from offline storage. You will need an internet connection to view it in the future.
-
-Apagar esse idioma da armazenagem offline. Você precisará de conexão à Internet para acessá-lo no futuro.
+Remove this language from offline storage. You will need an internet connection to view it in the future: Apagar esse idioma da armazenagem offline. Você precisará de conexão à Internet para acessá-lo no futuro.
