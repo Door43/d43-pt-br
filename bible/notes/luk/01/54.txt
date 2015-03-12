@@ -35,13 +35,13 @@
 
 ===== Important Terms: =====
 
-    * [[:en:Bible:notes:key-terms:servant|servant]]
-    * [[:en:Bible:notes:key-terms:israel|Israel]]
-    * [[:en:Bible:notes:key-terms:mercy|merciful]]
-    * [[:en:Bible:notes:key-terms:abraham|Abraham]]
-    * [[:en:Bible:notes:key-terms:descendant|descendant]]
-    * [[:en:Bible:notes:key-terms:promise|promise]]
-    * [[:en:Bible:notes:key-terms:ancestor|ancestor]]
+    * [[:pt-br:bible:notes:key-terms:servant|servant]]
+    * [[:pt-br:bible:notes:key-terms:israel|Israel]]
+    * [[:pt-br:bible:notes:key-terms:mercy|merciful]]
+    * [[:pt-br:bible:notes:key-terms:abraham|Abraham]]
+    * [[:pt-br:bible:notes:key-terms:descendant|descendant]]
+    * [[:pt-br:bible:notes:key-terms:promise|promise]]
+    * [[:pt-br:bible:notes:key-terms:ancestor|ancestor]]
 
 
 ===== Translation Notes: =====

@@ -39,11 +39,11 @@
 
 ===== Important Terms: =====
 
-  * [[:en:Bible:notes:key-terms:bless|bless]]
-  * [[:en:Bible:notes:key-terms:lord|Lord]]
-  * [[:en:Bible:notes:key-terms:joy|joy]]
-  * [[:en:Bible:notes:key-terms:believe|believe]]
-  * [[:en:Bible:notes:key-terms:fulfill|fulfill]]
+  * [[:pt-br:bible:notes:key-terms:bless|bless]]
+  * [[:pt-br:bible:notes:key-terms:lord|Lord]]
+  * [[:pt-br:bible:notes:key-terms:joy|joy]]
+  * [[:pt-br:bible:notes:key-terms:believe|believe]]
+  * [[:pt-br:bible:notes:key-terms:fulfill|fulfill]]
 
 
 ===== Translation Notes: =====

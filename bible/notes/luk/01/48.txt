@@ -39,10 +39,10 @@
 
 ===== Important Terms: =====
 
-  * [[:en:Bible:notes:key-terms:servant|servant]]
-  * [[:en:Bible:notes:key-terms:bless|blessed]]
-  * [[:en:Bible:notes:key-terms:god|God]]
-  * [[:en:Bible:notes:key-terms:holy|holy]]
+  * [[:pt-br:bible:notes:key-terms:servant|servant]]
+  * [[:pt-br:bible:notes:key-terms:bless|blessed]]
+  * [[:pt-br:bible:notes:key-terms:god|God]]
+  * [[:pt-br:bible:notes:key-terms:holy|holy]]
 
 
 ===== Translation Notes: =====

@@ -33,12 +33,12 @@
 
 ===== Important Terms: =====
 
-  * [[:en:Bible:notes:key-terms:zechariahnt|Zechariah]]
-  * [[:en:Bible:notes:key-terms:praise|praise]]
-  * [[:en:Bible:notes:key-terms:god|God]]
-  * [[:en:Bible:notes:key-terms:fear|fear]]
-  * [[:en:Bible:notes:key-terms:judea|Judea]]
-  * [[:en:Bible:notes:key-terms:lord|Lord]]
+  * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
+  * [[:pt-br:bible:notes:key-terms:praise|praise]]
+  * [[:pt-br:bible:notes:key-terms:god|God]]
+  * [[:pt-br:bible:notes:key-terms:fear|fear]]
+  * [[:pt-br:bible:notes:key-terms:judea|Judea]]
+  * [[:pt-br:bible:notes:key-terms:lord|Lord]]
 
 
 ===== Translation Notes: =====

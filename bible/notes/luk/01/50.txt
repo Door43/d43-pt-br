@@ -34,11 +34,11 @@
 
 ===== Important Terms: =====
 
-  * [[:en:Bible:notes:key-terms:mercy|mercy]]
-  * [[:en:Bible:notes:key-terms:generation|generation]]
-  * [[:en:Bible:notes:key-terms:fear|fear]]
-  * [[:en:Bible:notes:key-terms:power|powerful]]
-  * [[:en:Bible:notes:key-terms:heart|heart]]
+  * [[:pt-br:bible:notes:key-terms:mercy|mercy]]
+  * [[:pt-br:bible:notes:key-terms:generation|generation]]
+  * [[:pt-br:bible:notes:key-terms:fear|fear]]
+  * [[:pt-br:bible:notes:key-terms:power|powerful]]
+  * [[:pt-br:bible:notes:key-terms:heart|heart]]
 
 ===== Translation Notes: =====
 
