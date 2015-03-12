@@ -48,4 +48,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish son inherit}}
+{{tag>draft son inherit}}
+~~NOCACHE~~

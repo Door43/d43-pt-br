@@ -10,4 +10,4 @@
 
 ===== Bible References: =====
 
-{{topic>purify&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{topic>purify&nocomments}}~~DISCUSSION~~{{tag>draft}}

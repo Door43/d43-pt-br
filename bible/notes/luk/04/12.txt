@@ -59,4 +59,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish test}}
+{{tag>draft test}}
+
+~~NOCACHE~~

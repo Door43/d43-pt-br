@@ -49,4 +49,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish life }}
+{{tag>draft life }}
+~~NOCACHE~~

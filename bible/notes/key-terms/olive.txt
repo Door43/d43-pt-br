@@ -17,4 +17,4 @@ The olive is the small, oval fruit from an olive tree, which is mostly grown in 
 
 ~~NOCACHE~~
 
-{{tag>publish ktlink}}
+{{tag>draft ktlink}}

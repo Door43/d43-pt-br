@@ -65,4 +65,5 @@
 ~~DISCUSSION~~
 
  
-{{tag>publish isaiah prophet}}
+{{tag>draft isaiah prophet}}
+~~NOCACHE~~

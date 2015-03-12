@@ -48,13 +48,13 @@
     * **the ark**  - "the ship" or "the barge"
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/17|Luke Chapter 17 Comprehension Questions]]**
-
- 
-
-**[[pt-br/bible/notes/luk/17/22|<<]] | [[pt-br/bible/notes/luk/17/28|>>]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:17:22|<<]] | [[:pt-br:bible:notes:luk:17:28|>>]]**
 
 ~~DISCUSSION~~
 
+~~NOCACHE~~
+{{tag>draft generation noah ark}}
 
-{{tag>publish generation noah ark}}
+\\ 
+

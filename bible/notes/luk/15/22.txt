@@ -61,4 +61,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish son death life}}
+{{tag>draft son death life}}
+~~NOCACHE~~

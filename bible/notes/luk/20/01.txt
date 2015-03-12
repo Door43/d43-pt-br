@@ -45,4 +45,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:20|Luke Chapter 20 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:19:47|<<]] | [[:pt-br:bible:notes:luk:20:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish elder authority}}
+~~DISCUSSION~~{{tag>draft elder authority}}

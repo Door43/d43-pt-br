@@ -12,6 +12,6 @@ The word "heaven" <font 14px line-height: 15.6800003051758px;/inherit;;inherit;;
 
 ===== Bible References: =====
 
-{{topic>heaven&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{topic>heaven&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~

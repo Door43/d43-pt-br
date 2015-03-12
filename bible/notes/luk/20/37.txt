@@ -60,4 +60,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish moses death life}}
+{{tag>draft moses death life}}
+~~NOCACHE~~

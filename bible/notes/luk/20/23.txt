@@ -36,4 +36,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:20|Luke Chapter 20 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:20:21|<<]] | [[:pt-br:bible:notes:luk:20:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish caesar denarius}}
+~~DISCUSSION~~{{tag>draft caesar denarius}}

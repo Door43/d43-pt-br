@@ -21,6 +21,6 @@ The Nile is a very big river in northeastern Africa.
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>draft}}
 
 ~~NOCACHE~~

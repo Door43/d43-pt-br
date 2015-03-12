@@ -50,4 +50,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish leprosy heal clean}}
+{{tag>draft leprosy heal clean}}
+~~NOCACHE~~

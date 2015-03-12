@@ -16,4 +16,4 @@ Different ways of translating "word" include, "teaching," "message," "news", "a 
 
 ===== Bible References: =====
 
-{{topic>word&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{topic>word&nocomments}}~~DISCUSSION~~{{tag>draft}}

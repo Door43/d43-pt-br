@@ -12,4 +12,4 @@ A promise is a pledge or commitment to do a certain thing. When someone makes a 
 
 ===== Bible References: =====
 
-{{topic>promise&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{topic>promise&nocomments}}~~DISCUSSION~~{{tag>draft}}

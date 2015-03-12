@@ -38,4 +38,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:09:28|<<]] | [[:pt-br:bible:notes:luk:09:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish moses elijah}}
+~~DISCUSSION~~{{tag>draft moses elijah}}

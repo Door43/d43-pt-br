@@ -36,4 +36,4 @@
   * **[[:pt-br:bible:notes:rut:questions:comprehension:01|Ruth Chapter 01 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:01:19|<<]] | [[:pt-br:bible:notes:rut:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish grain moab harvest}}
+~~DISCUSSION~~{{tag>draft grain moab harvest}}

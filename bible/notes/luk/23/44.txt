@@ -41,4 +41,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:23|Luke Chapter 23 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:23:42|<<]] | [[:pt-br:bible:notes:luk:23:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish temple biblicaltime}}
+~~DISCUSSION~~{{tag>draft temple biblicaltime}}

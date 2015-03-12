@@ -50,4 +50,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:22|Luke Chapter 22 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:22:43|<<]] | [[:pt-br:bible:notes:luk:22:47|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>draft}}

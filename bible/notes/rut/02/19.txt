@@ -59,4 +59,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish kin redeem}}
+{{tag>draft kin redeem}}
+~~NOCACHE~~

@@ -52,4 +52,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:08:22|<<]] | [[:pt-br:bible:notes:luk:08:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish obey fear}}
+~~DISCUSSION~~{{tag>draft obey fear}}

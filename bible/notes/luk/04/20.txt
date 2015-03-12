@@ -52,4 +52,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:04:18|<<]] | [[:pt-br:bible:notes:luk:04:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish fulfill witness}}
+~~DISCUSSION~~{{tag>draft fulfill witness}}

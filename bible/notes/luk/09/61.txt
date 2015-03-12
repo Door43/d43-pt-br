@@ -41,4 +41,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:09:59|<<]] | [[:pt-br:bible:notes:luk:10:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>draft}}

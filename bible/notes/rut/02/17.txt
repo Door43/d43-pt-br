@@ -45,4 +45,4 @@
   * **[[:pt-br:bible:notes:rut:questions:comprehension:02|Ruth Chapter 02 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:02:15|<<]] | [[:pt-br:bible:notes:rut:02:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish glean grain biblicalmeasures}}
+~~DISCUSSION~~{{tag>draft glean grain biblicalmeasures}}

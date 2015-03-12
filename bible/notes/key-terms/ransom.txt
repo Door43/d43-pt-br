@@ -17,4 +17,4 @@ Ransom is a sum of money or other payment that is demanded or paid for the relea
 
 ~~NOCACHE~~
 
-{{tag>publish}}
+{{tag>draft}}

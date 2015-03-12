@@ -12,4 +12,4 @@
 (See also: [[:pt-br:bible:notes:key-terms:grain]], [[:pt-br:bible:notes:key-terms:harvest]])
 ===== Bible References: =====
 
-{{topic>glean&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{topic>glean&nocomments}}~~DISCUSSION~~{{tag>draft}}

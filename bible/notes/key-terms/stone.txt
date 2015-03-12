@@ -14,4 +14,4 @@ A stone is a small rock. Stoning means throwing stones at a person in order to k
 
 ~~NOCACHE~~
 
-{{tag>publish}}
+{{tag>draft}}

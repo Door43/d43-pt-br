@@ -33,8 +33,8 @@
     * [[:pt-br:bible:notes:key-terms:sin|sin]]
 ===== Translation Notes: =====
 
-  * **And he **- "John"
-  * **preaching a baptism of repentance**  - This could be translated as "preached that people should be baptized to show that they were turning away from their sins."
+  * **He traveled **- "John traveled"
+  * **preaching a baptism of repentance**  - This could be translated as "preached that people should be baptized to show that they were repenting of their sins."
   * **for the forgiveness of sins**  - "so that their sins would be forgiven" or "so that God would forgive their sins." The repentance was for the forgiveness of sins.
 
 ===== Links: =====
@@ -49,4 +49,5 @@
 ~~DISCUSSION~~
 
  
-{{tag>publish jordanriver baptize repent forgive sin}}
+{{tag>draft jordanriver baptize repent forgive sin}}
+~~NOCACHE~~

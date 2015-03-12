@@ -59,4 +59,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:24|Luke Chapter 24 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:24:30|<<]] | [[:pt-br:bible:notes:luk:24:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish raise}}
+~~DISCUSSION~~{{tag>draft raise}}

@@ -46,4 +46,4 @@
   * **[[:pt-br:bible:notes:tit:questions:comprehension:01|Titus Chapter 01 Comprehension Questions]]**
 **[[:pt-br:bible:notes:tit:01:04|<<]] | [[:pt-br:bible:notes:tit:01:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish elder faithful manager}}
+~~DISCUSSION~~{{tag>draft elder faithful manager}}

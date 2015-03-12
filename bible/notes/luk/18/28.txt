@@ -52,4 +52,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:18|Luke Chapter 18 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:18:26|<<]] | [[:pt-br:bible:notes:luk:18:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish eternallife}}
+~~DISCUSSION~~{{tag>draft eternallife}}

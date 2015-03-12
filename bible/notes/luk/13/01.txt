@@ -48,4 +48,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:13|Luke Chapter 13 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:12:57|<<]] | [[:pt-br:bible:notes:luk:13:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish galilee}}
+~~DISCUSSION~~{{tag>draft galilee}}

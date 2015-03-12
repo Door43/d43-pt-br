@@ -49,15 +49,14 @@
 
 ===== Important Terms: =====
 
-    * [[:pt-br:bible:notes:key-terms:mercy|merciful]]
-    * [[:pt-br:bible:notes:key-terms:ancestor|ancestor]]
-    * [[:pt-br:bible:notes:key-terms:holy|holy]]
-    * [[:pt-br:bible:notes:key-terms:covenant|covenant]]
-    * [[:pt-br:bible:notes:key-terms:promise|oath]]
-    * [[:pt-br:bible:notes:key-terms:serve|serve]]
-    * [[:pt-br:bible:notes:key-terms:fear|fear]]
-    * [[:pt-br:bible:notes:key-terms:righteous|righteous]]
-
+  * [[:pt-br:bible:notes:key-terms:mercy|merciful]]
+  * [[:pt-br:bible:notes:key-terms:ancestor|ancestor]]
+  * [[:pt-br:bible:notes:key-terms:holy|holy]]
+  * [[:pt-br:bible:notes:key-terms:covenant|covenant]]
+  * [[:pt-br:bible:notes:key-terms:promise|oath]]
+  * [[:pt-br:bible:notes:key-terms:serve|serve]]
+  * [[:pt-br:bible:notes:key-terms:fear|fear]]
+  * [[:pt-br:bible:notes:key-terms:righteous|righteous]]
 
 ===== Translation Notes: =====
 
@@ -80,4 +79,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish mercy covenant promise}}
+{{tag>draft mercy covenant promise}}
+
+~~NOCACHE~~

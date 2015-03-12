@@ -56,4 +56,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish Jericho}}
+{{tag>draft Jericho}}
+~~NOCACHE~~

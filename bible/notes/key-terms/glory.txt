@@ -21,6 +21,6 @@ Something or someone has glory when it is extremely good in some way.
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>draft}}
 
 ~~NOCACHE~~

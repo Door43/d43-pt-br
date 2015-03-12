@@ -32,23 +32,23 @@
 
   * [[:pt-br:bible:notes:key-terms:death|die]]
   * [[:pt-br:bible:notes:key-terms:life|live]]
-  * [[:pt-br:bible:notes:key-terms:Moab|Moab]]
+  * [[:pt-br:bible:notes:key-terms:moab|Moab]]
   * [[:pt-br:bible:notes:key-terms:name|name]]
-  * [[:pt-br:bible:notes:key-terms:Ruth|Ruth]]
+  * [[:pt-br:bible:notes:key-terms:ruth|Ruth]]
   * [[:pt-br:bible:notes:key-terms:son|son]]
 
 ===== Translation Notes: =====
 
-  * **she was left with her two sons** - "Naomi had only her two sons with her" (UDB)
+  * **she was left with her two sons**  - "Naomi had only her two sons with her" (UDB)
   * **took wives**  - "married"
-  * **of the women of Moab** - Naomi's sons married women that were from the tribe of Moab. They were foreigners who worshipped other gods.
-  * **the name of the one** - "the name of one of the women"
-  * **the name of the other** - "the name of the other woman"
-  * **ten years** - Ten years after Elimelek and Naomi came to Moab with their sons, Mahalon and Chilon died.
-  * **leaving Naomi** - Naomi was widowed. 
+  * **of the women of Moab**  - Naomi's sons married women who were from the tribe of Moab. The Moabites worshiped other gods.
+  * **the name of the one**  - "the name of one of the women"
+  * **the name of the other**  - "the name of the other woman"
+  * **ten years**  - Ten years after Elimelek and Naomi came to the country of Moab, their sons Mahalon and Chilon died.
+  * **leaving Naomi**  - Naomi was widowed.
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:rut:questions:comprehension:01|Ruth Chapter 01 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:01:01|<<]] | [[:pt-br:bible:notes:rut:01:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish ruth}}
+~~DISCUSSION~~{{tag>draft ruth}}

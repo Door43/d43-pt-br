@@ -15,4 +15,4 @@ A seed is the part of a plant that gets planted in the ground to reproduce more 
 
 ~~NOCACHE~~
 
-{{tag>publish}}
+{{tag>draft}}

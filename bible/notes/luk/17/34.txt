@@ -51,4 +51,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:17|Luke Chapter 17 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:17:32|<<]] | [[:pt-br:bible:notes:luk:18:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>draft}}

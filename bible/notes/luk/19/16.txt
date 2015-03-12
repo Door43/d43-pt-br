@@ -51,4 +51,4 @@
 ~~DISCUSSION~~
 
 ~~NOCACHE~~
-{{tag>publish authority faithful}}
+{{tag>draft authority faithful}}

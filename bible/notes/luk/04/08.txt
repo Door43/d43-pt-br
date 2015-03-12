@@ -51,4 +51,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish worship serve}}
+{{tag>draft worship serve}}
+~~NOCACHE~~

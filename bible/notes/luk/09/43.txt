@@ -59,4 +59,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:09:41|<<]] | [[:pt-br:bible:notes:luk:09:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish sonofman}}
+~~DISCUSSION~~{{tag>draft sonofman}}

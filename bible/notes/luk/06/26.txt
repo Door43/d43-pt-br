@@ -48,4 +48,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:06:24|<<]] | [[:pt-br:bible:notes:luk:06:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish woe}}
+~~DISCUSSION~~{{tag>draft woe}}

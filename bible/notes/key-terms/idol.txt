@@ -22,6 +22,6 @@ An idol is an object that people make so they can worship it.
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>draft}}
 
 ~~NOCACHE~~

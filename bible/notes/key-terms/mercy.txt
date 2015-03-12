@@ -12,4 +12,4 @@
 
 ===== Bible References: =====
 
-{{topic>mercy}}{{tag>publish}}
+{{topic>mercy}}{{tag>draft}}

@@ -16,4 +16,4 @@ The "last days" refers generally to the time period leading up to the time when 
 
 ~~NOCACHE~~
 
-{{tag>publish}}
+{{tag>draft}}

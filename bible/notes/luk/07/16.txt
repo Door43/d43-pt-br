@@ -49,4 +49,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:07:11|<<]] | [[:pt-br:bible:notes:luk:07:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish prophet fear report}}
+~~DISCUSSION~~{{tag>draft prophet fear report}}

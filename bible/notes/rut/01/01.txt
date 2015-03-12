@@ -33,7 +33,6 @@
   * [[:pt-br:bible:notes:key-terms:ephrathite|Ephrathite]]
   * [[:pt-br:bible:notes:key-terms:judah|Judah]]
   * [[:pt-br:bible:notes:key-terms:judgeposition|judge]]
-  * [[:pt-br:bible:notes:key-terms:judah|Judah]]
   * [[:pt-br:bible:notes:key-terms:moab|Moab]]
   * [[:pt-br:bible:notes:key-terms:name|name]]
 
@@ -41,7 +40,7 @@
 
   * **It happened**  - "It was" or "This is what happened." This is a common way of beginning a historical story.
   * **in the days when the judges ruled**  - "during the time when judges led and governed Israel"
-  * **in the land**  - "in the land of Israel". (See: [[:en:ta:vocabulary:implicitexplicit|Explicit and Implicit Information]])
+  * **in the land**  - "in the land of Israel". (See: [[en:ta:discourse:implicitexplicit]])
   * **a certain man**  - "a man." This is a common way of introducing a character into a story.
   * **Ephrathites of Bethlehem of Judea**  - They were from the tribe of Ephraim who settled at Bethlehem in the region of Judea.
 ===== Links: =====
@@ -49,4 +48,4 @@
   * **[[:pt-br:bible:notes:rut:questions:comprehension:01|Ruth Chapter 01 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish judgeposition bethlehem judah moab ephrathite}}
+~~DISCUSSION~~{{tag>draft judgeposition bethlehem judah moab ephrathite name }}

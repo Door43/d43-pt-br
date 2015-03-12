@@ -44,4 +44,4 @@
   * **[[:pt-br:bible:notes:rut:questions:comprehension:03|Ruth Chapter 03 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:03:12|<<]] | [[:pt-br:bible:notes:rut:03:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish threshingfloor}}
+~~DISCUSSION~~{{tag>draft threshingfloor}}

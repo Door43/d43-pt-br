@@ -40,4 +40,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:18|Luke Chapter 18 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:18:18|<<]] | [[:pt-br:bible:notes:luk:18:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>draft}}

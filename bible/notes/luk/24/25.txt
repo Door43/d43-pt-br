@@ -54,4 +54,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:24|Luke Chapter 24 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:24:22|<<]] | [[:pt-br:bible:notes:luk:24:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish wordofgod}}
+~~DISCUSSION~~{{tag>draft wordofgod}}

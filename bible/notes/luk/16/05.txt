@@ -53,4 +53,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish manager}}
+{{tag>draft manager}}
+~~NOCACHE~~

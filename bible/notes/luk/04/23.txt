@@ -50,4 +50,5 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish prophet}}
+{{tag>draft prophet}}
+~~NOCACHE~~

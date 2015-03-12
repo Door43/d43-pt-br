@@ -21,6 +21,6 @@ A kingdom is a group of people ruled by a king.
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>draft}}
 
 ~~NOCACHE~~

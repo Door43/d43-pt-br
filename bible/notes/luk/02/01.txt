@@ -32,11 +32,10 @@
 
 ===== Important Terms: =====
 
-  * [[pt-br:bible:notes:key-terms:caesar|Caesar]]
-  * [[pt-br:bible:notes:key-terms:rome|Rome]]
-  * [[pt-br:bible:notes:key-terms:governor|governor]]
-  * [[pt-br:bible:notes:key-terms:syria|Syria]]
-
+  * [[:pt-br:bible:notes:key-terms:caesar|Caesar]]
+  * [[:pt-br:bible:notes:key-terms:rome|Roman]]
+  * [[:pt-br:bible:notes:key-terms:governor|governor]]
+  * [[:pt-br:bible:notes:key-terms:syria|Syria]]
 
 ===== Translation Notes: =====
 
@@ -63,4 +62,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish caesar rome}}
+{{tag>draft caesar rome}}
+
+~~NOCACHE~~

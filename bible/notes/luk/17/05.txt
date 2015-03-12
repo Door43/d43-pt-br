@@ -47,4 +47,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:17|Luke Chapter 17 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:17:03|<<]] | [[:pt-br:bible:notes:luk:17:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish faith}}
+~~DISCUSSION~~{{tag>draft faith}}

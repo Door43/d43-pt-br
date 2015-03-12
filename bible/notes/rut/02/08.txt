@@ -44,4 +44,4 @@
   * **[[:pt-br:bible:notes:rut:questions:comprehension:02|Ruth Chapter 02 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:02:05|<<]] | [[:pt-br:bible:notes:rut:02:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish glean}}
+~~DISCUSSION~~{{tag>draft glean}}

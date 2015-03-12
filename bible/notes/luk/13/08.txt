@@ -54,4 +54,5 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish fruit}}
+{{tag>draft fruit}}
+~~NOCACHE~~

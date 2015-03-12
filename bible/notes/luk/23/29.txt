@@ -54,4 +54,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:23|Luke Chapter 23 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:23:27|<<]] | [[:pt-br:bible:notes:luk:23:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>draft}}

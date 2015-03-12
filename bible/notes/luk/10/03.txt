@@ -46,4 +46,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:10|Luke Chapter 10 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:10:01|<<]] | [[:pt-br:bible:notes:luk:10:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish lamb}}
+~~DISCUSSION~~{{tag>draft lamb}}

@@ -49,4 +49,4 @@
   * **[[:pt-br:bible:notes:rut:questions:comprehension:04|Ruth Chapter 04 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:04:11|<<]] | [[:pt-br:bible:notes:rut:04:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>draft}}

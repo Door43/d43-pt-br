@@ -42,4 +42,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:24|Luke Chapter 24 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:24:38|<<]] | [[:pt-br:bible:notes:luk:24:44|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>draft}}

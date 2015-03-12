@@ -54,4 +54,4 @@ A. It is thrown away [14:35].
 
 **[[:pt-br:bible:notes:luk:questions:comprehension:13|<<]] | [[:pt-br:bible:notes:luk:questions:comprehension:15| >>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>draft}}

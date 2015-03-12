@@ -21,6 +21,6 @@ A king is the ruler of an independent city, state, or country.
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>draft}}
 
 ~~NOCACHE~~

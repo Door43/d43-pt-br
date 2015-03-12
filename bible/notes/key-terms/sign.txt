@@ -17,4 +17,4 @@ A sign is an object or event or action that is meant to communicate some meaning
 
 ===== Bible References: =====
 
-{{topic>sign&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{topic>sign&nocomments}}~~DISCUSSION~~{{tag>draft}}

@@ -44,4 +44,4 @@
   * **[[:pt-br:bible:notes:rut:questions:comprehension:01|Ruth Chapter 01 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:01:14|<<]] | [[:pt-br:bible:notes:rut:01:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish peoplegroup}}
+~~DISCUSSION~~{{tag>draft peoplegroup}}

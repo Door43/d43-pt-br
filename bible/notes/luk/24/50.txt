@@ -47,4 +47,4 @@
 
 ~~NOCACHE~~
 
-{{tag>publish bethany}}
+{{tag>draft bethany}}

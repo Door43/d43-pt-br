@@ -58,4 +58,6 @@
 
 ~~DISCUSSION~~
 
-{{tag>publish nazareth synagogue scroll isaiah}}
+{{tag>draft nazareth synagogue scroll isaiah}}
+
+~~NOCACHE~~

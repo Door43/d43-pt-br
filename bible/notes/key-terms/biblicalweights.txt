@@ -22,6 +22,6 @@ How to translate Biblical units for measuring weights:
 
 {{topic>biblicalweights&nocomments}}
 ~~DISCUSSION~~
-{{tag>publish}}
+{{tag>draft}}
 
 ~~NOCACHE~~

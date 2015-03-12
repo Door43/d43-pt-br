@@ -51,4 +51,4 @@
   * **[[:pt-br:bible:notes:luk:questions:comprehension:17|Luke Chapter 17 Comprehension Questions]]**
 **[[:pt-br:bible:notes:luk:17:07|<<]] | [[:pt-br:bible:notes:luk:17:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish servant}}
+~~DISCUSSION~~{{tag>draft servant}}

@@ -14,4 +14,4 @@ A council is a group of people who are called together to discuss, give advice, 
 
 ~~NOCACHE~~
 
-{{topic>council&nocomments}}~~DISCUSSION~~{{tag>publish}}
+{{topic>council&nocomments}}~~DISCUSSION~~{{tag>draft}}

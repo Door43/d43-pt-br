@@ -58,4 +58,6 @@
 ~~DISCUSSION~~
 
 
-{{tag>publish parable disciple teacher}}
+{{tag>draft parable disciple teacher}}
+
+~~NOCACHE~~
