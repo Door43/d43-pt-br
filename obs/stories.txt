@@ -38,7 +38,7 @@
   - [[:pt-br:obs:36|A Transfiguração]]
   - [[:pt-br:obs:37|Jesus Ressuscita Lázaro]]
   - [[:pt-br:obs:38|Jesus é Traído]]
-  - [[:pt-br:obs:39|Jesus é Levado a Julgamento]]
+  - [[:pt-br:obs:39|Jesus é Julgado]]
   - [[:pt-br:obs:40|Jesus é Crucificado]]
   - [[:pt-br:obs:41|Jesus Ressuscita dos Mortos]]
   - [[:pt-br:obs:42|Jesus Retorna ao Céu]]
@@ -47,7 +47,7 @@
   - [[:pt-br:obs:45|A Morte de Estevão & Felipe e o Oficial Etíope]]
   - [[:pt-br:obs:46|A Conversão de Paulo]]
   - [[:pt-br:obs:47|Paulo e Silas em Filipos]]
-  - [[:pt-br:obs:48|Jesus É O Messias Prometido]]
+  - [[:pt-br:obs:48|Jesus é O Messias Prometido]]
   - [[:pt-br:obs:49|O Novo Pacto com Deus]]
   - [[:pt-br:obs:50|A Volta de Jesus]]
 
