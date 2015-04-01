@@ -1,1 +1,1 @@
-<nspages pt-br:obs:notes:frames -exclude:home -nbCol=5 -textPages="List all OBS Notes Pages:">
+<nspages pt-br:obs:notes:frames -exclude:home -nbCol=5 -textPages="List all OBS Brazilian Portugues Notes Pages:">
