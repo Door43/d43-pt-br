@@ -1,1 +1,1 @@
-<nspages pt-br:obs:notes:frames  -exclude:home -nbCol=3 -textPages="List all OBS Notes Pages:">
+<nspages pt-br:obs:notes:frames -exclude:home -nbCol=3 -textPages="List all OBS Notes Pages:">
