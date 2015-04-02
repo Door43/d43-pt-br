@@ -1,1 +1,5 @@
 <nspages pt-br:obs:notes:questions -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Brazilian Portugues Questions Pages:"​>
+
+<nspages pt-br:obs:notes:key-terms -title -exclude:home -nbCol=3 -textPages="List all Important Words Pages:">
+
+<nspages pt-br:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS Brazilian Portugues Notes Pages:"​>
