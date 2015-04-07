@@ -1,1 +1,3 @@
-<nspages pt-br:bible:notes:key-terms -title -exclude:home -textPages="List of all OBS Brazilian Portuguese Bible Books:">
+<nspages pt-br:bible:notes:luk:01 -title -exclude:home -textPages=" Brazilian Portuguese Luke:">
+
+<nspages pt-br:bible:notes:key-terms -title -exclude:home -textPages=" Brazilian Portuguese Bible Important Words:">
