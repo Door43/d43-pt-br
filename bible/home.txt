@@ -1,9 +1,9 @@
-<nspages pt-br:bible:notes:luk:01 -title -exclude:home -textPages=" Brazilian Portuguese Luke chapter 1:">
+<nspages pt-br:bible:notes:luk:01 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 1:">
 
-<nspages pt-br:bible:notes:luk:02 -title -exclude:home -textPages=" Brazilian Portuguese Luke chapter 2:">
+<nspages pt-br:bible:notes:luk:02 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 2:">
 
-<nspages pt-br:bible:notes:luk:03 -title -exclude:home -textPages=" Brazilian Portuguese Luke chapter 3:">
+<nspages pt-br:bible:notes:luk:03 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 3:">
 
-<nspages pt-br:bible:notes:luk:04 -title -exclude:home -textPages=" Brazilian Portuguese Luke chapter 4:">
+<nspages pt-br:bible:notes:luk:04 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 4:">
 
 <nspages pt-br:bible:notes:key-terms -title -exclude:home -textPages=" Brazilian Portuguese Bible Important Words:">
