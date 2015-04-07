@@ -30,7 +30,6 @@
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:bethlehem|Bethlehem]]
-  * [[:pt-br:bible:notes:key-terms:ephrathite|Ephrathite]]
   * [[:pt-br:bible:notes:key-terms:judah|Judah]]
   * [[:pt-br:bible:notes:key-terms:judgeposition|judge]]
   * [[:pt-br:bible:notes:key-terms:moab|Moab]]
@@ -48,4 +47,4 @@
   * **[[:pt-br:bible:notes:rut:questions:comprehension:01|Ruth Chapter 01 Comprehension Questions]]**
 **[[:pt-br:bible:notes:rut:01:03|>>]]**
 
-~~DISCUSSION~~{{tag>draft judgeposition bethlehem judah moab ephrathite name }}
+~~DISCUSSION~~{{tag>draft judgeposition bethlehem judah moab name }}
