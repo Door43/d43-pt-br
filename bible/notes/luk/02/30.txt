@@ -1,65 +1,45 @@
 ====== Luke 02:30-32 ======
 
-
 ===== TFT: =====
 
 <usfm>
 
 </usfm>
 
-
 ===== UDB: =====
 
-<usfm>
-\v 30 I have seen the one whom you sent to save people from their sins,
-\q1
-\v 31 Whom you prepared in the midst of all the peoples.
-\q1
-\v 32 He will be like a light that will reveal your truth to the Gentiles, and he will bring honor to the Israelite people. 
+<usfm> \v 30 I have seen the one whom you sent to save people from their sins, \q1 \v 31 Whom you prepared in the midst of all the peoples. \q1 \v 32 He will be like a light that will reveal your truth to the Gentiles, and he will bring honor to the Israelite people.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q1 \v 30 For my eyes have seen your salvation,  
-\q1 \v 31 which you have prepared in the sight of all peoples. 
-\q1 \v 32 He will be a light for revealing truth to the Gentiles and will be the glory of your people Israel."
-</usfm>
+<usfm> \q1 \v 30 For my eyes have seen your salvation, \q1 \v 31 which you have prepared in the sight of all peoples. \q1 \v 32 He will be a light for revealing truth to the Gentiles and will be the glory of your people Israel." </usfm>
 
+**30** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Meus olhos virão sua salvação,</font> **31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>o qual você preparou como sinal para todas as pessoas.</font> **32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele será luz que revelará a verdade aos Gentios e será a glória do povo de Israel.</font>
 
 ===== Important Terms: =====
 
-    * [[:pt-br:bible:notes:key-terms:salvation|salvation]]
-    * [[:pt-br:bible:notes:key-terms:true|truth]]
-    * [[:pt-br:bible:notes:key-terms:gentile|Gentiles]]
-    * [[:pt-br:bible:notes:key-terms:glory|glory]]
-    * [[:pt-br:bible:notes:key-terms:israel|Israel]]
-
+  * [[:pt-br:bible:notes:key-terms:salvation|salvation]]
+  * [[:pt-br:bible:notes:key-terms:true|truth]]
+  * [[:pt-br:bible:notes:key-terms:gentile|Gentiles]]
+  * [[:pt-br:bible:notes:key-terms:glory|glory]]
+  * [[:pt-br:bible:notes:key-terms:israel|Israel]]
 
 ===== Translation Notes: =====
 
-
-    * **your salvation** - This refers to Jesus, the one through whom God would save people. (See: [[en:ta:figuresofspeech:metonymy]])
-    * **have prepared** - "have planned" or "caused to happen"
-    * **in the sight of all peoples** - "for all people groups to see"
-    * **He will be** - This refers to the one who will provide salvation.
-    * **light for revealing truth**  - This could be translated as "this child will enable people to perceive accurately the truth of God, as light allows people to see accurately." (See: [[en:ta:figuresofspeech:metaphor]])
-    * **will be the glory of your people Israel** - This could be translated as "he will be the reason that glory will come to your people Israel."
+  * **your salvation**  - This refers to Jesus, the one through whom God would save people. (See: [[:en:ta:figuresofspeech:metonymy|Metonymy]])
+  * **have prepared**  - "have planned" or "caused to happen"
+  * **in the sight of all peoples**  - "for all people groups to see"
+  * **He will be**  - This refers to the one who will provide salvation.
+  * **light for revealing truth**  - This could be translated as "this child will enable people to perceive accurately the truth of God, as light allows people to see accurately." (See: [[:en:ta:figuresofspeech:metaphor|Metaphor]])
+  * **will be the glory of your people Israel**  - This could be translated as "he will be the reason that glory will come to your people Israel."
 ===== Links: =====
 
-  * [[pt-br/bible/notes:luk/questions/comprehension/02|Luke Chapter 2 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:02:27|<<]] | [[:pt-br:bible:notes:luk:02:33|>>]]**
 
+~~DISCUSSION~~{{tag>draft salvation gentile glory}}
 
-**[[pt-br/bible/notes:luk/02/27|<<]] | [[pt-br/bible/notes:luk/02/33|>>]]** 
-
-
-~~DISCUSSION~~
-
- 
-{{tag>draft salvation gentile glory}}
 ~~NOCACHE~~
