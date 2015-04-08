@@ -1,41 +1,31 @@
 ====== Luke 02:4-5 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 4 So, because Joseph was a descendant of \add King\add* David, he went up from Nazareth, the town in Galilee \add district where he lived\add*, to Bethlehem town in Judea \add district\add*. That was the town where \add King\add* David \add grew up\add*.
-\v 5 Joseph went with Mary, who \add was considered\add* \f + \ft Or:whom \add people considered\add* \f* \add to be\add* his wife, who was now pregnant. They went so that they could put his name and Mary's name \add in the record book\add*.
-</usfm>   
-
+<usfm> \v 4 So, because Joseph was a descendant of \add King\add* David, he went up from Nazareth, the town in Galilee \add district where he lived\add*, to Bethlehem town in Judea \add district\add*. That was the town where \add King\add* David \add grew up\add*. \v 5 Joseph went with Mary, who \add was considered\add* \f + \ft Or:whom \add people considered\add* \f* \add to be\add* his wife, who was now pregnant. They went so that they could put his name and Mary's name \add in the record book\add*. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 4-5 Joseph also traveled to his family's hometown, along with Mary who was engaged to him and was pregnant. Because Joseph was a descendant of King David, they left the town of Nazareth in the region of Galilee and traveled to the region of Judea, to the town of Bethlehem, which is also known as the city of David. Joseph and Mary went there to be registered in the public record.
-</usfm>
-
+<usfm> \v 4-5 Joseph also traveled to his family's hometown, along with Mary who was engaged to him and was pregnant. Because Joseph was a descendant of King David, they left the town of Nazareth in the region of Galilee and traveled to the region of Judea, to the town of Bethlehem, which is also known as the city of David. Joseph and Mary went there to be registered in the public record. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 4 Joseph also departed from the city of Nazareth in Galilee and traveled to the Judean town of Bethlehem, which is known as the city of David, because he was a descendant from the family of David.  
-\v 5 He went there to register along with Mary, who was engaged to him and was expecting a child.
-</usfm>
+<usfm> \v 4 Joseph also departed from the city of Nazareth in Galilee and traveled to the Judean town of Bethlehem, which is known as the city of David, because he was a descendant from the family of David. \v 5 He went there to register along with Mary, who was engaged to him and was expecting a child. </usfm>
 
+**4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>José partiu de Nazaré, na Galileia, até Belém, na Judeia, conhecida como Cidade de Davi, pois ele era descendente do Rei Davi.</font> **5** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>José foi com sua noiva Maria para se registrarem, ela estava grávida.</font>
 
 ===== Important Terms: =====
 
+  * [[:pt-br:bible:notes:key-terms:josephnt|Joseph]]
+  * [[:pt-br:bible:notes:key-terms:nazareth|Nazareth]]
+  * [[:pt-br:bible:notes:key-terms:galilee|Galilee]]
+  * [[:pt-br:bible:notes:key-terms:judea|Judean]]
+  * [[:pt-br:bible:notes:key-terms:bethlehem|Bethlehem]]
+  * [[:pt-br:bible:notes:key-terms:cityofdavid|city of David]]
+  * [[:pt-br:bible:notes:key-terms:descendant|descendant]]
+  * [[:pt-br:bible:notes:key-terms:david|David]]
+  * [[:pt-br:bible:notes:key-terms:mary|Mary]]
 
-    * [[:pt-br:bible:notes:key-terms:josephnt|Joseph]]
-    * [[:pt-br:bible:notes:key-terms:nazareth|Nazareth]]
-    * [[:pt-br:bible:notes:key-terms:galilee|Galilee]]
-    * [[:pt-br:bible:notes:key-terms:judea|Judean]]
-    * [[:pt-br:bible:notes:key-terms:bethlehem|Bethlehem]]
-    * [[:pt-br:bible:notes:key-terms:cityofdavid|city of David]]
-    * [[:pt-br:bible:notes:key-terms:descendant|descendant]]
-    * [[:pt-br:bible:notes:key-terms:david|David]]
-    * [[:pt-br:bible:notes:key-terms:mary|Mary]]
 ===== Translation Notes: =====
 
   * **traveled to the Judean town of Bethlehem**  - This could be translated as "went up to the town of Bethlehem in Judea." Bethlehem was higher in elevation than Nazareth.
@@ -43,7 +33,6 @@
   * **to register**  - This could be translated as "to have his name written in the register" or "to be included in the count."
   * **along with Mary**  - Mary traveled with Joseph from Nazareth. It is likely that women were also taxed, so Mary would have needed to travel and be registered as well.
   * **who was engaged to him**  - This could be translated as "his fiancée" or "who was promised to him." An engaged couple was considered legally married, but there would not have been physical intimacy between them.
-
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
