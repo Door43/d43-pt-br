@@ -1,38 +1,22 @@
 ====== Luke 02:22-24 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 22-23 It had been written by Moses \f + \ft Or:Moses had written \f* \add long ago\add* in a law that God gave him, that when a woman gave birth to her first son, the parents had to take him \add to the Temple\add* in Jerusalem in order that they might dedicate him to the Lord\f + \ft Or: to God \f*. So when the time came for them to do those rituals so that \add God would consider\add* them pure again, Mary and Joseph took Jesus there.
-\v 24 God had commanded in his laws that if the first child \add of a couple\add* was a boy, his parents should offer as a sacrifice to God two turtledoves or two young pigeons. \add So Joseph and Mary gave the priest two birds so he could offer them\add*.
+<usfm> \v 22-23 It had been written by Moses \f + \ft Or:Moses had written \f* \add long ago\add* in a law that God gave him, that when a woman gave birth to her first son, the parents had to take him \add to the Temple\add* in Jerusalem in order that they might dedicate him to the Lord\f + \ft Or: to God \f*. So when the time came for them to do those rituals so that \add God would consider\add* them pure again, Mary and Joseph took Jesus there. \v 24 God had commanded in his laws that if the first child \add of a couple\add* was a boy, his parents should offer as a sacrifice to God two turtledoves or two young pigeons. \add So Joseph and Mary gave the priest two birds so he could offer them\add*.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 22 When the required number of days for their purification had gone by, according to the law of Moses, Mary and Joseph traveled up to Jerusalem to dedicate their son to the Lord.
-\v 23 It had been written in the law of the Lord, "Every male offspring that is the first to be born will be set apart to be holy to the Lord."
-\v 24 The law of the Lord also said the parents of a newborn son must offer as a sacrifice, "Two turtledoves or two young pigeons." 
+<usfm> \v 22 When the required number of days for their purification had gone by, according to the law of Moses, Mary and Joseph traveled up to Jerusalem to dedicate their son to the Lord. \v 23 It had been written in the law of the Lord, "Every male offspring that is the first to be born will be set apart to be holy to the Lord." \v 24 The law of the Lord also said the parents of a newborn son must offer as a sacrifice, "Two turtledoves or two young pigeons."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p 
-\v 22 When the required number of days for their purification had passed, according to the law of Moses, Joseph and Mary brought their infant son up to the temple in Jerusalem to present him to the Lord.  
-\v 23 As it is written in the law of the Lord, "Every male that opens the womb will be called holy to the Lord."  
-\v 24 They also came to offer a sacrifice according to that which is said in the law of the Lord, "a pair of turtledoves or two young pigeons."
-</usfm>
+<usfm> \p \v 22 When the required number of days for their purification had passed, according to the law of Moses, Joseph and Mary brought their infant son up to the temple in Jerusalem to present him to the Lord. \v 23 As it is written in the law of the Lord, "Every male that opens the womb will be called holy to the Lord." \v 24 They also came to offer a sacrifice according to that which is said in the law of the Lord, "a pair of turtledoves or two young pigeons." </usfm>
 
+**22** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>Quando o número de dias requeridos para a purificação deles se passaram, de acodo com a lei de Moisés, José e Maria levaram o bebê até o templo em Jerusalém para apresentá-lo ao Senhor.</font> **23** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>Pois estava escrito na lei do Senhor “Todo menino nascido primogênito deve ser santificado ao Senhor”.</font> **24** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>De acordo a lei do Senhor, eles também deviam ofertar “duas rolas ou dois pombos” como sacrifício.</font>
 
 ===== Important Terms: =====
 
@@ -48,6 +32,7 @@
   * [[:pt-br:bible:notes:key-terms:offer|offer]]
   * [[:pt-br:bible:notes:key-terms:holy|holy]]
   * [[:pt-br:bible:notes:key-terms:sacrifice|sacrifice]]
+
 ===== Translation Notes: =====
 
   * **the required number of days**  - This could be translated as "the number of days that God required."
@@ -57,18 +42,12 @@
   * **male that opens the womb**  - This is an idiom for "firstborn offspring that is a male." The law was about the firstborn offspring of both people and domestic animals, but in this context it could be translated as "firstborn son." (See: [[:en:ta:figuresofspeech:idiom|Idiom]])
   * **turtledoves**  - These are common birds that eat seeds and often live in open areas. They are small enough to be held in two hands, and people would eat them.
   * **young pigeons**  - These are birds that eat seeds and often live in hilly or mountain areas. They are small enough to be held in two hands, and people would eat them.
-
 ===== Links: =====
 
-  * [[pt-br/bible/notes:luk/questions/comprehension/02|Luke Chapter 2 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:02:21|<<]] | [[:pt-br:bible:notes:luk:02:25|>>]]**
 
+~~DISCUSSION~~{{tag>draft purify written offer lawofmoses sacrifice}}
 
-**[[pt-br/bible/notes:luk/02/21|<<]] | [[pt-br/bible/notes:luk/02/25|>>]]** 
-
-
-~~DISCUSSION~~
-
- 
-{{tag>draft purify written offer lawofmoses sacrifice}}
 ~~NOCACHE~~
