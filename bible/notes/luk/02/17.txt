@@ -16,6 +16,8 @@
 
 <usfm> \v 17 After they had seen this, they made known to people what had been said to them about this child. \v 18 All who heard it were amazed at what was spoken to them by the shepherds. \v 19 But Mary kept thinking about all the things she had heard, treasuring them in her heart. \v 20 The shepherds returned, glorifying and praising God for everything that they had heard and seen, just as it had been spoken to them. </usfm>
 
+**17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Após verem isto, eles contaram as pessoas o que foi dito a eles sobre o bebê.</font> **18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Todos que se encontraram com os pastores ficaram maravilhados com o que ouviam. Mas Maria não parava de pensar no que o anjo tinha dito a ela, e guardava isto em seu coração.</font> ** 20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os pastores retornaram ao campo, glorificando e louvando a Deus, pois tudo o que ouviram e viram era exatamente como o anjo lhes falou.</font>
+
 .
 
 ===== Important Terms: =====
