@@ -2,28 +2,21 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 6-7 When they arrived \add in Bethlehem\add*, there was no place for them to stay in the house where travelers stay. \add So they stayed in a cattle shed\add*. When the time for Mary to give birth arrived, she gave birth to her first son there. She wrapped him in strips of cloth and placed him in a trough where \add people\add* put food for the animals.
+<usfm> \v 6-7 When they arrived \add in Bethlehem\add*, there was no place for them to stay in the house where travelers stay. \add So they stayed in a cattle shed\add*. When the time for Mary to give birth arrived, she gave birth to her first son there. She wrapped him in strips of cloth and placed him in a trough where \add people\add* put food for the animals.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 6-7 When they arrived in Bethlehem, there was no place for them to stay in a place where visitors usually stayed. So they had to stay in a place where slept overnight. While they were there the time came for Mary to give birth and she gave birth to her first child, a son. She wrapped him in wide strips of cloth and placed him in an animal feeding trough as a bed for him.
+<usfm> \v 6-7 When they arrived in Bethlehem, there was no place for them to stay in a place where visitors usually stayed. So they had to stay in a place where slept overnight. While they were there the time came for Mary to give birth and she gave birth to her first child, a son. She wrapped him in wide strips of cloth and placed him in an animal feeding trough as a bed for him.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 6 Now it came about that while they were there, the time came for her to deliver her baby.  
-\v 7 She gave birth to a son, her firstborn child, and she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough, because there was no room for them in a guest room.
-</usfm>
+<usfm> \v 6 Now it came about that while they were there, the time came for her to deliver her baby. \v 7 She gave birth to a son, her firstborn child, and she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough, because there was no room for them in a guest room. </usfm>
+
+**6** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando chegaram a Belém não havia uma hospedaria onde pudessem passassem a noite, por isto, eles se abrigaram em uma estrebaria.</font> **7** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então chegou o momento em que Maria devia dar a luz, lá nasceu o seu primeiro filho. Ela o envolveu com panos e usou uma manjedoura para o acolher.</font>
 
 ===== Important Terms: =====
 
@@ -38,7 +31,7 @@
   * **an animal feeding trough**  - This was some kind of box or frame that people put hay or other food in for animals to eat. It was most likely clean and may have had something soft and dry like hay in it as a cushion for the baby. Animals were often kept near the home to keep them secure and to feed them easily. Apparently Mary and Joseph stayed in a room that was used for animals.
   * **guest room**  - This is a separate area for guests or travelers.
   * **there was no room for them in a guest room**  - "there was no space in the guest room for them to stay." This was probably because so many people went to Bethlehem to register.
-  * **because there was no room**  - If it is not clear why Mary put her son in a feeding trough, you could explicitly state the implied information about them staying in a room for animals, and you could change the order of the information in verse 7. "There was no room for them in a guest room, so they stayed in a room for animals. When she gave birth to a son, her firstborn child, she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough." (See: [[en:ta:discourse:implicitexplicit]])
+  * **because there was no room**  - If it is not clear why Mary put her son in a feeding trough, you could explicitly state the implied information about them staying in a room for animals, and you could change the order of the information in verse 7. "There was no room for them in a guest room, so they stayed in a room for animals. When she gave birth to a son, her firstborn child, she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough." (See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
