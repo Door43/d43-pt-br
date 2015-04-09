@@ -1,64 +1,42 @@
 ====== Luke 02:33-35 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 33 His parents marveled about what \add Simeon\add* said about \add Jesus\add*. Then Simeon blessed them, and said to Mary,
-\v 34 "Note what I say: \add God\add* has determined that because of this child, many Israelite people will \add turn away from God\add*, and many others will turn to God \f + \ft metaphor \f*. Although he will be like a sign \f + \ft metaphor \f* \add to warn people\add*, \add many\add* people will oppose him.
-\v 35 As a result, the \add evil\add* thoughts of many people will be made evident \f + \ft Or:he will reveal the \add evil\add* thoughts of many people \f*. \add Furthermore, the cruel things that they will do to him\add* \f + \ft metaphor \f* \add will be like\add* a sword that will pierce your soul\f + \ft Or: inner being \f*."
+<usfm> \v 33 His parents marveled about what \add Simeon\add* said about \add Jesus\add*. Then Simeon blessed them, and said to Mary, \v 34 "Note what I say: \add God\add* has determined that because of this child, many Israelite people will \add turn away from God\add*, and many others will turn to God \f + \ft metaphor \f*. Although he will be like a sign \f + \ft metaphor \f* \add to warn people\add*, \add many\add* people will oppose him. \v 35 As a result, the \add evil\add* thoughts of many people will be made evident \f + \ft Or:he will reveal the \add evil\add* thoughts of many people \f*. \add Furthermore, the cruel things that they will do to him\add* \f + \ft metaphor \f* \add will be like\add* a sword that will pierce your soul\f + \ft Or: inner being \f*."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 33 Jesus' father and mother were very amazed at what Simeon said about him. Then Simeon blessed them, and said to Jesus' mother, Mary,
-\v 34 "Note what I say: God has determined that because of this child, many Israelite people will turn away from God, and many others will turn to God. He will be like a sign to warn people, and many people will oppose him.
-\v 35 As a result, the thoughts of many people will be made evident. A sword will also pierce your own soul."
+<usfm> \v 33 Jesus' father and mother were very amazed at what Simeon said about him. Then Simeon blessed them, and said to Jesus' mother, Mary, \v 34 "Note what I say: God has determined that because of this child, many Israelite people will turn away from God, and many others will turn to God. He will be like a sign to warn people, and many people will oppose him. \v 35 As a result, the thoughts of many people will be made evident. A sword will also pierce your own soul."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p 
-\v 33 The child's father and mother were amazed at the things which were spoken concerning him.  
-\v 34 Then Simeon blessed them and said to Mary his mother, "Listen carefully! This child is destined for the falling and rising of many people in Israel and for a sign which is spoken against. 
-\v 35 Also, a sword will pierce your own soul, so that the thoughts from many hearts may be revealed."
-</usfm>
+<usfm> \p \v 33 The child's father and mother were amazed at the things which were spoken concerning him. \v 34 Then Simeon blessed them and said to Mary his mother, "Listen carefully! This child is destined for the falling and rising of many people in Israel and for a sign which is spoken against. \v 35 Also, a sword will pierce your own soul, so that the thoughts from many hearts may be revealed." </usfm>
 
+**33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os pais do bebê estavam maravilhados com tudo que ouviram sobre ele.</font> **34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Simeão os abençoou e disse a Maria “Ouça com cuidado! Este bebê esta destinado pela queda e levantar de muitas pessoas em Israel. Ele será como um sinal para alertar as pessoas, e muitos vão se opor a Ele.</font> **35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Uma espada transpassará a sua alma, e o pensamento de muitos corações será revelado.</font>
 
 ===== Important Terms: =====
 
+  * [[:pt-br:bible:notes:key-terms:bless|bless]]
+  * [[:pt-br:bible:notes:key-terms:israel|Israel]]
+  * [[:pt-br:bible:notes:key-terms:sign|sign]]
+  * [[:pt-br:bible:notes:key-terms:heart|heart]]
+  * [[:pt-br:bible:notes:key-terms:soul|soul]]
 
-    * [[:pt-br:bible:notes:key-terms:bless|bless]]
-    * [[:pt-br:bible:notes:key-terms:israel|Israel]]
-    * [[:pt-br:bible:notes:key-terms:sign|sign]]
-    * [[:pt-br:bible:notes:key-terms:heart|heart]]
-    * [[:pt-br:bible:notes:key-terms:soul|soul]]
 ===== Translation Notes: =====
 
-    * **destined for the falling and rising of many people in Israel** - This could be translated as "destined to cause many people in Israel to fall away from God or to rise closer to God." In this metaphor the ideas of turning away from God and drawing closer to God are expressed as "rising" and "falling". This could be translated as "God has planned for him to cause some people in Israel to turn away from God and for other people in Israel to go closer to God." (See: [[en:ta:figuresofspeech:metaphor]])
-    * **a sword will pierce your own soul** - This a metaphor describing the deep sadness that Mary will feel. It could be translated as "You will grieve deeply" or "Your sadness will be painful like a sword piercing your heart" or "Your heart will break." (See: [[en:ta:figuresofspeech:metaphor]])
-    * **the thoughts from many hearts may be revealed** - This could be translated as "the thoughts of many people will be revealed" or "it will be made known what many people truly think about God."
+  * **destined for the falling and rising of many people in Israel**  - This could be translated as "destined to cause many people in Israel to fall away from God or to rise closer to God." In this metaphor the ideas of turning away from God and drawing closer to God are expressed as "rising" and "falling". This could be translated as "God has planned for him to cause some people in Israel to turn away from God and for other people in Israel to go closer to God." (See: [[:en:ta:figuresofspeech:metaphor|Metaphor]])
+  * **a sword will pierce your own soul**  - This a metaphor describing the deep sadness that Mary will feel. It could be translated as "You will grieve deeply" or "Your sadness will be painful like a sword piercing your heart" or "Your heart will break." (See: [[:en:ta:figuresofspeech:metaphor|Metaphor]])
+  * **the thoughts from many hearts may be revealed**  - This could be translated as "the thoughts of many people will be revealed" or "it will be made known what many people truly think about God."
 ===== Links: =====
 
-  * [[pt-br/bible/notes:luk/questions/comprehension/02|Luke Chapter 2 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:02:30|<<]] | [[:pt-br:bible:notes:luk:02:36|>>]]**
 
+~~DISCUSSION~~{{tag>draft bless sign heart soul}}
 
-**[[pt-br/bible/notes:luk/02/30|<<]] | [[pt-br/bible/notes:luk/02/36|>>]]** 
-
-
-~~DISCUSSION~~
-
- 
-{{tag>draft bless sign heart soul}}
 ~~NOCACHE~~
