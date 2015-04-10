@@ -2,28 +2,19 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 21 \add But before John was put in prison\add*, when many people were being baptized \f + \ft Or:when he was baptizing many people \f*, after Jesus was baptized and \f + \ft Or:he baptized Jesus \f* and Jesus was praying, the sky opened.
-\v 22 Then the Holy Spirit, resembling a dove, descended upon \add Jesus\add*. And \add God\add* [SYN\f + \ft Or: EUP \f*] spoke to Jesus from heaven, saying, "You\add \f + \ft singular \f*\add* are my Son, the one whom I love dearly. I am very pleased with you!"
+<usfm> \v 21 \add But before John was put in prison\add*, when many people were being baptized \f + \ft Or:when he was baptizing many people \f*, after Jesus was baptized and \f + \ft Or:he baptized Jesus \f* and Jesus was praying, the sky opened. \v 22 Then the Holy Spirit, resembling a dove, descended upon \add Jesus\add*. And \add God\add* [SYN\f + \ft Or: EUP \f*] spoke to Jesus from heaven, saying, "You\add \f + \ft singular \f*\add* are my Son, the one whom I love dearly. I am very pleased with you!"
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 21 But before John was put in prison, when many people were being baptized, Jesus also was baptized. Afterwards, while he was praying, the sky opened.
-\v 22 Then the Holy Spirit, resembling a dove, came down and landed on Jesus. And God spoke to Jesus from heaven, saying, "You are my Son, the one whom I love dearly. I am very pleased with you!"
-</usfm>
+<usfm> \v 21 But before John was put in prison, when many people were being baptized, Jesus also was baptized. Afterwards, while he was praying, the sky opened. \v 22 Then the Holy Spirit, resembling a dove, came down and landed on Jesus. And God spoke to Jesus from heaven, saying, "You are my Son, the one whom I love dearly. I am very pleased with you!" </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p 
-\v 21 Now it came about, while all the people were being baptized by John, that Jesus also was baptized. While he was praying, the heavens opened up.  
-\v 22 The Holy Spirit came down on him in bodily form like a dove, while a voice came out of heaven, "You are my beloved Son. I am very pleased with you."
-</usfm>
+<usfm> \p \v 21 Now it came about, while all the people were being baptized by John, that Jesus also was baptized. While he was praying, the heavens opened up. \v 22 The Holy Spirit came down on him in bodily form like a dove, while a voice came out of heaven, "You are my beloved Son. I am very pleased with you." </usfm>
+
+**21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Sucedeu então que enquanto as pessoas eram batizadas por João, Jesus também foi batizado.</font> **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Enquanto</font> <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele estava orando, o céu se abriu. O Espírito Santo desceu até ele em forma corpórea, como uma pomba. Enquanto isto uma voz, vinda do céu, disse, “Você é o meu filho amado, em quem me comprazo.”</font>
 
 ===== Important Terms: =====
 
