@@ -12,8 +12,7 @@
 
 <usfm> \v 17 His winnowing fork is in his hand to thoroughly clear off his threshing floor and to gather the wheat into his storehouse. But he will burn up the chaff with fire that can never be put out." </usfm>
 
-**17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele tem em sua mão uma pá, para limpar completamente a eira e para ajuntar o trigo em seu celeiro. Mas ele queimará a palha com fogo que nunca pode ser apagado.</font>
-
+**17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele tem em sua mão uma pá, para limpar completamente a eira e para ajuntar o trigo em seu celeiro. Mas ele queimará a palha com fogo que nunca pode ser apagado."</font>
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:wheat|wheat]]
