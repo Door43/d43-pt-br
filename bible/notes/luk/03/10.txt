@@ -1,48 +1,34 @@
 ====== Luke 03:10-11 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 10 \add Then\add* various ones in the crowd asked him, "What shall we\add \f + \ft exclusive \f*\add* do \add to escape God punishing us\add* (OR), \add to show that we have repented\add*?"
-\v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who has no shirt. If any of you has \add plenty of\add* food, you should give some to those who have no food."
-</usfm>
-
+<usfm> \v 10 \add Then\add* various ones in the crowd asked him, "What shall we\add \f + \ft exclusive \f*\add* do \add to escape God punishing us\add* (OR), \add to show that we have repented\add*?" \v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who has no shirt. If any of you has \add plenty of\add* food, you should give some to those who have no food." </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 10 Then some of the people in the crowd asked him, "What, then, should we do?"
-\v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who does not have a shirt. If any of you has plenty of food, you should give some to those who do not have food."
-</usfm>
-
+<usfm> \v 10 Then some of the people in the crowd asked him, "What, then, should we do?" \v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who does not have a shirt. If any of you has plenty of food, you should give some to those who do not have food." </usfm>
 
 ===== ULB: =====
 
 <usfm> \v 10 Then the people in the crowd asked him, saying, "What then must we do?" \v 11 He answered and said to them, "If someone has two tunics, he should give one of them to someone who does not have any and whoever has food should do likewise." </usfm>
 
+**10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então as pessoas na multidão perguntaram a ele, “O que devemos fazer então?”</font> **11** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele respondeu, “Se alguém tem duas túnicas que dê uma delas àquele que não tem nenhuma, e o que tiver comida que faça o mesmo.”</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:tunic|tunic]]
- 
+
 ===== Translation Notes: =====
 
-
-    * **asked him, saying**  - "asked him and said" or "asked John"
-    * **answered and said to them**  - "answered them, saying" or "answered them" or "said"
-    * **do likewise**  - "do the same thing." It can be translated here as "give food to someone who does not have any."
-
+  * **asked him, saying**  - "asked him and said" or "asked John"
+  * **answered and said to them**  - "answered them, saying" or "answered them" or "said"
+  * **do likewise**  - "do the same thing." It can be translated here as "give food to someone who does not have any."
 ===== Links: =====
 
-  * [[pt-br/bible/notes:luk/questions/comprehension/03|Luke Chapter 3 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:03:09|<<]] | [[:pt-br:bible:notes:luk:03:12|>>]]**
 
+~~DISCUSSION~~{{tag>draft tunic}}
 
-**[[pt-br/bible/notes:luk/03/09|<<]] | [[pt-br/bible/notes:luk/03/12|>>]]** 
-
-
-~~DISCUSSION~~
-
- 
-{{tag>draft tunic}}
 ~~NOCACHE~~
