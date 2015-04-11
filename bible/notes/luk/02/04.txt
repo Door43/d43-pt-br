@@ -12,7 +12,7 @@
 
 <usfm> \v 4 Joseph also departed from the city of Nazareth in Galilee and traveled to the Judean town of Bethlehem, which is known as the city of David, because he was a descendant from the family of David. \v 5 He went there to register along with Mary, who was engaged to him and was expecting a child. </usfm>
 
-**4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>José partiu de Nazaré, na Galileia, até Belém, na Judeia, conhecida como Cidade de Davi, pois ele era descendente do Rei Davi.</font> **5** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>José foi com sua noiva Maria para se registrarem, ela estava grávida.</font>
+**4**José partiu de Nazaré, na Galileia, até Belém, na Judeia, conhecida como Cidade de Davi, pois ele era descendente do Rei Davi.**5** José foi com sua noiva Maria para se registrarem, ela estava grávida.
 
 ===== Important Terms: =====
 
