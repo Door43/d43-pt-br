@@ -1,9 +1,26 @@
 <nspages pt-br:bible:notes:luk:01 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 1:">
-
 <nspages pt-br:bible:notes:luk:02 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 2:">
-
 <nspages pt-br:bible:notes:luk:03 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 3:">
-
 <nspages pt-br:bible:notes:luk:04 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 4:">
+<nspages pt-br:bible:notes:luk:05 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 5:">
+<nspages pt-br:bible:notes:luk:06 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 6:">
+<nspages pt-br:bible:notes:luk:07 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 7:">
+<nspages pt-br:bible:notes:luk:08 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 8:">
+<nspages pt-br:bible:notes:luk:09 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 9:">
+<nspages pt-br:bible:notes:luk:10 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 10:">
 
-<nspages pt-br:bible:notes:key-terms -title -exclude:home -textPages=" Brazilian Portuguese Bible Important Words:">
+<nspages pt-br:bible:notes:luk:11 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 11:">
+<nspages pt-br:bible:notes:luk:12 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 12:">
+<nspages pt-br:bible:notes:luk:13 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 13:">
+<nspages pt-br:bible:notes:luk:14 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 14:">
+<nspages pt-br:bible:notes:luk:15 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 15:">
+<nspages pt-br:bible:notes:luk:16 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 16:">
+<nspages pt-br:bible:notes:luk:17 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 17:">
+<nspages pt-br:bible:notes:luk:18 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 18:">
+<nspages pt-br:bible:notes:luk:19 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 19:">
+
+<nspages pt-br:bible:notes:luk:20 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 20:">
+<nspages pt-br:bible:notes:luk:22 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 21:">
+<nspages pt-br:bible:notes:luk:23 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 22:">
+<nspages pt-br:bible:notes:luk:24 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 23:">
+<nspages pt-br:bible:notes:luk:20 -sortID -title -exclude:home -nbCol=3 -textPages=" Brazilian Portuguese Luke chapter 24:">
