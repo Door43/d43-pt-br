@@ -1,6 +1,8 @@
+
+
 **OBS Translation Notes**
 
-  - [[:pt-br:obs:notes:01|The Creation]]
+   - [[:pt-br:obs:notes:01|The Creation]]
   - [[:pt-br:obs:notes:02|Sin Enters the World]]
   - [[:pt-br:obs:notes:03|The Flood]]
   - [[:pt-br:obs:notes:04|God's Covenant with Abraham]]
@@ -44,9 +46,10 @@
   - [[:pt-br:obs:notes:42|Jesus Returns to Heaven]]
   - [[:pt-br:obs:notes:43|The Church Begins]]
   - [[:pt-br:obs:notes:44|Peter and John Heal a Beggar]]
-  - [[:pt-br:obs:notes:45|Philip and the Ethiopian Official]]
+  - [[:pt-br:obs:notes:45|Stephen and Philip]]
   - [[:pt-br:obs:notes:46|Paul Becomes a Christian]]
   - [[:pt-br:obs:notes:47|Paul and Silas in Philippi]]
   - [[:pt-br:obs:notes:48|Jesus is the Promised Messiah]]
   - [[:pt-br:obs:notes:49|God's New Covenant]]
   - [[:pt-br:obs:notes:50|Jesus Returns]]
+
