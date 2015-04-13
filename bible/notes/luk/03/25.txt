@@ -1,48 +1,31 @@
 ====== Luke 03:25-26 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 25 \add Joseph was the son\add* of Mattathias. \add Mattathias was the son\add* of Amos. \add Amos was the son\add* of Nahum. \add Nahum was the son\add* of Esli. \add Esli was the son\add* of Naggai.
-\v 26 \add Naggai was the son\add* of Maath. \add Maath was the son\add* of Mattathias. \add Mattathias was the son\add* of Semein. \add Semein was the son\add* of Josech. \add Josech was the son\add* of Joda.
-</usfm>
-
+<usfm> \v 25 \add Joseph was the son\add* of Mattathias. \add Mattathias was the son\add* of Amos. \add Amos was the son\add* of Nahum. \add Nahum was the son\add* of Esli. \add Esli was the son\add* of Naggai. \v 26 \add Naggai was the son\add* of Maath. \add Maath was the son\add* of Mattathias. \add Mattathias was the son\add* of Semein. \add Semein was the son\add* of Josech. \add Josech was the son\add* of Joda. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 25 Joseph was the son of Mattathias. Mattathias was the son of Amos. Amos was the son of Nahum. Nahum was the son of Esli. Esli was the son of Naggai.
-\v 26 Naggai was the son of Maath. Maath was the son of Mattathias. Mattathias was the son of Semein. Semein was the son of Josech. Josech was the son of Joda.
-</usfm>
-
+<usfm> \v 25 Joseph was the son of Mattathias. Mattathias was the son of Amos. Amos was the son of Nahum. Nahum was the son of Esli. Esli was the son of Naggai. \v 26 Naggai was the son of Maath. Maath was the son of Mattathias. Mattathias was the son of Semein. Semein was the son of Josech. Josech was the son of Joda. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 25 the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,  
-\v 26 the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,
-</usfm>
+<usfm> \v 25 the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai, \v 26 the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda, </usfm>
 
+**25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagaí,</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Máate, filho de Matatias, filho de Semei, filho de José, filho de Jodá,</font>
 
 ===== Important Terms: =====
 
- 
 ===== Translation Notes: =====
 
-    * (This is a continuation of the list of Jesus' ancestors.)
-    * **the son of Matthathias, the son of Amos...** - This could be translated as “who was the son of Matthathias, who was the son of Amos...” or “Joseph was the son of Matthathias, Matthathias was the son of Amos...” or “Joseph's father was Mattathias, Matthathias's father was Amos....” Use the same wording as you used in the previous verses. 
+  * (This is a continuation of the list of Jesus' ancestors.)
+  * **the son of Matthathias, the son of Amos…**  - This could be translated as “who was the son of Matthathias, who was the son of Amos…” or “Joseph was the son of Matthathias, Matthathias was the son of Amos…” or “Joseph's father was Mattathias, Matthathias's father was Amos….” Use the same wording as you used in the previous verses.
 ===== Links: =====
 
-  * [[pt-br/bible/notes:luk/questions/comprehension/03|Luke Chapter 3 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:03:23|<<]] | [[:pt-br:bible:notes:luk:03:27|>>]]**
 
-**[[pt-br/bible/notes:luk/03/23|<<]] | [[pt-br/bible/notes:luk/03/27|>>]]** 
-
-
-~~DISCUSSION~~
-
- 
-{{tag>draft}}
+~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
