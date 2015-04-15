@@ -16,8 +16,7 @@
 
 <usfm> \v 6 Now it came about that while they were there, the time came for her to deliver her baby. \v 7 She gave birth to a son, her firstborn child, and she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough, because there was no room for them in a guest room. </usfm>
 
-**6** Quando chegaram a Belém não havia uma hospedaria onde pudessem passassem a noite, por isto, eles se abrigaram em uma estrebaria. **7** Então chegou o momento em que Maria devia dar a luz, lá nasceu o seu primeiro filho. Ela o envolveu com panos e usou uma manjedoura para o acolher.
-
+**6** Quando chegaram a Belém não havia uma hospedaria onde pudessem passar a noite, por isto, eles se abrigaram em uma estrebaria. **7** Então chegou o momento em que Maria devia dar a luz, lá nasceu o seu primeiro filho. Ela o envolveu com panos e usou uma manjedoura para o acolher.
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:firstborn|firstborn]]
