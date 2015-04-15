@@ -1,43 +1,26 @@
 ====== Luke 04:28-30 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 28 When all the people in the synagogue heard him say that, they were very angry, \add because they realized that he was inferring that he similarly would help non-Jewish people instead of helping Jews\add* \f + \ft Or: \add that they also were not worthy of receiving God's help\add* \f*.
-\v 29 So they all got up and shoved him out of the town. They took him to the top of the hill outside their town in order to throw him off the cliff \add and kill him\add*.
-\v 30 But he \add simply\add* walked through their midst and went away.
+<usfm> \v 28 When all the people in the synagogue heard him say that, they were very angry, \add because they realized that he was inferring that he similarly would help non-Jewish people instead of helping Jews\add* \f + \ft Or: \add that they also were not worthy of receiving God's help\add* \f*. \v 29 So they all got up and shoved him out of the town. They took him to the top of the hill outside their town in order to throw him off the cliff \add and kill him\add*. \v 30 But he \add simply\add* walked through their midst and went away.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 28 When all the people in the synagogue heard him say that, they were very angry.
-\v 29 So they all got up and shoved him out of the city. They took him to the top of the hill outside their city in order to throw him off the cliff and kill him.
-\v 30 But he simply walked through their midst and went away.
+<usfm> \v 28 When all the people in the synagogue heard him say that, they were very angry. \v 29 So they all got up and shoved him out of the city. They took him to the top of the hill outside their city in order to throw him off the cliff and kill him. \v 30 But he simply walked through their midst and went away.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 28 All the people in the synagogue were filled with rage when they heard these things.
-\v 29 They got up and forced him out of the city, and led him to the edge of the hill on which their city was built, so that they might throw him over the cliff. 
-\v 30 But he walked right through the midst of them and went on his way.
-</usfm>
+<usfm> \v 28 All the people in the synagogue were filled with rage when they heard these things. \v 29 They got up and forced him out of the city, and led him to the edge of the hill on which their city was built, so that they might throw him over the cliff. \v 30 But he walked right through the midst of them and went on his way. </usfm>
 
+**28** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Todas as pessoas estavam furiosas quando ouviram ele.</font> **29** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Elas se levantaram e o forçaram para fora da cidade, e o levaram para o alto de uma montanha, onde a cidade deles estava localizada. Desta forma, planejavam empurrar Jesus do penhasco.</font> ** 30** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas ele caminhou entre eles e seguiu sua direção.</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:synagogue|synagogue]]
+  * [[:pt-br:bible:notes:key-terms:synagogue|synagogue]]
 
 ===== Translation Notes: =====
 
@@ -45,16 +28,11 @@
   * **edge of the hill**  - "edge of the cliff"
   * **right through the midst of them**  - This could be translated as "through the middle of them" or "between the people who were trying to kill him." The word "right" here is similar to the word "simply." It indicates that nothing hindered him from walking past the people.
   * **went on his way**  - "went away." Jesus went where he had planned to go instead of where the people were trying to force him to go.
-
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/04|Luke Chapter 04 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:04:25|<<]] | [[:pt-br:bible:notes:luk:04:31|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft}}
 
-**[[pt-br/bible/notes/luk/04/25|<<]] | [[pt-br/bible/notes/luk/04/31|>>]]**
-
-~~DISCUSSION~~
-
-{{tag>draft}}
 ~~NOCACHE~~
