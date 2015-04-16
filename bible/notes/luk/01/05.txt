@@ -1,55 +1,36 @@
 ====== Luke 01:5-7 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 5 When King Herod \add the Great ruled\add* Judea \add district\add*, there was a \add Jewish\add* priest named Zechariah. He belonged to the \add group of priests called\add* the Abijah group. He and his wife Elizabeth were both descended from the \add first priest of Israel\add*, Aaron.
-\v 6 \add God considered that\add* both of them were righteous, because they constantly obeyed without fault everything that God had commanded.
-\v 7 But they had no children, because Elizabeth was unable to bear children. Furthermore, she and her husband were very old.
-\p
-</usfm>
-
+<usfm> \v 5 When King Herod \add the Great ruled\add* Judea \add district\add*, there was a \add Jewish\add* priest named Zechariah. He belonged to the \add group of priests called\add* the Abijah group. He and his wife Elizabeth were both descended from the \add first priest of Israel\add*, Aaron. \v 6 \add God considered that\add* both of them were righteous, because they constantly obeyed without fault everything that God had commanded. \v 7 But they had no children, because Elizabeth was unable to bear children. Furthermore, she and her husband were very old. \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 5 When King Herod ruled the province of Judea, there was a Jewish priest named Zechariah. He belonged to the group of priests called the Abijah group. He and his wife Elizabeth were both descended from Aaron.
-\v 6 God considered that both of them were righteous, because they always obeyed without fault everything that God had commanded.
-\v 7 But they had no children, because Elizabeth was unable to bear children. Furthermore, she and her husband were very old. 
+<usfm> \v 5 When King Herod ruled the province of Judea, there was a Jewish priest named Zechariah. He belonged to the group of priests called the Abijah group. He and his wife Elizabeth were both descended from Aaron. \v 6 God considered that both of them were righteous, because they always obeyed without fault everything that God had commanded. \v 7 But they had no children, because Elizabeth was unable to bear children. Furthermore, she and her husband were very old.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p 
-\v 5 In the days of Herod, king of Judea, there was a certain priest named Zechariah, from the division of Abijah. His wife was from the daughters of Aaron, and her name was Elizabeth. 
-\v 6 They were both righteous before God, walking blamelessly in all the commandments and requirements of the Lord. 
-\v 7 But they did not have any children, because Elizabeth was barren, and they both were very old.
-</usfm>
+<usfm> \p \v 5 In the days of Herod, king of Judea, there was a certain priest named Zechariah, from the division of Abijah. His wife was from the daughters of Aaron, and her name was Elizabeth. \v 6 They were both righteous before God, walking blamelessly in all the commandments and requirements of the Lord. \v 7 But they did not have any children, because Elizabeth was barren, and they both were very old. </usfm>
 
+**5** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Nos dias de Herodes, rei da Judeia, havia um sacerdote chamado Zacarias, da ordem de Ábias. Sua mulher era das filhas de Arão, e chamava-se Isabel.</font> **6** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ambos eram justos diante de Deus, andando irrepreensíveis em todos os mandamentos e exigências do Senhor.</font> **7** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas eles não tinham filhos, porque Isabel era estéril, além do que eram ambos muito velhos.</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:herodthegreat|Herod the Great]]
-    * [[:pt-br:bible:notes:key-terms:king|king]]
-    * [[:pt-br:bible:notes:key-terms:judea|Judea]]
-    * [[:pt-br:bible:notes:key-terms:Jew|Jewish]]
-    * [[:pt-br:bible:notes:key-terms:priest|priest]]
-    * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
-    * [[:pt-br:bible:notes:key-terms:aaron|Aaron]]
-    * [[:pt-br:bible:notes:key-terms:elizabeth|Elizabeth]]
-    * [[:pt-br:bible:notes:key-terms:righteous|righteous]]
-    * [[:pt-br:bible:notes:key-terms:obey|obey]]
-    * [[:pt-br:bible:notes:key-terms:god|God]]
-    * [[:pt-br:bible:notes:key-terms:commandment|commandment]]
-    * [[:pt-br:bible:notes:key-terms:lord|Lord]]
-
+  * [[:pt-br:bible:notes:key-terms:herodthegreat|Herod the Great]]
+  * [[:pt-br:bible:notes:key-terms:king|king]]
+  * [[:pt-br:bible:notes:key-terms:judea|Judea]]
+  * [[:pt-br:bible:notes:key-terms:jew|Jewish]]
+  * [[:pt-br:bible:notes:key-terms:priest|priest]]
+  * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
+  * [[:pt-br:bible:notes:key-terms:aaron|Aaron]]
+  * [[:pt-br:bible:notes:key-terms:elizabeth|Elizabeth]]
+  * [[:pt-br:bible:notes:key-terms:righteous|righteous]]
+  * [[:pt-br:bible:notes:key-terms:obey|obey]]
+  * [[:pt-br:bible:notes:key-terms:god|God]]
+  * [[:pt-br:bible:notes:key-terms:commandment|commandment]]
+  * [[:pt-br:bible:notes:key-terms:lord|Lord]]
 
 ===== Translation Notes: =====
 
@@ -64,19 +45,12 @@
   * **walking **  - "obeying"
   * **all the Lord's commandments and requirements**  - This could be translated as "all that the Lord had commanded and required."
   * **But**  – This contrast word shows that what follows here is the opposite of what is expected. People expected that if they did what was right, God would allow them to have children. Although this couple did what was right, they did not have any children.
-
 ===== Links: =====
 
-    * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:01:01|<<]] | [[:pt-br:bible:notes:luk:01:08|>>]]**
 
-
-**[[:pt-br:bible:notes:luk:01:01|<<]] | [[:pt-br:bible:notes:luk:01:08|>>]]** 
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft herodthegreat zechariahnt elizabeth righteous obey commandment}}
+~~DISCUSSION~~{{tag>draft herodthegreat zechariahnt elizabeth righteous obey commandment}}
 
 ~~NOCACHE~~
