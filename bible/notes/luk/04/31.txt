@@ -12,7 +12,7 @@
 
 <usfm> \p \v 31 Then he went down to Capernaum, a city in Galilee. One Sabbath he was teaching the people in the synagogue. \v 32 They were astonished at his teaching, because he spoke with authority. </usfm>
 
-**31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então ele desceu a Cafarnaum, uma cidade na Galileia. Em um sábado ele estava ensinando as pessoas na sinagoga.</font> **32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Elas estavam impressionadas com o que ele dizia, pois ele falava com autoridade.</font>
+<font 14px line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);>Então ele desceu a Cafarnaum, uma cidade na Galileia. No dia de Sabá ele estava ensinando as pessoas na sinagoga.</font> **32** <font 14px line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);>Elas estavam impressionadas com o que ele dizia, pois ele falava com autoridade.</font>
 
 ===== Important Terms: =====
 
