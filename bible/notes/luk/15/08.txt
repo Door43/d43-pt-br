@@ -1,67 +1,43 @@
 ====== Luke 15:8-10 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 8 Or, suppose that a woman has ten \add very valuable\add* silver coins. If she loses one of them, she will certainly light a lamp and sweep the floor and search carefully until she finds it!\f + \ft Or: will she not light a lamp and sweep the floor and search carefully until she finds it? \f* \f + \ft rhetorical question \f*
-\v 9 When she finds it, she will call together her friends and neighbors and say, 'Be happy with me, \add because\add* I have found the coin that I lost!'
-\v 10 I tell you that similarly the angels will be happy about \add even just\add* one sinner who turns from doing evil."
+<usfm> \v 8 Or, suppose that a woman has ten \add very valuable\add* silver coins. If she loses one of them, she will certainly light a lamp and sweep the floor and search carefully until she finds it!\f + \ft Or: will she not light a lamp and sweep the floor and search carefully until she finds it? \f* \f + \ft rhetorical question \f* \v 9 When she finds it, she will call together her friends and neighbors and say, 'Be happy with me, \add because\add* I have found the coin that I lost!' \v 10 I tell you that similarly the angels will be happy about \add even just\add* one sinner who turns from doing evil."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 8 Or, suppose that a woman has ten very valuable silver coins and then she loses one of them. Certainly she will light a lamp and sweep the floor and search carefully until she finds it.
-\v 9 And when she finds it, she will call together her friends and neighbors and say to them, "Be very happy with me, because I have found the coin that I lost!'
-\v 10 I tell you that, in a similar way, there is much joy among the angels of God because of one sinner who repents from his sins ."
+<usfm> \v 8 Or, suppose that a woman has ten very valuable silver coins and then she loses one of them. Certainly she will light a lamp and sweep the floor and search carefully until she finds it. \v 9 And when she finds it, she will call together her friends and neighbors and say to them, "Be very happy with me, because I have found the coin that I lost!' \v 10 I tell you that, in a similar way, there is much joy among the angels of God because of one sinner who repents from his sins ."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 8 Or what woman who has ten silver coins, if she were to lose one coin, would not light a lamp, sweep the house, and seek diligently until she has found it?
-\v 9 And when she has found it, she calls together her friends and neighbors, saying, 'Rejoice with me, for I have found the coin which I lost.'
-\v 10 Even so, I say to you, there is joy in the presence of the angels of God over one sinner who repents."
-</usfm>
+<usfm> \p \v 8 Or what woman who has ten silver coins, if she were to lose one coin, would not light a lamp, sweep the house, and seek diligently until she has found it? \v 9 And when she has found it, she calls together her friends and neighbors, saying, 'Rejoice with me, for I have found the coin which I lost.' \v 10 Even so, I say to you, there is joy in the presence of the angels of God over one sinner who repents." </usfm>
 
+**8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ou qual é a mulher que tendo dez moedas de prata, se ela vier a perder uma moeda, não acende uma lâmpada, varre a casa e busca diligentemente até que ela a encontre?</font> **9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E quando ela a encontre, ela reúne as amigas e vizinhas, dizendo: Alegrai-vos comigo, porque já achei a moeda que eu perdi. “</font> **10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mesmo assim, eu vos digo, há muito alegria na presença dos anjos de Deus por um só pecador que se arrepende. ”</font>
 
 ===== Important Terms: =====
 
-    * [[:pt-br:bible:notes:key-terms:rejoice|rejoice]]
-    * [[:pt-br:bible:notes:key-terms:joy|joy]]
-    * [[:pt-br:bible:notes:key-terms:angel|angel]]
-    * [[:pt-br:bible:notes:key-terms:sin|sinner]]
-    * [[:pt-br:bible:notes:key-terms:repent|repent]]
-
+  * [[:pt-br:bible:notes:key-terms:rejoice|rejoice]]
+  * [[:pt-br:bible:notes:key-terms:joy|joy]]
+  * [[:pt-br:bible:notes:key-terms:angel|angel]]
+  * [[:pt-br:bible:notes:key-terms:sin|sinner]]
+  * [[:pt-br:bible:notes:key-terms:repent|repent]]
 
 ===== Translation Notes: =====
 
-
-    * (Jesus continues speaking to the religious leaders.)
-    * **What woman…would not light a lamp…and seek diligently until she has found it?**  - This is a rhetorical question. Jesus was reminding the people that if any of them lost a silver coin, they would certainly look for it diligently. This sentence can be translated as “You know that if a woman had ten silver coins and lost one, she would light a lamp, sweep the floor and search carefully until she has found it.” (See: [[en:ta:figuresofspeech:rhetoricalquestion]]) 
-    * **what woman** - This is a hypothetical situation and not a story about a real woman. Some languages have ways of showing this. (See: [[:en:ta:discourse:hypothetical]])
-    * **Even so**  - "In the same way" or "Just as people would rejoice with the woman"
-    * **over one sinner who repents**  - This can be translated as "when one sinner repents."
+  * (Jesus continues speaking to the religious leaders.)
+  * **What woman…would not light a lamp…and seek diligently until she has found it?**  - This is a rhetorical question. Jesus was reminding the people that if any of them lost a silver coin, they would certainly look for it diligently. This sentence can be translated as “You know that if a woman had ten silver coins and lost one, she would light a lamp, sweep the floor and search carefully until she has found it.” (See: [[:en:ta:figuresofspeech:rhetoricalquestion|Rhetorical Question]])
+  * **what woman**  - This is a hypothetical situation and not a story about a real woman. Some languages have ways of showing this. (See: [[:en:ta:discourse:hypothetical|Hypothetical Situations]])
+  * **Even so**  - "In the same way" or "Just as people would rejoice with the woman"
+  * **over one sinner who repents**  - This can be translated as "when one sinner repents."
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/15|Luke Chapter 15 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:15|Luke Chapter 15 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:15:06|<<]] | [[:pt-br:bible:notes:luk:15:11|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft rejoice joy repent}}
 
-**[[pt-br/bible/notes/luk/15/06|<<]] | [[pt-br/bible/notes/luk/15/11|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft rejoice joy repent}}
 ~~NOCACHE~~
