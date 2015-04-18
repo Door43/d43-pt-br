@@ -2,4 +2,4 @@ This the list of important words and phrases. Click on the word to learn more.
 
 <nspages en:obs:notes:key-terms -title -exclude:home -textPages="List of all OBS Brazilian Portuguese important words:">
 
-{{topic>en:bible:notes:key-terms?publish&sort&nocomments}}{{tag>ktobs}}
+{{pagequery>ns:en:bible:notes:key-terms "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
