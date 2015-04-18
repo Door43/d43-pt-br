@@ -1,35 +1,24 @@
 ====== Luke 15:20-21 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 20 So he left there and went back to his father's house. But while he was still some distance from the house, his father saw him. He pitied him. He ran to his son and embraced him and kissed him \add on the cheek\add*.
-\v 21 His son said to him, 'Father, I have sinned against God [MTY\f + \ft Or: EUP \f*] and against you. I am no longer worthy to be called \f + \ft Or:of \add you\add* calling me \f* your son.'
-</usfm>
-
+<usfm> \v 20 So he left there and went back to his father's house. But while he was still some distance from the house, his father saw him. He pitied him. He ran to his son and embraced him and kissed him \add on the cheek\add*. \v 21 His son said to him, 'Father, I have sinned against God [MTY\f + \ft Or: EUP \f*] and against you. I am no longer worthy to be called \f + \ft Or:of \add you\add* calling me \f* your son.' </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 20 So he left there and started traveling back to his father's house. But while he was still a great distance from the house, his father saw him and felt deep compassion for him. He ran to his son and embraced him and kissed him on the cheek.
-\v 21 His son said to him, 'Father, I have sinned against God and against you.  So I am no longer worthy to be called your son.'
-</usfm>
-
+<usfm> \v 20 So he left there and started traveling back to his father's house. But while he was still a great distance from the house, his father saw him and felt deep compassion for him. He ran to his son and embraced him and kissed him on the cheek. \v 21 His son said to him, 'Father, I have sinned against God and against you. So I am no longer worthy to be called your son.' </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 20 So the young son left and came toward his father. While he was still far away, his father saw him, and was moved with compassion, and ran, and hugged and kissed him.
-\v 21 The son said to him, 'Father, I have sinned against heaven and in your sight. I am no  worthy to be called your son.'
-</usfm>
+<usfm> \v 20 So the young son left and came toward his father. While he was still far away, his father saw him, and was moved with compassion, and ran, and hugged and kissed him. \v 21 The son said to him, 'Father, I have sinned against heaven and in your sight. I am no worthy to be called your son.' </usfm>
 
+**20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então o jovem partiu e foi encontrar com seu pai. Ainda distante, seu pai o avistou e cheio de compaixão correu em direção a ele,e o abraçou e beijou.</font> **21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E o filho disse:¨ Pai eu pequei contra o Céu e você, não sou digno de ser chamado seu filho.¨</font>
 
 ===== Important Terms: =====
 
-    * [[:pt-br:bible:notes:key-terms:sin|sin]]
-    * [[:pt-br:bible:notes:key-terms:worthy|worthy]]
- 
+  * [[:pt-br:bible:notes:key-terms:sin|sin]]
+  * [[:pt-br:bible:notes:key-terms:worthy|worthy]]
+
 ===== Translation Notes: =====
 
   * (Jesus continues telling his parable.)
@@ -38,17 +27,11 @@
   * **hugged and kissed**  - The father did this to show his son that he loved him and was glad that the son was coming home. If people think that it is strange or wrong for a man to hug and kiss his son, you can substitute a way that men in your culture show affection to other men. Or you can translate it more generally as "welcomed him affectionately."
   * **sinned against heaven**  - "sinned against God"
   * **in your sight**  - "in your presence." It can be translated as "you have seen me sin" or "and you know about it."
-
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/15|Luke Chapter 15 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:15|Luke Chapter 15 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:15:17|<<]] | [[:pt-br:bible:notes:luk:15:22|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft sin worthy son}}
 
-**[[pt-br/bible/notes/luk/15/17|<<]] | [[pt-br/bible/notes/luk/15/22|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft sin worthy son}}
 ~~NOCACHE~~
