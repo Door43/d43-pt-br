@@ -12,6 +12,8 @@
 
 <usfm> \v 11 An angel of the Lord appeared to him, standing at the right side of the altar of incense. \v 12 Zechariah was troubled when he saw him, and became very afraid. \v 13 But the angel said to him, "Do not be afraid, Zechariah, because your prayer has been heard. Your wife, Elizabeth, will bear you a son, and you will name him John. </usfm>
 
+**11** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Um Anjo do Senhor apareceu à Zacarias, em pé do lado direito do altar do incenso.12</font> ** Quando Zacarias o viu ficou aterrorizado e com muito medo. **<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>13** Mas o anjo disse-lhe: ¨Não tenha medo Zacarias, porque sua oração foi ouvida. Sua Esposa, Elizabeth dará à luz a um filho, e você o chamará de João</font>
+
 ~~DISCUSSION~~{{tag>draft angel altarofincense zechariahnt elizabeth johnthebaptist}}
 
 ~~NOCACHE~~
