@@ -1,70 +1,44 @@
 ====== Luke 01:21-23 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 21 While \add Zechariah and the angel\add* were talking, the people \add in the courtyard\add* were waiting for Zechariah \add to come out\add*. They wondered, "Why is he staying in the Temple for such a long time?"
-\v 22 When he came out, he was not able to speak to them. Because he could not talk, he made motions with his hands \add to try to convey what had happened\add*. Then they realized that he had seen a vision \add from God\add*\f + \ft Or: something that \add God\add* showed him \f* while he was in the Temple.
-\p
-\v 23 When Zechariah's time to work \add as a priest in the Temple\add* was finished, he \add left Jerusalem and\add* returned to his home.
-\p
-</usfm>
-
+<usfm> \v 21 While \add Zechariah and the angel\add* were talking, the people \add in the courtyard\add* were waiting for Zechariah \add to come out\add*. They wondered, "Why is he staying in the Temple for such a long time?" \v 22 When he came out, he was not able to speak to them. Because he could not talk, he made motions with his hands \add to try to convey what had happened\add*. Then they realized that he had seen a vision \add from God\add*\f + \ft Or: something that \add God\add* showed him \f* while he was in the Temple. \p \v 23 When Zechariah's time to work \add as a priest in the Temple\add* was finished, he \add left Jerusalem and\add* returned to his home. \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 21 While Zechariah and the angel were talking in the temple, the people in the courtyard were waiting for Zechariah to come out. They wondered why he was staying in the temple for such a long time.
-\v 22 When he came out, he was not able to speak to them. Because he could not talk, he made motions with his hands to try to explain what had happened. Then they realized that he had seen a vision from God while he was in the temple. 
-\p
-\v 23 When Zechariah's time to work as a priest in the temple was finished, he left Jerusalem and went to his home. 
+<usfm> \v 21 While Zechariah and the angel were talking in the temple, the people in the courtyard were waiting for Zechariah to come out. They wondered why he was staying in the temple for such a long time. \v 22 When he came out, he was not able to speak to them. Because he could not talk, he made motions with his hands to try to explain what had happened. Then they realized that he had seen a vision from God while he was in the temple. \p \v 23 When Zechariah's time to work as a priest in the temple was finished, he left Jerusalem and went to his home.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 21 Meanwhile, the people were waiting for Zechariah and wondering why he stayed so long in the temple.
-\v 22 When he came out, he could not speak to them, and they realized that he had seen a vision in the temple. He made signs to them, but remained unable to speak.
-\v 23 When his time of service was fulfilled, he went back to his house.
-</usfm>
+<usfm> \v 21 Meanwhile, the people were waiting for Zechariah and wondering why he stayed so long in the temple. \v 22 When he came out, he could not speak to them, and they realized that he had seen a vision in the temple. He made signs to them, but remained unable to speak. \v 23 When his time of service was fulfilled, he went back to his house. </usfm>
 
+**21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Enquanto Zacarias e o anjo estavam conversando no templo, as pessoas no pátio esperavam a saída de Zacarias. Eles se perguntavam por que ele estava demorando tanto no templo .</font> **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando ele saiu, ele não podia falar com eles, por isso fez movimentos com as mãos para tentar explicar o que aconteceu. Então perceberam que ele teve uma visão dada por Deus, enquanto estava no templo.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando o trabalho de de Zacarias, como sacerdote terminou, ele saiu de Jerusalém e foi para sua casa.</font>
 
 ===== Important Terms: =====
 
-    * [[:pt-br:bible:notes:key-terms:zechariahnt]|Zechariah]]
-    * [[:pt-br:bible:notes:key-terms:angel|angel]]
-    * [[:pt-br:bible:notes:key-terms:temple|temple]]
-    * [[:pt-br:bible:notes:key-terms:courtyard|courtyard]]
-    * [[:pt-br:bible:notes:key-terms:vision|vision]]
-    * [[:pt-br:bible:notes:key-terms:god|God]]
-    * [[:pt-br:bible:notes:key-terms:priest|priest]]
-    * [[:pt-br:bible:notes:key-terms:fulfill|fulfill]]
-    * [[:pt-br:bible:notes:key-terms:Jerusalem|Jerusalem]]
-
+  * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
+  * [[:pt-br:bible:notes:key-terms:angel|angel]]
+  * [[:pt-br:bible:notes:key-terms:temple|temple]]
+  * [[:pt-br:bible:notes:key-terms:courtyard|courtyard]]
+  * [[:pt-br:bible:notes:key-terms:vision|vision]]
+  * [[:pt-br:bible:notes:key-terms:god|God]]
+  * [[:pt-br:bible:notes:key-terms:priest|priest]]
+  * [[:pt-br:bible:notes:key-terms:fulfill|fulfill]]
+  * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
 
 ===== Translation Notes: =====
 
-
-    * **Meanwhile**  - This could be translated as "And" or "While the angel and Zechariah were talking."
-    * **wondering why he stayed so long in the temple**  – This could also be translated with a direct quote: "They wondered, 'Why is he staying so long in the temple?'" (See: [[en:ta:vocabulary:quotation]])
-    * **came out**  - This could be translated as "came out of the temple building."
-
+  * **Meanwhile**  - This could be translated as "And" or "While the angel and Zechariah were talking."
+  * **wondering why he stayed so long in the temple**  – This could also be translated with a direct quote: "They wondered, 'Why is he staying so long in the temple?'" (See: [[:en:ta:vocabulary:quotation|Speech Quotations]])
+  * **came out**  - This could be translated as "came out of the temple building."
 ===== Links: =====
 
-    * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
-
+  * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
 
 **[[:pt-br:bible:notes:luk:01:18|<<]] | [[:pt-br:bible:notes:luk:01:24|>>]]**
 
-
-~~DISCUSSION~~
-
-
-{{tag>draft zechariahnt vision}}
+~~DISCUSSION~~{{tag>draft zechariahnt vision}}
 
 ~~NOCACHE~~
