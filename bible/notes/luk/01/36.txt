@@ -1,38 +1,22 @@
 ====== Luke 01:36-38 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 36 \add I also need to tell you something else\add*. Your cousin Elizabeth is very old, and it was thought \f + \ft Or:\add people\add* said \f* that she could not bear any children. But she has been \add pregnant\add* \f + \ft euphemism \f* \add for almost\add* six months, and will bear a son!
-\v 37 \add You should not be surprised at that\add*, because God can do everything!"
-\v 38 Then Mary said, "All right, I want to serve the Lord\f + \ft Or: God \f*, so may what you\add \f + \ft singular \f*\add* have said about me come true!" Then the angel left her.
+<usfm> \v 36 \add I also need to tell you something else\add*. Your cousin Elizabeth is very old, and it was thought \f + \ft Or:\add people\add* said \f* that she could not bear any children. But she has been \add pregnant\add* \f + \ft euphemism \f* \add for almost\add* six months, and will bear a son! \v 37 \add You should not be surprised at that\add*, because God can do everything!" \v 38 Then Mary said, "All right, I want to serve the Lord\f + \ft Or: God \f*, so may what you\add \f + \ft singular \f*\add* have said about me come true!" Then the angel left her.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 36 And listen to this. Your relative Elizabeth is pregnant with a son, even though she is very old. And though people thought that she could not bear children, she has now been pregnant for almost six months.
-\v 37 For God can do anything!"
-\v 38 Then Mary said, "All right, I am the Lord's servant, so let what you have said about me happen!" Then the angel left her.
+<usfm> \v 36 And listen to this. Your relative Elizabeth is pregnant with a son, even though she is very old. And though people thought that she could not bear children, she has now been pregnant for almost six months. \v 37 For God can do anything!" \v 38 Then Mary said, "All right, I am the Lord's servant, so let what you have said about me happen!" Then the angel left her.
 
+\p </usfm>
 
-\p
-</usfm>
-
+**36** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eis que Isabel, tua parenta, concebeu um filho na sua velhice; ela está em seu sexto mês de gravidez, ainda quando todos pensavam que ela era estéril.</font> **37** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois, nada é impossível para Deus. “</font> **38** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Maria disse:” Eu sou a serva do Senhor. Que isso seja feito em mim de acordo com a tua palavra. “E o anjo partiu.</font>
 
 ===== ULB: =====
 
-<usfm>
-\v 36 Behold, Elizabeth your relative also has conceived a son in her old age; she is in her sixth month of pregnancy, even though she was called barren.
-\v 37 For nothing is impossible for God."
-\v 38 Mary said, "Indeed, I am the Lord's servant. Let this happen to me according to your word." And the angel left her.
-</usfm>
-
+<usfm> \v 36 Behold, Elizabeth your relative also has conceived a son in her old age; she is in her sixth month of pregnancy, even though she was called barren. \v 37 For nothing is impossible for God." \v 38 Mary said, "Indeed, I am the Lord's servant. Let this happen to me according to your word." And the angel left her. </usfm>
 
 ===== Important Terms: =====
 
@@ -44,27 +28,20 @@
   * [[:pt-br:bible:notes:key-terms:word|word]]
   * [[:pt-br:bible:notes:key-terms:angel|angel]]
 
-
 ===== Translation Notes: =====
 
-    * (The angel continues to speak to Mary:)
-    * **your relative** - If you need to state a specific relationship, Elizabeth was probably Mary's aunt or great-aunt.
-    * **also has conceived a son in her old age** - "has also become pregnant with a son, even though she is already very old" or "even though she is old, has also become pregnant and will bear a son." Make sure it doesn't sound like both Mary and Elizabeth were old when they conceived.
-    * **nothing is impossible for God!** - This could be translated as "because God can do anything." What God had done for Elizabeth was proof that God was able to do anything, and that he could even enable Mary to become pregnant without her having sexual relations.
-    * **I am the Lord's servant** - "I am a servant of the Lord." Choose an expression that shows her humility and obedience to the Lord. She was not boasting about being the Lord's servant.
-    * **Let this happen to me** - "Let these things happen to me." Mary was expressing her willingness for the things the angel had told her about to happen.
-
+  * (The angel continues to speak to Mary:)
+  * **your relative**  - If you need to state a specific relationship, Elizabeth was probably Mary's aunt or great-aunt.
+  * **also has conceived a son in her old age**  - "has also become pregnant with a son, even though she is already very old" or "even though she is old, has also become pregnant and will bear a son." Make sure it doesn't sound like both Mary and Elizabeth were old when they conceived.
+  * **nothing is impossible for God!**  - This could be translated as "because God can do anything." What God had done for Elizabeth was proof that God was able to do anything, and that he could even enable Mary to become pregnant without her having sexual relations.
+  * **I am the Lord's servant**  - "I am a servant of the Lord." Choose an expression that shows her humility and obedience to the Lord. She was not boasting about being the Lord's servant.
+  * **Let this happen to me**  - "Let these things happen to me." Mary was expressing her willingness for the things the angel had told her about to happen.
 ===== Links: =====
 
-    * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:01:34|<<]] | [[:pt-br:bible:notes:luk:01:39|>>]]**
 
-**[[:pt-br:bible:notes:luk:01:34|<<]] | [[:pt-br:bible:notes:luk:01:39|>>]]** 
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft elizabeth god mary}}
+~~DISCUSSION~~{{tag>draft elizabeth god mary}}
 
 ~~NOCACHE~~
