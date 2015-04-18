@@ -1,63 +1,40 @@
 ====== Luke 01:24-25 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 24 Some time later his wife Elizabeth became pregnant \f + \ft euphemism \f*. She did not go out of her house for five months, \add because she knew that people would laugh at her during that time if she told them that she was pregnant\add*.
-\v 25 But she said to herself, "God has enabled me to become pregnant. At this time he has pitied me and has caused that I will no longer be ashamed \add because I have no children\add*!"
+<usfm> \v 24 Some time later his wife Elizabeth became pregnant \f + \ft euphemism \f*. She did not go out of her house for five months, \add because she knew that people would laugh at her during that time if she told them that she was pregnant\add*. \v 25 But she said to herself, "God has enabled me to become pregnant. At this time he has pitied me and has caused that I will no longer be ashamed \add because I have no children\add*!"
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 24 Some time after this, his wife Elizabeth became pregnant, but she did not go out in public for five months.
-\v 25 She said to herself, "The Lord has enabled me to become pregnant. In this way, he had compassion on me and has taken away the reason that people looked down on me!"
+<usfm> \v 24 Some time after this, his wife Elizabeth became pregnant, but she did not go out in public for five months. \v 25 She said to herself, "The Lord has enabled me to become pregnant. In this way, he had compassion on me and has taken away the reason that people looked down on me!"
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 24 After these days, his wife Elizabeth conceived. She hid herself for five months, saying,
-\v 25 "This is what the Lord has done for me. He watched over me, to take away my disgrace among people."
-</usfm>
+<usfm> \p \v 24 After these days, his wife Elizabeth conceived. She hid herself for five months, saying, \v 25 "This is what the Lord has done for me. He watched over me, to take away my disgrace among people." </usfm>
 
-
+<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>24 Depois disso, sua esposa Elizabeth concebeu. Ela escondeu-se por cinco meses, dizendo: 25 O Senhor me permitiu engravidar. Ele teve compaixão de mim e retirou a razão pela qual as pessoas olhavam-me com desprezo.</font>
 
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:elizabeth|Elizabeth]]
   * [[:pt-br:bible:notes:key-terms:lord|Lord]]
 
-
 ===== Translation Notes: =====
 
-    * **his wife**  - "Zechariah's wife"
-    * **conceived**  - "became pregnant" (UDB). Use an expression that is acceptable and will not embarrass people.
-    * **This is what the Lord has done for me** - This phrase refers to the fact that the Lord allowed her to become pregnant.
-    * **watched over me**  - This is an idiom that means "regarded me kindly" or "had pity on me" or "was compassionate toward me." (See: [[en:ta:figuresofspeech:idiom]])
-
-
+  * **his wife**  - "Zechariah's wife"
+  * **conceived**  - "became pregnant" (UDB). Use an expression that is acceptable and will not embarrass people.
+  * **This is what the Lord has done for me**  - This phrase refers to the fact that the Lord allowed her to become pregnant.
+  * **watched over me**  - This is an idiom that means "regarded me kindly" or "had pity on me" or "was compassionate toward me." (See: [[:en:ta:figuresofspeech:idiom|Idiom]])
 ===== Links: =====
 
-  * [[pt-br/bible/notes:luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:01:21|<<]] | [[:pt-br:bible:notes:luk:01:26|>>]]**
 
-**[[pt-br/bible/notes:luk/01/21|<<]] | [[pt-br/bible/notes:luk/01/26|>>]]** 
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft elizabeth lord}}
+~~DISCUSSION~~{{tag>draft elizabeth lord}}
 
 ~~NOCACHE~~
