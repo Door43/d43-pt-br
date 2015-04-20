@@ -1,4 +1,4 @@
-====== Luke 05:20-21 ======
+====== Luke 05:20-21  *F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 20 Seeing their faith, Jesus said, "Man, your sins are forgiven you." \v 21 The scribes and the Pharisees began to question this, saying, "Who is this who speaks blasphemies? Who can forgive sins, but God alone?" </usfm>
 
 **20** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Vendo a fé deles, Jesus disse, “Homem, os seus pecados estão perdoados.”</font> **21** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Os escribas e Fariseus começaram a questionar, dizendo, “Quem é este para dizer estas blasfêmias? Somente Deus pode perdoar pecados.”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:faith|faith]]
