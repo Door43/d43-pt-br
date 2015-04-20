@@ -1,4 +1,4 @@
-====== Luke 05:27-28 ======
+====== Luke 05:27-28  *F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \p \v 27 After these things happened, Jesus went out from there and saw a tax collector named Levi sitting at the tax-collecting place. He said to him, "Follow me." \v 28 So Levi left everything, got up, and followed him. </usfm>
 
 **27** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Depois disto, Jesus saiu de lá e viu um coletor de impostos, chamado Levi, sentando no local de coleta de impostos. Então Jesus disse a ele, “Me siga”.</font> **28** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Levi deixou tudo, se levantou e o seguiu.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
