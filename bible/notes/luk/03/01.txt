@@ -13,7 +13,6 @@
 <usfm> \c 3 \p \v 1 Now in the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod was tetrarch of Galilee, his brother Philip was tetrarch of the region of Ituraea and Trachonitis, and Lysanias was tetrarch of Abilene, \v 2 and during the high priesthood of Annas and Caiaphas, the word of God came to John, the son of Zechariah, in the wilderness. </usfm>
 
 **1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>No décimo quinto ano do reinado de Tibério César, quando Pôncio Pilatos era governador da Judéia, Herodes era tetrarca da Galiléia, seu irmão Filipe era tetrarca da região de Ituréia e Traconites, e Lisânias era tetrarca de Abilene.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Anás e Caifás eram sumo sacerdotes, então a palavra de Deus veio a João, filho de Zacarias, no deserto.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:caesar|Caesar]]
