@@ -1,4 +1,4 @@
-====== Luke 05:29-32 ======
+====== Luke 05:29-32  *F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \p \v 29 Then Levi prepared a big banquet for Jesus in his house, and there were many tax collectors there, and other people who were reclining at the table and eating with them. \v 30 But the Pharisees and their scribes were complaining to his disciples, saying, "Why do you eat and drink with tax collectors and other sinful people?" \v 31 Jesus answered them, "People who are in good health do not need a physician, only people who are sick need one. \v 32 I did not come to call righteous people to repentance, but to call sinners to repentance." </usfm>
 
 **29** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então Levi preparou um grande banquete para Jesus em sua casa. Muitos coletores de impostos e outras pessoas estavam sentadas à mesa, comendo com eles.</font> ** 30** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E os Fariseus e escribas se queixavam aos discípulos de Jesus, dizendo, “Por que vocês comem e bebem com coletores de impostos e outros pecadores?”</font> **31** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Jesus respondeu a eles, “Aqueles que tem saúde não precisam de médico, somente os doentes.”</font> **32** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Eu não vim para chamar o justo ao arrependimento, mas para chamar os pecadores ao arrependimento.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:matthew|levi]]
