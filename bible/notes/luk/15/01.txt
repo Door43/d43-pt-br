@@ -1,4 +1,4 @@
-====== Luke 15:1-2 ======
+====== Luke 15:1-2  *F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \c 15 \p \v 1 Now all the tax collectors and other sinners were coming to Jesus to listen to him. \v 2 Both the Pharisees and the scribes grumbled to each other, saying, "This man welcomes sinners, and even eats with them." </usfm>
 
 **1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Todos os cobradores de impostos e outros pecadores estavam se reunindo para ouvir Jesus.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os fariseus e os escribas murmuraram entre si, dizendo: “Este homem acolhe os pecadores e até come com eles .”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:taxcollector|tax collectors]]
