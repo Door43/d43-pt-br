@@ -1,4 +1,4 @@
-====== Luke 05:14 ======
+====== Luke 05:14  *F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 14 He instructed him to tell no one, but told him, "Go on your way, and show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them." </usfm>
 
 **14** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ele o instruiu para não dizer a ninguém, mas falou a ele, “Siga seu caminho, se mostre ao sacerdote e ofereça um sacrifício pela sua purificação, de acordo com o que Moisés ordenou, como testemunho a eles.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:priest|priest]]
