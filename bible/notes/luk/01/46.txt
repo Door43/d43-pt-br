@@ -14,8 +14,6 @@
 
 <usfm> \v 46 Mary said, \q "My soul exalts the Lord, \q \v 47 And my spirit rejoices in God my Savior. </usfm>
 
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>46 Maria disse: “Minha alma exalta o Senhor, 47 E o meu espírito se extasia em Deus, meu Salvador.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:mary|Mary]]
