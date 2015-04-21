@@ -14,8 +14,6 @@
 
 <usfm> \v 21 Meanwhile, the people were waiting for Zechariah and wondering why he stayed so long in the temple. \v 22 When he came out, he could not speak to them, and they realized that he had seen a vision in the temple. He made signs to them, but remained unable to speak. \v 23 When his time of service was fulfilled, he went back to his house. </usfm>
 
-**21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Enquanto Zacarias e o anjo estavam conversando no templo, as pessoas no pátio esperavam a saída de Zacarias. Eles se perguntavam por que ele estava demorando tanto no templo .</font> **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando ele saiu, ele não podia falar com eles, por isso fez movimentos com as mãos para tentar explicar o que aconteceu. Então perceberam que ele teve uma visão dada por Deus, enquanto estava no templo.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando o trabalho de de Zacarias, como sacerdote terminou, ele saiu de Jerusalém e foi para sua casa.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
