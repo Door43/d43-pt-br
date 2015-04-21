@@ -1,4 +1,4 @@
-====== Luke 01:16-17 ======
+====== Luke 01:16-17~C ======
 
 ===== TFT: =====
 
@@ -16,7 +16,7 @@
 
 **16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele fará com que muitos dos filhos de Israel voltem ao Senhor seu Deus.</font> **17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele o precederá e falará com o mesmo espírito, poder de Elias. Fará com que pais restaurem suas relações com seus filhos, e que os desobedientes andem de acordo com a sabedoria dos justos. Ele fará isso, a fim de preparar o povo para a chegada do Senhor.”</font>
 
-  * [[:pt-br:bible:notes:key-terms:jacob|Israel]]
+   * [[:pt-br:bible:notes:key-terms:jacob|Israel]]
   * [[:pt-br:bible:notes:key-terms:lord|Lord]]
   * [[:pt-br:bible:notes:key-terms:god|God]]
   * [[:pt-br:bible:notes:key-terms:spirit|spirit]]
