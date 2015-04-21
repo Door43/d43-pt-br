@@ -14,6 +14,8 @@
 
 <usfm> \v 16 He will cause many of the sons of Israel to turn back to the Lord their God. \v 17 He will go in advance of him in the spirit and power of Elijah. He will turn the hearts of the fathers to the children, and cause the disobedient to walk according to the wisdom of the righteous. He will do this in order to make ready a people prepared for the Lord." </usfm>
 
+**16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele fará com que muitos dos filhos de Israel voltem ao Senhor seu Deus.</font> **17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele precederá o Messias e falará com o mesmo espírito, poder e autoridade de Elias. Fará com que pais restaurem suas relações com seus filhos, e que os desobedientes andem de acordo com a sabedoria dos justos. Ele fará isso, a fim de preparar o povo para a chegada do Senhor.”</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jacob|Israel]]
