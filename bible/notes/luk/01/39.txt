@@ -12,6 +12,8 @@
 
 <usfm> \p \v 39 Now in those days Mary got up and hurried to the hill country, to a city in Judea, \v 40 where she went into Zechariah's house and greeted Elizabeth. \v 41 As Elizabeth heard Mary's greeting, the baby in her womb leaped; and Elizabeth was filled with the Holy Spirit. </usfm>
 
+**39** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Naqueles dias, Maria se preparou e foi apressadamente para uma cidade montanhosa da Judeia</font> **40** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>, onde ela entrou na casa de Zacarias e saudou Isabel.</font> ** 41** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando Isabel ouviu a saudação de Maria, a criança moveu-se de alegria no seu ventre; e Isabel ficou cheia do Espírito Santo.</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:mary|Mary]]
