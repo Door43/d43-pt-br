@@ -12,8 +12,6 @@
 
 <usfm> \v 34 Then Mary said to the angel, "How will this happen, since I am a virgin?" \v 35 The angel answered her, "The Holy Spirit will come over you and the power of the Most High will overshadow you. Therefore, the holy one who will be born will be called the Son of God. </usfm>
 
-**34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então Maria disse ao anjo: “Como isso acontecerá, já que eu sou virgem?”</font> **35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O anjo respondeu: “O Espírito Santo virá a você e o poder de Deus o envolverá. Assim, aquele que nascerá será Santo, chamado Filho de Deus.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:mary|Mary]]
