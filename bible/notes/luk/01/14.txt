@@ -12,8 +12,6 @@
 
 <usfm> \v 14 You will have joy and gladness because of him, and many people will rejoice at his birth. \v 15 For he will be great in the sight of the Lord, and he will not drink wine or strong drink. He will be filled with the Holy Spirit, even while in his mother’s womb. </usfm>
 
-**14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Vocês terão felicidade e alegria por causa dele, e muitas pessoas exultarão de alegria com o seu nascimento.</font> ** 15** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois ele será grandioso na presença do Senhor, e ele não beberá vinho, nem bebida forte. Ainda mesmo no ventre de sua mãe ele será cheio do Espírito Santo.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:joy|joy]]
