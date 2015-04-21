@@ -16,6 +16,8 @@
 
 <usfm> \p \v 24 After these days, his wife Elizabeth conceived. She hid herself for five months, saying, \v 25 "This is what the Lord has done for me. He watched over me, to take away my disgrace among people." </usfm>
 
+<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>24 Depois disso, sua esposa Elizabeth concebeu. Ela escondeu-se por cinco meses, dizendo: 25 O Senhor me permitiu engravidar. Ele teve compaixão de mim e retirou a razão pela qual as pessoas olhavam-me com desprezo. ”</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:elizabeth|Elizabeth]]
