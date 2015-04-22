@@ -1,35 +1,20 @@
 ====== Luke 01:64-66 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 64 Immediately Zechariah was able to speak again \f + \ft metonymy \f*, and he praised God.
-\v 65 All their neighbors were amazed\f + \ft Or: awestruck \f*! They told other people who lived all over the highlands of Judea about what had happened.
-\v 66 Everyone who heard about it kept thinking about it. They were saying, "We wonder what work \add the child\add* will do \add for God when\add* he \add grows up\add* \f + \ft rhetorical question \f*!" They wondered that because \add from what had happened they were sure that\add* God would be helping him \f + \ft synecdoche \f* \add in a powerful way\add*.
+<usfm> \v 64 Immediately Zechariah was able to speak again \f + \ft metonymy \f*, and he praised God. \v 65 All their neighbors were amazed\f + \ft Or: awestruck \f*! They told other people who lived all over the highlands of Judea about what had happened. \v 66 Everyone who heard about it kept thinking about it. They were saying, "We wonder what work \add the child\add* will do \add for God when\add* he \add grows up\add* \f + \ft rhetorical question \f*!" They wondered that because \add from what had happened they were sure that\add* God would be helping him \f + \ft synecdoche \f* \add in a powerful way\add*.
 
-
-\q1
-</usfm>
-
+\q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 64 Immediately Zechariah was able to speak again, and he began praising God.
-\v 65 Everyone who lived nearby was completely awed by what God had done. They told many other people about what had happened and the news spread all over the highlands of Judea.
-\v 66 Everyone who heard it kept thinking about it. They were saying, “We wonder what work this child will do when he grows up!” Because of everything that had happened, they were sure that God would be helping him in a powerful way.
-</usfm>
-
+<usfm> \v 64 Immediately Zechariah was able to speak again, and he began praising God. \v 65 Everyone who lived nearby was completely awed by what God had done. They told many other people about what had happened and the news spread all over the highlands of Judea. \v 66 Everyone who heard it kept thinking about it. They were saying, “We wonder what work this child will do when he grows up!” Because of everything that had happened, they were sure that God would be helping him in a powerful way. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 64 Immediately his mouth was opened and his tongue was freed, and he began to speak, praising God. 
-\v 65 Then fear came on everyone who lived around them and everything that happened was being talked about throughout all the hill country of Judea. 
-\v 66 Everyone who heard about this kept thinking about what had happened and said, “So then, what will this child become?” For they realized that the hand of the Lord was with him.
-</usfm>
+<usfm> \v 64 Immediately his mouth was opened and his tongue was freed, and he began to speak, praising God. \v 65 Then fear came on everyone who lived around them and everything that happened was being talked about throughout all the hill country of Judea. \v 66 Everyone who heard about this kept thinking about what had happened and said, “So then, what will this child become?” For they realized that the hand of the Lord was with him. </usfm>
 
+**64** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Imediatamente sua boca se abriu e sua língua se soltou, e ele começou a falar, louvando a Deus.</font> **65** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então temor veio sobre todos os que viviam ao seu redor e tudo o que aconteceu foi falado por toda a área de colinas da Judeia.</font> **66** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Todos aqueles que ouviram o que aconteceu, ficaram pensando sobre o ocorrido. Disseram:“O que será que esta criança vai ser quando crescer?” Pois eles perceberam que a mão do Senhor estava sobre ele.</font>
 
 ===== Important Terms: =====
 
@@ -40,32 +25,22 @@
   * [[:pt-br:bible:notes:key-terms:judea|Judea]]
   * [[:pt-br:bible:notes:key-terms:lord|Lord]]
 
-
 ===== Translation Notes: =====
 
-  * **his mouth was opened...his tongue was freed** - These are idioms meaning that now he was able to speak. (See: [[en:ta:figuresofspeech:idiom]])
-  * **Fear came on everyone who lived around them** - This could be translated as "All who lived around Zechariah and Elizabeth were afraid" or "All who lived around them were in awe of God" because they saw that God is powerful. "All who lived around them" does not refer only to their immediate neighbors, but to all who lived in that area. (See: [[en:ta:figuresofspeech:idiom]])
-  * **everything that happened was being talked about** - This could be translated as "people were talking about all these things that had happened."
+  * **his mouth was opened…his tongue was freed**  - These are idioms meaning that now he was able to speak. (See: [[:en:ta:figuresofspeech:idiom|Idiom]])
+  * **Fear came on everyone who lived around them**  - This could be translated as "All who lived around Zechariah and Elizabeth were afraid" or "All who lived around them were in awe of God" because they saw that God is powerful. "All who lived around them" does not refer only to their immediate neighbors, but to all who lived in that area. (See: [[:en:ta:figuresofspeech:idiom|Idiom]])
+  * **everything that happened was being talked about**  - This could be translated as "people were talking about all these things that had happened."
   * **who heard about them**- The word "them" refers to the things that had happened.
-  * **thinking** - "wondering"
-  * **and said** - This could be translated as "wondering" or "asking". 
-  * **What will this child become?** - This could be translated as "What kind of great person will this baby grow up to be?" or "What a great man this child will be!" This is a rhetorical question that shows the people's surprise. Because of what they had heard about the baby, they realized that he would grow up to be an important man. 
-  * **the hand of the Lord was with him** - "The Lord's power was with him" or "The Lord was working in him powerfully." This is an example of metonymy in which the phrase "the hand of the Lord" refers to the Lord's power. (See: [[en:tA:figuresofspeech:metonymy]])
-
-
+  * **thinking**  - "wondering"
+  * **and said**  - This could be translated as "wondering" or "asking".
+  * **What will this child become?**  - This could be translated as "What kind of great person will this baby grow up to be?" or "What a great man this child will be!" This is a rhetorical question that shows the people's surprise. Because of what they had heard about the baby, they realized that he would grow up to be an important man.
+  * **the hand of the Lord was with him**  - "The Lord's power was with him" or "The Lord was working in him powerfully." This is an example of metonymy in which the phrase "the hand of the Lord" refers to the Lord's power. (See: [[:en:ta:figuresofspeech:metonymy|Metonymy]])
 ===== Links: =====
 
-  * [[pt-br/bible/notes:luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:01:59|<<]] | [[:pt-br:bible:notes:luk:01:67|>>]]**
 
-
-**[[pt-br/bible/notes:luk/01/59|<<]] | [[pt-br/bible/notes:luk/01/67|>>]]** 
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft zechariahnt fear lord}}
-
+~~DISCUSSION~~{{tag>draft zechariahnt fear lord}}
 
 ~~NOCACHE~~
