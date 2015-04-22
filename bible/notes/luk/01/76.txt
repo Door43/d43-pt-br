@@ -1,4 +1,4 @@
-====== Luke 01:76-77 ======
+====== Luke 01:76-77~C ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \q \v 76 And you, my child, will be called the prophet of the Most High, \q because you will go in advance of the Lord \q to prepare people for his coming, \q \v 77 and to help people know how they can be saved \q through the forgiveness of their sins. </usfm>
 
 **76** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E você, minha criança, será chamado o profeta do Altíssimo, porque você irá a frente do Senhor, para preparar as pessoas para a sua vinda,</font> **77** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>e para ajudar as pessoas a saber como elas podem ser salvas através do perdão de seus pecados.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:prophet|prophet]]
