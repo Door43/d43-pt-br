@@ -1,4 +1,4 @@
-====== Luke 01:67-68 ======
+====== Luke 01:67-68~C ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \p \v 67 His father Zechariah was filled with the Holy Spirit, and he spoke this prophecy, \q \v 68 "Praise the Lord, the God of Israel, \q because he has come to us and has made a way to set his people free. </usfm>
 
 **67** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Seu pai, Zacarias estava cheio do Espírito Santo, e ele falou esta profecia,</font> **68** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“Louve ao Senhor, o Deus de Israel, porque veio a nós e libertou o seu povo.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
