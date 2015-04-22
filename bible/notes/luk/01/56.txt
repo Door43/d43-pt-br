@@ -1,66 +1,39 @@
 ====== Luke 01:56-58 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 56 Mary stayed with Elizabeth for about three months. Then she returned to her home.
+<usfm> \v 56 Mary stayed with Elizabeth for about three months. Then she returned to her home.
 
-
-\p
-\v 57 When it was time for Elizabeth to bear her child, she bore a son.
-\v 58 Her neighbors and relatives heard how the Lord\f + \ft Or: God \f* had greatly blessed her, so they were happy along with \add Elizabeth\add*.
-</usfm>
-
+\p \v 57 When it was time for Elizabeth to bear her child, she bore a son. \v 58 Her neighbors and relatives heard how the Lord\f + \ft Or: God \f* had greatly blessed her, so they were happy along with \add Elizabeth\add*. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 56 Mary stayed with Elizabeth for about three months. Then she returned to her home. 
-\p
-\v 57 When it was time for Elizabeth to bear her child, she bore a son.
-\v 58 Her neighbors and relatives heard how the Lord had been so kind to her, and they were happy along with Elizabeth.
-</usfm>
-
+<usfm> \v 56 Mary stayed with Elizabeth for about three months. Then she returned to her home. \p \v 57 When it was time for Elizabeth to bear her child, she bore a son. \v 58 Her neighbors and relatives heard how the Lord had been so kind to her, and they were happy along with Elizabeth. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p 
-\v 56 Mary lived with Elizabeth about three months, and then returned to her house.
-\p 
-\v 57 Now when it was time for Elizabeth to deliver her baby, she gave birth to a son.
-\v 58 Her neighbors and relatives heard that the Lord had been very merciful to her, and they rejoiced with her.
-</usfm>
+<usfm> \p \v 56 Mary lived with Elizabeth about three months, and then returned to her house. \p \v 57 Now when it was time for Elizabeth to deliver her baby, she gave birth to a son. \v 58 Her neighbors and relatives heard that the Lord had been very merciful to her, and they rejoiced with her. </usfm>
 
+**56** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Maria permaneceu com Isabel cerca de três meses, e depois voltou para sua casa.</font> **57** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando chegou a hora de Isabel dar à luz a seu bebê, ela teve um menino.</font> ** 58** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Seus vizinhos e parentes ouviram que o Senhor foi muito misericordioso para com ela, e se alegraram com ela.</font>
 
 ===== Important Terms: =====
 
-    * [[:pt-br:bible:notes:key-terms:mary|Mary]]
-    * [[:pt-br:bible:notes:key-terms:elizabeth|Elizabeth]]
-    * [[:pt-br:bible:notes:key-terms:mercy|merciful]]
-    * [[:pt-br:bible:notes:key-terms:rejoice|rejoice]]
+  * [[:pt-br:bible:notes:key-terms:mary|Mary]]
+  * [[:pt-br:bible:notes:key-terms:elizabeth|Elizabeth]]
+  * [[:pt-br:bible:notes:key-terms:mercy|merciful]]
+  * [[:pt-br:bible:notes:key-terms:rejoice|rejoice]]
 
-  
 ===== Translation Notes: =====
 
-
-    * **returned to her house** - "Mary returned to her (Mary's) house"
-    * **deliver her baby** - "give birth (to her baby)" or "bear her child"
-    * **Her neighbors and her relatives** - "Elizabeth's neighbors and relatives"
-
-
+  * **returned to her house**  - "Mary returned to her (Mary's) house"
+  * **deliver her baby**  - "give birth (to her baby)" or "bear her child"
+  * **Her neighbors and her relatives**  - "Elizabeth's neighbors and relatives"
 ===== Links: =====
 
-    * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
-
+  * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
 
 **[[:pt-br:bible:notes:luk:01:54|<<]] | [[:pt-br:bible:notes:luk:01:59|>>]]**
 
-
-~~DISCUSSION~~
-
-
-{{tag>draft mary elizabeth mercy}}
+~~DISCUSSION~~{{tag>draft mary elizabeth mercy}}
 
 ~~NOCACHE~~
