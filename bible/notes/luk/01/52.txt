@@ -1,4 +1,4 @@
-====== Luke 01:52-53 ======
+====== Luke 01:52-53~C ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \q \v 52 He has pulled down rulers from their thrones, \q and has raised up lowly people. \q \v 53 He has given good things to hungry people, \q and has sent away rich people without anything. </usfm>
 
 **52** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele derruba os governantes de seus tronos, e exalta as pessoas humildes.</font> **53** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele proveu aos famintos com coisas boas,e despediu os ricos sem dá-los nada.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:king|king]]
