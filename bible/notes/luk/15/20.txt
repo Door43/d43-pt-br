@@ -1,4 +1,4 @@
-====== Luke 15:20-21 ======
+====== Luke 15:20-21~C ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 20 So the young son left and came toward his father. While he was still far away, his father saw him, and was moved with compassion, and ran, and hugged and kissed him. \v 21 The son said to him, 'Father, I have sinned against heaven and in your sight. I am no worthy to be called your son.' </usfm>
 
 **20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então o jovem partiu e foi encontrar com seu pai. Ainda distante, seu pai o avistou e cheio de compaixão correu em direção a ele,e o abraçou e beijou.</font> **21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E o filho disse:¨ Pai eu pequei contra o Céu e você, não sou digno de ser chamado seu filho.¨</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:sin|sin]]
