@@ -1,4 +1,4 @@
-====== Luke 15:31-32 ======
+====== Luke 15:31-32~C ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 31 The father said to him, 'Son, you are always with me, and all that is mine is yours. \v 32 But it was proper for us to feast and be happy, for this brother of yours was dead, and is now alive; he was lost, and has now been found.'" </usfm>
 
 **31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>. O pai disse, ¨Filho, você sempre está comigo e tudo que é meu é seu.</font> **32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas, nós tínhamos que festejar e nos alegrar, porque seu irmão estava morto e agora está vivo, estava perdido e foi encontrado.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:life|alive]]
