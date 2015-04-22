@@ -1,4 +1,4 @@
-====== Luke 01:69-71 ======
+====== Luke 01:69-71~C ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \q \v 69 He has provided for us a powerful Savior \q from among the descendants of his servant David, \q \v 70 just as God spoke through his holy prophets long ago. \q \v 71 He promised to provide for us salvation from our enemies, \q and from the hand of everyone who hates us. </usfm>
 
 **69** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele providenciou para nós um poderoso Salvador dentre os descendentes de Davi, seu servo,</font> **70** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>assim como Deus falou há muito tempo, através de seus santos profetas.</font> ** 71** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele prometeu nos salvar de nossos inimigos,e da mão de todos os que nos odeiam.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:power|powerful]]
