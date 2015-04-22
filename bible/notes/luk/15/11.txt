@@ -1,4 +1,4 @@
-====== Luke 15:11-12 ======
+====== Luke 15:11-12~C ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 11 Then Jesus said, "A certain man had two sons, \v 12 and the younger of them said to his father, 'Father, give me now the property I am due to inherit.' So he divided his wealth between them. </usfm>
 
 **11** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então Jesus disse: “Um homem tinha dois filhos,</font> **12** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>o mais moço deles disse ao pai: Pai, dá-me agora a propriedade que é minha por herança. Assim, ele repartiu sua riqueza entre eles.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:son|son]]
