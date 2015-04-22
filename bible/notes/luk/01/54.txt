@@ -1,71 +1,46 @@
 ====== Luke 01:54-55 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 54-55 He promised to Abraham and all our other ancestors who descended from him that he would act mercifully toward them forever.
-\q1 And now he has remembered what he promised.
-\q1 So he has helped me and all the other people of \f + \ft metonymy \f* Israel who serve him.
-\p
-</usfm>
-
+<usfm> \v 54-55 He promised to Abraham and all our other ancestors who descended from him that he would act mercifully toward them forever. \q1 And now he has remembered what he promised. \q1 So he has helped me and all the other people of \f + \ft metonymy \f* Israel who serve him. \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 54-55 He has helped Israel, the people who serve him.
-\q Long ago he promised our ancestors that he would be merciful to them.
-\q He has kept that promise and has always acted mercifully toward Abraham and all who descended from him."
+<usfm> \v 54-55 He has helped Israel, the people who serve him. \q Long ago he promised our ancestors that he would be merciful to them. \q He has kept that promise and has always acted mercifully toward Abraham and all who descended from him."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q \v 54 He has helped his servant Israel,
-\q  in order to be merciful
-\q \v 55 to Abraham and his descendants forever, 
-\q just as he promised to our ancestors he would do."
-</usfm>
+<usfm> \q \v 54 He has helped his servant Israel, \q in order to be merciful \q \v 55 to Abraham and his descendants forever, \q just as he promised to our ancestors he would do." </usfm>
 
+**54** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele ajudou a seu servo Israel , sendo misericordioso</font> **55** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>a Abraão e à sua descendência para sempre, como ele prometeu aos nossos antepassados . ”</font>
 
 ===== Important Terms: =====
 
-    * [[:pt-br:bible:notes:key-terms:servant|servant]]
-    * [[:pt-br:bible:notes:key-terms:israel|Israel]]
-    * [[:pt-br:bible:notes:key-terms:mercy|merciful]]
-    * [[:pt-br:bible:notes:key-terms:abraham|Abraham]]
-    * [[:pt-br:bible:notes:key-terms:descendant|descendant]]
-    * [[:pt-br:bible:notes:key-terms:promise|promise]]
-    * [[:pt-br:bible:notes:key-terms:ancestor|ancestor]]
-
+  * [[:pt-br:bible:notes:key-terms:servant|servant]]
+  * [[:pt-br:bible:notes:key-terms:israel|Israel]]
+  * [[:pt-br:bible:notes:key-terms:mercy|merciful]]
+  * [[:pt-br:bible:notes:key-terms:abraham|Abraham]]
+  * [[:pt-br:bible:notes:key-terms:descendant|descendant]]
+  * [[:pt-br:bible:notes:key-terms:promise|promise]]
+  * [[:pt-br:bible:notes:key-terms:ancestor|ancestor]]
 
 ===== Translation Notes: =====
 
-    * (Mary continues to praise God:)
-    * **He has helped** - "The Lord has helped" 
-    * **his servant Israel** - "Israel" here refers to the nation, or people, of Israel. If readers confuse this with the the man named Israel, it could be translated as "his servant, the nation of Israel" or "Israel, his servants." 
-    * **just as he promised** - "because he promised"
-    * **his descendants** - "Abraham's descendants"
-    * (This is the end of Mary's speech.)
-
+  * (Mary continues to praise God:)
+  * **He has helped**  - "The Lord has helped"
+  * **his servant Israel**  - "Israel" here refers to the nation, or people, of Israel. If readers confuse this with the the man named Israel, it could be translated as "his servant, the nation of Israel" or "Israel, his servants."
+  * **just as he promised**  - "because he promised"
+  * **his descendants**  - "Abraham's descendants"
+  * (This is the end of Mary's speech.)
 
 ===== Links: =====
 
-    * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:01:52|<<]] | [[:pt-br:bible:notes:luk:01:56|>>]]**
 
-**[[:pt-br:bible:notes:luk:01:52|<<]] | [[:pt-br:bible:notes:luk:01:56|>>]]** 
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft israel abraham promise}}
-
+~~DISCUSSION~~{{tag>draft israel abraham promise}}
 
 ~~NOCACHE~~
