@@ -42,7 +42,7 @@
   * [[:pt-br:bible:notes:key-terms:elect|elect]]
   * [[:pt-br:bible:notes:key-terms:true|true]]
   * [[:pt-br:bible:notes:key-terms:godly|godliness]]
-  * [[:pt-br:bible:notes:key-terms:eternallife|everlasting life]]
+  * [[:pt-br:bible:notes:key-terms:eternity|everlasting life]]
   * [[:pt-br:bible:notes:key-terms:word|word]]
   * [[:pt-br:bible:notes:key-terms:savior|Savior]]
 
@@ -65,4 +65,4 @@
   * **[[:pt-br:bible:notes:tit:questions:comprehension:01|Titus Chapter 01 Comprehension Questions]]**
 **[[:pt-br:bible:notes:tit:01:04|>>]]**
 
-~~DISCUSSION~~{{tag>draft paul apostle elect godly eternallife}}
+~~DISCUSSION~~{{tag>draft paul apostle elect godly eternity}}
