@@ -1,4 +1,4 @@
-====== Luke 01:62-63 ======
+====== Luke 01:62-63~C ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 62 They gestured to his father to find out what name he wanted him to be called. \v 63 So he asked for a writing tablet and wrote on it, "His name is John." They all were very surprised. </usfm>
 
 **62** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles gesticularam para o pai para descobrir qual o nome que ele gostaria de dar a seu filho.</font> **63** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então, ele pediu uma tabuinha e escreveu : “Seu nome é João.” Todos ficaram muito surpresos.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:johnthebaptist|John]]
