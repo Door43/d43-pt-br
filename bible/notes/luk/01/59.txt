@@ -1,4 +1,4 @@
-====== Luke 01:59-61 ======
+====== Luke 01:59-61~C ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 59 Then, on the eighth day after that, they came to circumcise the baby; and they would have called him Zechariah, after the name of his father. \v 60 But his mother answered and said, “No, instead he will be called John.” \v 61 They said to her, “There is no one from among your relatives who is called by this name.” </usfm>
 
 **59** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>No oitavo dia após o nascimento foram circuncidar o bebê; e eles queriam chama-lo de Zacarias, como seu pai.</font> **60** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas, sua mãe respondeu e disse: “Não, ele se chamará João.”</font> **61** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E disseram-lhe: “Não há ninguém entre seus parentes que se chame por este nome.”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:circumcise|circumcise]]
