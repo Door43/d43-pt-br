@@ -1,36 +1,20 @@
 ====== Luke 01:50-51 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 50 He acts mercifully from one generation to the next toward those who respect him.
-\q1
-\v 51 He shows people that he \f + \ft metonymy \f* is very powerful. He scatters those who think proudly within their inner beings.
-\q1
-</usfm>
+<usfm> \v 50 He acts mercifully from one generation to the next toward those who respect him. \q1 \v 51 He shows people that he \f + \ft metonymy \f* is very powerful. He scatters those who think proudly within their inner beings. \q1 </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 50 He acts mercifully from one generation to the next toward those who respect him. 
-\q
-\v 51 He shows people that he is very powerful. 
-\q He scatters those who think proudly within their inner beings.
+<usfm> \v 50 He acts mercifully from one generation to the next toward those who respect him. \q \v 51 He shows people that he is very powerful. \q He scatters those who think proudly within their inner beings.
 
-
-\q
-</usfm>
-
+\q </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\q \v 50 His mercy is for generation after generation of people who fear him.
-\q \v 51 He has done powerful things with his arm; 
-\q he has scattered those who are proud in their heart.
-</usfm>
+<usfm> \q \v 50 His mercy is for generation after generation of people who fear him. \q \v 51 He has done powerful things with his arm; \q he has scattered those who are proud in their heart. </usfm>
 
+**50** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Sua misericórdia estende-se de geração em geração sobre aqueles que o temem.</font> **51** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele fez coisas podedoras com o seu braço. Ele é poderoso e dispersou os orgulhosos de coração.</font>
 
 ===== Important Terms: =====
 
@@ -47,22 +31,14 @@
   * **his mercy is for**  - This could be translated as "God's mercy is for" or "he shows mercy to" or "he is merciful to."
   * **generation after generation of people**  - This could be translated as "every generation of people" or "people in all generations" or "people in every time period."
   * **fear him**  - This has a wider meaning than just being afraid. It also means to respect, honor, and obey God.
-  * **with his arm**  - "by means of his arm." This is a figure of speech that refers to God's strength. (See: [[:en:ta:figuresofspeech:metonymy]])
+  * **with his arm**  - "by means of his arm." This is a figure of speech that refers to God's strength. (See: [[:en:ta:figuresofspeech:metonymy|Metonymy]])
   * **scattered**  - This could be translated as "caused [them] to run away in different directions" or "chased away."
-
-
 ===== Links: =====
 
-  * [[pt-br/bible/notes:luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
 
+**[[:pt-br:bible:notes:luk:01:48|<<]] | [[:pt-br:bible:notes:luk:01:52|>>]]**
 
-
-**[[pt-br/bible/notes:luk/01/48|<<]] | [[pt-br/bible/notes:luk/01/52|>>]]** 
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft mercy heart fear}}
+~~DISCUSSION~~{{tag>draft mercy heart fear}}
 
 ~~NOCACHE~~
