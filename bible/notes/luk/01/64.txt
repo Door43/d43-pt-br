@@ -1,4 +1,4 @@
-====== Luke 01:64-66 ======
+====== Luke 01:64-66~C ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \v 64 Immediately his mouth was opened and his tongue was freed, and he began to speak, praising God. \v 65 Then fear came on everyone who lived around them and everything that happened was being talked about throughout all the hill country of Judea. \v 66 Everyone who heard about this kept thinking about what had happened and said, “So then, what will this child become?” For they realized that the hand of the Lord was with him. </usfm>
 
 **64** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Imediatamente sua boca se abriu e sua língua se soltou, e ele começou a falar, louvando a Deus.</font> **65** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então temor veio sobre todos os que viviam ao seu redor e tudo o que aconteceu foi falado por toda a área de colinas da Judeia.</font> **66** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Todos aqueles que ouviram o que aconteceu, ficaram pensando sobre o ocorrido. Disseram:“O que será que esta criança vai ser quando crescer?” Pois eles perceberam que a mão do Senhor estava sobre ele.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
