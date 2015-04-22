@@ -1,4 +1,4 @@
-====== Luke 15:22-24 ======
+====== Luke 15:22-24~C ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \v 22 The father said to his servants, 'Bring quickly the best robe, and put it on him, and put a ring on his hand, and sandals on his feet. \v 23 Then bring the fattened calf and kill it. Let us eat and have a feast. \v 24 For my son was dead, and is now alive. He was lost, and is now found.' And they began to feast. </usfm>
 
 **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O pai disse aos seus empregados,</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>vão rápido e tragam a melhor túnica e o cubram, coloque um anel em seu dedo, e calce sandálias nos seus pés.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E traga um novilho gordo e mate para que possamos comer e celebrar,</font> **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>pois meu filho estava morto e agora está vivo!, estava perdido e foi encontrado!.E todos festejaram.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
