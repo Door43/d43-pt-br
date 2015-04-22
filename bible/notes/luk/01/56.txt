@@ -1,4 +1,4 @@
-====== Luke 01:56-58 ======
+====== Luke 01:56-58~C ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \p \v 56 Mary lived with Elizabeth about three months, and then returned to her house. \p \v 57 Now when it was time for Elizabeth to deliver her baby, she gave birth to a son. \v 58 Her neighbors and relatives heard that the Lord had been very merciful to her, and they rejoiced with her. </usfm>
 
 **56** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Maria permaneceu com Isabel cerca de três meses, e depois voltou para sua casa.</font> **57** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando chegou a hora de Isabel dar à luz a seu bebê, ela teve um menino.</font> ** 58** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Seus vizinhos e parentes ouviram que o Senhor foi muito misericordioso para com ela, e se alegraram com ela.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:mary|Mary]]
