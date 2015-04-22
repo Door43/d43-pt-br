@@ -1,4 +1,4 @@
-====== Luke 15:25-27 ======
+====== Luke 15:25-27~C ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 25 Now his elder son was out in the field. As he came and drew near to the house, he heard music and dancing. \v 26 He called to one of the servants and asked what these things might be. \v 27 The servant said to him, 'Your brother has come home and your father has killed the fattened calf, because he has returned safely.' </usfm>
 
 **25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Enquanto isso o seu filho mais velho trabalhava no campo. Ao aproximar-se da casa escutou barulho de música e dança.</font> ** 26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele chamou um empregado e perguntou o que estava acontecendo.</font> **27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O empregado respondeu: ¨Seu irmão regressou salvo a casa e por esse motivo seu pai matou o novilho mais gordo.¨</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
