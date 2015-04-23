@@ -14,8 +14,6 @@
 
 <usfm> \v 8 The master then commended the unrighteous manager because he had acted shrewdly, since the sons of this world are more shrewd concerning their own people than the sons of the light are. \v 9 I say to you, make friends for yourselves by means of worldly wealth, so that when it is gone, they may welcome you into the eternal dwellings. </usfm>
 
-**8** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>O senhor elogiou o administrador corrupto, porque ele foi esperto,e as pessoas deste mundo que são espertas se respeitam mais mutuamente,do que os filhos da luz .</font> ** 9** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Eu digo a vocês: façam amigos aqui nesse mundo por meio de suas riquezas mundanas , pois quando suas riquezas acabarem, eles possam recebe-lo nas moradas eternas</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|master]]
