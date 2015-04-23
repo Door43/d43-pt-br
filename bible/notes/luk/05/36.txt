@@ -1,4 +1,4 @@
-====== Luke 05:36 ======
+====== Luke 05:36-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 36 Then Jesus also spoke a parable to them. "No man tears a piece of cloth from a new garment and uses it to mend an old garment. If he did that, he would tear the new garment, and the piece of cloth from the new garment would not fit with the cloth of the old garment. </usfm>
 
 **36** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então Jesus contou uma parábola a eles: “Ninguém tira remendo de uma roupa nova para consertar uma roupa velha. Pois, se fizer isto a roupa nova ficará rasgada e o remendo não combinará com a roupa velha.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:parable|parable]]
