@@ -1,4 +1,4 @@
-====== Luke 05:33-35 ======
+====== Luke 05:33-35-F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \p \v 33 They said to him, "The disciples of John often fast and pray, and the disciples of the Pharisees do the same. But your disciples eat and drink." \v 34 Jesus said to them, "Can anyone make the wedding attendants of the bridegroom fast, while the bridegroom is still with them? \v 35 But the days will come when the bridegroom will be taken away from them, then in those days they will fast." </usfm>
 
 **33** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Eles disseram a ele: “Os discípulos de João estão sempre jejuando e orando, os discípulos do Fariseus também. Mas os seus discípulos bebem e comem.”</font> **34** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E Jesus disse: “Pode alguém fazer os convidados de um casamento jejuarem enquanto o noivo está com eles?”</font> **35** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas chegarão dias em que o noivo será tirado deles, naqueles dias eles jejuarão.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:disciple|disciples]]
