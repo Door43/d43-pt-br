@@ -1,4 +1,4 @@
-====== Luke 01:8-10~C ======
+====== Luke 01:8-10*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 8 One day while Zechariah was performing his duties as a priest before God in the order of his division, \v 9 the priests followed their custom and chose him by lot to enter the temple of the Lord and burn incense. \v 10 The whole assembly of the people was praying outside when it was time to burn the incense. </usfm>
 
 **8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Um dia, enquanto Zacarias exercia suas funções como sacerdote diante de Deus, representando seu grupo sacerdotal, ele foi escolhido por sorteio, conforme seus costumes, pelos</font> **9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>sacerdotes para entrar no templo do Senhor, para oferecer incenso. Quando chegou a hora de queimar o incenso,</font> **10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>todo o povo estava fora, orando</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
@@ -28,7 +27,7 @@
 
 ===== Translation Notes: =====
 
-  * **before God**  - "in God's presence." For clarity, some translators might want to add the implied information "in the temple at Jerusalem." (See: [[en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * **before God**  - "in God's presence." For clarity, some translators might want to add the implied information "in the temple at Jerusalem." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
   * **their custom**  - "their tradition" or "their usual way of making important decisions"
   * **chose him by lot**  - A lot was a marked stone that was thrown or rolled on the ground in order to help them decide something. The priests believed that God guided the lot to show them which priest he wanted them to choose. (See: [[:en:ta:customs:religious:bylot|by lot]])
   * **the whole assembly of the people**  - "a large number of people" or "many people"
