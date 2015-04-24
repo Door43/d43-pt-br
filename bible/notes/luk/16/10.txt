@@ -1,4 +1,4 @@
-====== Luke 16:10-12 ======
+====== Luke 16:10-12-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 10 He who is faithful in very little is also faithful in much, and he who is unrighteous in very little is also unrighteous in much. \v 11 Therefore, if you have not been faithful in using worldly wealth, who will trust you with true wealth? \v 12 Likewise, if you have not been faithful in that which belongs to another person, who will give you that which is your own? </usfm>
 
 **10** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Quem é fiel no pouco, também é fiel no muito, e quem é desonesto no pouco, também é desonesto no muito.</font> **11** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Sendo assim, se você não foi honesto usando as riquezas desse mundo, quem irá confiar a você o que é verdadeiro valioso?</font> **12** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Da mesma forma, se você não foi honesto com as coisas que pertencem a outras pessoas, quem lhe dará o que é seu para administrar?</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:faithful|faithful]]
