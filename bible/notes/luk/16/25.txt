@@ -12,6 +12,8 @@
 
 <usfm> \v 25 But Abraham said, 'Child, remember that in your lifetime you received your good things, and Lazarus in like manner evil things. But now he is comforted here, and you are in agony. \v 26 And besides all this, a great chasm has been firmly placed, so that those who want to cross over from here to you will not be able to, and no one will be able to come across from there to us.' </usfm>
 
+**25** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Além do que Abraão disse filho: Lembre-se que, enquanto você estava vivo você recebeu tudo que era bom e por outro lado Lázaro recebeu tudo que era ruim. Agora Lázaro está consolado aqui enquanto você agoniza.</font> **26** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Além de tudo isso, foi colocado um grande abismo para que aqueles que queiram cruzar daqui para o seu lado não conseguiram e ninguém será capaz de cruzar dai para o nosso lado.</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:abraham|Abraham]]
