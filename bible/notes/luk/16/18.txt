@@ -2,57 +2,39 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 18 \add For example, because God considers that a marriage lasts until either the husband or the wife dies, he considers that\add* any man who divorces his wife and marries another woman is committing adultery. He also \add considers that\add* any man who marries a woman who has been divorced by her husband \f + \ft Or:whose husband has divorced her \f* is \add also\add* committing adultery."
+<usfm> \v 18 \add For example, because God considers that a marriage lasts until either the husband or the wife dies, he considers that\add* any man who divorces his wife and marries another woman is committing adultery. He also \add considers that\add* any man who marries a woman who has been divorced by her husband \f + \ft Or:whose husband has divorced her \f* is \add also\add* committing adultery."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 18 Any man who divorces his wife and marries another woman is committing adultery, and any man who marries a woman who is divorced from her husband is also committing adultery."
+<usfm> \v 18 Any man who divorces his wife and marries another woman is committing adultery, and any man who marries a woman who is divorced from her husband is also committing adultery."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 18 Everyone who divorces his wife and marries another commits adultery, and he who marries one who is divorced from her husband commits adultery.
-</usfm>
+<usfm> \p \v 18 Everyone who divorces his wife and marries another commits adultery, and he who marries one who is divorced from her husband commits adultery. </usfm>
 
+**18** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Aquele que divorcia sua mulher e casa com outra comete adultério; e quem se casa com aquela que é divorciada comete adultério.</font>
 
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:divorce|divorce]]
   * [[:pt-br:bible:notes:key-terms:adultery|adultery]]
- 
 
 ===== Translation Notes: =====
 
-
-    * (Jesus continues speaking to the people.)
-    * Since this is an example of a law that has not changed, this verse could also start with "For example."
-    * **Everyone who divorces his wife**  - "Anyone who divorces his wife" or "Any man who divorces his wife" or "If a man divorces his wife"
-    * **commits adultery**  - "Is guilty of adultery"
-    * **he who marries one**  - "any man who marries a woman" or "if a man marries a woman"
-
+  * (Jesus continues speaking to the people.)
+  * Since this is an example of a law that has not changed, this verse could also start with "For example."
+  * **Everyone who divorces his wife**  - "Anyone who divorces his wife" or "Any man who divorces his wife" or "If a man divorces his wife"
+  * **commits adultery**  - "Is guilty of adultery"
+  * **he who marries one**  - "any man who marries a woman" or "if a man marries a woman"
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/16|Luke Chapter 16 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:16|Luke Chapter 16 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:16:16|<<]] | [[:pt-br:bible:notes:luk:16:19|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft divorce adultery}}
 
-**[[pt-br/bible/notes/luk/16/16|<<]] | [[pt-br/bible/notes/luk/16/19|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft divorce adultery}}
 ~~NOCACHE~~
