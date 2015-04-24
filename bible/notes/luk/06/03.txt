@@ -14,7 +14,9 @@
 
 <usfm> \v 3 Jesus, answering them, said, "Have you not even read what David did when he was hungry, he and the men who were with him? \v 4 He went into the house of God, and took the bread of the presence and ate some of it, and also gave some to the men who were with him to eat, even though it was only lawful for the priests to eat it." \v 5 Then he said to them, "The Son of Man is Lord of the Sabbath." </usfm>
 
-===== Important Terms: =====
+**3** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>Jesus respondendo eles, disse: “Vocês nunca leram o que Davi fez quando ele e os homens que estavam com ele tiveram fome?</font> **4** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>Ele entrou na casa de Deus, pegou o pão consagrado a Deus, comeu e também deu aos que estavam com ele. O sacerdote era o único que tinha permissão para comer o pão.</font> **5** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>E Jesus disse a eles: “O Filho do Homem é Senhor do Sába.”</font>
+
+<font inherit/Lato, sans-serif;;inherit;;inherit>Important Terms:</font>
 
   * [[:pt-br:bible:notes:key-terms:david|David]]
   * [[:pt-br:bible:notes:key-terms:houseofgod|house of God]]
