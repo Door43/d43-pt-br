@@ -1,4 +1,4 @@
-====== Luke 05:37-39-F ======
+====== Luke 05:37-39*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 37 Also, no man puts new wine into old wineskins. If he did that, the new wine would burst the skins, and the wine would be spilled, and the wineskins would be destroyed. \v 38 But new wine must be put into fresh wineskins. \v 39 No man, after drinking old wine, desires new wine, because he says, 'The old is better.'" </usfm>
 
 **37** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>Ninguém coloca vinho novo em odre velho. Se fizer isto, o vinho novo romperá o odre e se derramará e o odre será destruído.</font> **38** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>Mas vinho novo, deve ser colocado em odre novo.</font> **39** <font inherit/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; background-color: rgb(238, 238, 238);>Ninguém após tomar vinho velho deseja tomar o vinho novo, pois diz: “O velho é melhor.”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:wine|wine]]
