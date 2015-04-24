@@ -1,4 +1,4 @@
-====== Luke 16:24~C ======
+====== Luke 16:24*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 24 And he cried out and said, 'Father Abraham, have mercy on me and send Lazarus, that he may dip the tip of his finger in water and cool my tongue, for I am in anguish in this flame.' </usfm>
 
 **24** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Então ele gritou e disse: Pai Abraão, tem compaixão de mim e manda Lázaro, molhar a ponta de seu dedo na água e tocar minha língua para refrescar, porque estou aflito neste fogo. ”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:abraham|Abraham]]
