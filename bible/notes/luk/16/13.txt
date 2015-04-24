@@ -10,6 +10,8 @@
 
 <usfm> \v 13 No servant is able to serve two different masters at the same time. If he tried to do that, he would hate one of them and love the other one, or he would be loyal to one of them and despise the other one. Similarly, you cannot devote your life to serving God if you are devoting your life to acquiring money and other material possessions."
 
+<font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>13 Ninguém pode servir a dois senhores, porque ou amará um e odiará o outro, ou se dedicará a um e desprezará o outro. Não se pode servir a Deus e às riquezas ”.</font>
+
 \p </usfm>
 
 ===== ULB: =====
