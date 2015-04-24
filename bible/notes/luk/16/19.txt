@@ -1,4 +1,4 @@
-====== Luke 16:19-21 ======
+====== Luke 16:19-21~C ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 19 Now there was a certain rich man who was clothed in purple and fine linen and was enjoying every day his great wealth. \v 20 A certain beggar named Lazarus was laid at his gate, covered with sores, \v 21 and he yearned to be fed with what fell from the rich man’s table—and besides that, the dogs came and licked his sores. </usfm>
 
 **19** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Havia um homem rico, que se vestia de linho fino púrpura e desfrutava diariamente de sua grande riqueza.</font> ** 20** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>No seu portão se deitava um mendigo cheio de chagas, chamado Lázaro,</font> **21** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>ele desejava comer qualquer coisa que caísse da mesa do homem rico- e os cães vinham lamber suas chagas.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:beg|beggar]]
