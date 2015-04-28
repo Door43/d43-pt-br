@@ -2,25 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 27 "But I say this to each of you \add disciples\add* who are listening \add to what I say\add*: Love your enemies \add as well as your friends\add*! Do good things for those who hate you!
-\v 28 \add Ask God to\add* bless those who curse you! Pray for those who mistreat you!
-</usfm>
+<usfm> \v 27 "But I say this to each of you \add disciples\add* who are listening \add to what I say\add*: Love your enemies \add as well as your friends\add*! Do good things for those who hate you! \v 28 \add Ask God to\add* bless those who curse you! Pray for those who mistreat you! </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 27 "But I say this to each of you who are listening to what I say: Love your enemies, not only your friends! Do good things for those who hate you!
-\v 28 Ask God to bless those who curse you! Pray for those who treat you badly!
-</usfm>
+<usfm> \v 27 "But I say this to each of you who are listening to what I say: Love your enemies, not only your friends! Do good things for those who hate you! \v 28 Ask God to bless those who curse you! Pray for those who treat you badly! </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 27 But I say to you who are listening, love your enemies and do good to those who hate you.
-\v 28 Bless those who curse you and pray for those who mistreat you.
-</usfm>
+<usfm> \p \v 27 But I say to you who are listening, love your enemies and do good to those who hate you. \v 28 Bless those who curse you and pray for those who mistreat you. </usfm>
+
+**27** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas eu digo para vocês que estão ouvindo, amem os seus inimigos e façam o bem aos que os odeiam.</font> **28** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Abençoem aqueles que os amaldiçoam e orem por aqueles que os maltratam.</font>
 
 ===== Important Terms: =====
 
