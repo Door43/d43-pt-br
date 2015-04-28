@@ -1,4 +1,4 @@
-====== Luke 03:30-32 ======
+====== Luke 03:30-32*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 30 the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim, \v 31 the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David, \v 32 the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon, </usfm>
 
 **30** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliaquim,</font> **31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Meleá, filho de Mená, filho de Matatá, filho de Natã, filho de Davi</font> **32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Jessé, filho de Obede, filho de Boaz, filho de Salá, filho de Naassom,</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:david|David]]
