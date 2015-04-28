@@ -1,4 +1,4 @@
-====== Luke 02:15-16 ======
+====== Luke 02:15-16*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 15 It came about that when the angels had gone away from them into heaven, the shepherds said to each other, "Let us now go to Bethlehem, and see this thing that has happened, which the Lord has made known to us." \v 16 They hurried there and found Mary and Joseph, and saw the baby lying in the feeding trough. </usfm>
 
 **15** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Após os anjos voltarem ao céu os pastores disseram entre si “Vamos imediatamente para Belém para ver esta coisa maravilhosa que aconteceu e o Senhor nos permitiu saber.”</font> **16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles foram rapidamente e lá encontraram José e Maria em um estábulo, e viram o bebê deitado na manjedoura.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:angel|angel]]
@@ -28,7 +27,7 @@
 
   * **from them**  - "from the shepherds"
   * **to each other**  - "to one another"
-  * **Let us… to us**  - Since the shepherds were speaking to one another, languages that have inclusive forms for "we" and "us" should use the inclusive form here. (See: [[en:ta:translate:inclusive|Inclusive]])
+  * **Let us… to us**  - Since the shepherds were speaking to one another, languages that have inclusive forms for "we" and "us" should use the inclusive form here. (See: [[:en:ta:translate:inclusive|Inclusive]])
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
