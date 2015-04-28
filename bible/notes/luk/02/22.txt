@@ -1,4 +1,4 @@
-====== Luke 02:22-24 ======
+====== Luke 02:22-24*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \p \v 22 When the required number of days for their purification had passed, according to the law of Moses, Joseph and Mary brought their infant son up to the temple in Jerusalem to present him to the Lord. \v 23 As it is written in the law of the Lord, "Every male that opens the womb will be called holy to the Lord." \v 24 They also came to offer a sacrifice according to that which is said in the law of the Lord, "a pair of turtledoves or two young pigeons." </usfm>
 
 **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando o número de dias requeridos para que eles se purificassem se passaram, de acordo com a lei de Moisés, José e Maria levaram o bebê até o templo em Jerusalém para apresentá-lo ao Senhor.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois estava escrito na lei do Senhor “Todo menino nascido primogênito deve ser santificado ao Senhor”.</font> **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>De acordo a lei do Senhor, eles também deviam ofertar “duas rolas ou dois pombinhos” como sacrifício.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:purify|purification]]
@@ -39,7 +38,7 @@
   * **for their purification**  - "for them to become ceremonially clean" or "for God to consider them to be clean again"
   * **to present him to the Lord**  - "to bring him to the Lord" or "to bring him into the Lord's presence." This was a ceremony acknowledging God's claim on the firstborn children who were male.
   * **As it is written**  - This could be translated as "They did this because it is written."
-  * **male that opens the womb**  - This is an idiom for "firstborn offspring that is a male." The law was about the firstborn offspring of both people and domestic animals, but in this context it could be translated as "firstborn son." (See: [[en:ta:translate:idiom|Idiom]])
+  * **male that opens the womb**  - This is an idiom for "firstborn offspring that is a male." The law was about the firstborn offspring of both people and domestic animals, but in this context it could be translated as "firstborn son." (See: [[:en:ta:translate:idiom|Idiom]])
   * **turtledoves**  - These are common birds that eat seeds and often live in open areas. They are small enough to be held in two hands, and people would eat them.
   * **young pigeons**  - These are birds that eat seeds and often live in hilly or mountain areas. They are small enough to be held in two hands, and people would eat them.
 ===== Links: =====
