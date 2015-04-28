@@ -1,48 +1,35 @@
 ====== Luke 06:26 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 26 When most \f + \ft hyperbole \f* people speak well about you, trouble is ahead for you; \add it will not prove that you are God's servants, because\add* your ancestors used to speak well about those who falsely \add claimed that they were\add* prophets."
+<usfm> \v 26 When most \f + \ft hyperbole \f* people speak well about you, trouble is ahead for you; \add it will not prove that you are God's servants, because\add* your ancestors used to speak well about those who falsely \add claimed that they were\add* prophets."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 26 How sad it is when everyone says good things about you. In the same way, their ancestors used to say good things about men who falsely claimed to be God's prophets. 
+<usfm> \v 26 How sad it is when everyone says good things about you. In the same way, their ancestors used to say good things about men who falsely claimed to be God's prophets.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 26 Woe to you, when all men speak well of you! For their ancestors treated the false prophets in the same way.
-</usfm>
+<usfm> \v 26 Woe to you, when all men speak well of you! For their ancestors treated the false prophets in the same way. </usfm>
 
+**26** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Aí de vocês, quando todos falarem bem de vocês! Pois os antepassados deles trataram os falsos profetas da mesma forma.</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:woe|woe]]
-    * [[:pt-br:bible:notes:key-terms:ancestor|ancestors]]
-    * [[:pt-br:bible:notes:key-terms:prophet|prophets]]
+  * [[:pt-br:bible:notes:key-terms:woe|woe]]
+  * [[:pt-br:bible:notes:key-terms:ancestor|ancestors]]
+  * [[:pt-br:bible:notes:key-terms:prophet|prophets]]
 
 ===== Translation Notes: =====
 
-
-    * (Jesus continues to teach his disciples.)
-    * **woe to you** - “how terrible it is for you ” or “trouble will come to you” or “how sad you should be” or “what sorrow you will have”
-    * **when all men** - That is "when all people," or "when everyone."
-    * **treated the false prophets in the same way**  - "spoke well of the false prophets"
-
+  * (Jesus continues to teach his disciples.)
+  * **woe to you**  - “how terrible it is for you ” or “trouble will come to you” or “how sad you should be” or “what sorrow you will have”
+  * **when all men**  - That is "when all people," or "when everyone."
+  * **treated the false prophets in the same way**  - "spoke well of the false prophets"
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
