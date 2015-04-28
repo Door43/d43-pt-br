@@ -1,4 +1,4 @@
-====== Luke 02:36-38 ======
+====== Luke 02:36-38*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 36 A prophetess named Anna was also there. She was the daughter of Phanuel from the tribe of Asher. She was very advanced in years. She had lived with her husband for seven years after her marriage, \v 37 and then was a widow for eighty-four years. She never left the temple and was continually worshipping God with fasting and prayers, night and day. \v 38 At that very moment, she came up to them and began thanking God. She talked about the child to everyone who had been waiting for the redemption of Jerusalem. </usfm>
 
 **36** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Uma profetisa chamada Ana também estava no templo. Ela era filha de Fanuel, da tribo de Aser. Ela havia sido casada por sete anos, então seu marido morreu.</font> **37** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ela era viúva, de oitenta e quatro anos. Ela estava sempre no templo, adorando a Deus continuamente com jejum e oração, noite e dia.</font> **38** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Naquele mesmo momento, Ana foi até eles e começou a agradecer a Deus pelo bebê. Ela falou sobre Jesus a cada um que estava esperando o redentor de Jerusalém.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:prophet|prophetess]]
@@ -34,10 +33,10 @@
 
   * **after her marriage**  - "after she married him"
   * **a widow for eighty-four years**  - Possible meanings are 1) she had been a widow for eighty-four years or 2) she was a widow and was now eighty-four years old.
-  * **never left the temple**  - This is probably an exaggeration meaning that she spent so much time in the temple that it seemed as though she never left it. It could be translated as "was always at the temple" or it could state the meaning without the hyperbole: "was often at the temple." (See: [[en:ta:translate:hyperbole|Hyperbole]])
+  * **never left the temple**  - This is probably an exaggeration meaning that she spent so much time in the temple that it seemed as though she never left it. It could be translated as "was always at the temple" or it could state the meaning without the hyperbole: "was often at the temple." (See: [[:en:ta:translate:hyperbole|Hyperbole]])
   * **with fastings and prayers**  - "by abstaining from food and by praying"
   * **came up to them**  - "approached them" or "went to Mary and Joseph"
-  * **the redemption of Jerusalem**  - This could be translated as "the one who would redeem Jerusalem" or "the person who would bring God's blessings and favor back to Jerusalem." Here the word "redemption" is used to refer to the the person who would do it. (See: [[en:ta:translate:metonymy|Metonymy]])
+  * **the redemption of Jerusalem**  - This could be translated as "the one who would redeem Jerusalem" or "the person who would bring God's blessings and favor back to Jerusalem." Here the word "redemption" is used to refer to the the person who would do it. (See: [[:en:ta:translate:metonymy|Metonymy]])
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
