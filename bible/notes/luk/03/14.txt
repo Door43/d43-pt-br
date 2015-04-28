@@ -1,4 +1,4 @@
-====== Luke 03:14 ======
+====== Luke 03:14*F ======
 
 ===== TFT: =====
 
@@ -13,13 +13,12 @@
 <usfm> \v 14 Some soldiers also asked him, saying, "And what about us? What must we do?" He said to them, "Do not take money from anyone by force, and do not accuse anyone falsely. Be content with your wages." </usfm>
 
 **14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Alguns soldados também o perguntaram, dizendo, “E quanto a nós? O que devemos fazer?” E ele respondeu, “Não tome dinheiro das pessoas à força, nem acuse ninguém falsamente. Seja grato por seu salário.”</font>
-
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
 
   * **soldiers**  - "men serving in the army"
-  * **What about us? What must we do?**  - This could be translated as "You told the crowd and the tax collector what they must do. How about us soldiers, what must we do?" John is not included in the words "us" and "we." (See: [[en:ta:translate:exclusive|Exclusive]])
+  * **What about us? What must we do?**  - This could be translated as "You told the crowd and the tax collector what they must do. How about us soldiers, what must we do?" John is not included in the words "us" and "we." (See: [[:en:ta:translate:exclusive|Exclusive]])
   * **do not accuse anyone falsely**  - This could be translated as "In the same way, do not accuse anyone falsely in order to get money from them" or "Do not say that an innocent person has done something illegal." The soldiers were making false charges against people in order to get money.
   * **Be content with your wages**  - "Be satisfied with your pay" or "Be satisfied with what you are paid"
 ===== Links: =====
