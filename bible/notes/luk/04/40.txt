@@ -1,4 +1,4 @@
-====== Luke 04:40-41 ======
+====== Luke 04:40-41*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \p \v 40 When the sun was setting, people brought to Jesus everyone who was sick with various kinds of diseases. He laid his hands on every one of them and healed them. \v 41 Demons also came out from many of them, crying out and saying, "You are the Son of God!" Jesus rebuked the demons and would not let them speak, because they knew that he was the Christ. </usfm>
 
 **40** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Quando o sol estava se pondo, as pessoas trouxeram a Jesus todos os que estavam enfermos com vários tipos de doenças. Jesus colocou as suas mãos sobre cada um e os curou.</font> **41** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Demônios saíram de muitos deles, clamando e dizendo, “Você é o Filho de Deus!” Jesus repreendem os demônios e não os deixou falar, porque eles sabiam que ele era o Cristo.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
