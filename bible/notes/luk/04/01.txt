@@ -1,4 +1,4 @@
-====== Luke 04:1-2 ======
+====== Luke 04:1-2*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \c 4 \p \v 1 Then Jesus, being full of the Holy Spirit, returned from the Jordan River, and was led by the Spirit in the wilderness \v 2 for forty days and was tempted there by the devil. During those days, he did not eat anything, and at the end of that time he was hungry. </usfm>
 
 **1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então Jesus, cheio do Espírito Santo, retornou do Rio Jordão e foi guiado pelo Espírito ao deserto.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Por quarenta dias ele foi tentando pelo diabo. Durante estes dias, Jesus não comeu nada, e no final ele estava com fome.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
@@ -27,7 +26,7 @@
 ===== Translation Notes: =====
 
   * **Then**  - This refers to after John baptized Jesus. It could be translated as "Then after Jesus was baptized."
-  * **was led by the Spirit**  - This could be translated in active voice as "the Spirit led him." (See: [[en:ta:translate:active|Active or Passive]])
+  * **was led by the Spirit**  - This could be translated in active voice as "the Spirit led him." (See: [[:en:ta:translate:active|Active or Passive]])
   * **was tempted there by the devil**  - This could be translated as "was tempted by the devil to disobey God." It is not clear if he was tempted throughout the time, or at the end of the time. This can also be translated in active voice as "the devil tempted him there."
   * **he did not eat**  - "He" refers to Jesus.
 ===== Links: =====
