@@ -1,4 +1,4 @@
-====== Luke 02:27-29 ======
+====== Luke 02:27-29*F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \v 27 One day he came into the temple, led by the Holy Spirit. When the parents brought in the child, Jesus, to do for him what the custom of the law required, \v 28 then Simeon received him into his arms, and praised God and said, \q1 \v 29 "Now let your servant depart in peace, Lord, according to your word. </usfm>
 
 **27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Um dia ele entrou no templo, guiado pelo Espírito Santo. José e Maria, trouxeram o bebê, Jesus, para cumprir os costumes requeridos por Deus na lei.</font> **28** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Simeão segurou Jesus em seus braços e louvou a Deus dizendo,</font> **29** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“Senhor, agora eu posso morrer em paz, pois se cumpriu a sua promessa.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:temple|temple]]
@@ -36,7 +35,7 @@
   * **the custom of the law required**  - "the law of God required"
   * **received him**  - "took him"
   * **Now let your servant depart in peace**  - This could be translated as "I am your servant. Let me depart in peace." Simeon was referring to himself.
-  * **depart**  - This is a euphemism meaning "die." (See: [[en:ta:translate:euphemism|Euphemism]])
+  * **depart**  - This is a euphemism meaning "die." (See: [[:en:ta:translate:euphemism|Euphemism]])
   * **according to your word**  - This could be translated as "as you have said" or "because you said you would."
 ===== Links: =====
 
