@@ -1,4 +1,4 @@
-====== Luke 02:48-50 ======
+====== Luke 02:48-50*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 48 When they saw him, they were astonished. His mother said to him, "Son, why have you treated us this way? Listen, your father and I have been anxiously searching for you." \v 49 He said to them, "Why were you searching for me? Did you not know that I must be in my Father’s house?" \v 50 But they did not understand what he meant by those words. </usfm>
 
 **48** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando eles virão Jesus, ficaram muito surpresos. Então Maria disse a ele, “Por que você fez isso com a gente? Seu pai e eu estávamos aflitos te procurando”.</font> **49** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E Jesus respondeu, “Por que vocês estão procurando por mim? Vocês não sabiam que eu devo estar na casa do meu Pai?”</font> **50** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas eles não entenderam o que Jesus queria dizer com estas palavras.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:godthefather|Father]]
@@ -21,10 +20,10 @@
 ===== Translation Notes: =====
 
   * **When they saw him**  - "When Mary and Joseph found Jesus"
-  * **Why have you treated us this way?**  - This could be translated as "How could you do this?" This was somewhat of an indirect rebuke because he had not gone with them on the way back home. (See: [[en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * **Why have you treated us this way?**  - This could be translated as "How could you do this?" This was somewhat of an indirect rebuke because he had not gone with them on the way back home. (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
   * **Why were you searching for me?**  - This could be translated as "Why did you two keep looking for me in other places?"
   * **Behold**  - This phrase is often used to show the beginning of a new or important event. It also can be used to show where the action begins. If your language has a phrase that is used in this way, consider whether it would be natural to use it here.
-  * **Did you not know…?**  - This starts a rhetorical question. Jesus was not trying to find out if they knew or not. Rather he was telling them something. It could be translated as “You should have known.” (See: [[en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * **Did you not know…?**  - This starts a rhetorical question. Jesus was not trying to find out if they knew or not. Rather he was telling them something. It could be translated as “You should have known.” (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
   * **at my Father's house**  - Possible meanings are 1) "at my Father's house" or 2) "about my Father's business." In either case, when Jesus said "my Father" he was referring to God. If he meant "house," then he was referring to the temple. If he meant "business," he was referring to the work God had given him to do. But since the next verse says that his parents did not understand what he was telling them, it would be best not to explain it more.
 ===== Links: =====
 
