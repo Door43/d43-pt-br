@@ -1,4 +1,4 @@
-====== Luke 03:36-38 ======
+====== Luke 03:36-38*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 36 the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech, \v 37 the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan, \v 38 the son of Enos, the son of Seth, the son of Adam, the son of God. </usfm>
 
 **36** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Cainã, filho de Arfaxade, filho de Sem, filho de Noé, filho de Lameque,</font> **37** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Matusalém, filho de Enoque, filho de Jarete, filho de Maleleel, filho de</font> **38** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Cainã, filho de Enos, filho de Sete, filho de Adão, filho de Deus.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:shem|Shem]]
