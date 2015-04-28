@@ -1,4 +1,4 @@
-====== Luke 06:41-42 ======
+====== Luke 06:41-42*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 41 And why do you look at the tiny piece of straw that is in your brother’s eye, but you do not notice the log that is in your own eye? \v 42 How can you say to your brother, 'Brother, let me take out the piece of straw that is in your eye,' when you yourself do not even see the log that is in your own eye? You hypocrite! First take the log out of your own eye, and then you will see clearly to take out the piece of straw that is in your brother’s eye. </usfm>
 
 **41** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E porque você repara no cisco que está no olho do seu irmão mas não percebe a viga que está no seu próprio olho?</font> **42** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Como você pode dizer ao seu irmão: 'Irmão, deixe eu tirar o cisco que está no seu olho,' quando você mesmo não vê a viga que está no seu próprio olho. Hipócritas! Tire o cisco do seu olho primeiro, então você verá claramente para poder tirar a viga que está no olho do seu irmão.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:brother|brother]]
