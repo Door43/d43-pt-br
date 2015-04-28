@@ -1,63 +1,39 @@
 ====== Luke 06:20-21 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 20 He looked \f + \ft metonymy \f* at his disciples and said, "\add God\add* is pleased with you \add who know\add* that you lack what \add he wants you to have;\add* he will allow you to be the people whose lives he rules over.
-\v 21 \add God\add* is pleased with you who sincerely desire to receive what \f + \ft metonymy \f* \add he wants you to have\add*; he will give you what you need, until you are satisfied.
-\p \add God\add* is pleased with you that grieve now \add because of sin\add*. Later you will be joyful.
-\p
-</usfm>
-
+<usfm> \v 20 He looked \f + \ft metonymy \f* at his disciples and said, "\add God\add* is pleased with you \add who know\add* that you lack what \add he wants you to have;\add* he will allow you to be the people whose lives he rules over. \v 21 \add God\add* is pleased with you who sincerely desire to receive what \f + \ft metonymy \f* \add he wants you to have\add*; he will give you what you need, until you are satisfied. \p \add God\add* is pleased with you that grieve now \add because of sin\add*. Later you will be joyful. \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 20 Then he looked  at his disciples and said, "It is very good for you who are poor, because God is ruling you.
-\v 21 It is very good for you who are hungry now, because God will give you everything you need. 
-\p It is very good for you who are grieving now, because God will someday make you laugh with joy. 
+<usfm> \v 20 Then he looked at his disciples and said, "It is very good for you who are poor, because God is ruling you. \v 21 It is very good for you who are hungry now, because God will give you everything you need. \p It is very good for you who are grieving now, because God will someday make you laugh with joy.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 20 Then he looked at his disciples, and said, "Blessed are you who are poor, for yours is the kingdom of God.
-\v 21 Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh.
-</usfm>
+<usfm> \p \v 20 Then he looked at his disciples, and said, "Blessed are you who are poor, for yours is the kingdom of God. \v 21 Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh. </usfm>
 
+**20** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então ele olhou para os seus discípulos e disse: “Bem-aventurados vocês que são pobres, pois o reino de Deus é de vocês.</font> **21** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Bem-aventurados vocês que agora tem fome, pois vocês serão saciados. Bem-aventurados vocês que agora choram, pois vocês sorrirão.</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:disciple|disciple]]
-    * [[:pt-br:bible:notes:key-terms:bless|blessed]]
-    * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
-    * [[:pt-br:bible:notes:key-terms:filled|filled]]
-
+  * [[:pt-br:bible:notes:key-terms:disciple|disciple]]
+  * [[:pt-br:bible:notes:key-terms:bless|blessed]]
+  * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
+  * [[:pt-br:bible:notes:key-terms:filled|filled]]
 
 ===== Translation Notes: =====
 
-  * **blessed are you** - This phrase is repeated three times. Each time, it indicates that God gives favor to someone or that their situation is positive or good.
+  * **blessed are you**  - This phrase is repeated three times. Each time, it indicates that God gives favor to someone or that their situation is positive or good.
   * **blessed are you who are poor**  - "You who are poor receive God's favor" or "you who are poor benefit" or "how good it is for you who who are poor" or "It is very good for you who are poor"
   * **yours is the kingdom of God**  - "the kingdom of God belongs to you." This could mean 1) "you belong to God's kingdom" or 2) "you will have authority in God's kingdom." Languages that don't have a word for kingdom might say "God is your king" or "God is your ruler."
   * **you will laugh**  - "you will laugh with joy" or "you will be joyful"
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/06|Luke Chapter 06 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:06:17|<<]] | [[:pt-br:bible:notes:luk:06:22|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft bless}}
 
-**[[pt-br/bible/notes/luk/06/17|<<]] | [[pt-br/bible/notes/luk/06/22|>>]]**
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft bless}}
 ~~NOCACHE~~
