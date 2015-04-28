@@ -1,4 +1,4 @@
-====== Luke 04:14-15 ======
+====== Luke 04:14-15*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \p \v 14 Then Jesus returned to Galilee with the power of the Spirit, and news about him spread throughout the entire surrounding region. \v 15 He taught in their synagogues, and everyone praised him. </usfm>
 
 **14** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Então Jesus retornou para a Galileia com o poder do Espírito, e notícias sobre ele se espalharam em toda a região em redor.</font> **15** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Ele ensinava nas sinagogas, e todas as pessoas o louvavam.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
