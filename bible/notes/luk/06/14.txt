@@ -1,67 +1,44 @@
 ====== Luke 06:14-16 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 14 They were Simon, to whom he gave the \add new\add* name, Peter; Andrew, Peter's \add younger\add* brother; James and \add his younger brother\add*, John; Philip; Bartholomew;
-\v 15 Matthew, whose other name was Levi; Thomas; \add another\add* James, the \add son\add* of Alpheus; Simon, who belonged to the party \add that encouraged people to\add* rebel \add against the Roman government\add*;
-\v 16 Judas, the \add son\add* of \add another\add* James; and Judas Iscariot \f + \ft Or: Judas from the town of Kerioth \f*, the one who later betrayed Jesus.\f + \ft Or: enabled the Jewish leaders to seize Jesus. \f*
+<usfm> \v 14 They were Simon, to whom he gave the \add new\add* name, Peter; Andrew, Peter's \add younger\add* brother; James and \add his younger brother\add*, John; Philip; Bartholomew; \v 15 Matthew, whose other name was Levi; Thomas; \add another\add* James, the \add son\add* of Alpheus; Simon, who belonged to the party \add that encouraged people to\add* rebel \add against the Roman government\add*; \v 16 Judas, the \add son\add* of \add another\add* James; and Judas Iscariot \f + \ft Or: Judas from the town of Kerioth \f*, the one who later betrayed Jesus.\f + \ft Or: enabled the Jewish leaders to seize Jesus. \f*
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 14 These men were: Simon, to whom he gave the new name, Peter; Andrew, Peter's younger brother; James and his younger brother, John; Philip; Bartholomew;
-\v 15 Matthew, whose other name was Levi; Thomas; another James, the son of Alpheus; Simon, called the zealous one,
-\v 16 Judas, the son of a different man named James; and Judas Iscariot, who later betrayed Jesus.
+<usfm> \v 14 These men were: Simon, to whom he gave the new name, Peter; Andrew, Peter's younger brother; James and his younger brother, John; Philip; Bartholomew; \v 15 Matthew, whose other name was Levi; Thomas; another James, the son of Alpheus; Simon, called the zealous one, \v 16 Judas, the son of a different man named James; and Judas Iscariot, who later betrayed Jesus.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 14 The names of the apostles were Simon (whom he also named Peter) and his brother, Andrew, James, John, Philip, Bartholomew,
-\v 15 Matthew, Thomas, James, the son of Alphaeus, Simon, who was called the Zealot,
-\v 16 Judas, the son of James, and Judas Iscariot, who became a traitor.
-</usfm>
+<usfm> \v 14 The names of the apostles were Simon (whom he also named Peter) and his brother, Andrew, James, John, Philip, Bartholomew, \v 15 Matthew, Thomas, James, the son of Alphaeus, Simon, who was called the Zealot, \v 16 Judas, the son of James, and Judas Iscariot, who became a traitor. </usfm>
 
+**14** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Estes eram: Simão, a quem ele chamou de Pedro, e seu irmão André; Tiago; João; Filipe; Bartolomeu;</font> **15** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mateus; Tomé; Tiago, filho de Alfeu; Simão, chamado Zelote;</font> **16** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Judas, filho de Tiago; e Judas Iscariotes, que foi o traidor.</font>
 
 ===== Important Terms: =====
 
-    * [[:pt-br:bible:notes:key-terms:peter|Simon]]
-    * [[:pt-br:bible:notes:key-terms:jamessonofalpheus|James (son of Aplheus)]]
-    * [[:pt-br:bible:notes:key-terms:jamessonofzebedee|James (son of Zebedee)]]
-    * [[:pt-br:bible:notes:key-terms:johntheapostle|John (the Apostle)]]
-    * [[:pt-br:bible:notes:key-terms:matthew|Matthew]]
-    * [[:pt-br:bible:notes:key-terms:judasiscariot|Judas Iscariot]]
+  * [[:pt-br:bible:notes:key-terms:peter|Simon]]
+  * [[:pt-br:bible:notes:key-terms:jamessonofalpheus|James (son of Aplheus)]]
+  * [[:pt-br:bible:notes:key-terms:jamessonofzebedee|James (son of Zebedee)]]
+  * [[:pt-br:bible:notes:key-terms:johntheapostle|John (the Apostle)]]
+  * [[:pt-br:bible:notes:key-terms:matthew|Matthew]]
+  * [[:pt-br:bible:notes:key-terms:judasiscariot|Judas Iscariot]]
 
 ===== Translation Notes: =====
 
-    * (This is a list of the twelve men Jesus chose to be his apostles.)
-    * **These were their names** - This phrase introducing the names was added to the ULB to clarify what the list is.  Some translators may prefer not to write it.
-    * **his brother Andrew** - "Simon's brother Andrew"
-    * **Zealot** - Possible meanings are 1) the Zealot or 2) "the zealous one. The first meaning indicates he was part of the group of people who wanted to free the Jewish people from Roman rule. This could be translated as "patriot" or "nationalist." The second meaning indicates that he was zealous for God to be honored. It could be translated as "passionate."
-    * **became a traitor** - This could be translated as "betrayed his friend" or "turned his friend over to enemies" or "exposed a friend to danger by telling enemies about him."
+  * (This is a list of the twelve men Jesus chose to be his apostles.)
+  * **These were their names**  - This phrase introducing the names was added to the ULB to clarify what the list is. Some translators may prefer not to write it.
+  * **his brother Andrew**  - "Simon's brother Andrew"
+  * **Zealot**  - Possible meanings are 1) the Zealot or 2) "the zealous one. The first meaning indicates he was part of the group of people who wanted to free the Jewish people from Roman rule. This could be translated as "patriot" or "nationalist." The second meaning indicates that he was zealous for God to be honored. It could be translated as "passionate."
+  * **became a traitor**  - This could be translated as "betrayed his friend" or "turned his friend over to enemies" or "exposed a friend to danger by telling enemies about him."
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/06|Luke Chapter 06 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:06:12|<<]] | [[:pt-br:bible:notes:luk:06:17|>>]]**
 
- 
-
-**[[pt-br/bible/notes/luk/06/12|<<]] | [[pt-br/bible/notes/luk/06/17|>>]]**
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft apostle peter jamessonofalpheus jamessonofzebedee johntheapostle matthew judasiscariot}}
+~~DISCUSSION~~{{tag>draft apostle peter jamessonofalpheus jamessonofzebedee johntheapostle matthew judasiscariot}}
 
 ~~NOCACHE~~
