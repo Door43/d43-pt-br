@@ -12,6 +12,8 @@
 
 <usfm> \v 24 But woe to you who are rich! For you have already received your comfort. \v 25 Woe to you who are full now! For you will be hungry later. Woe to you who laugh now! For you will mourn and weep later. </usfm>
 
+**24** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas aí de vocês que são ricos! Pois vocês já receberam o seu conforto.</font> **25** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Aí de vocês que estão saciados agora! Pois vocês passarão fome. Aí de vocês que sorriem agora. Pois vocês vão lamentar e chorar.</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:woe|woe]]
