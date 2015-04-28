@@ -1,4 +1,4 @@
-====== Luke 04:28-30 ======
+====== Luke 04:28-30*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 28 All the people in the synagogue were filled with rage when they heard these things. \v 29 They got up and forced him out of the city, and led him to the edge of the hill on which their city was built, so that they might throw him over the cliff. \v 30 But he walked right through the midst of them and went on his way. </usfm>
 
 **28** <font 14px line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);>Todas as pessoas na sinagoga estavam furiosas quando ouviram ele.</font> **29** <font 14px line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);>Elas se levantaram e o forçaram para fora da cidade, e o levaram para a beirada da montanha na qual a cidade deles estava localizada. Desta forma, planejavam empurrar Jesus do penhasco.</font> ** 30** <font 14px line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 13.0666666030884px; background-color: rgb(238, 238, 238);>Mas ele caminhou entre eles e seguiu o seu rumo.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:synagogue|synagogue]]
