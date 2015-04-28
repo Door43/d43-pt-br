@@ -1,4 +1,4 @@
-====== Luke 06:43-44 ======
+====== Luke 06:43-44*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 43 For there is no good tree that produces rotten fruit, nor is there a rotten tree that produces good fruit. \v 44 For each tree is known by the kind of fruit it produces. For people do not gather figs from a thornbush, nor do they gather grapes from a briar bush. </usfm>
 
 **43** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Não há árvore boa que produza mau fruto, nem árvore ruim que produza bom fruto. Pois cada árvore é conhecida pelo fruto que produz.</font> **44** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ninguém pode colher figos de um espinheiro, nem uvas de arbusto espinhoso.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:good|good]]
