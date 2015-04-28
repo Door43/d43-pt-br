@@ -12,6 +12,8 @@
 
 <usfm> \v 49 But the person who hears my words and does not obey them, he is like a man who built a house on top of the ground without a foundation. When the torrent of water flowed against that house, it immediately collapsed, and the ruin of that house was complete. </usfm>
 
+**49** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas aquele que ouve as minhas palavras e não as obedece, é como um homem que, construiu a sua casa sobre a terra, sem alicerce. Quando as águas do rio bateram com ímpeto contra a casa, ela desabou e sua ruína foi completa.</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:word|word]]
