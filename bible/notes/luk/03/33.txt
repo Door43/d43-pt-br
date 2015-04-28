@@ -1,4 +1,4 @@
-====== Luke 03:33-35 ======
+====== Luke 03:33-35*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 33 the son of Amminadab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah, \v 34 the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor, \v 35 the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah, </usfm>
 
 **33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Aminadabe, filho de Arão, filho de Esrom, filho de Perez, filho de Judá,</font> **34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Jacó, filho de Isaque, filho de Abraão, filho de Terá, filho de Nacor,</font> **35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Seruque, filho de Ragaú, filho de Fáleque, filho de Eber, filho de Salá,</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:judah|Judah]]
