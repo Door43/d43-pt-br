@@ -1,4 +1,4 @@
-====== Luke 03:15-16 ======
+====== Luke 03:15-16*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 15 Now as the people were eagerly expecting the Christ to come, everyone was wondering in their hearts concerning John whether he might be the Christ. \v 16 John answered by saying to them all, "As for me, I baptize you with water, but someone is coming who is more powerful than I, and I am not worthy even to untie the strap of his sandals. He will baptize you with the Holy Spirit and with fire. </usfm>
 
 **15** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Agora que todos estavam com grande expectativa, esperando a chegada de Cristo, todos estavam imaginando em seu coração que João poderia ser o Cristo.</font> **16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>João disse a eles, “Quanto a mim, Eu vim para batizá-los com água, mas virá aquele que é mais poderoso que eu, e eu não sou digno de desatar as amarras de sua sandália. Ele vai batizá-los com o Espírito Santo e com fogo.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:christ|Christ]]
@@ -28,7 +27,7 @@
   * **I baptize you with water**  - "I baptize using water" or "I baptize by means of water"
   * **not worthy even to untie the strap of his sandals**  - This could be translated as "not important enough even to loosen the straps of his sandals." Untying the straps of sandals was a duty of a slave. John was saying that the one who would come is so great that John was not even worthy enough to be his slave.
   * **sandals**  - Sandals are shoes with straps that hold the bottom of the shoe to the foot. It could be translated as "shoes" or "flip-flops" or "thongs."
-  * **He will baptize you with the Holy Spirit and with fire**  - This is a metaphor. It compares literal baptism that brings a person into contact with water to a spiritual baptism that brings them into contact with the Holy Spirit and with fire. (See: [[en:ta:translate:metaphor|Metaphor]])
+  * **He will baptize you with the Holy Spirit and with fire**  - This is a metaphor. It compares literal baptism that brings a person into contact with water to a spiritual baptism that brings them into contact with the Holy Spirit and with fire. (See: [[:en:ta:translate:metaphor|Metaphor]])
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
