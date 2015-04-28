@@ -1,4 +1,4 @@
-====== Luke 04:35-37 ======
+====== Luke 04:35-37*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 35 Jesus rebuked the demon, saying, "Be quiet and come out of him!" When the demon had thrown the man down in the middle of them, he came out of him without causing him any harm. \v 36 All the people were very amazed when they saw this and they kept talking about it with one with another. They said, "What kind of words are these? For he commands the unclean spirits with authority and power and they come out?" \v 37 So news about him began to spread into every part of the surrounding region. </usfm>
 
 **35** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Jesus repreendeu o demônio dizendo, “Fica quieto e sai dele!”. O demônio arremessou o homem no meio deles e saiu sem causar nenhum dano a ele.</font> **36** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>E todos ficaram muito maravilhados com o que tinham visto e falavam uns aos outros, “Que palavras são estas? Com poder e autoridade ele ordena os espíritos imundos e eles saem.”</font> ** 37** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Então, notícias sobre ele começaram a se espalharam em toda a região em redor.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
