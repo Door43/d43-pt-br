@@ -1,4 +1,4 @@
-====== Luke 02:21 ======
+====== Luke 02:21*F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \p \v 21 When it was the eighth day and it was time to circumcise the baby, they named him Jesus, the name he had been given by the angel before he was conceived in the womb. </usfm>
 
 **21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>No oitavo dia, após o bebê nascer, ele foi levado para ser circuncidado e recebeu o nome Jesus, pois foi assim que o anjo o chamou antes que ele fosse concebido.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:circumcise|circumcise]]
