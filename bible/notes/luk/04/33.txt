@@ -1,4 +1,4 @@
-====== Luke 04:33-34 ======
+====== Luke 04:33-34*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 33 Now in the synagogue that day there was a man who had the spirit of an unclean demon, and he cried out with a loud voice, \v 34 "What do we have to do with you, Jesus of Nazareth? Have you come to destroy us? I know you who you are! You are the Holy One of God!" </usfm>
 
 **33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Naqueles dias, na sinagoga, havia um homem que era controlado pelo espírito de um demônio imundo. Ele clamava em alta voz,</font> **34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“O que temos com você, Jesus de Nazaré? Você veio para nos destruir? Eu sei quem você é! Você é o Santo de Deus!”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:synagogue|synagogue]]
@@ -28,7 +27,7 @@
 ===== Translation Notes: =====
 
   * **who had the spirit of an unclean demon**  - "who was possessed by an unclean demon." (See: [[:pt-br:bible:notes:key-terms:demonpossessed|demon-possessed]])
-  * **he cried out with a loud voice**  - "he shouted loudly." Some languages have an idiom for this like the English idiom "he shouted at the top of his lungs." (See: [[en:ta:translate:idiom|Idiom]])
+  * **he cried out with a loud voice**  - "he shouted loudly." Some languages have an idiom for this like the English idiom "he shouted at the top of his lungs." (See: [[:en:ta:translate:idiom|Idiom]])
   * **What do we have to do with you?**  - This could be translated as "What do we have in common?" or "We have nothing to do with you!" It is a belligerent response that means "You have no right to bother us!"
 ===== Links: =====
 
