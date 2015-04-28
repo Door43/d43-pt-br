@@ -1,4 +1,4 @@
-====== Luke 06:45 ======
+====== Luke 06:45*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 45 The good man from the good treasure of his heart brings out that which is good, and the evil man from the evil treasure of his heart brings out that which is evil. For from the abundance of his heart his mouth speaks. </usfm>
 
 **45** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>O homem bom do bom tesouro do seu coração traz para fora o que é bom. O homem mau do mau tesouro do seu coração traz para fora o que é mau. Pois a boca fala do que o coração está cheio.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:good|good]]
