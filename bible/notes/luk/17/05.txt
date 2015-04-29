@@ -2,31 +2,21 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 5 \add One day\add* the apostles said to the Lord, "Help us to trust \add in you\add* (OR\add , in God\add*) more strongly!"
-\v 6 The Lord replied, "Mustard \add seeds are very small, but in this area they grow and produce large\add* \f + \ft metaphor \f* \add plants\add*. \add Similarly\add*, if your faith grows until you truly believe that God \add will do what you ask him to, you will be able to do anything\add*. You could \add even\add* say to this mulberry tree, 'Pull yourself out \add with your roots\add* and plant yourself in the sea!' and it would obey you!"
+<usfm> \v 5 \add One day\add* the apostles said to the Lord, "Help us to trust \add in you\add* (OR\add , in God\add*) more strongly!" \v 6 The Lord replied, "Mustard \add seeds are very small, but in this area they grow and produce large\add* \f + \ft metaphor \f* \add plants\add*. \add Similarly\add*, if your faith grows until you truly believe that God \add will do what you ask him to, you will be able to do anything\add*. You could \add even\add* say to this mulberry tree, 'Pull yourself out \add with your roots\add* and plant yourself in the sea!' and it would obey you!"
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 5 Then the apostles said to the Lord, "Give us more faith!"
-\v 6 The Lord replied, "Even if you had faith that was no bigger than this tiny mustard seed, you could say to this mulberry tree, 'Pull yourself with your roots out of the ground and plant yourself in the sea' and it would obey you!"
+<usfm> \v 5 Then the apostles said to the Lord, "Give us more faith!" \v 6 The Lord replied, "Even if you had faith that was no bigger than this tiny mustard seed, you could say to this mulberry tree, 'Pull yourself with your roots out of the ground and plant yourself in the sea' and it would obey you!"
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 5 The apostles said to the Lord, "Increase our faith."
-\v 6 The Lord said, "If you had faith as a mustard seed, you would say to this sycamore tree, 'Be uprooted, and be planted in the sea,' and it would obey you.
-</usfm>
+<usfm> \p \v 5 The apostles said to the Lord, "Increase our faith." \v 6 The Lord said, "If you had faith as a mustard seed, you would say to this sycamore tree, 'Be uprooted, and be planted in the sea,' and it would obey you. </usfm>
+
+**5** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os apóstolos disseram ao Senhor: ” Aumente nossa fé!¨</font> ** 6** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O Senhor respondeu:” Se vocês tiverem fé do tamanho de uma semente de mostarda, poderão dizer a esta amoreira: 'Arranque-se daqui com suas raízes, e as plante no mar' e ela os obedecerá! ”</font>
 
 ===== Important Terms: =====
 
@@ -41,7 +31,6 @@
   * **If you had faith as a mustard seed**  - This could be translated as "If you had faith that was even as small as mustard seed" or "If only your faith was as big as a mustard seed, but it isn't." The construction of the phrase implies that they did not, in fact, have faith that was even the size of a mustard seed.
   * **be uprooted, and be planted in the sea**  - This could be translated as "uproot yourself and plant yourself in the sea" or "take your roots out of the ground, and put your roots down into the ocean."
   * **it would obey you**  - "the tree would obey you" This result is conditional. It would happen only if they had faith.
-
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:17|Luke Chapter 17 Comprehension Questions]]**
