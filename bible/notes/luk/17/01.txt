@@ -1,4 +1,4 @@
-====== Luke 17:1-2 ======
+====== Luke 17:1-2*F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \c 17 \p \v 1 Jesus said to his disciples, "It is certain that things that cause sin will come, but woe to him through whom they come! \v 2 It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble. </usfm>
 
 **1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse aos seus discípulos, certamente acontecerão coisas que faram as pessoas pecarem. Aí daquele, por meio do qual essas coisas acontecerem.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Seria melhor que ele fosse lançado ao mar com uma pedra de moinho amarrada em seu pescoço, do que fazer um desses pequenos tropeçar.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:disciple|disciple]]
