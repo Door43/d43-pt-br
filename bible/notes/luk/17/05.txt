@@ -1,4 +1,4 @@
-====== Luke 17:5-6 ======
+====== Luke 17:5-6*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \p \v 5 The apostles said to the Lord, "Increase our faith." \v 6 The Lord said, "If you had faith as a mustard seed, you would say to this sycamore tree, 'Be uprooted, and be planted in the sea,' and it would obey you. </usfm>
 
 **5** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os apóstolos disseram ao Senhor: ” Aumente nossa fé!¨</font> ** 6** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O Senhor respondeu:” Se vocês tiverem fé do tamanho de uma semente de mostarda, poderão dizer a esta amoreira: 'Arranque-se daqui com suas raízes, e as plante no mar' e ela os obedecerá! ”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:apostle|apostle]]
