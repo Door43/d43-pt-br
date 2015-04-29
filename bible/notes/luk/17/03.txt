@@ -1,42 +1,28 @@
 ====== Luke 17:3-4 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 3 Be careful \add how you act\add*. If you \add know about\add* a fellow believer who sins, you\add \f + \ft singular \f*\add* should rebuke him. If he \add says that he\add* is sorry for having sinned \add and asks you to forgive him\add*, forgive him.
-\v 4 Even if he sins against you\add \f + \ft singular \f*\add* seven times in one day, if he comes to you each time and says, 'I am sorry for what I did', you must continue forgiving him."
+<usfm> \v 3 Be careful \add how you act\add*. If you \add know about\add* a fellow believer who sins, you\add \f + \ft singular \f*\add* should rebuke him. If he \add says that he\add* is sorry for having sinned \add and asks you to forgive him\add*, forgive him. \v 4 Even if he sins against you\add \f + \ft singular \f*\add* seven times in one day, if he comes to you each time and says, 'I am sorry for what I did', you must continue forgiving him."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 3 Be careful how you act. If one of your brothers sins, you should rebuke him. If he says that he is sorry for having sinned and asks you to forgive him, then you should forgive him.
-\v 4 Even if he sins against you seven times in one day, if he comes to you each time and says, 'I am sorry for what I did,' you must continue forgiving him."
+<usfm> \v 3 Be careful how you act. If one of your brothers sins, you should rebuke him. If he says that he is sorry for having sinned and asks you to forgive him, then you should forgive him. \v 4 Even if he sins against you seven times in one day, if he comes to you each time and says, 'I am sorry for what I did,' you must continue forgiving him."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 3  Watch yourselves. If your brother sins, rebuke him, and if he repents, forgive him.
-\v 4 If he sins against you seven times in the day, and seven times returns to you, saying, 'I repent,' you must forgive him!"
-</usfm>
+<usfm> \v 3 Watch yourselves. If your brother sins, rebuke him, and if he repents, forgive him. \v 4 If he sins against you seven times in the day, and seven times returns to you, saying, 'I repent,' you must forgive him!" </usfm>
 
+**3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Fiquem atento. Se o seu irmão pecar, o reprenda, e se ele se arrepender, o perdoe.</font> **4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Se ele pecar sete vezes contra você no mesmo dia, e, se sete vezes se arrepender e pedir-lhe perdão, você deve continuar a perdoá-lo</font>
 
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:forgive|forgive]]
   * [[:pt-br:bible:notes:key-terms:repent|repent]]
   * [[:pt-br:bible:notes:key-terms:sin|sin]]
- 
 
 ===== Translation Notes: =====
 
@@ -45,7 +31,6 @@
   * **if he sins**  - This is a conditional statement that talks about an event that will probably happen in the future.
   * **if he sins seven times**  - This is a hypothetical future situation. It may never happen, but even if it does, Jesus tells people to forgive.
   * **seven times in the day**  - This could be translated as "many times in a day." The number seven in the Bible is a symbol for completeness.
-
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:17|Luke Chapter 17 Comprehension Questions]]**
