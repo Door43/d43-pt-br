@@ -1,58 +1,36 @@
 ====== Luke 13:8-9 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 8 But the man replied to the owner, 'Sir, leave it here for another year. I will dig around it and put manure around it.
-\v 9 If it bears fruit next year, we\add \f + \ft inclusive \f*\add* will allow it to keep growing. If it does not bear fruit next year, you\add \f + \ft singular \f*\add* can cut it down.'"
+<usfm> \v 8 But the man replied to the owner, 'Sir, leave it here for another year. I will dig around it and put manure around it. \v 9 If it bears fruit next year, we\add \f + \ft inclusive \f*\add* will allow it to keep growing. If it does not bear fruit next year, you\add \f + \ft singular \f*\add* can cut it down.'"
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 8 But the gardener replied, 'Sir, leave it here for another year. I will dig around it and fertilize it.
-\v 9 If it has figs on it next year, we can allow it to keep growing! But if it does not bear any fruit by then, you can cut it down.'"
+<usfm> \v 8 But the gardener replied, 'Sir, leave it here for another year. I will dig around it and fertilize it. \v 9 If it has figs on it next year, we can allow it to keep growing! But if it does not bear any fruit by then, you can cut it down.'"
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 8 The gardener answered and said, 'Leave it alone this year while I dig around it and put manure on it.
-\v 9 If it bears fruit next year, good; but if it does not, cut it down!'"
-</usfm>
+<usfm> \v 8 The gardener answered and said, 'Leave it alone this year while I dig around it and put manure on it. \v 9 If it bears fruit next year, good; but if it does not, cut it down!'" </usfm>
 
+**8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O jardineiro respondeu: “Deixe a árvore como está neste ano enquanto eu escavo ao seu redor dela e coloco estrume nela.</font> **9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Se ela der fruto no próximo ano, bem será. Se não, corte-a!”.</font>
 
 ===== Important Terms: =====
 
-
-
-
 ===== Translation Notes: =====
 
-    * (Jesus continues telling his story.)
-    * **Leave it alone** - This can be translated as "Do not do anything to the tree" or "Do not cut it down." 
-    * **and put manure on it**  - "and put manure in the soil." Manure is animal dung. People put it in the ground to make the soil good for plants and trees.
-    * **cut it down** - This can be translated as "Let me cut it down" or "Tell me to cut it down." The servant was making a suggestion; he was not giving a command to the owner.
+  * (Jesus continues telling his story.)
+  * **Leave it alone**  - This can be translated as "Do not do anything to the tree" or "Do not cut it down."
+  * **and put manure on it**  - "and put manure in the soil." Manure is animal dung. People put it in the ground to make the soil good for plants and trees.
+  * **cut it down**  - This can be translated as "Let me cut it down" or "Tell me to cut it down." The servant was making a suggestion; he was not giving a command to the owner.
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/13|Luke Chapter 13 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:13:06|<<]] | [[:pt-br:bible:notes:luk:13:10|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft fruit}}
 
-**[[pt-br/bible/notes/luk/13/06|<<]] | [[pt-br/bible/notes/luk/13/10|>>]]**
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft fruit}}
 ~~NOCACHE~~
