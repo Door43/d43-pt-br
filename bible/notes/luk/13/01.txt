@@ -12,6 +12,8 @@
 
 <usfm> \c 13 \p \v 1 At that time, some people there told him about the Galileans whose blood Pilate mixed with their own sacrifices. \v 2 Jesus answered and said to them, "Do you think that these Galileans were more sinful than all the other Galileans because they suffered in this way? \v 3 No, I tell you. But if you do not repent, all of you will perish in the same way. </usfm>
 
+**1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Naquele mesmo momento algumas pessoas comentaram com ele sobre os Galileus cujo sangue Pilatos havia misturado com os seus próprios sacrifícios.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse para eles: “vocês pensam que esses Galileus são mais pecadores que todos os outros Galileus porque sofreram desta maneira?</font> **3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu digo a vocês que não. Mas todos vocês morrerão da mesma forma se não se arrependerem.</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
