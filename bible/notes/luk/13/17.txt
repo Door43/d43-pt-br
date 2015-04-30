@@ -1,4 +1,4 @@
-====== Luke 13:17 ======
+====== Luke 13:17*F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 17 As he said these things, all those who opposed him were ashamed, but the whole crowd was rejoicing over all the glorious things he did. </usfm>
 
 **17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando ele disse essas coisas, todos os que se opuseram a ele ficaram envergonhados, mas toda a multidão exultou de alegria com todas as coisas gloriosas que ele havia feito.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:rejoice|rejoice]]
