@@ -1,4 +1,4 @@
-====== Luke 07:18-20 ======
+====== Luke 07:18-20-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 18 John's disciples told him about all these things. \v 19 Then John called two of his disciples and sent them to the Lord to say, "Are you the Coming One, or is there another person we should be looking for?" \v 20 When they had come near to Jesus, the men said, "John the Baptist has sent us to you to say, 'Are you the Coming One, or is there another person we should be looking for?'" </usfm>
 
 **18** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Os discípulos de João contaram todas estas coisas para ele.</font> **19** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então João chamou dois de seus discípulos e os enviou até o Senhor para dizer: “Você é o que haveria de vir ou devemos esperar por outro?</font> **20** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando eles encontraram Jesus, disseram: “João Batista nós enviou até você para perguntarmos, 'Você é o que haveria de vir ou devemos esperar por outro?'”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:johnthebaptist|John (the Baptist)]]
