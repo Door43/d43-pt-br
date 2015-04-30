@@ -1,4 +1,4 @@
-====== Luke 07:2-5 ======
+====== Luke 07:2-5-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 2 A certain centurion's slave, who was precious to him, was very sick and was about to die. \v 3 But having heard about Jesus, the centurion sent to him elders of the Jews, asking him to come and save his slave from dying. \v 4 When they had come near to Jesus, they asked him earnestly, saying, "He is worthy that you should do this for him, \v 5 because he loves our nation, and he is the one who built the synagogue for us." </usfm>
 
 **2** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>O escravo, muito querido, de certo centurião estava muito doente e prestes a morrer.</font> **3** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas como havia ouvido sobre Jesus, o centurião enviou até ele alguns anciãos dos Judeus pedindo que ele viesse e salvasse seu escravo da morte.</font> **4** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando eles chegaram até Jesus, pediram encarecidamente: “Ele é digno que você faça isto a ele,</font> **5** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>pois ele ama nossa nação e construiu a sinagoga para nós.”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:centurion|centurion]]
