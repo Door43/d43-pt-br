@@ -1,4 +1,4 @@
-====== Luke 07:29-30 ======
+====== Luke 07:29-30-F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \v 29 When all the people heard this, including the tax collectors, they declared that God is righteous. They were among those who had been baptized with the baptism of John. \v 30 But the Pharisees and the experts in Jewish law, who were not baptized by him, rejected God's counsel for themselves. </usfm>
 
 **29** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando as pessoas ouviram isto, inclusive os coletores de impostos, declararam que Deus é justo. Eles estavam entre aqueles que foram batizados com o batismo de João.</font> **30** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas os fariseus e Judeus intérpretes da lei, que não eram batizados por ele, rejeitaram o propósito de Deus para eles.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:taxcollector|tax collectors]]
