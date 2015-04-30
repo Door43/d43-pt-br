@@ -1,4 +1,4 @@
-====== Luke 13:25-27 ======
+====== Luke 13:25-27-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 25 Once the owner of the house gets up and locks the door, then you will stand outside and pound the door and say, ‘Lord, Lord, let us in.’ And he will answer and say to you, 'I do not know you or where you are from.' \v 26 Then you will say, 'We ate and drank in front of you and you taught in our streets.' \v 27 But he will reply, 'I say to you, I do not know where you are from. Get away from me, you evil-doers!' </usfm>
 
 **25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Um vez que o dono da casa se levantar e fechar a porta, então vocês ficarão do lado de fora e baterão na porta dizendo: 'Senhor, Senhor, deixe-nos entrar!'. E ele dirá a vocês: 'Eu não os conheço e não sei de onde vocês são'.</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então vocês dirão: 'Nós comemos e bebemos contigo e você ensinou nas nossas ruas'.</font> **27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas ele lhes responderá: 'Eu digo a vocês, eu não sei de onde vocês são. Saiam da minha presença, seus malfeitores!”.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|lord]]
