@@ -16,6 +16,8 @@
 
 <usfm> \v 28 There will be crying and the grinding of teeth when you see Abraham, Isaac, Jacob and all the prophets in God's kingdom, but you—you were thrown outside. \v 29 They will arrive from the east, west,north, and south, and relax at the dinner table in the kingdom of God. \v 30 And know this, the last are the first, and the first will be last." </usfm>
 
+**28** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E haverá choro e ranger de dentes quando vocês verem Abraão, Isaque e Jacó e todos os profetas no Reino de Deus, mas vocês - vocês foram lançados fora.</font> **29** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles virão do leste e do oeste, do norte e do sul, e encontrarão repouso à mesa no Reino de Deus.</font> **30** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Saibam disso, os últimos serão os primeiros e os primeiros serão os últimos.</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:abraham|Abraham]]
