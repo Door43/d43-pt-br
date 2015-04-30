@@ -1,4 +1,4 @@
-====== Luke 07:33-35 ======
+====== Luke 07:33-35-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 33 For John the Baptizer came not eating bread and not drinking wine, and you say, 'He has a demon.' \v 34 The Son of Man came eating and drinking and you say, 'Look, he is a gluttonous man and a drunkard, a friend of tax collectors and sinners!' \v 35 But wisdom is justified by all of her children." </usfm>
 
 **33** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>João Batista veio, não comendo pão e nem bebendo vinho, e vocês disseram: 'Ele tem demônio.'</font> **34** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>O Filho do Homem veio, comendo e bebendo, e vocês disseram: 'Olhem, ele é glutão e beberrão, amigo de coletores de impostos e pecadores!'</font> **35** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas a sabedoria é justificada por todos os seus filhos.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:johnthebaptist|John the Baptizer]]
