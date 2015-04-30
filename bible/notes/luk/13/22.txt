@@ -1,57 +1,34 @@
 ====== Luke 13:22-24 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 22 \add Jesus\add* continued traveling, along \add with the disciples\add*, through various towns and villages on the way to Jerusalem. As they went, he was teaching \add the people\add*.
-\v 23 Someone asked him, "Lord, will there be only a few people who are saved \f + \ft Or:whom \add God\add* saves \f*?" He replied to them, "\add There will not be many, because\add* the way \add to heaven\add* \f + \ft metaphor \f* is \add like\add* a narrow door.
-\v 24 \add Therefore, try hard\add* to enter that narrow doorway, because I tell you that many people will try to enter \add heaven by some other way\add*, but they will not be able to get in.
-</usfm>
-
+<usfm> \v 22 \add Jesus\add* continued traveling, along \add with the disciples\add*, through various towns and villages on the way to Jerusalem. As they went, he was teaching \add the people\add*. \v 23 Someone asked him, "Lord, will there be only a few people who are saved \f + \ft Or:whom \add God\add* saves \f*?" He replied to them, "\add There will not be many, because\add* the way \add to heaven\add* \f + \ft metaphor \f* is \add like\add* a narrow door. \v 24 \add Therefore, try hard\add* to enter that narrow doorway, because I tell you that many people will try to enter \add heaven by some other way\add*, but they will not be able to get in. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 22 Jesus continued traveling toward Jerusalem. He stopped in all the towns and villages along the way and taught the people.
-\v 23 Someone asked him, "Lord, will God only save a few people?” Jesus replied,
-\v 24 "You need to try hard to enter the narrow doorway. I tell you that many people will try some other way, but they will not be able to get in.
-</usfm>
-
+<usfm> \v 22 Jesus continued traveling toward Jerusalem. He stopped in all the towns and villages along the way and taught the people. \v 23 Someone asked him, "Lord, will God only save a few people?” Jesus replied, \v 24 "You need to try hard to enter the narrow doorway. I tell you that many people will try some other way, but they will not be able to get in. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 22 Jesus visited each town and village on the way to Jerusalem and taught them.
-\v 23 Someone said to him, "Lord, are only a few people to be saved?" So he said to them,
-\v 24 "Struggle to enter through the narrow door, because many will try and will not be able to enter.
-</usfm>
+<usfm> \p \v 22 Jesus visited each town and village on the way to Jerusalem and taught them. \v 23 Someone said to him, "Lord, are only a few people to be saved?" So he said to them, \v 24 "Struggle to enter through the narrow door, because many will try and will not be able to enter. </usfm>
 
+**22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus visitou e ensinou em cada cidade e vila no caminho para Jerusalém.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Alguém disse-lhe: “Senhor, há apenas poucos para serem salvos? Então Jesus disse para eles:</font> **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“Esforcem-se para entrar pela porta estreita, porque muitos se esforçarão e não conseguirão.”</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
-    * [[:pt-br:bible:notes:key-terms:lord|Lord]]
-    * [[:pt-br:bible:notes:key-terms:save|saved]]
-
+  * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
+  * [[:pt-br:bible:notes:key-terms:lord|Lord]]
+  * [[:pt-br:bible:notes:key-terms:save|saved]]
 
 ===== Translation Notes: =====
 
-
-    * **Struggle to enter the narrow door** - "Work hard to go through the narrow doorway." This is part of a metaphor about God's kingdom (See: [[pt-br:bible:notes:key-terms:kingdomofGod]]). In this metaphor, God's kingdom is represented by a house. Jesus was speaking to a group of people. So the "you" implied in this command is plural. (See:[[en:ta:vocabulary:formsofyou]])
-    * **the narrow door** - Becoming part of the kingdom is represented by entering the narrow door. The fact that the door is narrow implies that only a few people at a time can go through it. Translate it in a way to keep this restrictive meaning. ([[:en:ta:vocabulary:implicitexplicit]]) 
+  * **Struggle to enter the narrow door**  - "Work hard to go through the narrow doorway." This is part of a metaphor about God's kingdom (See: [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]). In this metaphor, God's kingdom is represented by a house. Jesus was speaking to a group of people. So the "you" implied in this command is plural. (See:[[:en:ta:vocabulary:formsofyou|formsofyou]])
+  * **the narrow door**  - Becoming part of the kingdom is represented by entering the narrow door. The fact that the door is narrow implies that only a few people at a time can go through it. Translate it in a way to keep this restrictive meaning. ([[:en:ta:vocabulary:implicitexplicit|implicitexplicit]])
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/13|Luke Chapter 13 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:13:20|<<]] | [[:pt-br:bible:notes:luk:13:25|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft save}}
 
-**[[pt-br/bible/notes/luk/13/20|<<]] | [[pt-br/bible/notes/luk/13/25|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft save}}
 ~~NOCACHE~~
