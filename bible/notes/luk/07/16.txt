@@ -2,30 +2,21 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 16 Then everyone \add there\add* was amazed\f + \ft Or: awestruck \f*. They praised God, saying, "A great prophet has come among us!" They also said, "God has come to help his people!"
-\v 17 \add Then they\add* reported what Jesus \add had done\add* throughout all of Judea \add district\add* and other nearby areas.
+<usfm> \v 16 Then everyone \add there\add* was amazed\f + \ft Or: awestruck \f*. They praised God, saying, "A great prophet has come among us!" They also said, "God has come to help his people!" \v 17 \add Then they\add* reported what Jesus \add had done\add* throughout all of Judea \add district\add* and other nearby areas.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 16 Everyone there was overcome  with awe. They praised God and said to each other, "A great prophet has come among us!" and, "God has come to care for his people!"
-\v 17 Then this news about what Jesus had done spread throughout the region of Judea and all the other nearby areas.
+<usfm> \v 16 Everyone there was overcome with awe. They praised God and said to each other, "A great prophet has come among us!" and, "God has come to care for his people!" \v 17 Then this news about what Jesus had done spread throughout the region of Judea and all the other nearby areas.
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 16 Then fear overcame all of them. They kept praising God, saying, "A great prophet has been raised among us" and "God has looked upon his people."
-\v 17 This news about Jesus went forth throughout the whole of Judea and all the neighboring regions.
-</usfm>
+<usfm> \v 16 Then fear overcame all of them. They kept praising God, saying, "A great prophet has been raised among us" and "God has looked upon his people." \v 17 This news about Jesus went forth throughout the whole of Judea and all the neighboring regions. </usfm>
+
+**16** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então temor caiu sobre todos, e eles louvaram a Deus dizendo: “Um grande profeta surgiu entre nós.” e “Deus está cuidado do seu povo.”</font> **17** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Estas notícias sobre Jesus se espalharam por toda a Judeia e por toda região vizinha.</font>
 
 ===== Important Terms: =====
 
@@ -35,11 +26,12 @@
   * [[:pt-br:bible:notes:key-terms:prophet|prophet]]
   * [[:pt-br:bible:notes:key-terms:peopleofgod|his people]]
   * [[:pt-br:bible:notes:key-terms:judea|Judea]]
+
 ===== Translation Notes: =====
 
   * **fear overcame all of them**  - This could be translated as "fear took everyone" or "they were all filled with fear."
   * **A great prophet**  - They were referring to Jesus, not to some unidentified prophet. It could be translated as "This great prophet."
-  * **has been raised among us** - "has come to be with us" or "has appeared to us" or "we have seen"
+  * **has been raised among us**  - "has come to be with us" or "has appeared to us" or "we have seen"
   * **looked upon**  - "cared for"
   * **this report**  - "this word" or "this message" or "this news"
   * **went forth**  - "went out" or "was spread"
