@@ -1,4 +1,4 @@
-====== Luke 17:22-24 ======
+====== Luke 17:22-24-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 22 Jesus said to the disciples, "The days will come when you will desire to see one of the days of the Son of Man, but you will not see it. \v 23 They will say to you, 'Look, there! Look, here!' But do not go looking, nor follow after them, \v 24 for as the lightning appears when it flashes from one part of the sky to another part of the sky, so will the Son of Man be in his day. </usfm>
 
 **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse aos discípulos: “Virão dias em que vocês desejarão ver um dos dias do Filho do Homem, mas não verão.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles dirão: 'Veja lá! Veja aqui ! 'Mas não procure nem o siga</font> **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Assim será também o Filho do Homem em seu dia, como um relâmpago que aparece e atravessa o céu de um lado a outro.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:disciple|disciple]]
