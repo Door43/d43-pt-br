@@ -1,4 +1,4 @@
-====== Luke 07:24-26 ======
+====== Luke 07:24-26-F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 \v 26 But what did you go out to see–a prophet? Yes, I say to you, and much more than a prophet. </usfm>
 
 **24** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando os mensageiros de João foram embora, Jesus começou a falar para a multidão sobre João. “O que vocês foram ver no deserto? Um caniço balançado pelo vento?</font> **25** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>O que vocês foram ver? Um homem vestido em roupas finas? Pessoas que vestem roupas esplendorosas e tem uma vida de luxo estão em palácios reais.</font> **26** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas o que vocês foram ver? Um profeta? Sim, eu digo para vocês, muito mais que um profeta.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:johnthebaptist|John (the Baptist)]]
