@@ -1,4 +1,4 @@
-====== Luke 06:38 ======
+====== Luke 06:38*F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \v 38 Give to others, and it will be given to you. A generous amount–pressed down, shaken together and spilling over–they will pour into your lap. For with whatever standard of measure you use to measure with, that same standard will be used to measure for you." </usfm>
 
 **38** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Deem aos outros e será dado a vocês. Uma quantidade generosa, prensada, sacudida e transbordante. Pois, a mesma medida que vocês usarem será usada para medir vocês.</font>
-
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
