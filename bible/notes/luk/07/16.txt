@@ -1,4 +1,4 @@
-====== Luke 07:16-17 ======
+====== Luke 07:16-17-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 16 Then fear overcame all of them. They kept praising God, saying, "A great prophet has been raised among us" and "God has looked upon his people." \v 17 This news about Jesus went forth throughout the whole of Judea and all the neighboring regions. </usfm>
 
 **16** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então temor caiu sobre todos, e eles louvaram a Deus dizendo: “Um grande profeta surgiu entre nós.” e “Deus está cuidado do seu povo.”</font> **17** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Estas notícias sobre Jesus se espalharam por toda a Judeia e por toda região vizinha.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:fear|fear]]
