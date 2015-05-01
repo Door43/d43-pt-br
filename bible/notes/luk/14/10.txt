@@ -1,4 +1,4 @@
-====== Luke 14:10-11 ======
+====== Luke 14:10-11-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 10 But when you are invited, go and sit down in the lowest place, so that when the one who has invited you comes, he may say to you, 'Friend, go up higher.' Then you will be honored in the presence of all who sit at the table with you. \v 11 For everyone who exalts himself will be humbled, and he who humbles himself will be exalted." </usfm>
 
 **10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas quando você for convidado, vá e se assente no menor lugar, para que quando aquele que o convidou vier, ele diga a você: 'Amigo, venha ocupar o melhor assento'. Então você será honrado na presença de todos os que estão à mesa com você.</font> **11** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois todo aquele que se exaltar será humilhado, e todo aquele que se humilhar, será exaltado.</font>
-
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
