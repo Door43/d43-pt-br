@@ -1,4 +1,4 @@
-====== Luke 14:13-14 ======
+====== Luke 14:13-14-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 13 But when you give a banquet, invite the poor, the crippled, the lame, and the blind, \v 14 and you will be blessed, because they cannot repay you. For you will be repaid in the resurrection of the just." </usfm>
 
 **13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas, quando você der um banquete, convide os pobres, os aleijados, os coxos e os cegos,</font> **14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>e você será abençoado, pois eles não terão como te recompensar. Você será retribuído no dia da ressurreição do justo'.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:bless|blessed]]
