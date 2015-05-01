@@ -1,4 +1,4 @@
-====== Luke 18:28-30 ======
+====== Luke 18:28-30-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 28 Peter said, "Well, we have left everything that is our own and have followed you." \v 29 Jesus then said to them, "Truly, I say to you that there is no one who has left house, or wife, or brothers, or parents, or children, for the sake of the kingdom of God, \v 30 who will not receive much more in this world, and in the world to come, eternal life." </usfm>
 
 **28** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Pedro disse: “Nós deixamos tudo o que tínhamos e o seguimos”</font> **29** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Então Jesus disse a eles: “Em verdade eu digo a vocês, que não tem ninguém que tenha deixado casa, esposa, irmãos, pais, ou filhos por causa do reino de Deus,</font> **30** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>que não receberá muito mais nessa era, e em era futura, a vida eterna. ”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
