@@ -1,4 +1,4 @@
-====== Luke 18:6-8 ======
+====== Luke 18:6-8-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 6 Then the Lord said, "Listen to what the unjust judge says. \v 7 Now will not God also bring justice to his chosen ones who cry out to him day and night? Will he not be patient with them? \v 8 I say to you that he will bring justice to them speedily. But when the Son of Man comes, will he find faith on the earth?" </usfm>
 
 **6** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Então disse o Senhor: “Ouçam o que diz o juiz injusto.</font> ** 7** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>A caso Deus também não trará justiça aos seus escolhidos, que clamam a ele dia e noite? Não será ele paciente com eles?</font> ** 8** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Digo a vocês que ele trará rapidamente justiça a eles. Contudo quando o Filho do homem vier, encontrará fé sobre a terra? ”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:righteous|unjust]]
