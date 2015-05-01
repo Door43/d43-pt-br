@@ -1,4 +1,4 @@
-====== Luke 14:1-3 ======
+====== Luke 14:1-3-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \c 14 \p \v 1 It happened one Sabbath, when he went into the house of one of the leaders of the Pharisees to eat bread, that they were watching him closely. \v 2 Behold, there in front of him was a man who was suffering from edema. \v 3 Jesus asked the experts in the Jewish law and the Pharisees, "Is it lawful to heal on the Sabbath, or not?" </usfm>
 
 **1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E aconteceu que num sabá, quando ele entrou na casa de um dos líderes dos fariseus para comer pão, eles o estavam observando com atenção.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Em frente dele havia um homem que sofria de hidropsia.</font> **3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus perguntou aos mestres da lei e aos fariseus: 'é legal curar no Sabá, ou não?'</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:sabbath|Sabbath]]
