@@ -1,60 +1,38 @@
 ====== Luke 18:35-37 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 35 As \add Jesus and his disciples\add* came near to Jericho \add city\add*, a blind man was sitting beside the road. \add He was\add* begging \add for money\add*.
-\v 36 When he heard the crowd \add of people\add* passing by, he asked someone, "What is happening?"
-\v 37 They told him, "Jesus, \add the man\add* from Nazareth \add town\add*, is passing by."
-</usfm>
-
+<usfm> \v 35 As \add Jesus and his disciples\add* came near to Jericho \add city\add*, a blind man was sitting beside the road. \add He was\add* begging \add for money\add*. \v 36 When he heard the crowd \add of people\add* passing by, he asked someone, "What is happening?" \v 37 They told him, "Jesus, \add the man\add* from Nazareth \add town\add*, is passing by." </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 35 As Jesus and his disciples came near to the city of Jericho, a blind man was sitting beside the road. He was begging for money.
-\v 36 When he heard the crowd of people passing by, he asked someone, "What is happening?"
-\v 37 They told him, "Jesus, the man from the town of Nazareth, is passing by."
-</usfm>
-
+<usfm> \v 35 As Jesus and his disciples came near to the city of Jericho, a blind man was sitting beside the road. He was begging for money. \v 36 When he heard the crowd of people passing by, he asked someone, "What is happening?" \v 37 They told him, "Jesus, the man from the town of Nazareth, is passing by." </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 35 It came about that, as Jesus drew near to Jericho, a certain blind man was sitting by the road begging,
-\v 36 and hearing a crowd going by, he asked what was happening.
-\v 37 They told him that Jesus of Nazareth was passing by.
-</usfm>
+<usfm> \p \v 35 It came about that, as Jesus drew near to Jericho, a certain blind man was sitting by the road begging, \v 36 and hearing a crowd going by, he asked what was happening. \v 37 They told him that Jesus of Nazareth was passing by. </usfm>
 
+<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>35 Quando Jesus se aproximou de Jericó, havia um cego sentado à beira da estrada pedindo esmola, 36 e ouvindo uma multidão passar, ele perguntou o que estava acontecendo. 37 Disseram-lhe que Jesus de Nazaré estava passando.</font>
 
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jericho|Jericho]]
   * [[:pt-br:bible:notes:key-terms:beg|begging]]
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
- 
 
 ===== Translation Notes: =====
 
-  * **drew near to** - "approached"
-  * **a certain blind man was sitting** - "there was a blind man sitting." Here "certain" means only that the man is important to the story but his name will not be given.
-  * **begging; and hearing** - This could also be translated as two sentences: "begging. When he heard."
-  * **They told him** - People in the crowd told the blind man.
-  * **Jesus of Nazareth** - Jesus came from the town of Nazareth that was located in Galilee.
-  * **was passing by** - "was walking past him"
-
+  * **drew near to**  - "approached"
+  * **a certain blind man was sitting**  - "there was a blind man sitting." Here "certain" means only that the man is important to the story but his name will not be given.
+  * **begging; and hearing**  - This could also be translated as two sentences: "begging. When he heard."
+  * **They told him**  - People in the crowd told the blind man.
+  * **Jesus of Nazareth**  - Jesus came from the town of Nazareth that was located in Galilee.
+  * **was passing by**  - "was walking past him"
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/18|Luke Chapter 18 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:18:34|<<]] | [[:pt-br:bible:notes:luk:18:38|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft Jericho}}
 
-**[[pt-br/bible/notes/luk/18/34|<<]] | [[pt-br/bible/notes/luk/18/38|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft Jericho}}
 ~~NOCACHE~~
