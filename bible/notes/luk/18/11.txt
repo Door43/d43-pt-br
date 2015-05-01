@@ -1,4 +1,4 @@
-====== Luke 18:11-12 ======
+====== Luke 18:11-12-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 11 The Pharisee stood and prayed these things about himself, 'God, I thank you that I am not like other people who are robbers, unrighteous people, adulterers, or even like this tax collector. \v 12 I fast two times every week. I give tithes of all that I get.' </usfm>
 
 **11** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>O fariseu se levantou e orou consigo mesmo o seguinte: Deus eu te agradeço porque não sou como as outras pessoas que são ladrões, injustos, adúlteros e tão pouco como esse coletor de impostos.</font> ** 12** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Eu jejuo duas vezes por semana. Eu dizimo em tudo que ganho.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:pharisee|Pharisee]]
