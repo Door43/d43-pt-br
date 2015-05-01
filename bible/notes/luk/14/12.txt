@@ -1,4 +1,4 @@
-====== Luke 14:12 ======
+====== Luke 14:12-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 12 Jesus also said to the man who had invited him, "When you give a luncheon or a dinner, do not invite your friends or your brothers or your relatives or your rich neighbors, as they may also invite you in return, and you will be repaid. </usfm>
 
 **12** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus também disse ao homem que o convidou: 'Quando você oferecer um jantar ou uma ceia, não convide seus irmãos, parentes, ou seus vizinhos ricos, pois eles também poderão convidar você em troca, e você será retribuído.</font>
-
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
