@@ -1,4 +1,4 @@
-====== Luke 18:34 ======
+====== Luke 18:34-F ======
 
 ===== TFT: =====
 
@@ -16,8 +16,7 @@
 
 <usfm> \v 34 They understood none of these things, and this word was hidden from them, and they did not understand the things that were said. </usfm>
 
-***4** Eles não entenderam nada  dessas coisas,  e o significado dessas palavras foi escondido deles, e eles não entenderam nada do que foi dito.
-
+***4** Eles não entenderam nada dessas coisas, e o significado dessas palavras foi escondido deles, e eles não entenderam nada do que foi dito.
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:word|word]]
