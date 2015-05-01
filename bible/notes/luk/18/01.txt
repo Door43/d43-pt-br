@@ -13,7 +13,6 @@
 <usfm> \c 18 \p \v 1 Then he spoke a parable to them about how they should always pray, and not become discouraged, \v 2 saying, "There was in a certain city a certain judge who did not fear God and did not respect people. </usfm>
 
 **1** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Então Jesus contou uma parábola para eles sobre como eles deveriam sempre orar e nunca desanimar</font> **2** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>. ” Havia um certo juiz em uma certa cidade, o qual não temia a Deus e nem respeitava as pessoas.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:parable|parable]]
