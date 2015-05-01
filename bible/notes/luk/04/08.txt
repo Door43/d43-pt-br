@@ -2,7 +2,7 @@
 
 ===== TFT: =====
 
-<usfm> \v 8 But Jesus replied, " No, I will not  worship you, because it is written in the Scriptures, 'It is the Lord, God, whom you must worship, and you must serve only him!'" \p </usfm>
+<usfm> \v 8 But Jesus replied, " No, I will not worship you, because it is written in the Scriptures, 'It is the Lord, God, whom you must worship, and you must serve only him!'" \p </usfm>
 
 ===== UDB: =====
 
@@ -24,9 +24,9 @@
 
 ===== Translation Notes: =====
 
-  * **[[:answered-https:cdncache-a.akamaihd.net:items:it:img:arrow-10x10.png?nolink&0x10}}|arrow-10x10.png]] and said to him**- "responded to him" or "replied to him"
-  * **It is written**  - This could be [[:translated-https:cdncache-a.akamaihd.net:items:it:img:arrow-10x10.png?nolink&0x10}}|arrow-10x10.png]] as “it is written in the scriptures” or “the scriptures say” or “in the scriptures God said.”
-  * **You must worship the Lord your God**  - Jesus was [[:quoting-https:cdncache-a.akamaihd.net:items:it:img:arrow-10x10.png?nolink&0x10}}|arrow-10x10.png]] a law from the scriptures to say why he would not worship the devil.
+  * **and said to him**- "responded to him" or "replied to him"
+  * **It is written**  - This could be as “it is written in the scriptures” or “the scriptures say” or “in the scriptures God said.”
+  * **You must worship the Lord your God**  - Jesus was a law from the scriptures to say why he would not worship the devil.
   * **you**  - This refers to the people in the Old Testament who received God's Law. You could use the singular form of 'you' because each person was to obey it, or you could use the plural form of 'you' because all of the people were to obey it. (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
   * **him**  - This refers to the Lord God.
 ===== Links: =====
