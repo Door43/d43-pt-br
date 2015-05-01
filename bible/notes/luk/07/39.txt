@@ -1,4 +1,4 @@
-====== Luke 07:39-40 ======
+====== Luke 07:39-40-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 39 When the Pharisee who had invited Jesus saw this, he thought to himself, saying, "If this man were a prophet, then he would know who and what type of woman is touching him–that she is a sinner." \v 40 Jesus responded and said to him, "Simon, I have something to say to you." He said, "Say it, Teacher!" </usfm>
 
 **39** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando o fariseu que havia convidado Jesus viu isto, ele pensou consigo mesmo: “Este homem não é um profeta, pois se fosse saberia que tipo de mulher está tocando ele, pois ela é uma pecadora.”</font> **40** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então Jesus disse: “Simão, eu tenho algo para dizer para você.” E Simão disse: “Fale, Mestre!”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:pharisee|Pharisee]]
