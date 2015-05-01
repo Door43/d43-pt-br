@@ -1,57 +1,33 @@
 ====== Luke 14:18-20 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 18 But \add when the servant did that\add*, all of the people \add whom he had invited\add* began to say why they did not want to come. The first \add man the servant went to\add* said, 'I have just bought a field, and I must go there and see it. Please \add ask your master to\add* forgive me for not coming!'
-\v 19 Another person said, 'I have just bought five pair of oxen, and I must go to examine them. Please \add ask your master to\add* forgive me for not coming!'
-\v 20 Another person said, 'I have just been married. So I cannot come.'
-</usfm>
-
+<usfm> \v 18 But \add when the servant did that\add*, all of the people \add whom he had invited\add* began to say why they did not want to come. The first \add man the servant went to\add* said, 'I have just bought a field, and I must go there and see it. Please \add ask your master to\add* forgive me for not coming!' \v 19 Another person said, 'I have just bought five pair of oxen, and I must go to examine them. Please \add ask your master to\add* forgive me for not coming!' \v 20 Another person said, 'I have just been married. So I cannot come.' </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 18 But when the servant did that, all of the people whom he had invited began to say why they could not come. The first man that the servant went to said, 'I have just bought a field, and I must go there and see it. Please ask your master to forgive me for not coming!'
-\v 19 Another person said, 'I have just bought five pairs of oxen, and I must go to examine them. Please ask your master to forgive me for not coming!'
-\v 20 Another person said, 'I have just been married, so I cannot come.'
-</usfm>
-
+<usfm> \v 18 But when the servant did that, all of the people whom he had invited began to say why they could not come. The first man that the servant went to said, 'I have just bought a field, and I must go there and see it. Please ask your master to forgive me for not coming!' \v 19 Another person said, 'I have just bought five pairs of oxen, and I must go to examine them. Please ask your master to forgive me for not coming!' \v 20 Another person said, 'I have just been married, so I cannot come.' </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 18 They all alike began to make excuses. The first said to him, 'I have bought a field, and I must go out and see it. Please excuse me.'
-\v 19 And another said, 'I have bought five pairs of oxen, and I am going to try them out. Please excuse me.'
-\v 20 And another man said, 'I have married a wife, and therefore I cannot come.'
-</usfm>
+<usfm> \v 18 They all alike began to make excuses. The first said to him, 'I have bought a field, and I must go out and see it. Please excuse me.' \v 19 And another said, 'I have bought five pairs of oxen, and I am going to try them out. Please excuse me.' \v 20 And another man said, 'I have married a wife, and therefore I cannot come.' </usfm>
 
+**18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E todos, sem exceção, começaram a dar desculpas. O primeiro homem disse: 'Comprei um campo e preciso ir vê-lo. Por favor, me desculpe.'</font> **19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E um outro disse: 'Eu comprei cinco juntas de boi, e estou indo experimentá-las. Por favor, me desculpe.'</font> **20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E outro homem disse: 'Eu tomei para mim uma esposa, e por isso não posso ir.</font>
 
 ===== Important Terms: =====
 
-
-
 ===== Translation Notes: =====
 
-
-    * (Jesus continues telling his parable.)
-    * **to make excuses** - Here it means "to say why they could not come to the dinner."
-    * **Please excuse me**  - "Please forgive me" or "Please accept my apology"
-    * **five pairs of oxen** -  Oxen are cows or bulls that people use to pull heavy loads or do other hard work. Oxen usually work in pairs. 
-    * **married a wife**  - Use an expression that is natural in your language. Some languages may say "gotten married" or "taken a wife."
+  * (Jesus continues telling his parable.)
+  * **to make excuses**  - Here it means "to say why they could not come to the dinner."
+  * **Please excuse me**  - "Please forgive me" or "Please accept my apology"
+  * **five pairs of oxen**  - Oxen are cows or bulls that people use to pull heavy loads or do other hard work. Oxen usually work in pairs.
+  * **married a wife**  - Use an expression that is natural in your language. Some languages may say "gotten married" or "taken a wife."
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/14|Luke Chapter 14 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:14|Luke Chapter 14 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:14:15|<<]] | [[:pt-br:bible:notes:luk:14:21|>>]]**
 
- 
-
-**[[pt-br/bible/notes/luk/14/15|<<]] | [[pt-br/bible/notes/luk/14/21|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft }}
-
+~~DISCUSSION~~{{tag>draft }}
 
 ~~NOCACHE~~
