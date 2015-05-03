@@ -16,6 +16,7 @@
 
 ===== Target ULB: =====
 5 Nos dias de Herodes, rei da judeia , havia um sacerdote, chamado Zacarias, da ordem de Ábias. Sua mulher era da linhagem de Arão, e chamava-se Isabel. 6 Ambos eram justos diante de Deus, andando de modo irrepreensível a todos os mandamentos e exigências do Senhor.  7 Mas eles não tinham filhos, porque Isabel era estéril, e também eram ambos muito velhos. >
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:herodthegreat|Herod the Great]]
