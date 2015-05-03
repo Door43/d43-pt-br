@@ -15,6 +15,7 @@
 ===== Target ULB: =====
 
 8 Um dia, enquanto Zacarias exercia suas funções como sacerdote diante de Deus, representando seu grupo sacerdotal, ele foi escolhido por sorteio, conforme seus costumes, pelos 9 sacerdotes para entrar no templo do Senhor, para oferecer incenso. Quando chegou a hora de queimar o incenso, 10 todo o povo estava fora, orando 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
