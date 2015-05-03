@@ -15,7 +15,8 @@
 ===== Target ULB: =====
 
 11 Um Anjo do Senhor apareceu a ele, em pé, à direita do altar do incenso. 12 Quando Zacarias o viu ficou aterrorizado e com muito medo. 13 Mas o anjo disse-lhe: ¨Não tenha medo Zacarias, porque sua oração foi ouvida. Sua esposa, Isabel dará à luz a um filho, e você o chamará de João
-
+ 
+----
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
