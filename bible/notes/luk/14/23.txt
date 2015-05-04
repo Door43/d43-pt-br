@@ -1,4 +1,4 @@
-====== Luke 14:23-24 ======
+====== Luke 14:23-24 *F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 23 The master said to the servant, 'Go out into the highways and hedges and compel them to come in, that my house may be filled. \v 24 For I say to you, none of those men who were first invited will taste my dinner.'" </usfm>
 
 **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O senhor disse ao seu servo: 'Vá até as estradas e vielas e obrigue as pessoas a entrar, para que assim a minha casa fique cheia.</font> **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu digo a você que nenhum daqueles homens que foram convidados a princípio irão experimentar do meu jantar.</font>
-
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
