@@ -1,53 +1,35 @@
-====== Luke 14:34-35 ======
-
+====== Luke 14:34-35 *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 34 \add Jesus also said, "You are like\add* \f + \ft metaphor \f* salt, which is useful \add to put on food\add*. But salt certainly cannot be made \f + \ft Or:\add you\add* certainly cannot make salt \f* to taste salty again if it stops tasting salty!\f + \ft Or: can salt be made \f + \ft Or:can \add you\add* make salt \f* to taste salty again if it quits tasting salty? \f* \f + \ft rhetorical question \f*
-\v 35 \add If salt does not taste salty anymore\add*, it is not good for the soil or even for the manure heap. \add People\add* throw it away. \add The same thing will happen to you if you become useless to God\add*. If you want to understand what I just said \f + \ft idiom \f*, you must consider \add carefully\add* what you have heard!"
-</usfm>
-
+<usfm> \v 34 \add Jesus also said, "You are like\add* \f + \ft metaphor \f* salt, which is useful \add to put on food\add*. But salt certainly cannot be made \f + \ft Or:\add you\add* certainly cannot make salt \f* to taste salty again if it stops tasting salty!\f + \ft Or: can salt be made \f + \ft Or:can \add you\add* make salt \f* to taste salty again if it quits tasting salty? \f* \f + \ft rhetorical question \f* \v 35 \add If salt does not taste salty anymore\add*, it is not good for the soil or even for the manure heap. \add People\add* throw it away. \add The same thing will happen to you if you become useless to God\add*. If you want to understand what I just said \f + \ft idiom \f*, you must consider \add carefully\add* what you have heard!" </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 34 Jesus also said, "You are like salt, which is very useful. But if salt were to lose its saltiness, could it ever be made to taste salty again?
-\v 35 If salt does not taste salty anymore, it is no longer any good even for the soil or manure heap. People just throw it away. Every one of you should listen carefully to what I am telling you!"
-</usfm>
-
+<usfm> \v 34 Jesus also said, "You are like salt, which is very useful. But if salt were to lose its saltiness, could it ever be made to taste salty again? \v 35 If salt does not taste salty anymore, it is no longer any good even for the soil or manure heap. People just throw it away. Every one of you should listen carefully to what I am telling you!" </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 34 Salt is good, but if the salt has lost its taste, how can it be made salty again?
-\v 35 It is of no use for the soil or even for the manure pile. It is thrown away. He who has ears to hear, let him hear."
-</usfm>
+<usfm> \v 34 Salt is good, but if the salt has lost its taste, how can it be made salty again? \v 35 It is of no use for the soil or even for the manure pile. It is thrown away. He who has ears to hear, let him hear." </usfm>
 
+**34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Sal é bom, mas se o sal perdeu seu sabor, como ele pode ser salgado de novo?</font> **35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>De</font> <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>nada serve para o solo, nem mesmo para a pilha de esterco. Ele é jogado fora. Aquele que tem ouvidos para ouvir, ouça.”</font>
 
 ===== Important Terms: =====
-
 
 ===== Translation Notes: =====
 
   * (Jesus continues speaking to the crowd following him)
   * **Salt is good**  - "Salt is useful"
-  * **how can it be made salty again**  - This is a rhetorical question. It can also be translated as, "It cannot be made salty again" or, "No one can make it salty again." (See: [[en:ta:translate:rhetoricalquestion]])
-  * **for the soil or the manure pile** - "Manure pile can be translated as "compost heap" or "fertilizer. Manure was used to fertilize gardens and fields. Food that had gone bad could be mixed in with manure. But salt that had lost its flavor could not be used even for that. It was completely useless. 
+  * **how can it be made salty again**  - This is a rhetorical question. It can also be translated as, "It cannot be made salty again" or, "No one can make it salty again." (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * **for the soil or the manure pile**  - "Manure pile can be translated as "compost heap" or "fertilizer. Manure was used to fertilize gardens and fields. Food that had gone bad could be mixed in with manure. But salt that had lost its flavor could not be used even for that. It was completely useless.
   * **He who has ears to hear**  - “Whoever can hear” or “If anyone hears me”.
   * **let him hear**  - “let him listen well” or “let him pay attention to what I say”
   * **He who has ears to hear, let him hear**  - This can also be translated as a command: "If you have hears to hear, listen well" or "If you hear want I am saying, pay attention."
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/14|Luke Chapter 14 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:14|Luke Chapter 14 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:14:31|<<]] | [[:pt-br:bible:notes:luk:15:01|>>]]**
 
- 
-
-**[[pt-br/bible/notes/luk/14/31|<<]] | [[pt-br/bible/notes/luk/15/01|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
