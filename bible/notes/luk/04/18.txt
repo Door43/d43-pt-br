@@ -13,9 +13,11 @@
 ===== ULB: =====
 
 <usfm> \q1 \v 18 "The Spirit of the Lord is upon me, \q1 Because he anointed me to preach good news to the poor. \q1 He has sent me to proclaim freedom to the captives, \q1 And recovery of sight to the blind, \q1 To set free those who are oppressed, \q1 \v 19 To proclaim the favorable year of the Lord." </usfm>
+===== Target ULB: =====
 
-**18** “O Espírito do Senhor está sobre mim, Porque ele <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>me</font>    ungiu para pregar <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>as boas novas</font>    aos pobres<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>.</font>    Ele <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>me</font>    enviou para proclamar liberdade os cativos<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>,</font>    <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>E</font>    restaurar <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>a vista dos</font>    cegos<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>,</font>    <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>Para</font>    libertar os oprimidos<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>,</font>    **19** <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>Para</font>    proclamar <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>o</font>    ano favorável <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>do Senhor.”</font>
+18 “O Espírito do Senhor está sobre mim, Porque ele me ungiu para pregar as boas novas aos pobres. Ele me enviou para proclamar liberdade os cativos, E restaurar a vista dos cegos, Para libertar os oprimidos, 19 Para proclamar o ano favorável do Senhor.” 
 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:holyspirit|Spirit of the Lord]]
