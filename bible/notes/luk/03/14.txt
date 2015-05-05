@@ -12,7 +12,11 @@
 
 <usfm> \v 14 Some soldiers also asked him, saying, "And what about us? What must we do?" He said to them, "Do not take money from anyone by force, and do not accuse anyone falsely. Be content with your wages." </usfm>
 
-**14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Alguns soldados também o perguntaram, dizendo, “E quanto a nós? O que devemos fazer?” E ele respondeu, “Não tome dinheiro das pessoas à força, nem acuse ninguém falsamente. Seja grato por seu salário.”</font>
+===== Target ULB: =====
+
+14 Alguns soldados também o perguntaram, dizendo, “E quanto a nós? O que devemos fazer?” E ele respondeu, “Não tome dinheiro das pessoas à força, nem acuse ninguém falsamente. Seja grato por seu salário.” 
+
+----
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
