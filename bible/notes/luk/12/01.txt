@@ -1,57 +1,38 @@
-====== Luke 12:1 ======
-
+====== Luke 12:1 *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 1 While they were doing that, many thousands of people gathered \add around Jesus\add*. There were so many that they were stepping on each other. Then he said to his disciples, "Beware of \add becoming\add* hypocrites \add like\add* the Pharisees. Their \add evil influence\add* \f + \ft metaphor \f* \add spreads to others like\add* yeast \add spreads its influence in dough\add*.
-</usfm>
-
+<usfm> \v 1 While they were doing that, many thousands of people gathered \add around Jesus\add*. There were so many that they were stepping on each other. Then he said to his disciples, "Beware of \add becoming\add* hypocrites \add like\add* the Pharisees. Their \add evil influence\add* \f + \ft metaphor \f* \add spreads to others like\add* yeast \add spreads its influence in dough\add*. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Meanwhile, many thousands of people gathered around Jesus. There were so many that they were stepping on each other. But first he said to his disciples, "Be careful that you do not become like the Pharisees who act religious in public, but do evil things in secret. Just like yeast causes a lump of dough to rise, their evil behavior causes others to be hypocrites like they are.
-</usfm>
-
+<usfm> \v 1 Meanwhile, many thousands of people gathered around Jesus. There were so many that they were stepping on each other. But first he said to his disciples, "Be careful that you do not become like the Pharisees who act religious in public, but do evil things in secret. Just like yeast causes a lump of dough to rise, their evil behavior causes others to be hypocrites like they are. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 12
-\p
-\v 1 In the meantime, when many thousands of the people were gathered together, so much that they trampled on each other, he began to say to his disciples first of all, "Beware of the yeast of the Pharisees, which is hypocrisy.
-</usfm>
+<usfm> \c 12 \p \v 1 In the meantime, when many thousands of the people were gathered together, so much that they trampled on each other, he began to say to his disciples first of all, "Beware of the yeast of the Pharisees, which is hypocrisy. </usfm>
 
+**1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Naquele mesmo momento, quando muitas milhares de pessoas estavam reunidas ali, ao ponto de estarem até pisando umas nas outras, primeiro ele começou a dizer aos seus discípulos: “Cuidado para que vocês não se tornem hipócritas como os fariseus. A hipocrisia deles influencia a todos, assim como o fermento afeta a massa”.</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:yeast|yeast]]
-    * [[:pt-br:bible:notes:key-terms:pharisee|Pharisees]]
-    * [[:pt-br:bible:notes:key-terms:hypocrite|hypocrisy]]
+  * [[:pt-br:bible:notes:key-terms:yeast|yeast]]
+  * [[:pt-br:bible:notes:key-terms:pharisee|Pharisees]]
+  * [[:pt-br:bible:notes:key-terms:hypocrite|hypocrisy]]
 
 ===== Translation Notes: =====
 
   * **In the meantime**  - "While they were doing that"
   * **many thousands of the multitude**  - "thousands of people" or "a very great crowd"
-  * **they trampled each other**  - This is an exaggeration in order to express how many people there were. It means "they were stepping on each other." (See: [[en:ta:translate:hyperbole]])
+  * **they trampled each other**  - This is an exaggeration in order to express how many people there were. It means "they were stepping on each other." (See: [[:en:ta:translate:hyperbole|Hyperbole]])
   * **he began to say to his disciples, first of all**  - "Jesus first started speaking to his disciples, and said to them"
   * **Beware**  - "Be alert to the danger of" or "Guard yourself against"
-  * **the yeast of the Pharisees, which is hypocrisy.**  - This is a metaphor. It can be translated as a simile "the hypocrisy of the Pharisees, which is like yeast." Just as yeast spreads through a whole lump of bread dough, their hypocrisy was spreading through the whole community. This whole warning can be translated as "Be careful that you do not become hypocrites like the Pharisees. Their evil behavior influences everyone just as yeast affects a lump of dough." (See: [[en:ta:translate:metaphor]])
-
+  * **the yeast of the Pharisees, which is hypocrisy.**  - This is a metaphor. It can be translated as a simile "the hypocrisy of the Pharisees, which is like yeast." Just as yeast spreads through a whole lump of bread dough, their hypocrisy was spreading through the whole community. This whole warning can be translated as "Be careful that you do not become hypocrites like the Pharisees. Their evil behavior influences everyone just as yeast affects a lump of dough." (See: [[:en:ta:translate:metaphor|Metaphor]])
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/12|Luke Chapter 12 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:11:53|<<]] | [[:pt-br:bible:notes:luk:12:02|>>]]**
 
- 
-
-**[[pt-br/bible/notes/luk/11/53|<<]] | [[pt-br/bible/notes/luk/12/02|>>]]**
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft yeast}}
+~~DISCUSSION~~{{tag>draft yeast}}
 
 ~~NOCACHE~~
