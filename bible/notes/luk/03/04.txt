@@ -14,7 +14,11 @@
 
 <usfm> \q1 \v 4 As it is written in the book of the words of Isaiah the prophet, \q1 "The voice of someone calling out in the wilderness, \q1 'Make ready the way of the Lord, \q1 Make his paths straight. </usfm>
 
-**4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O profeta Isaías, escreveu assim em seu livro: “Voz do que clama no deserto: Prepare o caminho do Senhor, endireitai a sua vereda.</font>
+===== Target ULB: =====
+
+4 O profeta Isaías, escreveu assim em seu livro: “Voz do que clama no deserto: Prepare o caminho do Senhor, endireitai a sua vereda. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:isaiah|Isaiah]]
