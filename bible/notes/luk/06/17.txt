@@ -12,7 +12,10 @@
 
 <usfm> \v 17 Then Jesus came down the mountain with them and stood on a level place. A large crowd of his disciples was there, as well as a large number of the people from Judea and Jerusalem, and from the sea coast of Tyre and Sidon. \v 18 They had come to listen to him and to be healed of their diseases. People who were troubled with unclean spirits were also healed. \v 19 Everyone in the crowd kept trying to touch him because power to heal was coming out from him, and he healed them all. </usfm>
 
-**17** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então Jesus desceu do monte com eles e pararam em um lugar plano. Uma grande multidão de seus discípulos estavam lá, e também muitas pessoas vinham da Judeia e Jerusalém, e do litoral de Tiro e de Sidom.</font> ** 18** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Eles vinham para ouvir Jesus e para que ele os curassem de suas doenças. Pessoas que eram atormentadas por espíritos imundos também eram curadas.</font> **19** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Todos na multidão tentavam tocar Jesus, pois o poder de curar saia dele, e ele curava todos.</font>
+===== Target ULB: =====
+17 Então Jesus desceu do monte com eles e pararam em um lugar plano. Uma grande multidão de seus discípulos estavam lá, e também muitas pessoas vinham da Judeia e Jerusalém, e do litoral de Tiro e de Sidom.  18 Eles vinham para ouvir Jesus e para que ele os curassem de suas doenças. Pessoas que eram atormentadas por espíritos imundos também eram curadas. 19 Todos na multidão tentavam tocar Jesus, pois o poder de curar saia dele, e ele curava todos. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
