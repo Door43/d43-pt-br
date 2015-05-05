@@ -12,7 +12,10 @@
 
 <usfm> \p \v 6 It happened on another Sabbath that he went into the synagogue and taught the people there. A man was there whose right hand was shriveled. \v 7 The scribes and the Pharisees were watching him closely to see whether he would heal someone on the Sabbath, so that they might find a reason to accuse him of doing something wrong. \v 8 But he knew what they were thinking and he said to the man whose hand was shriveled, "Get up, and stand here in the middle of everyone." So the man got up and stood there. </usfm>
 
-**6** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E aconteceu, em outro Sabá, que Jesus foi até a sinagoga e ensinava as pessoas. Havia lá um homem com a mão direita atrofiada.</font> **7** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E os escribas e fariseus observavam Jesus de perto, para ver se ele iria curar alguém no dia de Sabá, pois procuravam acusá-lo de ter feito algo errado.</font> **8** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas Jesus, sabendo o que eles estavam pensando, disse ao homem da mão atrofiada: “Se levante e fique aqui no meio de todos.” Então o homem se levantou e foi até lá.</font>
+===== Target ULB: =====
+6 E aconteceu, em outro Sabá, que Jesus foi até a sinagoga e ensinava as pessoas. Havia lá um homem com a mão direita atrofiada. 7 E os escribas e fariseus observavam Jesus de perto, para ver se ele iria curar alguém no dia de Sabá, pois procuravam acusá-lo de ter feito algo errado. 8 Mas Jesus, sabendo o que eles estavam pensando, disse ao homem da mão atrofiada: “Se levante e fique aqui no meio de todos.” Então o homem se levantou e foi até lá. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:sabbath|Sabbath]]
