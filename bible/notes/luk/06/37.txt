@@ -12,7 +12,10 @@
 
 <usfm> \v 37 Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive others, and you will be forgiven. </usfm>
 
-**37** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Não julguem, e vocês não serão julgados. Não condenem, e vocês não serão condenados. Perdoem, e vocês serão perdoados.</font>
+===== Target ULB: =====
+37 Não julguem, e vocês não serão julgados. Não condenem, e vocês não serão condenados. Perdoem, e vocês serão perdoados. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:judge|judge]]
