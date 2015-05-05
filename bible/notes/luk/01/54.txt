@@ -14,7 +14,9 @@
 
 <usfm> \q \v 54 He has helped his servant Israel, \q in order to be merciful \q \v 55 to Abraham and his descendants forever, \q just as he promised to our ancestors he would do." </usfm>
 
-**54** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele ajudou a seu servo Israel , sendo misericordioso</font> **55** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>a Abraão e à sua descendência para sempre, como ele prometeu aos nossos antepassados . ”</font>
+===== Target ULB: =====
+54 Ele ajudou a seu servo Israel , sendo misericordioso 55 a Abraão e à sua descendência para sempre, como ele prometeu aos nossos antepassados . ” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
