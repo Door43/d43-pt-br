@@ -12,7 +12,9 @@
 
 <usfm> \v 12 Then some tax collectors also came to be baptized, and they said to him, "Teacher, what must we do?" \v 13 He said to them, "Do not collect more money than you are supposed to." </usfm>
 
-**12** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então alguns coletores de impostos, que também vieram para ser batizados, perguntaram, “Mestre, o que devemos fazer?”</font> **13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E João disse a eles, “Não coletem mais dinheiro do que vocês deveriam.”</font>
+===== Target ULB: =====
+10 Então as pessoas na multidão perguntaram a ele, “O que devemos fazer então?” 11 Ele respondeu, “Se alguém tem duas túnicas que dê uma delas àquele que não tem nenhuma, e o que tiver comida que faça o mesmo.” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:taxcollector|tax collector]]
