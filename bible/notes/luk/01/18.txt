@@ -14,7 +14,10 @@
 
 <usfm> \p \v 18 Zechariah said to the angel, "How will I know this will happen? For I am an old man, and my wife also is very old." \v 19 The angel answered him, "I am Gabriel. I stand in the presence of God, and I was sent to speak to you and to bring you this good news. \v 20 Behold, you will be silent and not able to speak until the day when these things happen, because you did not believe my words, which will be fulfilled at the proper time." </usfm>
 
-**8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Zacarias disse ao anjo: “Como posso ter certeza disso? Pois,eu já sou um homem velho, e minha esposa também.”</font> ** 19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O anjo respondeu: “Eu sou Gabriel, permaneço na presença de Deus, e fui enviado para falar com você e lhe trazer estas boas-novas.</font> ** 20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Em visa disso, você vai ficar mudo e não poderá falar até o dia que isso suceda, porque você não acreditou em minhas palavras, que se cumprirão no momento adequado.”</font>
+===== Target ULB:=====
+
+8 Zacarias disse ao anjo: “Como posso ter certeza disso? Pois,eu já sou um homem velho, e minha esposa também.” 19 O anjo respondeu: “Eu sou Gabriel, permaneço na presença de Deus, e fui enviado para falar com você e lhe trazer estas boas-novas.  20 Em visa disso, você vai ficar mudo e não poderá falar até o dia que isso suceda, porque você não acreditou em minhas palavras, que se cumprirão no momento adequado.”
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:zechariahnt|Zechariah]]
