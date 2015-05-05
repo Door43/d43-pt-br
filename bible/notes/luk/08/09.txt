@@ -13,9 +13,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 9 Then his disciples asked him what this parable might mean. \v 10 Jesus said to them, "You have been given the privilege of understanding the mysteries of the kingdom of God, but the rest of the people will only be taught with parables, so that 'seeing they will not really see, and hearing they will not really understand.' </usfm>
-
-**9** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então os discípulos perguntaram a ele o que esta parábola queria dizer.</font> **10** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Jesus disse a eles: “Vocês receberam o privilégio de entender os mistérios do reino de Deus, mas os demais só serão ensinados por parábolas, desta forma 'embora vendo, eles não vão perceber, e ouvindo não entenderão.'</font>
-
+===== Target ULB: =====
+9 Então os discípulos perguntaram a ele o que esta parábola queria dizer. 10 Jesus disse a eles: “Vocês receberam o privilégio de entender os mistérios do reino de Deus, mas os demais só serão ensinados por parábolas, desta forma 'embora vendo, eles não vão perceber, e ouvindo não entenderão.' 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:disciple|disciple]]
