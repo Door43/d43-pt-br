@@ -1,42 +1,24 @@
-====== Luke 12:16-19 ======
-
+====== Luke 12:16-19 *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 16 Then he told them this illustration: "There was a certain rich man in whose fields abundant crops grew.
-\v 17 \add So\add* he said \add to himself\add*, 'I do not know what to do, because I do not have any place \add big enough\add* to store all my crops!'
-\v 18 Then he said to himself, '\add I know\add* what I will do! I will tear down my grain bins and then build larger ones! Then I will store all my wheat and other goods in \add the big new bins\add*.
-\v 19 \add Then\add* I will say to myself \f + \ft synecdoche \f*, "Now I have plenty of things stored up. \add They will last\add* for many years. \add So now\add* I will take life easy. I will eat and drink \add all that I want to\add* and be happy \add for a long time\add*!"'
-</usfm>
-
+<usfm> \v 16 Then he told them this illustration: "There was a certain rich man in whose fields abundant crops grew. \v 17 \add So\add* he said \add to himself\add*, 'I do not know what to do, because I do not have any place \add big enough\add* to store all my crops!' \v 18 Then he said to himself, '\add I know\add* what I will do! I will tear down my grain bins and then build larger ones! Then I will store all my wheat and other goods in \add the big new bins\add*. \v 19 \add Then\add* I will say to myself \f + \ft synecdoche \f*, "Now I have plenty of things stored up. \add They will last\add* for many years. \add So now\add* I will take life easy. I will eat and drink \add all that I want to\add* and be happy \add for a long time\add*!"' </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 16 Then he told them this illustration: "The fields of a certain rich man produced abundant crops.
-\v 17 So he thought to himself, 'I do not know what to do, because I do not have any place big enough to store all my crops!'
-\v 18 Then he thought to himself, 'I know what I will do! I will tear down my grain bins and build larger ones! Then I will store all my grain and other things in the big new bins.
-\v 19 Then I will say to myself, "Now I have enough things stored up to last many years. So now I will take life easy. I will eat and drink and be happy!"'
-</usfm>
-
+<usfm> \v 16 Then he told them this illustration: "The fields of a certain rich man produced abundant crops. \v 17 So he thought to himself, 'I do not know what to do, because I do not have any place big enough to store all my crops!' \v 18 Then he thought to himself, 'I know what I will do! I will tear down my grain bins and build larger ones! Then I will store all my grain and other things in the big new bins. \v 19 Then I will say to myself, "Now I have enough things stored up to last many years. So now I will take life easy. I will eat and drink and be happy!"' </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 16 Then Jesus told them a parable, saying, "The field of a rich man yielded abundantly,
-\v 17 and he reasoned with himself, saying, 'What will I do, because I do not have a place to store my crops?'
-\v 18 He said, 'This is what will I do. I will pull down my barns and build bigger ones, and there I will store all of my grain and other goods.
-\v 19 I will say to my soul, "Soul, you have many goods stored up for many years.Rest easy, eat, drink, be merry."'
-</usfm>
+<usfm> \v 16 Then Jesus told them a parable, saying, "The field of a rich man yielded abundantly, \v 17 and he reasoned with himself, saying, 'What will I do, because I do not have a place to store my crops?' \v 18 He said, 'This is what will I do. I will pull down my barns and build bigger ones, and there I will store all of my grain and other goods. \v 19 I will say to my soul, "Soul, you have many goods stored up for many years.Rest easy, eat, drink, be merry."' </usfm>
 
+**16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então Jesus contou-lhes uma parábola: “O campo de um homem rico produziu abundantemente,</font> **17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>e ele pensou consigo mesmo: 'Eu não tenho espaço para estocar toda a minha colheita. O que farei?'</font> **18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele disse: 'Isso é o que irei fazer, irei derrubar meus celeiros e construir outros maiores para que eu estoque todos os meus grãos e outros bens.</font> **19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Direi a minha alma: 'Alma, você tem muitos bens armazenados por muitos anos. Descanse tranquila, coma, beba e seja feliz.'”</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:parable|parable]]
-    * [[:pt-br:bible:notes:key-terms:grain|grain]]
-    * [[:pt-br:bible:notes:key-terms:soul|soul]]
+  * [[:pt-br:bible:notes:key-terms:parable|parable]]
+  * [[:pt-br:bible:notes:key-terms:grain|grain]]
+  * [[:pt-br:bible:notes:key-terms:soul|soul]]
 
 ===== Translation Notes: =====
 
@@ -45,18 +27,11 @@
   * **barns**  - Barns are buildings where farmers store the crops and food that they grow after it is harvested.
   * **goods**  - "possessions"
   * **I will say to my soul**  - "I will say to myself" (UDB)
-
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/12|Luke Chapter 12 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:12:13|<<]] | [[:pt-br:bible:notes:luk:12:20|>>]]**
 
- 
-
-**[[pt-br/bible/notes/luk/12/13|<<]] | [[pt-br/bible/notes/luk/12/20|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft parable grain}}
+~~DISCUSSION~~{{tag>draft parable grain}}
 
 ~~NOCACHE~~
