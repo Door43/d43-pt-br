@@ -13,8 +13,11 @@
 ===== ULB: =====
 
 <usfm> \p \v 18 With many other exhortations also, he preached good news to the people. \v 19 John also rebuked Herod the tetrarch for marrying his brother’s wife, Herodias, and for all the other evil things that Herod had done. \v 20 But then Herod did another very evil thing. He had John locked up in prison. </usfm>
+===== Target ULB: =====
 
-**18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Com muitas outras formas, João exortava o povo e pregava as boas novas.</font> **19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E repreendeu Herodes o tetrarca por ter se casado com a mulher do seu irmão, Herodinas, e por muitas coisas más que ele havia feito.</font> **20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas então Herodes fez outra coisa muito má. Ele lançou João na prisão.</font>
+18 Com muitas outras formas, João exortava o povo e pregava as boas novas. 19 E repreendeu Herodes o tetrarca por ter se casado com a mulher do seu irmão, Herodinas, e por muitas coisas más que ele havia feito. 20 Mas então Herodes fez outra coisa muito má. Ele lançou João na prisão. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:exhort|exhortation]]
