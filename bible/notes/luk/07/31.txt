@@ -12,7 +12,9 @@
 
 <usfm> \v 31 "To what then should I compare the people of this generation? What are they like? \v 32 They are like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you, and you did not dance. We mourned, and you did not weep.' </usfm>
 
-**31** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>“A quem eu deveria comparar as pessoas desta geração? Como elas são?</font> **32** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>São como crianças brincando na praça, que sentam e chamam umas as outras e dizem, 'Nós tocamos flauta e vocês não dançaram. Nós lamentamos e vocês não choraram.'</font>
+===== Target ULB: =====
+31 “A quem eu deveria comparar as pessoas desta geração? Como elas são? 32 São como crianças brincando na praça, que sentam e chamam umas as outras e dizem, 'Nós tocamos flauta e vocês não dançaram. Nós lamentamos e vocês não choraram.' 
+----
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
