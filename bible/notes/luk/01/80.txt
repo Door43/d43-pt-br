@@ -12,7 +12,9 @@
 
 <usfm> \p \v 80 Then the child grew up, and became strong in spirit. He lived out in the desert areas until he began to appear publicly to the people of Israel. </usfm>
 
-**80** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>A criança cresceu, e se fortalecia em espírito. Ele viveu no deserto, até que ele apareceu publicamente ao povo de Israel.</font>
+===== Target ULB: =====
+80 A criança cresceu, e se fortalecia em espírito. Ele viveu no deserto, até que ele apareceu publicamente ao povo de Israel. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:spirit|spirit]]
