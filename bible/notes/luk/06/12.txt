@@ -12,7 +12,10 @@
 
 <usfm> \p \v 12 It happened in those days that he went out to the mountain to pray. He continued all night in prayer to God. \v 13 When it was day, he called his disciples to him, and he chose twelve of them, whom he also named "apostles." </usfm>
 
-**12** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Aconteceu naqueles dias, que Jesus foi para um monte orar. Ele orou durante toda a noite a Deus.</font> **13** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando o dia amanheceu, ele chamou os seus discípulos, escolheu doze deles e os chamou de apóstolos.</font>
+===== Target ULB =====
+12 Aconteceu naqueles dias, que Jesus foi para um monte orar. Ele orou durante toda a noite a Deus. 13 Quando o dia amanheceu, ele chamou os seus discípulos, escolheu doze deles e os chamou de apóstolos. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:pray|pray, prayer]]
