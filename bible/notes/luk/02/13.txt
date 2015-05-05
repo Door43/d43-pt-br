@@ -14,7 +14,9 @@
 
 <usfm> \v 13 Suddenly with the angel there was a large number of the heavenly army praising God, and saying, \q1 \v 14 "Glory to God in the highest, \q1 and may there be peace on earth among people \q1 with whom he is pleased." </usfm>
 
-**13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>De repente, uma grande quantidade de anjos, vindos do céu, apareceu e se juntou ao outro anjo louvando a Deus e dizendo</font> **14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“Glória a Deus nas alturas e que haja paz na terra entre o povo o qual Deus se compraz”.</font>
+===== Target ULB: =====
+13 De repente, uma grande quantidade de anjos, vindos do céu, apareceu e se juntou ao outro anjo louvando a Deus e dizendo 14 “Glória a Deus nas alturas e que haja paz na terra entre o povo o qual Deus se compraz”. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:angel|angel]]
