@@ -15,8 +15,9 @@
 ===== ULB: =====
 
 <usfm> \v 9 Jesus said to them, "I ask you, is it lawful on the Sabbath to do good or to do harm, to save a life or to destroy it?" \v 10 Then he looked around at them all and said to the man, "Stretch out your hand." He did so, and his hand was restored. \v 11 But they were filled with anger, and they talked to each other about what they might do to Jesus. </usfm>
-
-**9** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Jesus disse a eles: “Eu pergunto a vocês. No Sabá, é permitido fazer o bem ou fazer o mal? Salvar uma vida ou destruí-la?”</font> **10** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então ele olhou ao redor de todos eles e disse ao homem: “Abra a sua mão atrofiada!” Ele fez isto, e sua mão foi curada.</font> **11** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas eles estavam com muita raiva, e falavam entre si sobre o que eles poderiam fazer a Jesus.</font>
+===== Target ULB: =====
+9 Jesus disse a eles: “Eu pergunto a vocês. No Sabá, é permitido fazer o bem ou fazer o mal? Salvar uma vida ou destruí-la?” 10 Então ele olhou ao redor de todos eles e disse ao homem: “Abra a sua mão atrofiada!” Ele fez isto, e sua mão foi curada. 11 Mas eles estavam com muita raiva, e falavam entre si sobre o que eles poderiam fazer a Jesus. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
