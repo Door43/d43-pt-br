@@ -16,7 +16,10 @@
 
 <usfm> \p \v 12 Jesus answering said to him, "It is said, 'You must not test the Lord your God.'" \p \v 13 When the devil had finished tempting Jesus, he went away and left him until another time. </usfm>
 
-**12** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus respondeu dizendo, “Está dito, 'Não tentarás o Senhor seu Deus'”,</font> **13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando o diabo havia terminado de tentar Jesus, ele foi embora e o deixou até outra oportunidade.</font>
+===== Target ULB: =====
+12 Jesus respondeu dizendo, “Está dito, 'Não tentarás o Senhor seu Deus'”, 13 Quando o diabo havia terminado de tentar Jesus, ele foi embora e o deixou até outra oportunidade. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
