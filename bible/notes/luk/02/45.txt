@@ -12,7 +12,9 @@
 
 <usfm> \v 45 When they did not find him, they returned to Jerusalem and started looking for him there. \v 46 It came about that after three days, they found him in the temple, sitting in the middle of the teachers, listening to them and asking them questions. \v 47 All who heard him were amazed at his understanding and his answers. </usfm>
 
-**45** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles não encontraram Jesus, então eles voltaram para Jerusalém para procurá-lo.</font> ** 46** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Após três dias eles o encontraram no templo, sentado entre professores, ele estava os ouvindo com atenção e fazendo perguntas.</font> **47** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Todos que o ouviam ficavam maravilhados com seu entendimento e suas respostas.</font>
+===== Target ULB: =====
+45 Eles não encontraram Jesus, então eles voltaram para Jerusalém para procurá-lo.  46 Após três dias eles o encontraram no templo, sentado entre professores, ele estava os ouvindo com atenção e fazendo perguntas. 47 Todos que o ouviam ficavam maravilhados com seu entendimento e suas respostas. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
