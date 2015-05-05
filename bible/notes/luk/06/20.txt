@@ -13,8 +13,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 20 Then he looked at his disciples, and said, "Blessed are you who are poor, for yours is the kingdom of God. \v 21 Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh. </usfm>
-
-**20** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então ele olhou para os seus discípulos e disse: “Bem-aventurados vocês que são pobres, pois o reino de Deus é de vocês.</font> **21** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Bem-aventurados vocês que agora tem fome, pois vocês serão saciados. Bem-aventurados vocês que agora choram, pois vocês sorrirão.</font>
+===== Target ULB: =====
+20 Então ele olhou para os seus discípulos e disse: “Bem-aventurados vocês que são pobres, pois o reino de Deus é de vocês. 21 Bem-aventurados vocês que agora tem fome, pois vocês serão saciados. Bem-aventurados vocês que agora choram, pois vocês sorrirão. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:disciple|disciple]]
