@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 17 It came about on one of those days that he was teaching, and there were Pharisees and teachers of the law sitting there who had come from many different villages in the regions of Galilee and Judea, and also from the city of Jerusalem. The power of the Lord was with him to heal. </usfm>
-
-**17** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Certo dia, quando Jesus ensinava, estavam sentados perto dele, Fariseus e mestres da lei. Eles vieram de diversas vilas nas regiões da Judeia e Galileia, e também da cidade de Jerusalém. E o poder do Senhor estava com ele para curar.</font>
+===== Target ULB: =====
+17 Certo dia, quando Jesus ensinava, estavam sentados perto dele, Fariseus e mestres da lei. Eles vieram de diversas vilas nas regiões da Judeia e Galileia, e também da cidade de Jerusalém. E o poder do Senhor estava com ele para curar. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:pharisee|Pharisees]]
