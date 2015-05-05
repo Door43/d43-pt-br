@@ -12,8 +12,10 @@
 
 <usfm> \c 6 \p \v 1 Now it happened on a Sabbath that Jesus was going through the grain fields and his disciples were picking the heads of grain, rubbing them between their hands, and eating the grain. \v 2 But some of the Pharisees said, "Why are you doing something that is not lawful to do on the Sabbath day?" </usfm>
 
-<font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>1 Em um dia de Sabá, Jesus estava atravessando a seara e seus discípulos iam colhendo espigas, debulhando com as mãos e comendo os grãos. 2 Então alguns dos Fariseus disseram: “Por que vocês estão fazendo algo que não é lícito no dia de Sabá?”</font>
+===== Target ULB: =====
+1 Em um dia de Sabá, Jesus estava atravessando a seara e seus discípulos iam colhendo espigas, debulhando com as mãos e comendo os grãos. 2 Então alguns dos Fariseus disseram: “Por que vocês estão fazendo algo que não é lícito no dia de Sabá?” 
 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:sabbath|Sabbath]]
