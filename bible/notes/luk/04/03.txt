@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \v 3 The devil said to him, "If you are the Son of God, command this stone to become bread." \v 4 Jesus answered him, "It is written, 'Man shall not live on bread alone.'" </usfm>
+===== Target ULB: =====
 
-**3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O diabo disse a ele, “Se você é o Filho de Deus, ordene que esta pedra se transforme em pão”.</font> **4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E Jesus respondeu, “Esta escrito, nem só de pão viverá o homem.”</font>
+3 O diabo disse a ele, “Se você é o Filho de Deus, ordene que esta pedra se transforme em pão”. 4 E Jesus respondeu, “Esta escrito, nem só de pão viverá o homem.” 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:satan|devil]]
