@@ -14,7 +14,9 @@
 
 <usfm> \q \v 78 Our God will forgive us because of his tender mercy. \q By this mercy, the Savior, who is like the morning sun, will come from heaven to help us. \q \v 79 He will shine upon people who sit in darkness and the shadow of death; \q he will guide our feet into the path of peace." </usfm>
 
-**78** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>O nosso Deus nos perdoará por causa de sua terna misericórdia. Por esta misericórdia, o Salvador, que é como o sol da manhã, virá do céu para nos ajudar.</font> **79** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Ele brilhará sobre as pessoas que vivem nas trevas e na sombra da morte; ele guiará nossos passos no caminho da paz ”.</font>
+===== Target ULB: =====
+78 O nosso Deus nos perdoará por causa de sua terna misericórdia. Por esta misericórdia, o Salvador, que é como o sol da manhã, virá do céu para nos ajudar. 79 Ele brilhará sobre as pessoas que vivem nas trevas e na sombra da morte; ele guiará nossos passos no caminho da paz ”. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:forgive|forgive]]
