@@ -12,7 +12,10 @@
 
 <usfm> \c 7 \p \v 1 After Jesus had finished everything he was saying in the hearing of the people, he entered Capernaum. </usfm>
 
-**01** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Após Jesus terminar tudo o que ele estava dizendo às pessoas, ele entrou em Cafarnaum.</font>
+===== Target ULB: =====
+01 Após Jesus terminar tudo o que ele estava dizendo às pessoas, ele entrou em Cafarnaum. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
