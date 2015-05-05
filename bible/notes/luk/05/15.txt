@@ -15,8 +15,11 @@
 ===== ULB: =====
 
 <usfm> \v 15 But the report about him spread even farther, and large crowds of people came together to hear him teach and to be healed of their sicknesses. \v 16 But he often withdrew into the deserted places and prayed. </usfm>
+===== Target ULB: =====
 
-**15** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Mas notícias sobre ele se espalharam mesmo longe, e multidões de pessoas vinham para ouvir Jesus ensinar e para serem curadas de suas doenças.</font> **16** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>E com frequência ele se retirava para um lugar solitário e orava.</font>
+15 Mas notícias sobre ele se espalharam mesmo longe, e multidões de pessoas vinham para ouvir Jesus ensinar e para serem curadas de suas doenças. 16 E com frequência ele se retirava para um lugar solitário e orava. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:report|report]]
