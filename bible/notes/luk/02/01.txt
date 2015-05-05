@@ -11,8 +11,10 @@
 ===== ULB: =====
 
 <usfm> \c 2 \p \v 1 Now in those days, it came about that Caesar Augustus sent out a decree ordering that a census be taken of all the people living in the Roman world. \v 2 This was the first census made while Quirinius was governor of Syria. \v 3 So everyone went to his own town to be registered for the census. </usfm>
+===== Target ULB: =====
 
 **1** Naquele tempo, o Imperador César Augusto enviou um decreto ordenando que houvesse um censo de todas as pessoas que viviam no Império Romano. **2** Isto foi feito pela primeira vez, quando Quirino era o governador da Síria. **3** Então todos foram a sua cidade natal para se registrarem no censo.
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:caesar|Caesar]]
