@@ -1,42 +1,27 @@
-====== Luke 12:8-10 ======
-
+====== Luke 12:8-10 *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 8 I want to tell you also that if people, \add without being afraid, are willing to\add* tell others \add that they are my disciples\add*, \add I\add*, the one who came from heaven, will acknowledge before \add God that they are my disciples\add*. \add I will do that while\add* God's angels listen.
-\v 9 But if they \add are\add* afraid to say in front of others that they are \add my disciples\add*, \add I\add* will say while God's angels listen, that they are not \add my disciples\add*.
-\v 10 \add I will tell you\add* also that \add God is willing to\add* forgive people who say bad things about me, the one who came from heaven, but \add he\add* will not forgive anyone who says evil things about what the Holy Spirit \add does\add*.
-</usfm>
-
+<usfm> \v 8 I want to tell you also that if people, \add without being afraid, are willing to\add* tell others \add that they are my disciples\add*, \add I\add*, the one who came from heaven, will acknowledge before \add God that they are my disciples\add*. \add I will do that while\add* God's angels listen. \v 9 But if they \add are\add* afraid to say in front of others that they are \add my disciples\add*, \add I\add* will say while God's angels listen, that they are not \add my disciples\add*. \v 10 \add I will tell you\add* also that \add God is willing to\add* forgive people who say bad things about me, the one who came from heaven, but \add he\add* will not forgive anyone who says evil things about what the Holy Spirit \add does\add*. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 8 I tell you also, that if people tell others that they are my disciples, then I, the Son of Man, will say that they are my disciples to God's angels.
-\v 9 But if they tell others that they are not my disciples, then I will say to God's angels that they are not my disciples.
-\v 10 I also tell you that if people say evil things about me, the Son of Man, God will forgive them for that. But if people say evil things about the Holy Spirit, God will not forgive them for that.
-</usfm>
-
+<usfm> \v 8 I tell you also, that if people tell others that they are my disciples, then I, the Son of Man, will say that they are my disciples to God's angels. \v 9 But if they tell others that they are not my disciples, then I will say to God's angels that they are not my disciples. \v 10 I also tell you that if people say evil things about me, the Son of Man, God will forgive them for that. But if people say evil things about the Holy Spirit, God will not forgive them for that. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 8 I say to you, everyone who confesses me before men, the Son of man will also confess before the angels of God,
-\v 9 but he who denies me before men will be denied before the angels of God.
-\v 10 Everyone who speaks a word against the Son of man, it will be forgiven him, but to him who blasphemes against the Holy Spirit, it will not be forgiven.
-</usfm>
+<usfm> \v 8 I say to you, everyone who confesses me before men, the Son of man will also confess before the angels of God, \v 9 but he who denies me before men will be denied before the angels of God. \v 10 Everyone who speaks a word against the Son of man, it will be forgiven him, but to him who blasphemes against the Holy Spirit, it will not be forgiven. </usfm>
 
+**8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu digo a você que todo aquele que me confessar diante dos homens, o Filho do homem também o confessará diante dos anjos de Deus,</font> **9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>mas aquele que me negar diante dos homens, será negado diante dos anjos de Deus.</font> **10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Aquele que falar uma palavra contra o Filho do homem, isso lhe será perdoado, mas aquele que blasfemar contra o Espírito Santo, isso não lhe será perdoado.</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:sonofman|Son of Man]]
-    * [[:pt-br:bible:notes:key-terms:angel|angels]]
-    * [[:pt-br:bible:notes:key-terms:god|God]]
-    * [[:pt-br:bible:notes:key-terms:forgive|forgiven]]
-    * [[:pt-br:bible:notes:key-terms:blasphemy|blasphemy]]
-    * [[:pt-br:bible:notes:key-terms:holyspirit|Holy Spirit]]
+  * [[:pt-br:bible:notes:key-terms:sonofman|Son of Man]]
+  * [[:pt-br:bible:notes:key-terms:angel|angels]]
+  * [[:pt-br:bible:notes:key-terms:god|God]]
+  * [[:pt-br:bible:notes:key-terms:forgive|forgiven]]
+  * [[:pt-br:bible:notes:key-terms:blasphemy|blasphemy]]
+  * [[:pt-br:bible:notes:key-terms:holyspirit|Holy Spirit]]
 
 ===== Translation Notes: =====
 
@@ -47,18 +32,12 @@
   * **will be denied**  - "will be disowned." This could also be translated as "The Son of Man will deny him " or "I will deny that he is my disciple."
   * **Everyone who speaks a word against the Son of Man**  - "Everyone who says something bad about the Son of Man"
   * **it will be forgiven him**  - "he will be forgiven" or "God will forgive him for that"
-  * **blasphemes against the Holy Spirit** - This could be translated as "speaks evil against the Holy Spirit" or "says that the Holy Spirit is evil."
-
+  * **blasphemes against the Holy Spirit**  - This could be translated as "speaks evil against the Holy Spirit" or "says that the Holy Spirit is evil."
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/12|Luke Chapter 12 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:12:06|<<]] | [[:pt-br:bible:notes:luk:12:11|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft forgive blasphemy}}
 
-**[[pt-br/bible/notes/luk/12/06|<<]] | [[pt-br/bible/notes/luk/12/11|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft forgive blasphemy}}
 ~~NOCACHE~~
