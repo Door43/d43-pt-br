@@ -10,6 +10,14 @@
 
 
 
+===== ULB: =====
+
+<usfm> \q \v 72 He has done this to show mercy towards our ancestors, \q And to remember his holy covenant. \q \v 73 That covenant is the oath which he spoke to Abraham our ancestor. \q \v 74 He made an oath to set us free from the hand of our enemies \q and to enable us to serve him without fear, \q \v 75 in holiness and righteousness before him all our days. </usfm>
+
+
+
+
+
 ===== Target ULB: =====
 **72** Ele fez isso porque ele é misericordioso para com os nossos antepassados e lembra-se da sua santa aliança **,73** Essa aliança é o juramento que fez a Abraão, nosso antepassado. **74** Ele fez um juramento para nos libertar das mãos dos nossos inimigos e para que possamos servi-lo sem medo, **75** em santidade e justiça perante ele, todos os nossos dias.
 ----
