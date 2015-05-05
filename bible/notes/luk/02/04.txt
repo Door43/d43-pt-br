@@ -14,6 +14,7 @@
 
 ===== Target ULB: =====
 **4**José partiu de Nazaré, na Galileia, até Belém, na Judeia, conhecida como Cidade de Davi, pois ele era descendente do Rei Davi.**5** José foi com sua noiva Maria para se registrarem, ela estava grávida.
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:josephnt|Joseph]]
