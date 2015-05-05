@@ -16,7 +16,10 @@
 
 <usfm> \v 14 The names of the apostles were Simon (whom he also named Peter) and his brother, Andrew, James, John, Philip, Bartholomew, \v 15 Matthew, Thomas, James, the son of Alphaeus, Simon, who was called the Zealot, \v 16 Judas, the son of James, and Judas Iscariot, who became a traitor. </usfm>
 
-**14** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Estes eram: Simão, a quem ele chamou de Pedro, e seu irmão André; Tiago; João; Filipe; Bartolomeu;</font> **15** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mateus; Tomé; Tiago, filho de Alfeu; Simão, chamado Zelote;</font> **16** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Judas, filho de Tiago; e Judas Iscariotes, que foi o traidor.</font>
+===== Target ULB: =====
+14 Estes eram: Simão, a quem ele chamou de Pedro, e seu irmão André; Tiago; João; Filipe; Bartolomeu; 15 Mateus; Tomé; Tiago, filho de Alfeu; Simão, chamado Zelote; 16 Judas, filho de Tiago; e Judas Iscariotes, que foi o traidor. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:peter|Simon]]
