@@ -14,7 +14,11 @@
 
 <usfm> \q \v 50 His mercy is for generation after generation of people who fear him. \q \v 51 He has done powerful things with his arm; \q he has scattered those who are proud in their heart. </usfm>
 
-**50** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Sua misericórdia estende-se de geração em geração sobre aqueles que o temem.</font> **51** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele fez coisas podedoras com o seu braço. Ele é poderoso e dispersou os orgulhosos de coração.</font>
+===== Target ULB: =====
+
+50 Sua misericórdia estende-se de geração em geração sobre aqueles que o temem. 51 Ele fez coisas podedoras com o seu braço. Ele é poderoso e dispersou os orgulhosos de coração. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:mercy|mercy]]
