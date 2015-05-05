@@ -12,7 +12,9 @@
 
 <usfm> \v 25 the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai, \v 26 the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda, </usfm>
 
-**25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagaí,</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>filho de Máate, filho de Matatias, filho de Semei, filho de José, filho de Jodá,</font>
+===== Target ULB: =====
+25 filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagaí, 26 filho de Máate, filho de Matatias, filho de Semei, filho de José, filho de Jodá, 
+----
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
