@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 48 Then he said to her, "Your sins are forgiven." \v 49 Those reclining together began to say among themselves, "Who is this that even forgives sins?" \v 50 Then Jesus said to the woman, "Your faith has saved you. Go in peace." </usfm>
-
-**48** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então ele disse a ela: “Os seus pecados estão perdoados.”</font> **49** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Aqueles que estavam sentados à mesa começaram a dizer entre si. “Quem é este que até perdoa pecados?</font> **50** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E Jesus disse a mulher: “A sua fé te salvou. Vá em paz.”</font>
+===== Target ULB: =====
+48 Então ele disse a ela: “Os seus pecados estão perdoados.” 49 Aqueles que estavam sentados à mesa começaram a dizer entre si. “Quem é este que até perdoa pecados? 50 E Jesus disse a mulher: “A sua fé te salvou. Vá em paz.”
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:sin|sins]]
