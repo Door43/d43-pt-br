@@ -12,7 +12,9 @@
 
 <usfm> \p \v 7 So John said therefore to the large crowds of people who were coming out to be baptized by him, "You offspring of poisonous snakes, who warned you to flee from the wrath that is coming? </usfm>
 
-**7** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então João disse a grande multidão de pessoas que vinham para ser batizadas por ele, “Vocês são raça de cobra venenosa. Quem alertou vocês para fugirem da ira de Deus que está chegando?</font>
+===== Target ULB: =====
+7 Então João disse a grande multidão de pessoas que vinham para ser batizadas por ele, “Vocês são raça de cobra venenosa. Quem alertou vocês para fugirem da ira de Deus que está chegando? 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:johnthebaptist|John]]
