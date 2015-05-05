@@ -14,7 +14,11 @@
 
 <usfm> \v 8 But Jesus and said to him, "It is written, 'You must worship the Lord your God, and you must serve him only.'" </usfm>
 
-**8** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas Jesus respondeu e disse, “Esta escrito, 'Adore somente o Senhor seu Deus, sirva somente a Ele.'”</font>
+===== Target ULB: =====
+
+8 Mas Jesus respondeu e disse, “Esta escrito, 'Adore somente o Senhor seu Deus, sirva somente a Ele.'” 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
