@@ -1,31 +1,22 @@
-====== Luke 12:11-12 ======
+====== Luke 12:11-12 *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 11 \add So\add* when people ask you in Jewish worship houses and in the presence of rulers and other authorities \add about your trusting in me\add*, do not worry about how you will answer them \add when they accuse you\add*. Do not worry about what you should say,
-\v 12 because the Holy Spirit will tell you at that very time what you should say."
+<usfm> \v 11 \add So\add* when people ask you in Jewish worship houses and in the presence of rulers and other authorities \add about your trusting in me\add*, do not worry about how you will answer them \add when they accuse you\add*. Do not worry about what you should say, \v 12 because the Holy Spirit will tell you at that very time what you should say."
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 11 So when people bring you you into the synagogues to question you before the religious leaders and other people who have power in the country, do not worry about how you will answer them or about what you should say,
-\v 12 because the Holy Spirit will tell you at that very time what you should say."
+<usfm> \v 11 So when people bring you you into the synagogues to question you before the religious leaders and other people who have power in the country, do not worry about how you will answer them or about what you should say, \v 12 because the Holy Spirit will tell you at that very time what you should say."
 
-
-\p
-</usfm>
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 11 When they bring you before the synagogues, the rulers, and the authorities, do not worry about how you will speak in your defense, or what you will say,
-\v 12 for the Holy Spirit will teach you in that hour what you should say."
-</usfm>
+<usfm> \v 11 When they bring you before the synagogues, the rulers, and the authorities, do not worry about how you will speak in your defense, or what you will say, \v 12 for the Holy Spirit will teach you in that hour what you should say." </usfm>
+
+**11** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando eles levarem você diante das sinagogas, dos chefes e das autoridades, não se preocupe como você falará em sua defesa ou com o que você dirá,</font> **12** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>pois o Espírito Santo te ensinará naquela hora o que você deve dizer.</font>
 
 ===== Important Terms: =====
 
