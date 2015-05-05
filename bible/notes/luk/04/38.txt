@@ -13,8 +13,10 @@
 ===== ULB: =====
 
 <usfm> \p \v 38 Then Jesus left the synagogue and entered into the house of Simon. Now Simon’s mother-in-law was suffering with a high fever, and they pleaded with him on her behalf. \v 39 So he stood over her and rebuked the fever, and it left her. Immediately she got up and started serving them. </usfm>
+===== Target ULB: =====
+38 Então Jesus saiu da sinagoga e foi até a casa de Simão. A sogra de Simão estava sofrendo com um febre alta, e eles suplicavam a ele em favor dela. 39 Jesus se inclinou sobre ela e repreendeu a febre, que a deixou. No mesmo momento ela se levantou e começou a servi-los. 
 
-**38** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Então Jesus saiu da sinagoga e foi até a casa de Simão. A sogra de Simão estava sofrendo com um febre alta, e eles suplicavam a ele em favor dela.</font> **39** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Jesus se inclinou sobre ela e repreendeu a febre, que a deixou. No mesmo momento ela se levantou e começou a servi-los.</font>
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
