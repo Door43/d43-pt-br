@@ -13,7 +13,8 @@
 <usfm> \p \v 8 In that same region, there were shepherds who were living out in the fields and were keeping watch over their flocks of sheep at night. \v 9 Suddenly, an angel of the Lord appeared to them, and the glory of the Lord was shining all around them, and they were very afraid. </usfm>
 
 ===== Target ULB: =====
-**8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Naquela noite alguns pastores, perto de Belém, estavam no campo cuidando de suas ovelhas.</font> **9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>De repente um anjo do Senhor apareceu para eles. Uma luz brilhava com grande intensidade em torno deles, demonstrando a glória do Senhor e todos ficaram muito assustados.</font>
+8 Naquela noite alguns pastores, perto de Belém, estavam no campo cuidando de suas ovelhas. 9 De repente um anjo do Senhor apareceu para eles. Uma luz brilhava com grande intensidade em torno deles, demonstrando a glória do Senhor e todos ficaram muito assustados. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:shepherd|shepherd]]
