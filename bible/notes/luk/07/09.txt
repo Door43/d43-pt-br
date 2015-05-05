@@ -14,7 +14,10 @@
 
 <usfm> \v 9 When Jesus heard this, he was amazed at him, and turning to the crowd following him said, "I say to you, not even in Israel have I found anyone with so much faith." \v 10 Then those who were sent returned to the house and found the servant healthy. </usfm>
 
-**9** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando Jesus ouviu isto ele ficou maravilhado, e virando-se para a multidão que o seguia, disse: “Eu digo para vocês que nem mesmo em Israel eu encontrei alguém com tanta fé.”</font> **10** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então aqueles que foram enviados a ele retornaram para a casa e encontraram o servo curado.</font>
+===== Target ULB: =====
+9 Quando Jesus ouviu isto ele ficou maravilhado, e virando-se para a multidão que o seguia, disse: “Eu digo para vocês que nem mesmo em Israel eu encontrei alguém com tanta fé.” 10 Então aqueles que foram enviados a ele retornaram para a casa e encontraram o servo curado. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
