@@ -12,7 +12,10 @@
 
 <usfm> \p \v 27 But I say to you who are listening, love your enemies and do good to those who hate you. \v 28 Bless those who curse you and pray for those who mistreat you. </usfm>
 
-**27** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas eu digo para vocês que estão ouvindo, amem os seus inimigos e façam o bem aos que os odeiam.</font> **28** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Abençoem aqueles que os amaldiçoam e orem por aqueles que os maltratam.</font>
+===== Target ULB: =====
+27 Mas eu digo para vocês que estão ouvindo, amem os seus inimigos e façam o bem aos que os odeiam. 28 Abençoem aqueles que os amaldiçoam e orem por aqueles que os maltratam. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:love|love]]
