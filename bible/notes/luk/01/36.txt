@@ -12,10 +12,7 @@
 
 \p </usfm>
 
-===== Target ULB: =====
-36 Veja. Isabel, tua parenta, concebeu um filho na sua velhice; ela está em seu sexto mês de gravidez, ainda quando todos pensavam que ela era estéril. 37 Pois, nada é impossível para Deus. “ 38 Maria disse:” Certamente, eu sou a serva do Senhor. Que isso seja feito em mim de acordo com a sua palavra. “E o anjo a deixou. 
 
-----
 ===== ULB: =====
 
 <usfm> \v 36 Behold, Elizabeth your relative also has conceived a son in her old age; she is in her sixth month of pregnancy, even though she was called barren. \v 37 For nothing is impossible for God." \v 38 Mary said, "Indeed, I am the Lord's servant. Let this happen to me according to your word." And the angel left her. </usfm>
