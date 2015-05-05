@@ -12,7 +12,9 @@
 
 <usfm> \v 8 Produce fruits that are worthy of repentance, and do not start saying within yourselves, 'We have Abraham for our father,' because I tell you that God is able to raise up children for Abraham even out of these stones. </usfm>
 
-**8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Produzam frutos dignos de arrependimento, e não digam entre si, “Nós somos descendentes de Abraão!”, pois Deus pode levantar descendentes de Abraão mesmo através destas pedras.</font>
+===== Target ULB: =====
+8 Produzam frutos dignos de arrependimento, e não digam entre si, “Nós somos descendentes de Abraão!”, pois Deus pode levantar descendentes de Abraão mesmo através destas pedras. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:fruit|fruit]]
