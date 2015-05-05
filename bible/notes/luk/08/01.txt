@@ -15,9 +15,9 @@
 ===== ULB: =====
 
 <usfm> \c 8 \p \v 1 It happened soon afterwards that Jesus began traveling around to different cities and villages, preaching and proclaiming the good news about the kingdom of God and the twelve went with him, \v 2 as well as certain women who had been healed of evil spirits and diseases. They were Mary who was called Magdalene, from whom seven demons had been driven out, \v 3 Joanna, the wife of Chuza, Herod’s manager, Susanna, and many other women, who provided for them from their own material resources. </usfm>
-
-**1** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Depois disto Jesus começou a viajar por diferentes cidades e vilas, pregando e proclamando as boas-novas sobre o reino de Deus e os doze foram com ele,</font> **2** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>assim como certas mulheres que foram curadas de espíritos malignos e doenças. Elas eram, Maria, chamada Madalena, da qual sete demônios foram expulsos;</font> **3** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Joana, mulher de Cuza, administrador de Herodes; Suzana e muitas outras mulheres que ministravam a eles com seus próprios recursos materiais.</font>
-
+===== Target ULB: =====
+1 Depois disto Jesus começou a viajar por diferentes cidades e vilas, pregando e proclamando as boas-novas sobre o reino de Deus e os doze foram com ele, 2 assim como certas mulheres que foram curadas de espíritos malignos e doenças. Elas eram, Maria, chamada Madalena, da qual sete demônios foram expulsos; 3 Joana, mulher de Cuza, administrador de Herodes; Suzana e muitas outras mulheres que ministravam a eles com seus próprios recursos materiais. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
