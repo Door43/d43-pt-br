@@ -11,8 +11,10 @@
 ===== ULB: =====
 
 <usfm> \v 12 When Jesus saw her, he called to her and said, "Be free of your weakness." \v 13 He placed his hands on her, and immediately she was straightened up and she glorified God. \v 14 But the synagogue ruler was indignant because Jesus had healed on the Sabbath. So the ruler answered and said to the crowd, "There are six days in which it is necessary to work. Come and be healed then, not on the Sabbath day." </usfm>
+===== Target ULB: =====
 
-**12** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando Jesus a viu, ele a chamou e disse: “Mulher, seja liberta da sua enfermidade.”</font> **13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele colocou as mãos sobre ela e imediatamente ela se endireitou e louvou a Deus.</font> **14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas o chefe da sinagoga ficou indignado pelo fato de Jesus ter curado num dia de Sabá. Então o chefe disse à multidão que ali estava: “Há seis dias em que é necessário trabalhar. Venha e seja curado nesses dias, não no Sabá.”</font>
+12 Quando Jesus a viu, ele a chamou e disse: “Mulher, seja liberta da sua enfermidade.” 13 Ele colocou as mãos sobre ela e imediatamente ela se endireitou e louvou a Deus. 14 Mas o chefe da sinagoga ficou indignado pelo fato de Jesus ter curado num dia de Sabá. Então o chefe disse à multidão que ali estava: “Há seis dias em que é necessário trabalhar. Venha e seja curado nesses dias, não no Sabá.” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
