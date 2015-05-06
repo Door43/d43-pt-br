@@ -15,8 +15,11 @@
 ===== ULB: =====
 
 <usfm> \v 17 Jesus answering, said, "Were not the ten cleansed? Where are the nine? \v 18 Were there no others who returned to give glory to God, except this foreigner?" \v 19 He said to him, "Arise, and go. Your faith has healed you." </usfm>
+===== Target ULB: =====
 
-**“17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse para a multidão: “Não foram curados os dez? Onde estão os outros nove?</font> **18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mais nenhum voltou para dar glória a Deus, a não ser esse estrangeiro?</font> **19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E disse a ele: “Levante e vá. Sua fé te curou”.</font>
+“17 Jesus disse para a multidão: “Não foram curados os dez? Onde estão os outros nove? 18 Mais nenhum voltou para dar glória a Deus, a não ser esse estrangeiro? 19 E disse a ele: “Levante e vá. Sua fé te curou”. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:glory|glory]]
