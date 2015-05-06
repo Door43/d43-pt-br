@@ -14,7 +14,7 @@
 
 ===== Target ULB: =====
 
-**27** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Considere os lírios e como eles crescem. Eles não trabalham nem fiam. Contudo eu digo a vocês que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.</font> **28** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Se assim Deus veste a erva do campo que hoje existe e amanhã é lançada no forno, muito mais cuidará de vocês, homens de pouca fé!</font>
+**27** <font inherit/Lato, sans-serif;;inherit;;inherit>Considere os lírios e como eles crescem. Eles não trabalham nem fiam. Contudo eu digo a vocês que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.</font> **28** <font inherit/Lato, sans-serif;;inherit;;inherit>Se assim Deus veste a erva do campo que hoje existe e amanhã é lançada no forno, muito mais cuidará de vocês, homens de pouca fé!</font>
 
 ----
 
