@@ -25,11 +25,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 36 Which of these three, do you think, was a neighbor to him who fell among the robbers?"
-\v 37 The teacher said, "The one who showed mercy to him." Jesus said to him, "Go and do the same."
-</usfm>
+<usfm> \v 36 Which of these three, do you think, was a neighbor to him who fell among the robbers?" \v 37 The teacher said, "The one who showed mercy to him." Jesus said to him, "Go and do the same." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
