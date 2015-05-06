@@ -21,10 +21,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 32  The men of Nineveh will stand up at the judgment with this generation of people and will condemn it, for they repented at the preaching of Jonah, and behold, someone greater than Jonah is here.
-</usfm>
+<usfm> \v 32 The men of Nineveh will stand up at the judgment with this generation of people and will condemn it, for they repented at the preaching of Jonah, and behold, someone greater than Jonah is here. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
