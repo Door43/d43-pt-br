@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 22 Jesus visited each town and village on the way to Jerusalem and taught them. \v 23 Someone said to him, "Lord, are only a few people to be saved?" So he said to them, \v 24 "Struggle to enter through the narrow door, because many will try and will not be able to enter. </usfm>
-
-**22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus visitou e ensinou em cada cidade e vila no caminho para Jerusalém.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Alguém disse-lhe: “Senhor, há apenas poucos para serem salvos? Então Jesus disse para eles:</font> **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“Esforcem-se para entrar pela porta estreita, porque muitos se esforçarão e não conseguirão.”</font>
+===== Target ULB: =====
+22 Jesus visitou e ensinou em cada cidade e vila no caminho para Jerusalém. 23 Alguém disse-lhe: “Senhor, há apenas poucos para serem salvos? Então Jesus disse para eles: 24 “Esforcem-se para entrar pela porta estreita, porque muitos se esforçarão e não conseguirão.” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
