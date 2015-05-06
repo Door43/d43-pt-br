@@ -14,9 +14,7 @@
 
 ===== Target ULB: =====
 
-**1** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>E aconteceu que num sabá, quando ele entrou na casa de um dos líderes dos fariseus para comer pão, eles o estavam observando com atenção.</font> **2** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Em frente dele havia um homem que sofria de hidropsia.</font> **3** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Jesus perguntou aos mestres da lei e aos fariseus: 'é legal curar no Sabá, ou não?'</font>
-
-----
+1 E aconteceu que num sabá, quando ele entrou na casa de um dos líderes dos fariseus para comer pão, eles o estavam observando com atenção. 2 Em frente dele havia um homem que sofria de hidropsia. 3 Jesus perguntou aos mestres da lei e aos fariseus: 'é legal curar no Sabá, ou não?' ----
 
 ===== Important Terms: =====
 
