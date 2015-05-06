@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 15 When one of them who sat at the table with Jesus heard these things, he said to him, "Blessed is he who will eat bread in the kingdom of God!" \v 16 But Jesus said to him, "A certain man prepared a large dinner and invited many. \v 17 When the dinner was prepared, he sent his servant to say to those who were invited, 'Come, because everything is now ready.' </usfm>
-
-**15** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando um dos que sentavam com ele à mesa ouviu essas coisas, disse a Jesus: 'bem aventurado é aquele que comer pão no reino de Deus!'</font> **16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas Jesus disse a ele: 'Um certo homem preparou um enorme jantar e convidou a muitos.</font> **17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando o jantar estava pronto, ele enviou seu servo para dizer àqueles que haviam sido convidados: 'Venham, pois tudo agora está pronto'.</font>
+===== Target ULB: =====
+15 Quando um dos que sentavam com ele à mesa ouviu essas coisas, disse a Jesus: 'bem aventurado é aquele que comer pão no reino de Deus!' 16 Mas Jesus disse a ele: 'Um certo homem preparou um enorme jantar e convidou a muitos. 17 Quando o jantar estava pronto, ele enviou seu servo para dizer àqueles que haviam sido convidados: 'Venham, pois tudo agora está pronto'. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:bless|blessed]]
