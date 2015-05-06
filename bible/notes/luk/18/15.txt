@@ -15,8 +15,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 15 The people were also bringing to him their infants, so that he might touch them, but when the disciples saw it, they rebuked them. \v 16 But Jesus called them to him, saying, "Permit the little children to come to me, and do not forbid them. For the kingdom of God belongs to such ones. \v 17 Truly I say to you, whoever will not receive the kingdom of God as a child will definitely not enter it." </usfm>
-
-**15** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>As pessoas também estavam trazendo as criancinhas a ele, para que ele as tocasse, mas quando os discípulos viram isso, eles os repreenderam.</font> **16** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Mas Jesus os chamou dizendo: ” Permitam que as criancinhas venham até mim, não as impeçam.. Porque o reino de Deus pertence aqueles que são semelhantes a essas criancinhas.</font> ** 17** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Em verdade eu digo a vocês aquele que não receber o reino de Deus tal como uma criança definitivamente não entrará nele. ”</font>
+===== ULB: =====
+15 As pessoas também estavam trazendo as criancinhas a ele, para que ele as tocasse, mas quando os discípulos viram isso, eles os repreenderam. 16 Mas Jesus os chamou dizendo: ” Permitam que as criancinhas venham até mim, não as impeçam.. Porque o reino de Deus pertence aqueles que são semelhantes a essas criancinhas.  17 Em verdade eu digo a vocês aquele que não receber o reino de Deus tal como uma criança definitivamente não entrará nele. ” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
