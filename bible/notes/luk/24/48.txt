@@ -25,11 +25,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 48 You are witnesses of these things.
-\v 49 Behold, I send forth the promise of my Father upon you. But wait in the city, until you are clothed with power from on high."
-</usfm>
+<usfm> \v 48 You are witnesses of these things. \v 49 Behold, I send forth the promise of my Father upon you. But wait in the city, until you are clothed with power from on high." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
