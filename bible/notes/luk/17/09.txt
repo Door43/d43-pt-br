@@ -15,8 +15,10 @@
 ===== ULB: =====
 
 <usfm> \v 9 He does not thank the servant because he did the things that were commanded, does he? \v 10 Even so you also, when you have done everything that you are commanded, should say, 'We are unworthy servants. We have only done what we ought to do.'" </usfm>
+===== Target ULB: =====
 
-**9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O servo não será agradecido por suas obrigações, certo?</font> **10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Assim também vocês quando tiverem feito tudo aquilo que foi ordenando deverão dizer:“Somos servos inúteis somente cumprimos com o nosso dever”</font>
+9 O servo não será agradecido por suas obrigações, certo? 10 Assim também vocês quando tiverem feito tudo aquilo que foi ordenando deverão dizer:“Somos servos inúteis somente cumprimos com o nosso dever” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
