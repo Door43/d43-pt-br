@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \v 21 The servant came and told his master these things. Then the master of the house became angry and said to his servant, 'Go out quickly into the streets and lanes of the city and bring in here the poor, the crippled, the blind, and the lame.' \v 22 The servant said, 'Master, what you commanded has been done, and yet there is still room.' </usfm>
+===== Target ULB: =====
 
-**21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O servo voltou e disse essas coisas ao seu senhor. Ficando muito chateado, o senhor da casa disse ao seu servo: 'Vá rapidamente pelas ruas e becos da cidade e traga até aqui os pobres, os aleijados, os cegos e os coxos'.</font> **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O servo disse: “Senhor, o que foi me mandado fazer foi feito e ainda há lugar”.</font>
+21 O servo voltou e disse essas coisas ao seu senhor. Ficando muito chateado, o senhor da casa disse ao seu servo: 'Vá rapidamente pelas ruas e becos da cidade e traga até aqui os pobres, os aleijados, os cegos e os coxos'. 22 O servo disse: “Senhor, o que foi me mandado fazer foi feito e ainda há lugar”. 
+----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
