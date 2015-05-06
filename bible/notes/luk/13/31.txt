@@ -13,8 +13,10 @@
 ===== ULB: =====
 
 <usfm> \p \v 31 Shortly after, some Pharisees came and said to him, "Go and leave here because Herod wants to kill you." \v 32 Jesus said, "Go and tell that fox, 'Look, I cast out demons and perform healings today and tomorrow, and the third day I will reach my goal.' \v 33 In any case, it is necessary for me to continue on today, tomorrow, and the following day, since it is not acceptable to kill a prophet away from Jerusalem. </usfm>
+===== Target ULB: =====
 
-**31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pouco tempo depois, alguns fariseus vieram até ele e disseram: 'Vá e saia daqui porque Herodes quer matar você.'</font> **32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse: Vá e diga àquela raposa: 'eu expulso demônios e realizo curas hoje e amanhã, e no terceiro dia eu atingirei o meu objetivo.</font> **33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>De qualquer forma, é necessário que eu continue o meu trabalho hoje, amanhã, e no dia seguinte, já que não é aceitável matar um profeta longe de Jerusalém.'</font>
+31 Pouco tempo depois, alguns fariseus vieram até ele e disseram: 'Vá e saia daqui porque Herodes quer matar você.' 32 Jesus disse: Vá e diga àquela raposa: 'eu expulso demônios e realizo curas hoje e amanhã, e no terceiro dia eu atingirei o meu objetivo. 33 De qualquer forma, é necessário que eu continue o meu trabalho hoje, amanhã, e no dia seguinte, já que não é aceitável matar um profeta longe de Jerusalém.' 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:pharisee|Pharisee]]
