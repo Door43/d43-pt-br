@@ -14,7 +14,7 @@
 
 ===== Target ULB: =====
 
-16 <font inherit/Lato, sans-serif;;inherit;;inherit>Então Jesus contou-lhes uma parábola: “O campo de um homem rico produziu abundantemente,</font> **17** <font inherit/Lato, sans-serif;;inherit;;inherit>e ele pensou consigo mesmo: 'Eu não tenho espaço para estocar toda a minha colheita. O que farei?'</font> **18** <font inherit/Lato, sans-serif;;inherit;;inherit>Ele disse: 'Isso é o que irei fazer, irei derrubar meus celeiros e construir outros maiores para que eu estoque todos os meus grãos e outros bens.</font> **19** <font inherit/Lato, sans-serif;;inherit;;inherit>Direi a minha alma: 'Alma, você tem muitos bens armazenados por muitos anos. Descanse tranquila, coma, beba e seja feliz.'”</font>
+16 <font inherit/Lato, sans-serif;;inherit;;inherit>Então Jesus contou-lhes uma parábola: “O campo de um homem rico produziu abundantemente,</font>    **17** <font inherit/Lato, sans-serif;;inherit;;inherit>e ele pensou consigo mesmo: 'Eu não tenho espaço para estocar toda a minha colheita. O que farei?'</font>    **18** <font inherit/Lato, sans-serif;;inherit;;inherit>Ele disse: 'Isso é o que irei fazer, irei derrubar meus celeiros e construir outros maiores para que eu estoque todos os meus grãos e outros bens.</font>    **19** <font inherit/Lato, sans-serif;;inherit;;inherit>Direi a minha alma: 'Alma, você tem muitos bens armazenados por muitos anos. Descanse tranquila, coma, beba e seja feliz.'”</font>
 
 ----
 
