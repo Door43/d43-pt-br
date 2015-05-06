@@ -16,7 +16,11 @@
 
 <usfm> \v 4 Or those eighteen people in Siloam on whom a tower fell and killed them, do you think they were worse sinners than other men in Jerusalem? \v 5 No, I say. But if you do not repent, all of you will also perish." </usfm>
 
+===== Target ULB: =====
+
 **4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ou aquelas dezoito pessoas em Siloé em cuja torre caiu e os matou, vocês pensam que elas são mais pecadoras que aquelas outras pessoas em Jerusalém?</font> **5** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu</font> <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>digo que não. Mas todos vocês morrerão da mesma forma se não se arrependerem.</font>
+
+----
 
 ===== Important Terms: =====
 
