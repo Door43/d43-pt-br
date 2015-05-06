@@ -19,11 +19,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 29 But the teacher, desiring to justify himself, said to Jesus, "And who is my neighbor?"
-\v 30 Answering, Jesus said, "A certain man was going down from Jerusalem to Jericho. He fell among robbers, who stripped him of his belongings, and beat him, and left him half dead.
-</usfm>
+<usfm> \v 29 But the teacher, desiring to justify himself, said to Jesus, "And who is my neighbor?" \v 30 Answering, Jesus said, "A certain man was going down from Jerusalem to Jericho. He fell among robbers, who stripped him of his belongings, and beat him, and left him half dead. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
