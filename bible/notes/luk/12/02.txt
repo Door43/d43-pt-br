@@ -16,7 +16,11 @@
 
 <usfm> \v 2 But there is nothing concealed, that will not be revealed, and nothing hidden, that will not be known. \v 3 So whatever you have said in the darkness will be heard in the light, and what you have spoken in the ear in the inner rooms will be proclaimed upon the housetops. </usfm>
 
-**2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas não há nada oculto que não venha a ser revelado, e nada escondido que não venha a ser conhecido.</font> **3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então, o que você tiver dito às escuras será ouvido à luz, e o que você tiver falado no interior das casas será proclamado nos telhados.</font>
+===== Target ULB: =====
+
+**2** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Mas não há nada oculto que não venha a ser revelado, e nada escondido que não venha a ser conhecido.</font> **3** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Então, o que você tiver dito às escuras será ouvido à luz, e o que você tiver falado no interior das casas será proclamado nos telhados.</font>
+
+----
 
 ===== Important Terms: =====
 
