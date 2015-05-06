@@ -17,12 +17,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\c 11
-\p
-\v 1 It happened when he finished praying in a certain place, that one of his disciples said, "Lord, teach us to pray just as John taught his disciples."
-</usfm>
+<usfm> \c 11 \p \v 1 It happened when he finished praying in a certain place, that one of his disciples said, "Lord, teach us to pray just as John taught his disciples." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
