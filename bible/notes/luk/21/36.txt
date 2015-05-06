@@ -21,10 +21,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 36 But be alert at all times, praying that you may be strong enough to escape all these things that will take place, and to stand before the Son of Man."
-</usfm>
+<usfm> \v 36 But be alert at all times, praying that you may be strong enough to escape all these things that will take place, and to stand before the Son of Man." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
