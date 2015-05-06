@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 13 Not many days later, the younger son packed up and journeyed into a far country, and there he wasted his money with wildly extravagant living. \v 14 Now when he had spent it all, a great famine happened in that country, and he began to be in need. </usfm>
-
-**13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Poucos dias depois, o filho mais novo arrumou as malas e viajou para uma terra longínqua, e ali desperdiçou seu dinheiro com uma vida de extravagâncias.</font> **14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando ele havia gastado tudo, uma grande fome se abateu sobre aquele país, e ele começou a passar necessidade.</font>
+===== Target ULB: =====
+13 Poucos dias depois, o filho mais novo arrumou as malas e viajou para uma terra longínqua, e ali desperdiçou seu dinheiro com uma vida de extravagâncias. 14 Quando ele havia gastado tudo, uma grande fome se abateu sobre aquele país, e ele começou a passar necessidade. 
+----
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
