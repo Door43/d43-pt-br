@@ -18,7 +18,7 @@
 
 ===== Target ULB: =====
 
-**2** <font inherit/Lato, sans-serif;;inherit;;inherit>Mas não há nada oculto que não venha a ser revelado, e nada escondido que não venha a ser conhecido.</font> **3** <font inherit/Lato, sans-serif;;inherit;;inherit>Então, o que você tiver dito às escuras será ouvido à luz, e o que você tiver falado no interior das casas será proclamado nos telhados.</font>
+**2** <font inherit/Lato, sans-serif;;inherit;;inherit>Mas não há nada oculto que não venha a ser revelado, e nada escondido que não venha a ser conhecido.</font>    **3** <font inherit/Lato, sans-serif;;inherit;;inherit>Então, o que você tiver dito às escuras será ouvido à luz, e o que você tiver falado no interior das casas será proclamado nos telhados.</font>
 
 ----
 
