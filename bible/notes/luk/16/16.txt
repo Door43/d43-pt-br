@@ -13,8 +13,11 @@
 ===== ULB: =====
 
 <usfm> \v 16 The law and the prophets were in effect until John came. From that time on, the gospel of the kingdom of God is preached, and everyone tries to force their way into it. \v 17 But it is easier for heaven and earth to pass away than for one stroke of a letter of the law to become invalid. </usfm>
+===== Target ULB: =====
 
-**16** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>As leis e os profetas vigoraram até a chegada de João. Depois disso, o evangelho do reino de Deus foi pregado, e muitos o aceitaram.</font> **17** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>É mais fácil que o céu e a terra acabem do que uma só letra da lei seja alterada.</font>
+16 As leis e os profetas vigoraram até a chegada de João. Depois disso, o evangelho do reino de Deus foi pregado, e muitos o aceitaram. 17 É mais fácil que o céu e a terra acabem do que uma só letra da lei seja alterada. 
+----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lawofmoses|law]]
