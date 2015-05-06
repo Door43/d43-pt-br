@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \p \v 3 Jesus spoke this parable to them, saying, \v 4 "Which one of you, if he has a hundred sheep and then loses one of them, will not leave the ninety-nine in the wilderness, and go after the lost one until he finds it? \v 5 Then when he has found it, he lays it across his shoulders and rejoices. </usfm>
+===== Target ULB: =====
 
-**3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus contou a seguinte parábola:</font> **4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“Qual de vocês, que possuindo cem ovelhas, e, em seguida, perdendo uma delas, não deixa as noventa e nove no deserto, e não vai atrás da perdida até que a encontra? 5 E, quando a encontra, põe-la sobre os ombros e festeja.</font>
+3 Jesus contou a seguinte parábola: 4 “Qual de vocês, que possuindo cem ovelhas, e, em seguida, perdendo uma delas, não deixa as noventa e nove no deserto, e não vai atrás da perdida até que a encontra? 5 E, quando a encontra, põe-la sobre os ombros e festeja. 
+----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:parable|parable]]
