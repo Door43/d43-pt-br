@@ -19,11 +19,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 43 Then an angel from heaven appeared to him, strengthening him.
-\v 44 Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground.
-</usfm>
+<usfm> \v 43 Then an angel from heaven appeared to him, strengthening him. \v 44 Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
