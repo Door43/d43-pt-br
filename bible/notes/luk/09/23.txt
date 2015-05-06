@@ -21,12 +21,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 23 He said to them all, "If anyone wants to come after me, he must deny himself, take up his cross daily, and follow me.
-\v 24 Whoever would try to save his life will lose it, but whoever loses his life for my sake, he will save it.
-\v 25 What does it benefit a man, if he gains the whole world, but loses or forfeits his own self?
-</usfm>
+<usfm> \v 23 He said to them all, "If anyone wants to come after me, he must deny himself, take up his cross daily, and follow me. \v 24 Whoever would try to save his life will lose it, but whoever loses his life for my sake, he will save it. \v 25 What does it benefit a man, if he gains the whole world, but loses or forfeits his own self? </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
