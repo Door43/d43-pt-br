@@ -13,9 +13,11 @@
 <usfm> \v 11 Now this is what the parable means. The seed is the word of God. \v 12 The seeds that fell by the wayside are people who have heard the word, but then the devil comes and takes away the word from their heart, so that they may not believe and be saved. \v 13 Then, the ones that fell on the rocky ground are people who, when they have heard the word, receive it with joy, but they do not have any roots; they only believe for a while, and then during a time of testing they fall away. </usfm>
 
 ===== Target ULB: =====
-11 Este é o significado da parábola. A semente é a palavra de Deus. 12 As sementes que caíram na beira da estrada são como pessoas que ouviram a palavra, mas o diabo veio e arrancou a palavra de seu coração para que elas não cressem e assim, não fossem salvas. 13 As sementes que caíram no solo rochoso são como pessoas que ouviram a palavra, receberam com alegria, mas não criaram raízes. Elas acreditaram apenas por um tempo, e ao experimentarem as dificuldades se desviaram. 
+
+11 Este é o significado da parábola. A semente é a palavra de Deus. 12 As sementes que caíram na beira da estrada são como pessoas que ouviram a palavra, mas o diabo veio e arrancou a palavra de seu coração para que elas não cressem e assim, não fossem salvas. 13 As sementes que caíram no solo rochoso são como pessoas que ouviram a palavra, receberam com alegria, mas não criaram raízes. Elas acreditaram apenas por um tempo, e ao experimentarem as dificuldades se desviaram.
 
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:parable|parable]]
