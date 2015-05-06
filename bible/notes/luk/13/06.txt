@@ -12,7 +12,12 @@
 
 <usfm> \p \v 6 Jesus told this parable, "Someone had a fig tree planted in his vineyard and he came and looked for fruit on it but found none. \v 7 The man said to the gardener, 'Look, for three years I came and tried to find fruit on this fig tree and found none. Cut it down. Why let it waste the ground?' </usfm>
 
+===== Target ULB: =====
+
 **6** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E Jesus disse essa parábola: “Alguém tinha uma figueira na sua vinha e, ao procurar nela algum fruto, não encontrou nenhum.</font> **7** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então o homem disse ao jardineiro: 'Já fazem três anos que eu venho até essa árvore à procura de frutos e não encontro nenhum. Corte-a. Por que deixá-la desgastar o solo?'.</font>
+
+----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:parable|parable]]
