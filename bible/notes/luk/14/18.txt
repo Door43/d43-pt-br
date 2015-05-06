@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 18 They all alike began to make excuses. The first said to him, 'I have bought a field, and I must go out and see it. Please excuse me.' \v 19 And another said, 'I have bought five pairs of oxen, and I am going to try them out. Please excuse me.' \v 20 And another man said, 'I have married a wife, and therefore I cannot come.' </usfm>
-
-**18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E todos, sem exceção, começaram a dar desculpas. O primeiro homem disse: 'Comprei um campo e preciso ir vê-lo. Por favor, me desculpe.'</font> **19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E um outro disse: 'Eu comprei cinco juntas de boi, e estou indo experimentá-las. Por favor, me desculpe.'</font> **20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E outro homem disse: 'Eu tomei para mim uma esposa, e por isso não posso ir.</font>
+===== Target ULB: =====
+18 E todos, sem exceção, começaram a dar desculpas. O primeiro homem disse: 'Comprei um campo e preciso ir vê-lo. Por favor, me desculpe.' 19 E um outro disse: 'Eu comprei cinco juntas de boi, e estou indo experimentá-las. Por favor, me desculpe.' 20 E outro homem disse: 'Eu tomei para mim uma esposa, e por isso não posso ir. 
+----
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
