@@ -14,7 +14,7 @@
 
 ===== Target ULB: =====
 
-**1****1** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Naquele mesmo momento, quando muitas milhares de pessoas estavam reunidas ali, ao ponto de estarem até pisando umas nas outras, primeiro ele começou a dizer aos seus discípulos: “Cuidado para que vocês não se tornem hipócritas como os fariseus. A hipocrisia deles influencia a todos, assim como o fermento afeta a massa”.</font>
+**1****1** <font inherit/Lato, sans-serif;;inherit;;inherit>Naquele mesmo momento, quando muitas milhares de pessoas estavam reunidas ali, ao ponto de estarem até pisando umas nas outras, primeiro ele começou a dizer aos seus discípulos: “Cuidado para que vocês não se tornem hipócritas como os fariseus. A hipocrisia deles influencia a todos, assim como o fermento afeta a massa”.</font>
 
 ----
 
