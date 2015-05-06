@@ -14,9 +14,9 @@
 
 ===== Target ULB: =====
 
-**1** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 17.81px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Jesus também disse aos seus discípulos, ” havia um certo homem rico o qual tinha um administrador que foi acusado de desperdiçar seus bens.</font> **2** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 17.81px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>O homem rico então o chamou e disse: O que é isso que escuto falar sobre você? Preste-me contas de sua administração, pois você não pode ser mais meu administrador</font>
 
-<font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 17.81px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>----</font>
+1 Jesus também disse aos seus discípulos, ” havia um certo homem rico o qual tinha um administrador que foi acusado de desperdiçar seus bens. 2 O homem rico então o chamou e disse: O que é isso que escuto falar sobre você? Preste-me contas de sua administração, pois você não pode ser mais meu administrador 
+----
 
 ===== Important Terms: =====
 
