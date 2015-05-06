@@ -12,9 +12,9 @@
 
 <usfm> \v 27 Consider the lilies—how they grow.They do not labor, neither do they spin. Yet I say to you, even Solomon in all his glory was not clothed like one of these. \v 28 If God so clothes the grass in the field, which exists today, and tomorrow is thrown into the oven, how much more will he clothe you, O you of little faith! </usfm>
 
-===== Target ULB: ====
+===== Target ULB: =====
 
-**27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Considere os lírios e como eles crescem. Eles não trabalham nem fiam. Contudo eu digo a vocês que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.</font> **28** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Se assim Deus veste a erva do campo que hoje existe e amanhã é lançada no forno, muito mais cuidará de vocês, homens de pouca fé!</font>
+**27** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Considere os lírios e como eles crescem. Eles não trabalham nem fiam. Contudo eu digo a vocês que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.</font> **28** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Se assim Deus veste a erva do campo que hoje existe e amanhã é lançada no forno, muito mais cuidará de vocês, homens de pouca fé!</font>
 
 ----
 
