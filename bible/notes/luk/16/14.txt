@@ -13,8 +13,11 @@
 ===== ULB: =====
 
 <usfm> \p \v 14 Now the Pharisees, who were lovers of money, heard all these things, and they ridiculed him. \v 15 And he said to them, "You justify yourselves in the sight of men, but God knows your hearts. That which is exalted among men is detestable in the sight of God. </usfm>
+===== Target ULB: =====
 
-**14** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Quando os fariseus, que eram amantes do dinheiro, ouviram essas coisas, zombaram dele.</font> **15** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Mas ele disse: “Vocês se justificam perante uns aos outros, mas Deus conhece os corações de vocês. Aquilo que vocês exaltam entre vocês, Deus abomina.</font>
+14 Quando os fariseus, que eram amantes do dinheiro, ouviram essas coisas, zombaram dele. 15 Mas ele disse: “Vocês se justificam perante uns aos outros, mas Deus conhece os corações de vocês. Aquilo que vocês exaltam entre vocês, Deus abomina. 
+----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:pharisee|Pharisees]]
