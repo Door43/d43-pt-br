@@ -15,9 +15,9 @@
 ===== ULB: =====
 
 <usfm> \v 31 Or what king, as he goes to encounter another king in war, will not sit down first and take counsel whether he is able with ten thousand men to fight the other king who comes against him with twenty thousand men? \v 32 And if not, while the other army is still far away, he sends an ambassador and asks for conditions of peace. \v 33 So therefore, any one of you who does not give up all that he has cannot be my disciple. </usfm>
-
-**31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ou qual é o rei que, ao ir ao encontro de outro rei em guerra, não se assentará primeiro para se aconselhar e saber se ele seria capaz de, com dez mil homens, lutar com o outro rei que vem contra ele com vinte mil homens?</font> **32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E se ele não for capaz, enquanto o outro exército estiver ainda distante, ele enviará um embaixador e pedirá condições de paz.</font> **33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Assim, qualquer um de vocês que não abrir mão de tudo o que tem não pode ser meu discípulo.</font>
-
+===== Target ULB: =====
+31 Ou qual é o rei que, ao ir ao encontro de outro rei em guerra, não se assentará primeiro para se aconselhar e saber se ele seria capaz de, com dez mil homens, lutar com o outro rei que vem contra ele com vinte mil homens? 32 E se ele não for capaz, enquanto o outro exército estiver ainda distante, ele enviará um embaixador e pedirá condições de paz. 33 Assim, qualquer um de vocês que não abrir mão de tudo o que tem não pode ser meu discípulo. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:king|king]]
