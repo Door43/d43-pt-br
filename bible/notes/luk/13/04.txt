@@ -18,7 +18,7 @@
 
 ===== Target ULB: =====
 
-**4** <font inherit/Lato, sans-serif;;inherit;;inherit>Ou aquelas dezoito pessoas em Siloé em cuja torre caiu e os matou, vocês pensam que elas são mais pecadoras que aquelas outras pessoas em Jerusalém?</font> **5** <font inherit/Lato, sans-serif;;inherit;;inherit>Eu</font> <font inherit/Lato, sans-serif;;inherit;;inherit>digo que não. Mas todos vocês morrerão da mesma forma se não se arrependerem.</font>
+**4** <font inherit/Lato, sans-serif;;inherit;;inherit>Ou aquelas dezoito pessoas em Siloé em cuja torre caiu e os matou, vocês pensam que elas são mais pecadoras que aquelas outras pessoas em Jerusalém?</font>    **5** <font inherit/Lato, sans-serif;;inherit;;inherit>Eu</font>    <font inherit/Lato, sans-serif;;inherit;;inherit>digo que não. Mas todos vocês morrerão da mesma forma se não se arrependerem.</font>
 
 ----
 
