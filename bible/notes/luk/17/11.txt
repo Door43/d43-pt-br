@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \p \v 11 It came about that as they were on the way to Jerusalem, he was traveling through the borderlands of Samaria and Galilee. \v 12 As he entered into a certain village, there he was met by ten men who were lepers. They stood far away from him \v 13 and they lifted up their voices, saying, "Jesus, Master, have mercy on us." </usfm>
+===== Target ULB: =====
 
-**11** Certa vez, a caminho de Jerusalém, ele estava viajando entre as fronteiras da Samaria e da Galileia. **12**Assim que entrou em uma certa aldeia, dez homens leprosos vieram ao seu encontro e permaneceram distante dele.**13** Eles gritaram, e disseram: “Jesus, Mestre, tem misericórdia de nós.”
+11 Certa vez, a caminho de Jerusalém, ele estava viajando entre as fronteiras da Samaria e da Galileia. 12Assim que entrou em uma certa aldeia, dez homens leprosos vieram ao seu encontro e permaneceram distante dele.13 Eles gritaram, e disseram: “Jesus, Mestre, tem misericórdia de nós.” 
+----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
