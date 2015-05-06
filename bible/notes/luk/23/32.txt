@@ -17,11 +17,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 32 Other men, two criminals, were led away with him to be put to death.
-</usfm>
+<usfm> \p \v 32 Other men, two criminals, were led away with him to be put to death. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
