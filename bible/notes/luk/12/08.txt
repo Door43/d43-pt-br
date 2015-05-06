@@ -12,7 +12,11 @@
 
 <usfm> \v 8 I say to you, everyone who confesses me before men, the Son of man will also confess before the angels of God, \v 9 but he who denies me before men will be denied before the angels of God. \v 10 Everyone who speaks a word against the Son of man, it will be forgiven him, but to him who blasphemes against the Holy Spirit, it will not be forgiven. </usfm>
 
-**8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu digo a você que todo aquele que me confessar diante dos homens, o Filho do homem também o confessará diante dos anjos de Deus,</font> **9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>mas aquele que me negar diante dos homens, será negado diante dos anjos de Deus.</font> **10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Aquele que falar uma palavra contra o Filho do homem, isso lhe será perdoado, mas aquele que blasfemar contra o Espírito Santo, isso não lhe será perdoado.</font>
+===== Target ULB: =====
+
+**8** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Eu digo a você que todo aquele que me confessar diante dos homens, o Filho do homem também o confessará diante dos anjos de Deus,</font> **9** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>mas aquele que me negar diante dos homens, será negado diante dos anjos de Deus.</font> **10** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Aquele que falar uma palavra contra o Filho do homem, isso lhe será perdoado, mas aquele que blasfemar contra o Espírito Santo, isso não lhe será perdoado.</font>
+
+----
 
 ===== Important Terms: =====
 
