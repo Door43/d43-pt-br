@@ -11,9 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 31 After he gathered the twelve to himself, he said to them, "Behold, we are going up to Jerusalem, and all the things that have been written by the prophets about the Son of Man will be accomplished. \v 32 For he will be given over to the Gentiles, and will be mocked, and shamefully treated, and spit upon. \v 33 After whipping him, they will kill him and on the third day he will rise again." </usfm>
-
-<font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>31 Reuniu consigo os doze e, disse-lhes: “Estamos subindo a Jerusalém, e todas as coisas que foram escritas pelos profetas acerca do Filho do Homem serão cumpriras. 32 Porque ele será entregue aos gentios, será zombado, insultado e cuspido. 33 Depois de chicoteá-lo, irão matá-lo e no terceiro dia ele ressuscitará.</font>
-
+===== Target ULB: =====
+31 Reuniu consigo os doze e, disse-lhes: “Estamos subindo a Jerusalém, e todas as coisas que foram escritas pelos profetas acerca do Filho do Homem serão cumpriras. 32 Porque ele será entregue aos gentios, será zombado, insultado e cuspido. 33 Depois de chicoteá-lo, irão matá-lo e no terceiro dia ele ressuscitará. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:apostle|the Twelve]]
