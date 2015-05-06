@@ -29,13 +29,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 16 But you will be delivered up also by parents, brothers, relatives and friends, and they will put some of you to death.
-\v 17 You will be hated by everyone because of my name.
-\v 18 But not a hair of your head will perish.
-\v 19 In your endurance you will gain your souls.
-</usfm>
+<usfm> \v 16 But you will be delivered up also by parents, brothers, relatives and friends, and they will put some of you to death. \v 17 You will be hated by everyone because of my name. \v 18 But not a hair of your head will perish. \v 19 In your endurance you will gain your souls. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
