@@ -16,10 +16,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 6 He is not here, but is risen! Remember how he spoke to you when he was still in Galilee,
-\v 7 saying that the Son of Man must be delivered up into the hands of sinful men and be crucified, and on the third day, rise again."
-</usfm>
+<usfm> \v 6 He is not here, but is risen! Remember how he spoke to you when he was still in Galilee, \v 7 saying that the Son of Man must be delivered up into the hands of sinful men and be crucified, and on the third day, rise again." </usfm>
+
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
