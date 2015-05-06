@@ -12,7 +12,11 @@
 
 <usfm> \p \v 22 Jesus said to his disciples, "Therefore I say to you, do not worry about your life—what you will eat, or about your body—what you will wear. \v 23 For life is more than food, and the body is more than clothes. </usfm>
 
-**22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse aos seus discípulos: “Portanto, eu digo a vocês que não se preocupem com suas vidas, quanto ao que vocês vão comer, ou com os seus corpos, quanto ao que vocês vão vestir.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois a vida é mais do que comida e o corpo mais do que roupas.</font>
+===== Target ULB: =====
+
+**22** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Jesus disse aos seus discípulos: “Portanto, eu digo a vocês que não se preocupem com suas vidas, quanto ao que vocês vão comer, ou com os seus corpos, quanto ao que vocês vão vestir.</font> **23** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Pois a vida é mais do que comida e o corpo mais do que roupas.</font>
+
+<font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>----</font>
 
 ===== Important Terms: =====
 
