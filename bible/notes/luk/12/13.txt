@@ -14,7 +14,11 @@
 
 <usfm> \p \v 13 Then someone from the crowd said to him, "Teacher, tell my brother to divide the inheritance with me." \v 14 Jesus said to him, "Man, who made me a judge or a mediator over you?" \v 15 And he said to them, "Watch that you keep yourselves from all greedy desires, because someone’s life does not consist of the abundance of his possessions." </usfm>
 
-**13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então alguém da multidão disse a ele: “Mestre, diga a meu irmão para dividir a herança comigo.”</font> **14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse a ele: “Homem, quem me fez juíz ou mediador sobre vocês?”</font> **15** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E ele disse para a multidão: “Cuidem para que vocês se guardem de todos os desejos gananciosos, pois a vida de alguém não consiste na abundância de suas possessões.”</font>
+===== Target ULB: =====
+
+**13** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Então alguém da multidão disse a ele: “Mestre, diga a meu irmão para dividir a herança comigo.”</font> **14** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Jesus disse a ele: “Homem, quem me fez juíz ou mediador sobre vocês?”</font> **15** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>E ele disse para a multidão: “Cuidem para que vocês se guardem de todos os desejos gananciosos, pois a vida de alguém não consiste na abundância de suas possessões.”</font>
+
+----
 
 ===== Important Terms: =====
 
