@@ -19,12 +19,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 36 As they spoke these things, Jesus himself stood in the midst of them, and said to them, "Peace be to you."
-\v 37 But they were terrified and filled with fear, and supposed that they saw a spirit.
-</usfm>
+<usfm> \p \v 36 As they spoke these things, Jesus himself stood in the midst of them, and said to them, "Peace be to you." \v 37 But they were terrified and filled with fear, and supposed that they saw a spirit. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
