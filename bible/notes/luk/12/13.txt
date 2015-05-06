@@ -20,9 +20,9 @@
 
 ===== Important Terms: =====
 
-  * [[Teacher]]
-  * [[inheritance]]
-  * [[judge]]
+  * [[:pt-br:bible:notes:luk:12:teacher|Teacher]]
+  * [[:pt-br:bible:notes:luk:12:inheritance|inheritance]]
+  * [[:pt-br:bible:notes:luk:12:judge|judge]]
 
 ===== Translation Notes: =====
 
