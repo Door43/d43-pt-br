@@ -21,10 +21,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 22 "All things have been entrusted to me from my Father, and no one knows who the Son is except the Father, and no one knows who the Father is except the Son, and anyone to whom the Son desires to reveal him."
-</usfm>
+<usfm> \v 22 "All things have been entrusted to me from my Father, and no one knows who the Son is except the Father, and no one knows who the Father is except the Son, and anyone to whom the Son desires to reveal him." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
