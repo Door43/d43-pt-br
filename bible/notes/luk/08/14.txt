@@ -16,8 +16,11 @@
 
 <usfm> \v 14 The seeds that fell among the thorn plants are people who have heard the word, but as they go on their way, they become choked with the cares and riches and pleasures of this life, and so they bring no fruit to maturity. \v 15 But the seeds that fell on the good ground, these are people who, with an honest and good heart, after they have heard the word, hold onto it securely and produce fruit with perseverance. </usfm>
 ===== Target ULB: =====
+
 14 As sementes que caíram entre plantas espinhosas são como pessoas que ouviram a palavra, mas a medida que seguiram o seu caminho foram sufocadas pelos cuidados, riquezas e prazeres desta vida, e então não se tornam maduros e não produzem frutos. 15 Mas as sementes que caíram em solo bom são como pessoas que, com sinceridade e bom coração, ouviram a palavra, agarraram-na com firmeza e produziram frutos com perseverança.
+
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:word|word]]
