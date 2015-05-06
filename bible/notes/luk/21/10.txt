@@ -19,12 +19,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 10 Then he said to them, "Nation will rise against nation, and kingdom against kingdom.
-\v 11 There will be great earthquakes, and in various places famines and plagues. There will be terrifying events and great signs from heaven.
-</usfm>
+<usfm> \p \v 10 Then he said to them, "Nation will rise against nation, and kingdom against kingdom. \v 11 There will be great earthquakes, and in various places famines and plagues. There will be terrifying events and great signs from heaven. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
