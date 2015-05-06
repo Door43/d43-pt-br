@@ -13,8 +13,9 @@
 ===== ULB: =====
 
 <usfm> \v 6 When he comes to the house, he calls together his friends and his neighbors, saying to them, 'Rejoice with me, for I have found my lost sheep.' \v 7 I say to you that even so, there will be joy in heaven over one sinner who repents, more than over ninety-nine righteous persons who do not need to repent. </usfm>
-
-**6** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E quando ele chega em casa, convida os amigos e vizinhos, dizendo-lhes: 'Alegrai-vos comigo, porque já achei a minha ovelha perdida.'</font> ** 7** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Digo-vos que, mesmo assim, haverá grande alegria no céu por um pecador que se arrepende, mais do que por noventa e nove justos que não necessitam de arrependimento.</font>
+===== Target ULB: =====
+6 E quando ele chega em casa, convida os amigos e vizinhos, dizendo-lhes: 'Alegrai-vos comigo, porque já achei a minha ovelha perdida.'  7 Digo-vos que, mesmo assim, haverá grande alegria no céu por um pecador que se arrepende, mais do que por noventa e nove justos que não necessitam de arrependimento. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:rejoice|rejoice]]
