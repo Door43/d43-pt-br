@@ -11,7 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 34 I tell you, in that night there will be two men in one bed. One will be taken, and the other will be left. \v 35-36 There will be two women grinding together. One will be taken, and the other will be left." \v 37 They asked him, "Where, Lord?" And he said to them, "Where there is a body, there will the vultures also be gathered together." </usfm>
+===== Target ULB: =====
 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|Lord]]
