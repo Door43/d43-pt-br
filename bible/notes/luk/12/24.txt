@@ -14,7 +14,7 @@
 
 ===== Target ULB: =====
 
-**24** <font inherit/Lato, sans-serif;;inherit;;inherit>Considere os corvos. Eles não semeiam nem colhem. Eles não têm despensa nem celeiro, mas Deus os alimenta. Quanto mais valiosos são vocês do que os pássaros!</font> **25** <font inherit/Lato, sans-serif;;inherit;;inherit>E quais de vocês que, por estarem ansiosos, podem acrescentar uma hora à sua vida?</font> **26** <font inherit/Lato, sans-serif;;inherit;;inherit>Se então você não é capaz de fazer nem mesmo a coisa mais fácil, por que você se preocupa com o restante?</font>
+**24** <font inherit/Lato, sans-serif;;inherit;;inherit>Considere os corvos. Eles não semeiam nem colhem. Eles não têm despensa nem celeiro, mas Deus os alimenta. Quanto mais valiosos são vocês do que os pássaros!</font>    **25** <font inherit/Lato, sans-serif;;inherit;;inherit>E quais de vocês que, por estarem ansiosos, podem acrescentar uma hora à sua vida?</font>    **26** <font inherit/Lato, sans-serif;;inherit;;inherit>Se então você não é capaz de fazer nem mesmo a coisa mais fácil, por que você se preocupa com o restante?</font>
 
 ----
 
