@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \v 24 Then Jesus, seeing him, became very sad and said, "How difficult it is for those who are rich to enter the kingdom of God! \v 25 For it is easier for a camel to go through a needle’s eye, than for a rich person to enter the kingdom of God." </usfm>
+===== Target ULB: =====
 
-**24** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Jesus ao ver a tristeza dele disse: “Como é difícil para aqueles que são rico entrarem no reino de Deus!</font> **25** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Pois é mais fácil um camelo passar pelo fundo de uma agulha, do que um rico entrar no reino de Deus ”.</font>
+24 Jesus ao ver a tristeza dele disse: “Como é difícil para aqueles que são rico entrarem no reino de Deus! 25 Pois é mais fácil um camelo passar pelo fundo de uma agulha, do que um rico entrar no reino de Deus ”. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
