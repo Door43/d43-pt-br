@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \v 22 When Jesus heard that, he said to him, "One thing you still lack. You must sell all that you have and distribute it to the poor, and you will have treasure in heaven—and come, follow me." \v 23 But when the rich man heard these things, he became extremely sad, for he was very rich. </usfm>
+===== Target ULB: =====
 
-**22** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Quando Jesus ouviu aquilo, disse-lhe: “Uma coisa ainda lhe falta . Você deve vender tudo o que tem e distribuir aos pobres, e você terá um tesouro no céu, e venha e siga-me</font> ** 23** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Porque ele era muito rico ao ouvir essas palavras ficou extremamente triste</font>
+22 Quando Jesus ouviu aquilo, disse-lhe: “Uma coisa ainda lhe falta . Você deve vender tudo o que tem e distribuir aos pobres, e você terá um tesouro no céu, e venha e siga-me  23 Porque ele era muito rico ao ouvir essas palavras ficou extremamente triste 
+----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
