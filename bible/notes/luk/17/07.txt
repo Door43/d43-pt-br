@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 7 But which of you, who has a servant plowing or keeping sheep, will say to him when he has come in from the field, 'Come immediately and sit down to eat.' \v 8 Will he not say to him, 'Prepare something for me to eat, and put a belt around your clothes and serve me until I have finished eating and drinking. Then afterward you will eat and drink'? </usfm>
-
-**7** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Qual de vocês, que tendo um servo que cuida de sua lavoura ou de suas ovelhas, diria a ele ao regressar do campo, venha comer comigo agora.</font> **8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ao contrário, dirá:'Prepare algo para eu comer, troque sua roupa e me sirva até que eu tenha acabado de comer e beber. Então, você poderá comer e beber '</font>
+===== Target ULB: =====
+7 Qual de vocês, que tendo um servo que cuida de sua lavoura ou de suas ovelhas, diria a ele ao regressar do campo, venha comer comigo agora. 8 Ao contrário, dirá:'Prepare algo para eu comer, troque sua roupa e me sirva até que eu tenha acabado de comer e beber. Então, você poderá comer e beber ' 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
