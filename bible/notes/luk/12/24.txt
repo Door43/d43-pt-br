@@ -12,7 +12,9 @@
 
 <usfm> \v 24 Consider the ravens, that they do not sow or reap. They have no storeroom or barn, but God feeds them. How much more valuable you are than the birds! \v 25 And which of you by being anxious can add a cubit to his lifespan? \v 26 If then you are not able to do even that smallest thing, why do you worry about the rest? </usfm>
 
-**24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Considere os corvos. Eles não semeiam nem colhem. Eles não têm despensa nem celeiro, mas Deus os alimenta. Quanto mais valiosos são vocês do que os pássaros!</font> **25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E quais de vocês que, por estarem ansiosos, podem acrescentar uma hora à sua vida?</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Se então você não é capaz de fazer nem mesmo a coisa mais fácil, por que você se preocupa com o restante?</font>
+===== Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
