@@ -13,8 +13,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 18 Then Jesus said, "What is the kingdom of God like, and what can I compare it to? \v 19 It is like a mustard seed which a man took and threw into his garden, and it grew into a big tree, and the birds of heaven built their nests in its branches." </usfm>
-
-**18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então Jesus disse: “Como é o Reino de Deus e a que ele pode ser comparado?</font> **19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele é comparado à uma semente de mostarda que um homem pegou e lançou no seu jardim; e ela cresceu e se tornou uma grande árvore, e os pássaros do céu construíram seus ninhos nos seus galhos.”</font>
+===== Target ULB: =====
+18 Então Jesus disse: “Como é o Reino de Deus e a que ele pode ser comparado? 19 Ele é comparado à uma semente de mostarda que um homem pegou e lançou no seu jardim; e ela cresceu e se tornou uma grande árvore, e os pássaros do céu construíram seus ninhos nos seus galhos.” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
