@@ -25,11 +25,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 5 They were glad, and agreed to give him money.
-\v 6 He consented, and looked for an opportunity to deliver him to them away from the crowd.
-</usfm>
+<usfm> \v 5 They were glad, and agreed to give him money. \v 6 He consented, and looked for an opportunity to deliver him to them away from the crowd. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
