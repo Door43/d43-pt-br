@@ -14,9 +14,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 21 But we hoped that it was he who would free Israel. Yes, and besides all this, it is now the third day since these things came to pass.
-</usfm>
+<usfm> \v 21 But we hoped that it was he who would free Israel. Yes, and besides all this, it is now the third day since these things came to pass. </usfm>
+
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
