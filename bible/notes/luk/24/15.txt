@@ -16,10 +16,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 15 It happened that, while they discussed and questioned together, Jesus himself drew near and went with them.
-\v 16 But their eyes were prevented from recognizing him.
-</usfm>
+<usfm> \v 15 It happened that, while they discussed and questioned together, Jesus himself drew near and went with them. \v 16 But their eyes were prevented from recognizing him. </usfm>
+
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
