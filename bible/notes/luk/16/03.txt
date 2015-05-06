@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 3 The manager said to himself, 'What should I do, since my master is taking away my management job? I don't have strength to dig, and I am ashamed to beg. \v 4 I know what I will do, so that when I am removed from my management job, people will welcome me into their houses.' </usfm>
-
-**3** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>O administrador disse a si mesmo: “O que farei, já que o meu senhor me está tirando de meu trabalho de administrador? Eu não tenho forças para cavar, e tenho vergonha de mendigar.</font> **4** <font 14px line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 17.8181819915772px; background-color: rgb(238, 238, 238);>Sei o que vou fazer, para ser recebido nas casa das pessoas quando já tiver sido removido do meu cargo de administrador. ”</font>
+===== Target ULB: =====
+3 O administrador disse a si mesmo: “O que farei, já que o meu senhor me está tirando de meu trabalho de administrador? Eu não tenho forças para cavar, e tenho vergonha de mendigar. 4 Sei o que vou fazer, para ser recebido nas casa das pessoas quando já tiver sido removido do meu cargo de administrador. ” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|master]]
