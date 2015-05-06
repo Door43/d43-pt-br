@@ -25,11 +25,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 45 When he rose up from his prayer, he came to the disciples, and found them sleeping because of their sorrow,
-\v 46 and asked them, "Why are you sleeping? Rise and pray, that you may not enter into temptation."
-</usfm>
+<usfm> \v 45 When he rose up from his prayer, he came to the disciples, and found them sleeping because of their sorrow, \v 46 and asked them, "Why are you sleeping? Rise and pray, that you may not enter into temptation." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
