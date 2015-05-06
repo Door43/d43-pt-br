@@ -19,12 +19,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 27 A great crowd of the people, and of women who grieved and mourned for him, were following him.
-\v 28 But turning to them, Jesus said, "Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.
-</usfm>
+<usfm> \p \v 27 A great crowd of the people, and of women who grieved and mourned for him, were following him. \v 28 But turning to them, Jesus said, "Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
