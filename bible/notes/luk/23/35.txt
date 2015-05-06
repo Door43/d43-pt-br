@@ -17,10 +17,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 35 The people stood watching while the rulers also were mocking him, saying, "He saved others. Let him save himself, if he is the Christ of God, the chosen one."
-</usfm>
+<usfm> \v 35 The people stood watching while the rulers also were mocking him, saying, "He saved others. Let him save himself, if he is the Christ of God, the chosen one." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
