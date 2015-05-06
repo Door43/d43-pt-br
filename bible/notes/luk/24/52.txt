@@ -19,11 +19,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 52 So they worshipped him, and returned to Jerusalem with great joy.
-\v 53 They were continually in the temple, blessing God.
-</usfm>
+<usfm> \v 52 So they worshipped him, and returned to Jerusalem with great joy. \v 53 They were continually in the temple, blessing God. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
