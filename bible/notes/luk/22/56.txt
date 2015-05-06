@@ -21,12 +21,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 56 A certain female servant saw him as he sat in the light of the fire, and looked straight at him and said, "This man also was with him."
-\v 57 But Peter denied it, saying, "Woman, I do not know him."
-\v 58 After a little while someone else saw him, and said, "You are also one of them." But Peter said, "Man, I am not."
-</usfm>
+<usfm> \v 56 A certain female servant saw him as he sat in the light of the fire, and looked straight at him and said, "This man also was with him." \v 57 But Peter denied it, saying, "Woman, I do not know him." \v 58 After a little while someone else saw him, and said, "You are also one of them." But Peter said, "Man, I am not." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
