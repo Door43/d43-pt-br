@@ -19,12 +19,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 54 Seizing him, they led him away, and brought him into the high priest’s house. But Peter followed from a distance.
-\v 55 After they had kindled a fire in the middle of the courtyard and had sat down together, Peter sat in the midst of them.
-</usfm>
+<usfm> \p \v 54 Seizing him, they led him away, and brought him into the high priest’s house. But Peter followed from a distance. \v 55 After they had kindled a fire in the middle of the courtyard and had sat down together, Peter sat in the midst of them. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
