@@ -17,11 +17,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 42 But woe to you Pharisees, because you tithe the mint and rue and every other garden herb, but you neglect justice and the love of God. It is necessary to act justly and love God, without failing to do the other things also.
-</usfm>
+<usfm> \p \v 42 But woe to you Pharisees, because you tithe the mint and rue and every other garden herb, but you neglect justice and the love of God. It is necessary to act justly and love God, without failing to do the other things also. </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
