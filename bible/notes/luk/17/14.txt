@@ -11,7 +11,7 @@
 ===== ULB: =====
 
 <usfm> \v 14 When he saw them, he said to them, "Go and show yourselves to the priests." And it came about that, as they went, they were cleansed. \v 15 When one of them saw that he was healed, he turned back, with a loud voice glorifying God. \v 16 He bowed down at Jesus' feet, giving him thanks. He was a Samaritan. </usfm>
-
-**14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando ele os viu, disse: Vão e se mostrem aos sacerdotes.” E aconteceu que no caminho ficaram limpos *5* Quando um deles viu que estava curado, voltou glorificando a Deus em alta voz.* 16** Se prostrou aos pés de Jesus e lhe agradeceu. Ele era um samaritano.</font>
-
+===== Target ULB: =====
+14 Quando ele os viu, disse: Vão e se mostrem aos sacerdotes.” E aconteceu que no caminho ficaram limpos *5* Quando um deles viu que estava curado, voltou glorificando a Deus em alta voz.* 16** Se prostrou aos pés de Jesus e lhe agradeceu. Ele era um samaritano. 
+----
  ~~DISCUSSION~~{{tag>draft cleanse heal}}
