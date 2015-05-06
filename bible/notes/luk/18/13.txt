@@ -15,8 +15,10 @@
 ===== ULB: =====
 
 <usfm> \v 13 But the tax collector, standing at a distance, would not even lift up his eyes to heaven, but hit his breast, saying, 'God, be merciful to me, a sinner.' \v 14 I say to you, this man went back down to his house justified rather than the other, because everyone who exalts himself will be humbled, but everyone who humbles himself will be exalted." </usfm>
+===== Target ULB: =====
 
-<font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>13 Mas, o coletor de imposto se mantinha de pé a distância sem levantar os olhos ao céu, batendo em seu peito e dizendo: 'Deus tem piedade desse pecador ”. 14 Eu digo a vocês, esse homem retornou a sua casa justificado e não o outro, pois todo aquele que se exalta será humilhado, e todo aquele que se humilha será exaltado.</font>
+13 Mas, o coletor de imposto se mantinha de pé a distância sem levantar os olhos ao céu, batendo em seu peito e dizendo: 'Deus tem piedade desse pecador ”. 14 Eu digo a vocês, esse homem retornou a sua casa justificado e não o outro, pois todo aquele que se exalta será humilhado, e todo aquele que se humilha será exaltado. 
+----
 
 ===== Important Terms: =====
 
