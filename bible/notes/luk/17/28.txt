@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 28 Likewise even as it happened in the days of Lot, they ate, drank, bought, sold, planted, and they built. \v 29 But in the day that Lot went out from Sodom, it rained fire and brimstone from heaven and destroyed them all. </usfm>
-
-**28** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Do mesmo modo aconteceu nos dias de Ló, eles comiam, bebiam, compravam, vendiam, plantavam, e construíam.</font> **29** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas no dia em que Ló saiu de Sodoma, choveu fogo e enxofre do céu e consumiu a todos.</font>
+===== Target ULB: =====
+28 Do mesmo modo aconteceu nos dias de Ló, eles comiam, bebiam, compravam, vendiam, plantavam, e construíam. 29 Mas no dia em que Ló saiu de Sodoma, choveu fogo e enxofre do céu e consumiu a todos. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lot|Lot]]
