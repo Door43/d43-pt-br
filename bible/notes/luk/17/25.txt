@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \v 25 But first he must suffer many things and be rejected by this generation. \v 26 As it happened in the days of Noah, even so will it also happen in the days of the Son of Man. \v 27 They ate, they drank, they married, and they were given in marriage, until the day that Noah entered into the ark—and the flood came and destroyed them all. </usfm>
+===== Target ULB: =====
 
-**25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas primeiro ele tem que sofrer muito e ser rejeitado por essa geração.</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Assim como aconteceu nos dias de Noé, também acontecerá nos dias do Filho do Homem.</font> **27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles comiam, bebiam, casavam e davam-se em casamento, até o dia em que Noé entrou na arca, e veio o dilúvio e destruiu a todos.</font>
+25 Mas primeiro ele tem que sofrer muito e ser rejeitado por essa geração. 26 Assim como aconteceu nos dias de Noé, também acontecerá nos dias do Filho do Homem. 27 Eles comiam, bebiam, casavam e davam-se em casamento, até o dia em que Noé entrou na arca, e veio o dilúvio e destruiu a todos. 
+
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:suffer|suffer]]
