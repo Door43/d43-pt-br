@@ -16,7 +16,7 @@
 
 ===== Target ULB: =====
 
-**6** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Não são dois pardais vendidos por duas moedinhas? Ainda assim nenhum deles é esquecido à vista de Deus.</font> **7** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Até mesmo os cabelos da sua cabeça estão contados. Não tema. Você é mais valioso que muitos pardais.</font>
+**6** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Não são dois pardais vendidos por duas moedinhas? Ainda assim nenhum deles é esquecido à vista de Deus.</font> **7** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Até mesmo os cabelos da sua cabeça estão contados. Não tema. Você é mais valioso que muitos pardais</font>
 
 <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>----</font>
 
