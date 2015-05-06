@@ -11,9 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 25 Now large crowds were going with him, and he turned and said to them, \v 26 "If anyone comes to me and does not hate his own father, mother, wife, children, brothers and sisters–yes, and his own life also–he cannot be my disciple. \v 27 Whoever does not carry his own cross and come after me cannot be my disciple. </usfm>
-
-**25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Agora, grandes multidões estavam indo com ele. Então ele olhou para elas e disse:</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“Se alguém vem à mim e não odeia seu próprio pai, mãe, esposa, filhos, irmãos e irmãs e até mesmo a sua própria vida, não pode ser meu discípulo.</font> **27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Aquele que não carregar a sua própria cruz e me seguir não pode ser meu discípulo.</font>
-
+===== Target ULB: =====
+25 Agora, grandes multidões estavam indo com ele. Então ele olhou para elas e disse: 26 “Se alguém vem à mim e não odeia seu próprio pai, mãe, esposa, filhos, irmãos e irmãs e até mesmo a sua própria vida, não pode ser meu discípulo. 27 Aquele que não carregar a sua própria cruz e me seguir não pode ser meu discípulo. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:disciple|disciple]]
