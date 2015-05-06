@@ -19,12 +19,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 31 Simon, Simon, be aware, Satan asked to have you, that he might sift you as wheat.
-\v 32 But I have prayed for you, that your faith may not fail. After you have turned back again, strengthen your brothers."
-</usfm>
+<usfm> \p \v 31 Simon, Simon, be aware, Satan asked to have you, that he might sift you as wheat. \v 32 But I have prayed for you, that your faith may not fail. After you have turned back again, strengthen your brothers." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
