@@ -12,6 +12,10 @@
 
 <usfm> \v 69 But from now on, the Son of Man will be seated at the right hand of the power of God." \v 70 They all said, "Then you are the Son of God?" And Jesus said to them, "You say that I am." \v 71 They said, "Why do we still need a witness? For we ourselves have heard from his own mouth." </usfm>
 
+=====Target ULB: =====
+
+----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:sonofman|Son of Man]]
