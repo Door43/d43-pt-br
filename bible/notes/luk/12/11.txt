@@ -18,7 +18,7 @@
 
 ===== Target ULB: =====
 
-**11** <font inherit/Lato, sans-serif;;inherit;;inherit>Quando eles levarem você diante das sinagogas, dos chefes e das autoridades, não se preocupe como você falará em sua defesa ou com o que você dirá,</font> **12** <font inherit/Lato, sans-serif;;inherit;;inherit>pois o Espírito Santo te ensinará naquela hora o que você deve dizer.</font>
+**11** <font inherit/Lato, sans-serif;;inherit;;inherit>Quando eles levarem você diante das sinagogas, dos chefes e das autoridades, não se preocupe como você falará em sua defesa ou com o que você dirá,</font>    **12** <font inherit/Lato, sans-serif;;inherit;;inherit>pois o Espírito Santo te ensinará naquela hora o que você deve dizer.</font>
 
 ----
 
