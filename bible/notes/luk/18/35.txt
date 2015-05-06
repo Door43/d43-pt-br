@@ -11,9 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 35 It came about that, as Jesus drew near to Jericho, a certain blind man was sitting by the road begging, \v 36 and hearing a crowd going by, he asked what was happening. \v 37 They told him that Jesus of Nazareth was passing by. </usfm>
-
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>35 Quando Jesus se aproximou de Jericó, havia um cego sentado à beira da estrada pedindo esmola, 36 e ouvindo uma multidão passar, ele perguntou o que estava acontecendo. 37 Disseram-lhe que Jesus de Nazaré estava passando.</font>
-
+===== Target ULB: =====
+35 Quando Jesus se aproximou de Jericó, havia um cego sentado à beira da estrada pedindo esmola, 36 e ouvindo uma multidão passar, ele perguntou o que estava acontecendo. 37 Disseram-lhe que Jesus de Nazaré estava passando. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jericho|Jericho]]
