@@ -21,10 +21,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 52 Woe to you teachers of Jewish laws, because you have taken away the key of knowledge; you do not enter in yourselves, and you hinder those who are entering."
-</usfm>
+<usfm> \v 52 Woe to you teachers of Jewish laws, because you have taken away the key of knowledge; you do not enter in yourselves, and you hinder those who are entering." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
 
