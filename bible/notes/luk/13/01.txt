@@ -14,7 +14,7 @@
 
 ===== Target ULB: =====
 
-**1** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Naquele mesmo momento algumas pessoas comentaram com ele sobre os Galileus cujo sangue Pilatos havia misturado com os seus próprios sacrifícios.</font> **2** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Jesus disse para eles: “vocês pensam que esses Galileus são mais pecadores que todos os outros Galileus porque sofreram desta maneira?</font> **3** <font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 19.6px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>Eu digo a vocês que não. Mas todos vocês morrerão da mesma forma se não se arrependerem.</font>
+**1** <font inherit/Lato, sans-serif;;inherit;;inherit>Naquele mesmo momento algumas pessoas comentaram com ele sobre os Galileus cujo sangue Pilatos havia misturado com os seus próprios sacrifícios.</font> **2** <font inherit/Lato, sans-serif;;inherit;;inherit>Jesus disse para eles: “vocês pensam que esses Galileus são mais pecadores que todos os outros Galileus porque sofreram desta maneira?</font> **3** <font inherit/Lato, sans-serif;;inherit;;inherit>Eu digo a vocês que não. Mas todos vocês morrerão da mesma forma se não se arrependerem.</font>
 
 ----
 
