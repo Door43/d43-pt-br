@@ -11,9 +11,11 @@
 ===== ULB: =====
 
 <usfm> \v 32 Remember Lot’s wife. \v 33 Whoever seeks to gain his life will lose it, but whoever loses his life will save it. </usfm>
+===== Target ULB: =====
 
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>32 Lembre da mulher de Ló. 33 Quem procurar salvar sua vida irá perdê-la, mas quem perder a sua vida, irá salvá-la.</font>
+32 Lembre da mulher de Ló. 33 Quem procurar salvar sua vida irá perdê-la, mas quem perder a sua vida, irá salvá-la. 
 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lot|Lot]]
