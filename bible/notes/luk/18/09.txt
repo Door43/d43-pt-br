@@ -11,9 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 9 Then he also spoke this parable to some who were persuaded in themselves that they were righteous and who despised other people, \v 10 "Two men went up into the temple to pray—the one was a Pharisee and the other was a tax collector. </usfm>
-
-<font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>9 Então Jesus contou a seguinte parábola para algumas pessoas que se achavam muito corretas e desprezavam aos demais. 10 “Dois homens subiram ao templo para orar, um era fariseu, o outro era um coletor de impostos.</font>
-
+==== Target ULB: =====
+9 Então Jesus contou a seguinte parábola para algumas pessoas que se achavam muito corretas e desprezavam aos demais. 10 “Dois homens subiram ao templo para orar, um era fariseu, o outro era um coletor de impostos. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:parable|parable]]
