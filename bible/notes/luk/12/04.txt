@@ -14,7 +14,7 @@
 
 ===== Target ULB: =====
 
-**4** <font inherit/Lato, sans-serif;;inherit;;inherit>Mas eu digo a vocês, meus amigos, não fiquem com medo daqueles que matam o corpo, e que depois disso não podem fazer mais nada.</font> **5** <font inherit/Lato, sans-serif;;inherit;;inherit>Mas eu os alertarei sobre quem vocês devem temer. Temam aquele que, depois de ter matado, tem autoridade para jogar você no inferno. Sim, eu digo a você, temam a esse.</font>
+**4** <font inherit/Lato, sans-serif;;inherit;;inherit>Mas eu digo a vocês, meus amigos, não fiquem com medo daqueles que matam o corpo, e que depois disso não podem fazer mais nada.</font>    **5** <font inherit/Lato, sans-serif;;inherit;;inherit>Mas eu os alertarei sobre quem vocês devem temer. Temam aquele que, depois de ter matado, tem autoridade para jogar você no inferno. Sim, eu digo a você, temam a esse.</font>
 
 ----
 
