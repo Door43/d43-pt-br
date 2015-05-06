@@ -12,8 +12,11 @@
 
 <usfm> \v 40 Jesus stood still and commanded that the man be brought to him. Then when the blind man was near, Jesus asked him, \v 41 "What do you want me to do for you?" He said, "Lord, I want to receive my sight." </usfm>
 ===== Target ULB: =====
-40 Jesus parou e ordenou que trouxessem o homem até ele. Então, quando o cego se aproximou, Jesus perguntou-lhe: 41 “O que você quer que eu faça por você?” Ele disse: “Senhor, eu quero enxergar.” 
+
+40 Jesus parou e ordenou que trouxessem o homem até ele. Então, quando o cego se aproximou, Jesus perguntou-lhe: 41 “O que você quer que eu faça por você?” Ele disse: “Senhor, eu quero enxergar.”
+
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
