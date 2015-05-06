@@ -23,10 +23,11 @@
 
 ===== ULB: =====
 
-<usfm>
-\v 16 The one who listens to you listens to me, and the one who rejects you rejects me, and the one who rejects me rejects the one who sent me."
-</usfm>
+<usfm> \v 16 The one who listens to you listens to me, and the one who rejects you rejects me, and the one who rejects me rejects the one who sent me." </usfm>
 
+=====Target ULB: =====
+
+----
 
 ===== Important Terms: =====
  
