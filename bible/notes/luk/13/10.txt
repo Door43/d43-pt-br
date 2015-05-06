@@ -11,8 +11,10 @@
 ===== ULB: =====
 
 <usfm> \p \v 10 Now Jesus was teaching in one of the synagogues during the Sabbath. \v 11 Behold, a woman was there who for eighteen years had an evil spirit of weakness, and she was bent over and not able to completely stand up. </usfm>
+===== Target ULB: =====
 
-**10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Em um Sabá, Jesus estava ensinando em uma das sinagogas.</font> **11** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Havia ali uma mulher que há dezoito anos sofria com um espírito maligno de enfermidade, e ela estava inclinada, sem condições de se colocar completamente de pé.</font>
+10 Em um Sabá, Jesus estava ensinando em uma das sinagogas. 11 Havia ali uma mulher que há dezoito anos sofria com um espírito maligno de enfermidade, e ela estava inclinada, sem condições de se colocar completamente de pé. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:synagogue|synagogue]]
