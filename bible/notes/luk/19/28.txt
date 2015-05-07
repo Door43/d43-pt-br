@@ -1,4 +1,4 @@
-====== Luke 19:28 ======
+====== Luke 19:28-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 28 When he had said these things, he went on ahead, going up to Jerusalem. </usfm>
 
 **28** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando Jesus acabou de contar essa parábola, seguiu viagem, subindo à Jerusalém.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
