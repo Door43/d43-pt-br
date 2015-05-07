@@ -1,4 +1,4 @@
-====== Luke 08:34-35 ======
+====== Luke 08:34-35-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 34 When the men who were tending the pigs saw what had happened, they fled and reported it in the city and out in the countryside. \v 35 So the people who heard about it went out to see what had happened, and they came to Jesus and found the man from whom the demons had gone out. He was clothed and in his right mind, sitting at the feet of Jesus, and they were afraid. </usfm>
 
 **34** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando os homens que estavam cuidando dos porcos viram o que aconteceu, eles fugiram e relataram isto na cidade e nos campos.</font> **35** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>As pessoas que ouviram sobre isto foram ver o que aconteceu, quando se aproximaram de Jesus elas viram o homem de quem os demônios saíram. Ele estava vestido, são, sentado aos pés de Jesus, e eles ficaram com medo.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
