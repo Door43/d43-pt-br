@@ -1,4 +1,4 @@
-====== Luke 19:26-27 ======
+====== Luke 19:26-27-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 26 'I say to you, that everyone who has will be given more, but from him that has not, even that which he has will be taken away. \v 27 But these enemies of mine, those who did not want me to reign over them, bring them here and kill them before me.'" </usfm>
 
 **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu digo a vocês, todo aquele que tiver será dado mais, mas daquele que não usa bem o que foi lhe dado,até o que ele tinha será tomado.</font> **27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas esses meus inimigos, que não queriam que eu reinasse sobre eles, tragam-nos e os matem na minha frente”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:reign|reign]]
