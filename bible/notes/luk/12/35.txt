@@ -1,56 +1,37 @@
 ====== Luke 12:35-36 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 35 "Be always ready \add for doing God's work\add* \f + \ft metaphor \f*, like \add people\add* who have put on their work clothes and are ready \add during the day\add*, with their lamps burning all night.
-\v 36 Be \add ready for me to return\add* \f + \ft metaphor \f*, like servants who are waiting for their master to return after being at a wedding feast \add for several days\add*. They are \add waiting to\add* open the door for him and \add start working for him again\add* as soon as he arrives and knocks at the door.
-</usfm>
-
+<usfm> \v 35 "Be always ready \add for doing God's work\add* \f + \ft metaphor \f*, like \add people\add* who have put on their work clothes and are ready \add during the day\add*, with their lamps burning all night. \v 36 Be \add ready for me to return\add* \f + \ft metaphor \f*, like servants who are waiting for their master to return after being at a wedding feast \add for several days\add*. They are \add waiting to\add* open the door for him and \add start working for him again\add* as soon as he arrives and knocks at the door. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 35 Always be ready for doing God's work, like people who have put on their work clothes and keep their lamps burning all night.
-\v 36 Be ready for me to return, like servants who are waiting for their master to return after being at a wedding feast. They are waiting to open the door for him as soon as he arrives and knocks at the door.
-</usfm>
-
+<usfm> \v 35 Always be ready for doing God's work, like people who have put on their work clothes and keep their lamps burning all night. \v 36 Be ready for me to return, like servants who are waiting for their master to return after being at a wedding feast. They are waiting to open the door for him as soon as he arrives and knocks at the door. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\p
-\v 35 Let your long clothing be tucked in at your belt, and let your lamps be kept burning,
-\v 36 and be like people looking for their master when he returns from the marriage feast, so that when he comes and knocks, they may immediately open the door for him.
-</usfm>
+<usfm> \p \v 35 Let your long clothing be tucked in at your belt, and let your lamps be kept burning, \v 36 and be like people looking for their master when he returns from the marriage feast, so that when he comes and knocks, they may immediately open the door for him. </usfm>
 
+**35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Deixem as suas vestes presas por seus cintos em prontidão para servir, e mantenham suas lâmpadas queimando.</font> **36** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Sejam como as pessoas à procura de seu mestre quando ele retorna da festa de casamento, para que quando ele vier e bater, eles possam abrí-la para ele imediatamente.</font>
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:lord|master]]
-    * [[:pt-br:bible:notes:key-terms:feast|feast]]
+  * [[:pt-br:bible:notes:key-terms:lord|master]]
+  * [[:pt-br:bible:notes:key-terms:feast|feast]]
 
 ===== Translation Notes: =====
 
   * (Jesus continues to teach his disciples.)
-  * **Let your long clothing be tucked in at your belt**  - People wore long flowing robes. They would tuck them into their belt to keep the robes out of the way while they worked. In order to show this implicit information, this could be translated as “Let your clothing be kept tucked into your belt in readiness to serve” or “Be dressed and ready to serve.” (See: [[en:ta:vocabulary:implicitexplicit]])
+  * **Let your long clothing be tucked in at your belt**  - People wore long flowing robes. They would tuck them into their belt to keep the robes out of the way while they worked. In order to show this implicit information, this could be translated as “Let your clothing be kept tucked into your belt in readiness to serve” or “Be dressed and ready to serve.” (See: [[:en:ta:vocabulary:implicitexplicit|implicitexplicit]])
   * **let your lamps be kept burning**  - "keep your lamps burning"
   * **lamps**  - These were small bowls with a wick and olive oil for fuel.
-  * **be like people looking for their master**  - This is a simile. It compares the disciples being ready for Jesus to return to servants who are ready for their master to return.  It is also the beginning of a parable. (See: [[en:ta:figuresofspeech:simile]] and [[en:ta:discourse:parable]])
+  * **be like people looking for their master**  - This is a simile. It compares the disciples being ready for Jesus to return to servants who are ready for their master to return. It is also the beginning of a parable. (See: [[:en:ta:figuresofspeech:simile|simile]] and [[:en:ta:discourse:parable|Parables]])
   * **returns from the marriage feast**  - "returns home from a marriage feast"
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/12|Luke Chapter 12 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:12:33|<<]] | [[:pt-br:bible:notes:luk:12:37|>>]]**
 
-
-**[[pt-br/bible/notes/luk/12/33|<<]] | [[pt-br/bible/notes/luk/12/37|>>]]**
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
