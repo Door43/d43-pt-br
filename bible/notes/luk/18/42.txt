@@ -12,7 +12,9 @@
 
 <usfm> \v 42 Jesus said to him, "Receive your sight. Your faith has healed you." \v 43 Immediately he received his sight, and followed him, glorifying God. Seeing this, all the people gave praise to God. </usfm>
 
+===== TARGET ULB: ======
 42 Jesus disse-lhe: “Recupere a visão. A sua fé lhe curou”. 43 Imediatamente ele recuperou a visão, e o seguiu glorificando a Deus. Vendo isso a multidão também louvou a Deus.
+----
 
 ===== Important Terms: =====
 
