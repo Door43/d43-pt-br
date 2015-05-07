@@ -1,4 +1,4 @@
-====== Luke 19:5-7 ======
+====== Luke 19:5-7-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 5 When Jesus came to the place, he looked up and said to him, "Zacchaeus, come down quickly, for today I must stay at your house." \v 6 So he hurried and came down and welcomed him joyfully. \v 7 When everyone saw this, they all complained, saying, "He has gone in to visit a man who is a sinner." </usfm>
 
 **5** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando Jesus chegou àquele lugar, olhou para cima e disse-lhe: “Zaqueu, desça depressa, porque hoje tenho que pousar em sua casa.”</font> **6** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então, ele desceu rapidamente e o recebeu cheio de alegria.</font> ** 7** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando as pessoas viram isso, eles se indignaram e diziam: “Ele foi visitar um homem pecador”.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:zacchaeus|Zacchaeus]]
