@@ -1,4 +1,4 @@
-====== Luke 12:41-44 ======
+====== Luke 12:41-44-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 41 Peter said, "Lord, are you telling this parable only to us, or also to everyone?" \v 42 The Lord said, "Who then is the faithful and wise manager whom his lord will set over his other servants to give them their portion of food at the right time? \v 43 Blessed is that servant, whom his lord finds doing that when he comes. \v 44 Truly I say to you that he will set him over all his property. </usfm>
 
 **41** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pedro disse: “Senhor, estás a contar essa parábola para nós apenas ou também para todos?”</font> **42** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O Senhor disse: “Quem é o administrador fiel e sábio a quem seu senhor colocará sobre outros servos para lhes dar suas porções de comida no tempo certo?</font> **43** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Bem aventurado é aquele servo a quem o seu senhor encontrar fazendo isso quando ele vier.</font> **44** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Verdadeiramente eu digo a vocês que ele irá colocá-lo como administrador de toda a sua propriedade.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:peter|Peter]]
