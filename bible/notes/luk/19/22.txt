@@ -1,4 +1,4 @@
-====== Luke 19:22-23 ======
+====== Luke 19:22-23-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 22 The nobleman said to him, 'By your own words I will judge you, you wicked servant. You knew that I am a severe man, taking up that which I did not lay down, and reaping that which I did not sow. \v 23 Then why did you not put my money in the bank, so that when I returned I would have collected it with interest?' </usfm>
 
 **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O senhor disse: 'Eu julgarei você com suas próprias palavras, servo preguiçoso. Você sabia que eu sou um homem severo, que tomo o que não é meu, e colho o que não semeei.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então, por que você não colocou o meu dinheiro no banco para que tivesse rendido juros até quando eu chegasse?</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:judge|judge]]
