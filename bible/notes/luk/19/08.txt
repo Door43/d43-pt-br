@@ -1,4 +1,4 @@
-====== Luke 19:8-10 ======
+====== Luke 19:8-10-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 8 Zacchaeus stood and said to the Lord, "Look, Lord, the half of my goods I give to the poor, and if I have cheated anyone of anything, I will restore four times the amount." \v 9 Jesus said to him, "Today salvation has come to this house, because he too is a son of Abraham. \v 10 For the Son of Man came to seek and to save the people who are lost." </usfm>
 
 **8** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Zaqueu levantou-se e disse ao Senhor:” Senhor metade dos meus bens eu dou aos pobres e, se enganei alguém em qualquer coisa, eu lhes restituirei quatro vezes mais.”</font> ** 9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus lhe disse: “Hoje chegou a salvação a essa casa, porque ele também é filho de Abraão.</font> **10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O Filho do homem veio em busca para salvar os que estão perdidos.”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|Lord]]
