@@ -1,4 +1,4 @@
-====== Luke 12:33-34 ======
+====== Luke 12:33-34-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 33 Sell your possessions and give to the poor. Make for yourselves purses which will not wear out—treasure in the heavens that does not run out, where no thief comes near, and no moth destroys. \v 34 For where your treasure is, there your heart will be also. </usfm>
 
 **33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Vendam suas possessões e dêem aos pobres. Façam para si bolsas que não se desgastarão e tesouros nos céus que não perecem, onde os ladrões não chegam perto e nem o mofo destrói.</font> **34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois onde o seu tesouro está, ali o seu coração estará também.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:heaven|heavens]]
