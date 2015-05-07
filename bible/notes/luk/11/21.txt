@@ -14,7 +14,9 @@
 
 <usfm> \v 21 When a strong man who is fully armed guards his own house, his goods are safe, \v 22 but when a stronger man overcomes him, the stronger man takes away the armor from the man, and plunders the man's possessions. \v 23 The one who is not with me is against me, and the one who does not gather with me scatters. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando um homem forte, totalmente armado, guarda sua própria casa, seus bens estão seguros.</font> **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando porém vem sobre ele um homem mais forte, tal homem tira a armadura dele e saqueia suas possessões.</font> **23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Aquele que não está comigo está contra mim, e aquele que não ajunta comigo, espalha.</font>
 
 ----
 
