@@ -1,4 +1,4 @@
-====== Luke 12:39-40 ======
+====== Luke 12:39-40-F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \v 39 Moreover know this, that if the master of the house had known the hour the thief was coming, he would not have let his house be broken into. \v 40 Be ready also, because you do not know the hour when the Son of Man comes." </usfm>
 
 **39** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Além do mais saibam disso, que se o senhor da casa soubesse a hora em que o ladrão estivesse vindo, ele não permitiria que sua casa fosse arrombada.</font> **40** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Estejam prontos também, pois vocês não sabem a hora em que o Filho do homem virá.”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|master]]
