@@ -1,4 +1,4 @@
-====== Luke 12:54-56 ======
+====== Luke 12:54-56-F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \p \v 54 Jesus was saying to the crowds also, "When you see a cloud rising in the west, immediately you say, 'A shower is coming,' and so it happens. \v 55 And when a south wind is blowing, you say, 'There will be a scorching heat,' and it happens. \v 56 Hypocrites, you know how to interpret the appearance of the earth and the heavens, but how is it that you do not know how to interpret the present time? </usfm>
 
 **54** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus também disse às multidões: “Quando vocês vêem uma nuvem vindo do oeste, imediatamente vocês dizem: 'Uma chuva está vindo', e assim acontece.</font> **55** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E quando o vento sul está soprando, vocês dizem: 'Haverá um calor abrasador', e assim acontece.</font> **56** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Hipócritas, vocês sabem interpretar a aparência da terra e dos céus, mas como vocês não sabem interpretar o que está acontecendo neste presente tempo?</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:hypocrite|hypocrite]]
