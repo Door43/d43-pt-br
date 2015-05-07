@@ -1,4 +1,4 @@
-====== Luke 12:47-48 ======
+====== Luke 12:47-48-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 47 That servant, having known his lord’s will, and not having prepared or done according to his will, will be beaten with many blows. \v 48 But he who did not know, and did things worthy of a beating, will be beaten with a few blows. Everyone to whom much is given, much will be required of him, and to whom they entrust much, they will ask even more of him. </usfm>
 
 **47** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Aquele servo que, sabendo da vontade do seu senhor, não tiver preparado ou feito de acordo com sua vontade, será espancado com muitos golpes.</font> **48** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas aquele que não sabia, e tiver feito coisas dignas de castigo, será espancado com poucos golpes. A todo aquele que muito for dado, muito será requerido, e aquele a quem for confiado muito, muito mais será pedido dele.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
