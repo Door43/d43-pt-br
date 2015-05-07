@@ -1,4 +1,4 @@
-====== Luke 19:18-19 ======
+====== Luke 19:18-19-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 18 The second came, saying, 'Your mina, lord, has made five minas.' \v 19 The nobleman said to him, 'You take charge over five cities.' </usfm>
 
 **18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O Segundo veio e disse: ' Senhor, o seu dinheiro rendeu cinco vezes mais.'</font> **19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele disse: 'Você terá autoridade sobre cinco cidades'.</font>
-
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
