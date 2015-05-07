@@ -11,7 +11,33 @@
 ===== ULB: =====
 
 <usfm> \v 14 When he saw them, he said to them, "Go and show yourselves to the priests." And it came about that, as they went, they were cleansed. \v 15 When one of them saw that he was healed, he turned back, with a loud voice glorifying God. \v 16 He bowed down at Jesus' feet, giving him thanks. He was a Samaritan. </usfm>
+
 ===== Target ULB: =====
 14 Quando ele os viu, disse: Vão e se mostrem aos sacerdotes.” E aconteceu que no caminho ficaram limpos *5* Quando um deles viu que estava curado, voltou glorificando a Deus em alta voz.* 16** Se prostrou aos pés de Jesus e lhe agradeceu. Ele era um samaritano. 
 ----
- ~~DISCUSSION~~{{tag>draft cleanse heal}}
+
+===== Important Terms: =====
+
+  * [[:pt-br:bible:notes:key-terms:priest|priest]]
+  * [[:pt-br:bible:notes:key-terms:clean|cleanse]]
+  * [[:pt-br:bible:notes:key-terms:heal|healed]]
+  * [[:pt-br:bible:notes:key-terms:glorify|glorify]]
+ 
+
+===== Translation Notes: =====
+
+  * **Go and show yourselves to the priests**  - The implicit information, "so they can examine you" can be stated clearly. (See: [[en:ta:vocabulary:implicitexplicit]])\\
+  * **And it came about that** -  This phrase is used here to mark an important event in the story. If your language has a way of doing this, you could consider using it here.\\
+  * **they were cleansed**  - This is the important event marked by "It came about." It can be translated as "they became clean when they were healed of their leprosy" or "they were cured of their leprosy."\\
+  * **saw that he was healed**  - "realized that he was healed" or "realized that Jesus had  healed him"\\
+  * **he turned back** - "he went back to Jesus"\\
+  * **with a loud voice glorifying God** - "and glorified God loudly"\\
+  * **he bowed down at his feet**  - "he knelt down and put his face close to Jesus feet." He did this to honor Jesus.\\
+
+===== Links: =====
+
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:17:11|<<]] | [[:pt-br:bible:notes:luk:17:17|>>]]**
+
+
+~~DISCUSSION~~{{tag>draft cleanse heal}}
