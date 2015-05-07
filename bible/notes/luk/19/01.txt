@@ -2,26 +2,17 @@
 
 ===== TFT: =====
 
-<usfm>
-\v 1 They entered Jericho and were going through the \add city\add*.
-\v 2 There was a man \add there\add* named Zacchaeus. He was a chief tax collector, who was rich.
-</usfm>
+<usfm> \v 1 They entered Jericho and were going through the \add city\add*. \v 2 There was a man \add there\add* named Zacchaeus. He was a chief tax collector, who was rich. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 1 Jesus entered Jericho and was going through the city.
-\v 2 There was a man there named Zacchaeus. He was in charge of collecting taxes and was very rich.
-</usfm>
+<usfm> \v 1 Jesus entered Jericho and was going through the city. \v 2 There was a man there named Zacchaeus. He was in charge of collecting taxes and was very rich. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\c 19
-\p
-\v 1 Jesus entered and was passing through Jericho.
-\v 2 Behold, there was a man there named Zacchaeus. He was a chief tax collector and was rich.
-</usfm>
+<usfm> \c 19 \p \v 1 Jesus entered and was passing through Jericho. \v 2 Behold, there was a man there named Zacchaeus. He was a chief tax collector and was rich. </usfm>
+
+**1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus entrou e passando por Jericó.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>e ali havia um homem chamado Zaqueu. Ele era chefe dos coletores de impostos e rico</font>
 
 ===== Important Terms: =====
 
@@ -32,10 +23,7 @@
 
 ===== Translation Notes: =====
 
-
   * **Behold, there was a man there**  - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There was a man who was…”
-
-
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:19|Luke Chapter 19 Comprehension Questions]]**
