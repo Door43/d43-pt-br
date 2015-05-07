@@ -1,4 +1,4 @@
-====== Luke 08:32-33 ======
+====== Luke 08:32-33-F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \v 32 Now a herd of many pigs was there feeding on the hill, and the demons implored him to permit them to enter into the pigs. He permitted them to do that. \v 33 So the demons came out of the man and entered into the pigs, and the herd rushed down the steep hill into the lake and were drowned. </usfm>
 
 **32** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Uma grande manada de porcos estava ali, se alimentando na colina, e os demônios pediram permissão a ele para entrarem nos porcos. Ele os permitiu que fizessem isto.</font> ** 33** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então os demônios saíram do homem e entraram nos porcos e a manada correu e se lançou colina abaixo para dentro do lago e se afogou.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:demon|demon]]
