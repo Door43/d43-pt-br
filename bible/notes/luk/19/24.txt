@@ -1,4 +1,4 @@
-====== Luke 19:24-25 ======
+====== Luke 19:24-25-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 24 The nobleman said to them that stood by, 'Take away from him the mina, and give it to him that has the ten minas.' \v 25 They said to him, 'Lord, he has ten minas.' </usfm>
 
 **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O nobre disse aos que estavam ali: 'Tirem dele o dinheiro e dê àquele que fez render 10 vezes mais o que dei a ele'..</font> **25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles disseram para ele: 'Senhor, ele já tem muito dinheiro.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|lord]]
