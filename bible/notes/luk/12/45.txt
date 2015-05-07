@@ -1,4 +1,4 @@
-====== Luke 12:45-46 ======
+====== Luke 12:45-46-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 45 But if that servant says in his heart, 'My lord delays his return,' and begins to beat the male and female servants, and to eat and drink, and to become drunk, \v 46 the lord of that servant will come in a day when he does not expect, and in an hour that he does not know, and will cut him in pieces and appoint a place for him with the unfaithful. </usfm>
 
 **45** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas se aquele servo diz em seu coração: 'Meu senhor demora para voltar', e começar a bater nos servos e servas, e a comer, beber, e ficar bêbado,</font> **46** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>o senhor daquele servo virá em um dia que ele não espera, e em uma hora que ele não sabe, o cortará em pedaços e o apontará um lugar com os infiéis.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
