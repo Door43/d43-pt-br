@@ -1,4 +1,4 @@
-====== Luke 08:28-29 ======
+====== Luke 08:28-29-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 28 When he saw Jesus, he cried out, and fell down before him. With a loud voice he said, "What do I have to do with you, Jesus, Son of the Most High God? I beg you, do not torment me." \v 29 For Jesus was commanding the unclean spirit to come out of the man, because many times it had seized him. Even though he was bound with chains and shackles and kept under guard, he would break the bonds apart and be driven by the demon into the wilderness. </usfm>
 
 **28** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando viu Jesus ele gritou e se prostrou diante dele. E em alta voz disse: “O que tenho com você, Jesus, Filho do Deus Altíssimo? Eu te imploro, não me atormente.”</font> ** 29** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Pois Jesus tinha ordenado ao espírito imundo que saísse do homem que por muitas vezes tinha se apoderado dele. Embora ficasse preso por correntes e grilhões, e sob vigilância de guardas, ele quebrava as correntes e era levado ao deserto pelo demônio.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
