@@ -1,53 +1,33 @@
 ====== Luke 19:3-4 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 3 He tried to see Jesus, but he was very short and there was a big crowd of people \add near Jesus\add*. So he was not able to see him.
-\v 4 So he ran further ahead \add along the road\add* that Jesus was walking on. He climbed a sycamore-fig tree to see Jesus.
-</usfm>
-
+<usfm> \v 3 He tried to see Jesus, but he was very short and there was a big crowd of people \add near Jesus\add*. So he was not able to see him. \v 4 So he ran further ahead \add along the road\add* that Jesus was walking on. He climbed a sycamore-fig tree to see Jesus. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 3 He wanted to see Jesus but he could not see him over the crowd. He was a very short man and there were many people around Jesus.
-\v 4 So he ran further down the road. He climbed a sycamore-fig tree so he could see Jesus when he came by.
-</usfm>
-
+<usfm> \v 3 He wanted to see Jesus but he could not see him over the crowd. He was a very short man and there were many people around Jesus. \v 4 So he ran further down the road. He climbed a sycamore-fig tree so he could see Jesus when he came by. </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 3 He was trying to see who Jesus was, but could not see over the crowd, because he was small in height.
-\v 4 So he ran on ahead of the people and climbed up into a sycamore tree to see him, because Jesus was about to pass that way.
-</usfm>
+<usfm> \v 3 He was trying to see who Jesus was, but could not see over the crowd, because he was small in height. \v 4 So he ran on ahead of the people and climbed up into a sycamore tree to see him, because Jesus was about to pass that way. </usfm>
 
+**3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele tentou ver quem era Jesus, mas não conseguia vê-lo por cima da multidão, pois ele era de baixa estatura.</font> **4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então correu a frente das pessoas e subiu numa árvore de sicômoro para poder ver Jesus já que estava prestes a passar por ali.</font>
 
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
- 
 
 ===== Translation Notes: =====
 
-
   * **He was trying to see who Jesus was**  - "Zacchaeus was trying to see who Jesus was"
   * **a sycamore tree**  - "a sycamore fig tree." It produces small round fruit about 2.5 centimeters across. This can be translated simply as "a fig tree" or "a tree."
-  * **because he was small in height** - "because he was short"
-
-
+  * **because he was small in height**  - "because he was short"
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/19|Luke Chapter 19 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:19|Luke Chapter 19 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:19:01|<<]] | [[:pt-br:bible:notes:luk:19:05|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft}}
 
-**[[pt-br/bible/notes/luk/19/01|<<]] | [[pt-br/bible/notes/luk/19/05|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
 ~~NOCACHE~~
