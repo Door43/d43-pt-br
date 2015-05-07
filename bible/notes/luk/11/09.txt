@@ -1,52 +1,38 @@
 ====== Luke 11:9-10 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 9 So I tell you this: Keep asking \add God for what you need\add*. If you do that, \add he\add* will give it to you\add \f + \ft plural \f*\add*. Confidently keep expecting \add God to give you the things that you need\add*, and \add he\add* will give them to you \f + \ft metaphor \f*. \add It will be like\add* looking for what you need and finding it. Keep on \add praying urgently to God. Then God will answer you. It will be like\add* knocking \add on a door\add*. And \add God\add* will open \add the way\add* for you \add to get what you pray for\add*.
-\v 10 Remember that \add God\add* will give things to everyone who continues to ask \add him for them\add*. \add He\add* will give things to whoever confidently keeps asking\add . He\add* will open \add the way\add* for people \add to get the things that they keep urgently praying for\add*.
-</usfm>
-
+<usfm> \v 9 So I tell you this: Keep asking \add God for what you need\add*. If you do that, \add he\add* will give it to you\add \f + \ft plural \f*\add*. Confidently keep expecting \add God to give you the things that you need\add*, and \add he\add* will give them to you \f + \ft metaphor \f*. \add It will be like\add* looking for what you need and finding it. Keep on \add praying urgently to God. Then God will answer you. It will be like\add* knocking \add on a door\add*. And \add God\add* will open \add the way\add* for you \add to get what you pray for\add*. \v 10 Remember that \add God\add* will give things to everyone who continues to ask \add him for them\add*. \add He\add* will give things to whoever confidently keeps asking\add . He\add* will open \add the way\add* for people \add to get the things that they keep urgently praying for\add*. </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 9 So I tell you this: Keep asking God for what you need, and he will give it to you. Keep seeking his will and he will show it to you. Keep on praying urgently to God, like someone knocking on a door, and he will open the way for you to receive what you pray for.
-\v 10 Remember that anyone who asks will receive and anyone who seeks will find, and anyone who knocks will have the door opened for him.
-</usfm>
-
+<usfm> \v 9 So I tell you this: Keep asking God for what you need, and he will give it to you. Keep seeking his will and he will show it to you. Keep on praying urgently to God, like someone knocking on a door, and he will open the way for you to receive what you pray for. \v 10 Remember that anyone who asks will receive and anyone who seeks will find, and anyone who knocks will have the door opened for him. </usfm>
 
 ===== ULB: =====
 
 <usfm> \v 9 I also say to you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. \v 10 For every asking person receives; and the seeking person finds; and to the person who knocks, it will be opened. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**9** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu também digo a vocês: peçam e lhes será dado, procurem e vocês encontrarão, batam e lhes será aberto.</font> **10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois toda pessoa que pede, recebe; a que busca, encontra; e aquela que bate, lhe será aberto.</font>
 
 ----
 
 ===== Important Terms: =====
 
-
 ===== Translation Notes: =====
 
   * (Jesus continues to teach his disciples about prayer.)
-  * **ask … seek … knock**  - Jesus gave these commands to encourage his disciples to pray contiually. Use the form of "you" that would be most appropriate in this context. (See: [[:en:ta:vocabulary:formsofyou]]). These commands can be translated as "keep asking … keep seeking … keep knocking".
+  * **ask … seek … knock**  - Jesus gave these commands to encourage his disciples to pray contiually. Use the form of "you" that would be most appropriate in this context. (See: [[:en:ta:vocabulary:formsofyou|formsofyou]]). These commands can be translated as "keep asking … keep seeking … keep knocking".
   * **ask**  - Some languages may require more information with this verb. It can be translated as "Ask God for what you need." "Seek what you need from God" and "Knock on the door."
-  * **it will be given to you**  - This can be translated with an active verb: "God will give it to you" or "you will receive it." (See: [[:en:ta:vocabulary:active]])
+  * **it will be given to you**  - This can be translated with an active verb: "God will give it to you" or "you will receive it." (See: [[:en:ta:vocabulary:active|Active or Passive]])
   * **knock**  - To knock at a door is to hit it a few times to let a person inside the house know you are standing outside. It can also be translated using the way people in your culture show that they have arrived, such as "call out" or "cough" or "clap."
   * **it will be opened to you**  - This can be translated with an active verb: "God will open the door for you" or "God will welcome you inside."
-
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/11|Luke Chapter 11 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:11:05|<<]] | [[:pt-br:bible:notes:luk:11:11|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft}}
 
-**[[pt-br/bible/notes/luk/11/05|<<]] | [[pt-br/bible/notes/luk/11/11|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
 ~~NOCACHE~~
