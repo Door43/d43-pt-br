@@ -21,7 +21,9 @@
 
 <usfm> \p \v 37 So during the days he was teaching in the temple and at night he went out, and spent the night on the mount that is called Olivet. \v 38 All of the people came early in the morning to hear him in the temple. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**37** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Durante os dias ele ensinava no templo, e passava à noite orando no monte das Oliveiras. *</font> **38** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Todas as pessoas vinham de manhã cedo ao templo para ouvi-lo.</font>
 
 ----
 
