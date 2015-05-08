@@ -21,7 +21,9 @@
 
 <usfm> \v 34 But pay attention to yourselves, so that your hearts are not burdened with debauchery, drunkenness, and the worries of life. For that day will come on you suddenly \v 35 as a trap. For it will come upon everyone living on the face of the whole earth. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Esteja atento com você mesmos, que seus corações não se sobrecarregue com libertinagem, bebedeira e ansiedade. Pois aquele dia virá inesperadamente .</font> **35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois virá sobre todo o ser vivente na face da terra.</font>
 
 ----
 
