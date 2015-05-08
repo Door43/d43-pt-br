@@ -1,4 +1,4 @@
-====== Luke 19:37-38 ======
+====== Luke 19:37-38-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 37 As he was now drawing near to where the Mount of Olives descends, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen, \v 38 saying, "Blessed is the king who comes in the name of the Lord! Peace in heaven and glory in the highest!" </usfm>
 
 **37** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando se aproximaram de Jerusalém, na estrada que desce do Monte das Oliveiras, toda a multidão de discípulos começou a exultar de alegria e a louvar a Deus em alta voz por todas as coisas grandiosas que tinham visto,</font> **38** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>dizendo: “Bendito é o Rei que vem em nome do Senhor. Paz no céu e glória nas alturas! ”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:mountofolives|Mount of Olives]]
