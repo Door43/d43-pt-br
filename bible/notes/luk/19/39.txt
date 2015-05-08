@@ -1,4 +1,4 @@
-====== Luke 19:39-40 ======
+====== Luke 19:39-40-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 39 Some of the Pharisees in the multitude said to him, "Teacher, rebuke your disciples." \v 40 Jesus answered and said, "I tell you, if these were silent, the stones would cry out." </usfm>
 
 **39** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Alguns dos fariseus na multidão disse-lhe: “Mestre, repreenda seus discípulos.”</font> **40** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus respondeu: “Se essas pessoas se calassem, as próprias pedras gritariam para me louvar! ”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:pharisee|Pharisee]]
