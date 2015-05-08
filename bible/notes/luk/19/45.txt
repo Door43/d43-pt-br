@@ -1,4 +1,4 @@
-====== Luke 19:45-46 ======
+====== Luke 19:45-46-F ======
 
 ===== TFT: =====
 
@@ -15,7 +15,6 @@
 <usfm> \p \v 45 Jesus entered the temple and began to cast out those who were selling, \v 46 saying to them, "It is written, 'My house will be a house of prayer,' but you have made it a den of robbers." </usfm>
 
 **45** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus entrou no templo e começou a expulsar os que vendiam,</font> **46** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>dizendo-lhes: “Está escrito: A minha casa será casa de oração ', mas vocês fizeram dela um covil de ladrões.”</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:temple|temple]]
