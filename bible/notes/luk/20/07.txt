@@ -1,40 +1,26 @@
 ====== Luke 20:7-8 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 7 So they replied, "We\add \f + \ft exclusive \f*\add* do not know where \add John got his authority\add*."
-\v 8 Then Jesus said to them, "\add Because you did not answer my question\add*, I will not tell you who authorized me to do those things \add here yesterday\add*."
+<usfm> \v 7 So they replied, "We\add \f + \ft exclusive \f*\add* do not know where \add John got his authority\add*." \v 8 Then Jesus said to them, "\add Because you did not answer my question\add*, I will not tell you who authorized me to do those things \add here yesterday\add*."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 7 So they replied that they did not know who told John to baptize.
-\v 8 Then Jesus said to them, "Neither will I tell you who sent me to do those things."
+<usfm> \v 7 So they replied that they did not know who told John to baptize. \v 8 Then Jesus said to them, "Neither will I tell you who sent me to do those things."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 7 So they answered that they did not know where it came from.
-\v 8 Jesus said to them, "Neither will I tell you by what authority I do these things."
-</usfm>
+<usfm> \v 7 So they answered that they did not know where it came from. \v 8 Jesus said to them, "Neither will I tell you by what authority I do these things." </usfm>
 
+<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>7 Então os sacerdotes, escribas e anciãos responderam que não sabiam de onde veio. 8 Jesus disse eles, “Também não direi a vocês com que autoridade faço essas coisas.”</font>
 
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:authority|authority]]
-
 
 ===== Translation Notes: =====
 
@@ -44,14 +30,9 @@
   * **Neither will I tell you**  - This could be translated as "And I will not tell you" or "Just as you will not tell me, I will not tell you."
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:20|Luke Chapter 20 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:20:05|<<]] | [[:pt-br:bible:notes:luk:20:09|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft}}
 
-**[[pt-br/bible/notes/luk/20/05|<<]] | [[pt-br/bible/notes/luk/20/09|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
 ~~NOCACHE~~
