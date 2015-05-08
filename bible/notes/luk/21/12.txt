@@ -21,7 +21,9 @@
 
 <usfm> \v 12 But before all of these things, they will lay their hands on you and will persecute you, delivering you over to the synagogues and prisons, bringing you before kings and governors because of my name. \v 13 It will lead to an opportunity for your testimony. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas antes de tudo isso, e por causa de meu nome, vocês serão presos, perseguidos, entregues às sinagogas e às prisões, e também levados à presença de reis e governadores . Serão levados à presença de reis e governadores.</font> **13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E isso resultará em oportunidades para você testemunhar de mim.</font>
 
 ----
 
