@@ -23,7 +23,9 @@
 
 <usfm> \p \v 20 When you see Jerusalem surrounded by armies, then know that its destruction is near. \v 21 Then let those in Judea flee to the mountains, and let those who are in the middle of the city leave, and do not let those who are in the country enter it. \v 22 For these are days of vengeance, so that all the things that are written will be fulfilled. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando vocês virem os exércitos cercarem Jerusalém, então saiba que sua destruição se aproxima.</font> **21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os</font> <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>que estiverem na Judéia fujam para os montes, e os que estiverem no centro da cidade a deixe, e não deixe aqueles que estão no campo regressar.</font> **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Porque estes são dias de vingança, em comprimento de tudo que foi escrito.</font>
 
 ----
 
