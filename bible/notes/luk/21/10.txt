@@ -21,7 +21,9 @@
 
 <usfm> \p \v 10 Then he said to them, "Nation will rise against nation, and kingdom against kingdom. \v 11 There will be great earthquakes, and in various places famines and plagues. There will be terrifying events and great signs from heaven. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**10** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então ele disse: ” Nação se levantará contra nação, reinado contra reinado.</font> **11** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ocorrerão grandes terremotos e, em vários lugares fome e pestes. Ocorrerão eventos terríveis e grandes sinais vindo do céu.</font>
 
 ----
 
