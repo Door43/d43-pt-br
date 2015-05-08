@@ -27,7 +27,9 @@
 
 <usfm> \v 32 Truly, I say to you, this generation will not pass away, until all of these things occur. \v 33 Heaven and earth will pass away, but my words will never pass away. \p </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Verdadeiramente eu lhes digo que essa geração não passará, até que todas estas coisas ocorram.</font> **33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O céu e a terra passarão, mas as minhas palavras jamais passarão.</font>
 
 ----
 
