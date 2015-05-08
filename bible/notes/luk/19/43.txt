@@ -1,4 +1,4 @@
-====== Luke 19:43-44 ======
+====== Luke 19:43-44-F ======
 
 ===== TFT: =====
 
@@ -17,7 +17,6 @@
 <usfm> \v 43 For the days will come upon you, when your enemies will build a barricade around you, and surround you, and press in on you from every side. \v 44 They will strike you down to the ground and your children with you. They will not leave one stone upon another, because you did not know the time of your visitation." </usfm>
 
 **43** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Porque virão dias em que seus inimigos construirão uma fortaleza em torno de vocês, os cercarão e os pressionarão por todos os lados..</font> **44** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles destruirão sua cidade, vocês e seus filhos. Não deixarão pedra sobre pedra, pois vocês não reconheceram o momento em que Deus teve misericórdia de vocês. ”. ”</font>
-
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
