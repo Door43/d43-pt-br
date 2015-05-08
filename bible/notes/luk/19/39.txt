@@ -1,35 +1,22 @@
 ====== Luke 19:39-40 ======
 
-
 ===== TFT: =====
 
-<usfm>
-\v 39 Some of the Pharisees who were in the crowd said to him, "Teacher, rebuke your disciples \add for saying things like that!\add*"
-\v 40 He replied, "I tell you this: If these people would be silent, the stones themselves would shout \add to praise me!\add*"
+<usfm> \v 39 Some of the Pharisees who were in the crowd said to him, "Teacher, rebuke your disciples \add for saying things like that!\add*" \v 40 He replied, "I tell you this: If these people would be silent, the stones themselves would shout \add to praise me!\add*"
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 39 Some of the Pharisees who were in the crowd said to him, "Teacher, tell your disciples to stop saying those things!"
-\v 40 He replied, "I tell you this: if these people were silent, the stones themselves would shout to praise me!"
+<usfm> \v 39 Some of the Pharisees who were in the crowd said to him, "Teacher, tell your disciples to stop saying those things!" \v 40 He replied, "I tell you this: if these people were silent, the stones themselves would shout to praise me!"
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 39 Some of the Pharisees in the multitude said to him, "Teacher, rebuke your disciples."
-\v 40 Jesus answered and said, "I tell you, if these were silent, the stones would cry out."
-</usfm>
+<usfm> \v 39 Some of the Pharisees in the multitude said to him, "Teacher, rebuke your disciples." \v 40 Jesus answered and said, "I tell you, if these were silent, the stones would cry out." </usfm>
 
+**39** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Alguns dos fariseus na multidão disse-lhe: “Mestre, repreenda seus discípulos.”</font> **40** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus respondeu: “Se essas pessoas se calassem, as próprias pedras gritariam para me louvar! ”</font>
 
 ===== Important Terms: =====
 
@@ -37,26 +24,17 @@
   * [[:pt-br:bible:notes:key-terms:teacher|Teacher]]
   * [[:pt-br:bible:notes:key-terms:disciple|disciples]]
 
- 
-
 ===== Translation Notes: =====
 
-
   * **rebuke your disciples**  - This can be translated as "tell your disciples to stop doing these things."
-  * **I tell you** - Jesus said this to emphasize what he would say next.
-  * **If these were silent** - This is a hypothetical situation. (See: [[en:ta:discourse:hypothetical]]) Some translators may be need make it clear what Jesus was implying when he said this: "No, I will not rebuke them, for if these people were to be silent..."  (See: [[en:ta:vocabulary:implicitexplicit]])
-  * **the stones would cry out**  - "the stones would call out praises" 
-
+  * **I tell you**  - Jesus said this to emphasize what he would say next.
+  * **If these were silent**  - This is a hypothetical situation. (See: [[:en:ta:discourse:hypothetical|hypothetical]]) Some translators may be need make it clear what Jesus was implying when he said this: "No, I will not rebuke them, for if these people were to be silent…" (See: [[:en:ta:vocabulary:implicitexplicit|implicitexplicit]])
+  * **the stones would cry out**  - "the stones would call out praises"
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/19|Luke Chapter 19 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:19|Luke Chapter 19 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:19:37|<<]] | [[:pt-br:bible:notes:luk:19:41|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft}}
 
-**[[pt-br/bible/notes/luk/19/37|<<]] | [[pt-br/bible/notes/luk/19/41|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
 ~~NOCACHE~~
