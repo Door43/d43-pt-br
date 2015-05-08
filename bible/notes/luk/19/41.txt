@@ -1,4 +1,4 @@
-====== Luke 19:41-42 ======
+====== Luke 19:41-42-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \p \v 41 When Jesus drew near to the city, he wept over it, \v 42 saying, "If only you had known in this day, even you, the things which bring you peace! But now they are hidden from your eyes. </usfm>
 
 **41** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando Jesus estava já próximo da cidade chorou sobre ela,</font> ** 42** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>dizendo: “Se você tivesse conhecido neste dia, as coisas que trazem a paz! Mas agora elas estão escondidas de seus olhos.</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:peace|peace]]
