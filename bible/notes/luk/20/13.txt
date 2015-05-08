@@ -1,4 +1,4 @@
-====== Luke 20:13-14 ======
+====== Luke 20:13-14-F ======
 
 ===== TFT: =====
 
@@ -13,7 +13,6 @@
 <usfm> \v 13 So the lord of the vineyard said, 'What will I do? I will send my beloved son. Maybe they will respect him.' \v 14 But when the vine dressers saw him, they discussed among themselves, saying, 'This is the heir. Let us kill him, that the inheritance may be ours.' </usfm>
 
 **13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então o senhor da plantação disse, 'Que farei? Mandarei meu filho querido. Talvez vão respeitar-lo.'</font> **14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas quando os lavradores o viram, discutiram entre si, dizendo, 'Este é o herdeiro. Vamos mata-lo, que a herança seja nossa.'</font>
-
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|lord]]
