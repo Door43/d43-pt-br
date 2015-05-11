@@ -23,7 +23,9 @@
 
 <usfm> \v 5 Into whatever house you may enter, first say, 'May peace be on this house.' \v 6 If a person of peace is there, your peace will rest upon him, but if not, it will return to you. \v 7 Remain in that same house, eating and drinking what they provide, for the laborer is worthy of his wages. Do not go from house to house. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**5** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Em qualquer casa que você entrar, dizei primeiro: ” Que a paz esteja nesta casa.”</font> **6** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Se</font> <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>uma pessoa de paz está lá, a vossa paz repousará sobre ela, mas se não, voltará para vós.</font> **7** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Continue na mesma casa, comendo e bebendo do que eles fornecem, porque o trabalhador merece receber o seu salário. Não vá de casa em casa.</font>
 
 ----
 
