@@ -21,7 +21,9 @@
 
 <usfm> \v 29 But the teacher, desiring to justify himself, said to Jesus, "And who is my neighbor?" \v 30 Answering, Jesus said, "A certain man was going down from Jerusalem to Jericho. He fell among robbers, who stripped him of his belongings, and beat him, and left him half dead. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**29** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas o mestre, querendo justificar-se, perguntou a Jesus: “E quem é o meu próximo?”</font> ** 30** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus respondeu: “Certo homem descia de Jerusalém para Jericó, ele caiu nas mãos de ladrões, os quais sacaram seus pertences, bateram nele, e o deixaram meio morto.</font>
 
 ----
 
