@@ -1,57 +1,41 @@
-====== Luke 11:52 ======
-
+====== Luke 11:52 *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 52 There will be terrible punishment for you men who teach the \add Jewish\add* laws, because you have \add not let people\add* know \add God's truth\add* \f + \ft metaphor \f*! \add It is as though you are\add* taking away a key \add to a house\add*. You are not going into \add the house\add* yourselves, and you are not letting other people enter it, either."
-\p
-</usfm>
-
+<usfm> \v 52 There will be terrible punishment for you men who teach the \add Jewish\add* laws, because you have \add not let people\add* know \add God's truth\add* \f + \ft metaphor \f*! \add It is as though you are\add* taking away a key \add to a house\add*. You are not going into \add the house\add* yourselves, and you are not letting other people enter it, either." \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 52 How terrible it will be for you men who teach the Jewish laws, because you have not let people know God's truth! It is as though you have taken away a key to a house. You do not go into the house yourselves, and you also prevent other people from entering it."
+<usfm> \v 52 How terrible it will be for you men who teach the Jewish laws, because you have not let people know God's truth! It is as though you have taken away a key to a house. You do not go into the house yourselves, and you also prevent other people from entering it."
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
 <usfm> \v 52 Woe to you teachers of Jewish laws, because you have taken away the key of knowledge; you do not enter in yourselves, and you hinder those who are entering." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**52** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ai de vocês, mestres da lei judaica, pois vocês tomaram para si a chave do conhecimento. Vocês mesmos não entram e ainda impedem outros de entrarem.</font>
 
 ----
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:woe|woe]]
-    * [[:pt-br:bible:notes:key-terms:scribe|teacher of Jewish law]]
+  * [[:pt-br:bible:notes:key-terms:woe|woe]]
+  * [[:pt-br:bible:notes:key-terms:scribe|teacher of Jewish law]]
 
 ===== Translation Notes: =====
 
-    * (Jesus continues to tell the teachers of the law how they sin against God.)
-    * **taken away the key of knowledge** -  This is a metaphor. It means "you have prevented people from entering into the place where God's truth is stored." It can be translated as a simile as in the UDB. (See: [[:en:ta:figuresofspeech:metaphor]])
-    * **the key** - This represents the means of access, as to a house or storage room.
-    * **you do not enter in yourselves** - "You yourselves do not go in in order to get knowledge." This metaphor means "You yourselves do make use of the knowledge."
-
- 
+  * (Jesus continues to tell the teachers of the law how they sin against God.)
+  * **taken away the key of knowledge**  - This is a metaphor. It means "you have prevented people from entering into the place where God's truth is stored." It can be translated as a simile as in the UDB. (See: [[:en:ta:figuresofspeech:metaphor|metaphor]])
+  * **the key**  - This represents the means of access, as to a house or storage room.
+  * **you do not enter in yourselves**  - "You yourselves do not go in in order to get knowledge." This metaphor means "You yourselves do make use of the knowledge."
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/11|Luke Chapter 11 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:11:49|<<]] | [[:pt-br:bible:notes:luk:11:53|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft scribe}}
 
-**[[pt-br/bible/notes/luk/11/49|<<]] | [[pt-br/bible/notes/luk/11/53|>>]]**
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft scribe}}
 ~~NOCACHE~~
