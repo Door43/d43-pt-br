@@ -1,63 +1,45 @@
-====== Luke 11:32 ======
-
+====== Luke 11:32 *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 32 The people who lived in Nineveh \add city\add* turned from their sinful ways when Jonah preached to them. But now I, who am greater than Jonah, have come \add and preached to you\add*, \add but you have not turned from your sinful ways\add*. Therefore, at the time when God judges \add all people\add*, the people who lived in Nineveh will stand there with you and condemn you."
-\p
-</usfm>
-
+<usfm> \v 32 The people who lived in Nineveh \add city\add* turned from their sinful ways when Jonah preached to them. But now I, who am greater than Jonah, have come \add and preached to you\add*, \add but you have not turned from your sinful ways\add*. Therefore, at the time when God judges \add all people\add*, the people who lived in Nineveh will stand there with you and condemn you." \p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 32 The men who lived in the ancient city of Nineveh turned from their sinful ways when Jonah preached to them. And now I, who am greater than Jonah, have come and preached to you, but you have not turned from your sinful ways. Therefore, at the time when God judges all people, the men who lived in Nineveh long ago will stand there and condemn the people alive now. "
+<usfm> \v 32 The men who lived in the ancient city of Nineveh turned from their sinful ways when Jonah preached to them. And now I, who am greater than Jonah, have come and preached to you, but you have not turned from your sinful ways. Therefore, at the time when God judges all people, the men who lived in Nineveh long ago will stand there and condemn the people alive now. "
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
 <usfm> \v 32 The men of Nineveh will stand up at the judgment with this generation of people and will condemn it, for they repented at the preaching of Jonah, and behold, someone greater than Jonah is here. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os homens de Nínive ficarão de pé juntamente com os homens dessa geração no dia do julgamento e os condenarão, pois eles se arrependeram diante da pregação de Jonas. E este que aqui está é maior que Jonas.</font>
 
 ----
 
 ===== Important Terms: =====
 
-  * [[:pt-br:bible:notes:key-terms:Nineveh|Nineveh]]
+  * [[:pt-br:bible:notes:key-terms:nineveh|Nineveh]]
   * [[:pt-br:bible:notes:key-terms:judgmentday|the judgement]]
   * [[:pt-br:bible:notes:key-terms:generation|generation]]
   * [[:pt-br:bible:notes:key-terms:condemn|condemn]]
   * [[:pt-br:bible:notes:key-terms:repent|repent]]
   * [[:pt-br:bible:notes:key-terms:preach|preach]]
-  * [[:pt-br:bible:notes:key-terms:Jonah|Jonah]]
- 
+  * [[:pt-br:bible:notes:key-terms:jonah|Jonah]]
 
 ===== Translation Notes: =====
 
-
-
-  * **for they repented** - The men of Nineveh repented.
-  * **and behold, someone greater**  - The word "behold" alerts us to the importance of the person who is greater than Jonah in the story. Your language may have a way of doing this. English uses "There is someone who is even greater...” When Jesus said this, he was talking about himself.
-  * **someone greater than Jonah is here** - The rebuke Jesus wanted them to understand was “but you have not repented.” 
-
-  
+  * **for they repented**  - The men of Nineveh repented.
+  * **and behold, someone greater**  - The word "behold" alerts us to the importance of the person who is greater than Jonah in the story. Your language may have a way of doing this. English uses "There is someone who is even greater…” When Jesus said this, he was talking about himself.
+  * **someone greater than Jonah is here**  - The rebuke Jesus wanted them to understand was “but you have not repented.”
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/11|Luke Chapter 11 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:11:31|<<]] | [[:pt-br:bible:notes:luk:11:33|>>]]**
 
- 
-**[[pt-br/bible/notes/luk/11/31|<<]] | [[pt-br/bible/notes/luk/11/33|>>]]**
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft judgmentday jonah nineveh repent}}
+~~DISCUSSION~~{{tag>draft judgmentday jonah nineveh repent}}
 
 ~~NOCACHE~~
