@@ -23,7 +23,9 @@
 
 <usfm> \v 33 But a certain Samaritan, as he journeyed, came to where he was. When he saw him, he was moved with compassion. \v 34 He approached him and bound up his wounds, pouring oil and wine on them. He set him on his own animal, and brought him to an inn, and took care of him. \v 35 The next day he took out two denarii, and gave them to the host, and said, 'Take care of him and whatever extra you spend, when I return, I will repay you.' </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas um samaritano, que ia de viagem, chegou onde ele estava. Quando o viu, encheu-se de compaixão.</font> **34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele se aproximou dele e enfaixou-lhe as feridas,colocando azeite e vinho nelas. Ele colocou-o sobre o seu próprio animal, levou-o para uma pousada e cuidou dele.</font> **35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>No dia seguinte tirou dois denários, deu-os ao hospedeiro, e disse: “Cuide dele e qualquer despesa extra que você tiver, quando eu voltar, eu irei lhe reembolsar.”</font>
 
 ----
 
