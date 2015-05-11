@@ -21,7 +21,9 @@
 
 <usfm> \p \v 38 Now as they were traveling along, he entered into a certain village, and a certain woman named Martha welcomed him into her house. \v 39 She had a sister named Mary, who sat at the Lord’s feet and heard his word. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**38** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Enquanto Jesus e seus discípulos viajavam, eles entraram numa certa aldeia, e uma certa mulher chamada Marta, os recebeu em sua casa.</font> **39** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ela tinha uma irmã chamada Maria, a qual ficou sentada aos pés do Senhor e ouviu a sua palavra.</font>
 
 ----
 
