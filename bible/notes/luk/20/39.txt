@@ -1,56 +1,37 @@
-====== Luke 20:39-40 ======
-
+====== Luke 20:39-40   *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 39 Some of the men who taught the \add Jewish\add* laws replied, "Teacher, you\add \f + \ft singular \f*\add* have answered very well!"
-\v 40 After that, they no longer dared to ask him any more questions \add like that to try to trap him\add*.
+<usfm> \v 39 Some of the men who taught the \add Jewish\add* laws replied, "Teacher, you\add \f + \ft singular \f*\add* have answered very well!" \v 40 After that, they no longer dared to ask him any more questions \add like that to try to trap him\add*.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 39 Some of the teachers of the Jewish law replied, "Teacher, you have answered very well!"
-\v 40 After that, no one dared to ask him any more questions like that to trap him.
+<usfm> \v 39 Some of the teachers of the Jewish law replied, "Teacher, you have answered very well!" \v 40 After that, no one dared to ask him any more questions like that to trap him.
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
-<usfm>
-\v 39 Some of the scribes answered, "Teacher, you have answered well."
-\v 40 For they did not dare ask him any more questions.
-</usfm>
+<usfm> \v 39 Some of the scribes answered, "Teacher, you have answered well." \v 40 For they did not dare ask him any more questions. </usfm>
 
+<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>39 Alguns dos escribas responderam: “Mestre, você respondeu muito bem.” 40 Pois não tinham coragem de fazer mais perguntas.</font>
 
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:scribe|scribes]]
   * [[:pt-br:bible:notes:key-terms:teacher|Teacher]]
 
-
 ===== Translation Notes: =====
 
   * **Some of the scribes answered**  - "Some of the scribes said to Jesus"
-  * **they did not dare ask him**  - "they were afraid to ask him" or "they did not risk asking him." The implied information about the purpose of the questions and their reason for not asking can be made explicit. "They did ask him any more tricky questions because they feared that his wise answers would make them appear foolish again." (See: [[en:ta:vocabulary:implicitexplicit]])
+  * **they did not dare ask him**  - "they were afraid to ask him" or "they did not risk asking him." The implied information about the purpose of the questions and their reason for not asking can be made explicit. "They did ask him any more tricky questions because they feared that his wise answers would make them appear foolish again." (See: [[:en:ta:vocabulary:implicitexplicit|implicitexplicit]])
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/20|Luke Chapter 20 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:20|Luke Chapter 20 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:20:37|<<]] | [[:pt-br:bible:notes:luk:20:41|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft teacher}}
 
-**[[pt-br/bible/notes/luk/20/37|<<]] | [[pt-br/bible/notes/luk/20/41|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft teacher}}
 ~~NOCACHE~~
