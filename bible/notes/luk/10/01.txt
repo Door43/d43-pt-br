@@ -21,7 +21,9 @@
 
 <usfm> \c 10 \p \v 1 Now after these things, the Lord appointed seventy others, and sent them out in pairs ahead of him into every city and place where he himself intended to go. \v 2 He said to them, "The harvest is plentiful, but the laborers are few. Therefore urgently pray to the Lord of the harvest, so that he may send out laborers into his harvest. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Depois destas coisas, o Senhor designou outros setenta, e os enviou dois a dois à sua frente a todas as cidades e lugares aonde ele pretendia ir.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele disse-lhes: “A colheita é grande, mas os trabalhadores são poucos. Por isso ore urgentemente ao Senhor da colheita, para que ele possa enviar trabalhadores para a sua seara.</font>
 
 ----
 
