@@ -1,56 +1,45 @@
-====== Luke 11:42 ======
-
+====== Luke 11:42 *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 42 But there will be terrible punishment for you Pharisees! You give to God a tenth of \add all you produce, even\add* the various herbs that you grow, but you do not \add remember that you must act\add* justly \add toward others\add* and love God! It is good to \add give a tenth of your income to God\add*, but you ought to do these other things also!
-</usfm>
-
+<usfm> \v 42 But there will be terrible punishment for you Pharisees! You give to God a tenth of \add all you produce, even\add* the various herbs that you grow, but you do not \add remember that you must act\add* justly \add toward others\add* and love God! It is good to \add give a tenth of your income to God\add*, but you ought to do these other things also! </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 42 But how terrible it will be for you Pharisees! You carefully give to God a tenth of all you have, including even the herbs that you grow in your gardens.  But then you do not love God or act justly toward others. You should make sure that you love God and act justly toward others in addition to giving to God.
-</usfm>
-
+<usfm> \v 42 But how terrible it will be for you Pharisees! You carefully give to God a tenth of all you have, including even the herbs that you grow in your gardens. But then you do not love God or act justly toward others. You should make sure that you love God and act justly toward others in addition to giving to God. </usfm>
 
 ===== ULB: =====
 
 <usfm> \p \v 42 But woe to you Pharisees, because you tithe the mint and rue and every other garden herb, but you neglect justice and the love of God. It is necessary to act justly and love God, without failing to do the other things also. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**42** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas ai de vocês, fariseus, que dizimam da hortelã e da arruda e de todas as ervas, mas negligenciam a justiça e o amor de Deus. É necessário agir com justiça e amar a Deus, sem negligenciar de fazer também as outras coisas.</font>
 
 ----
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:woe|woe]]
-    * [[:pt-br:bible:notes:key-terms:pharisee|Pharisee]]
-    * [[:pt-br:bible:notes:key-terms:tithe|tithe]]
-    * [[:pt-br:bible:notes:key-terms:justice|justice]]
-    * [[:pt-br:bible:notes:key-terms:love|love]]
-    * [[:pt-br:bible:notes:key-terms:god|God]]
-    * [[:pt-br:bible:notes:key-terms:justice|justly]]
+  * [[:pt-br:bible:notes:key-terms:woe|woe]]
+  * [[:pt-br:bible:notes:key-terms:pharisee|Pharisee]]
+  * [[:pt-br:bible:notes:key-terms:tithe|tithe]]
+  * [[:pt-br:bible:notes:key-terms:justice|justice]]
+  * [[:pt-br:bible:notes:key-terms:love|love]]
+  * [[:pt-br:bible:notes:key-terms:god|God]]
+  * [[:pt-br:bible:notes:key-terms:justice|justly]]
 
 ===== Translation Notes: =====
 
-    * (Jesus continues to speak to the Pharisees.)
-    * **you tithe the mint and rue and every other garden herb**  - "you give God one tenth of your mint and rue and other herbs from your garden."  Jesus was giving an example of how extreme the Pharisees were in giving a tenth of their income.
-    * **mint and rue** - These are herbs. People put just a little bit of these leaves into their other food to give it flavor.  If people do not know what mint and rue are, you can use the name of herbs they know or a general expression such as "herbs." 
-    * **every other garden herb** - Possible meanings are 1) "every other vegetable" 2) "every other garden herb" or 3) "every other garden plant." 
-    * **without failing to do the other things also** - This double-negative could be translated as a positive statement: "and to always do the other good things as well." (See: [[:en:ta:vocabulary:double-negatives]])
+  * (Jesus continues to speak to the Pharisees.)
+  * **you tithe the mint and rue and every other garden herb**  - "you give God one tenth of your mint and rue and other herbs from your garden." Jesus was giving an example of how extreme the Pharisees were in giving a tenth of their income.
+  * **mint and rue**  - These are herbs. People put just a little bit of these leaves into their other food to give it flavor. If people do not know what mint and rue are, you can use the name of herbs they know or a general expression such as "herbs."
+  * **every other garden herb**  - Possible meanings are 1) "every other vegetable" 2) "every other garden herb" or 3) "every other garden plant."
+  * **without failing to do the other things also**  - This double-negative could be translated as a positive statement: "and to always do the other good things as well." (See: [[:en:ta:vocabulary:double-negatives|double-negatives]])
 ===== Links: =====
 
-  * **[[pt-br/bible/notes:luk/questions/comprehension/11|Luke Chapter 11 Comprehension Questions]]**
+  * **[[:pt-br:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:pt-br:bible:notes:luk:11:39|<<]] | [[:pt-br:bible:notes:luk:11:43|>>]]**
 
- 
+~~DISCUSSION~~{{tag>draft tithe}}
 
-**[[pt-br/bible/notes/luk/11/39|<<]] | [[pt-br/bible/notes/luk/11/43|>>]]**
-
-~~DISCUSSION~~
-
-
-{{tag>draft tithe}}
 ~~NOCACHE~~
