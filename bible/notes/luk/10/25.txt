@@ -29,7 +29,9 @@
 
 <usfm> \p \v 25 Behold, a certain teacher of the Jewish laws stood up and tested him, saying, "Teacher, what should I do to inherit eternal life?" \v 26 Jesus said to him, "What is written in the law? How do you read it?" \v 27 Answering, he said, "You must love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind, and your neighbor as yourself." \v 28 Jesus said to him, "You have answered correctly. Do this, and you will live." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Um certo perito das leis judaicas levantou-se e o testou, dizendo: “Mestre, o que devo fazer para herdar a vida eterna?”</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse-lhe: “O que está escrito na lei? Como é que você a ler?”</font> **27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Respondendo, ele disse: “Você deve amar o Senhor seu Deus com todo o seu coração, com toda a sua alma, com toda sua força, e com todo o sua mente, e ao seu próximo como a si mesmo.”</font> **28** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse-lhe: “Você respondeu corretamente. Faça isso, e você viverá.”</font>
 
 ----
 
