@@ -23,7 +23,9 @@
 
 <usfm> \v 40 But Martha was overly busy with preparing to serve a meal. She came up to Jesus, and said, "Lord, do you not care that my sister left me to serve alone? Therefore tell her to help me." \v 41 But the Lord answered and said to her, "Martha, Martha, you are anxious about many things, \v 42 but only one thing is necessary. Mary has chosen what is best, which will not be taken away from her." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**40** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Marta, estava extremamente ocupada preparando a refeição para servir. Ela veio até Jesus, e disse: “Senhor, não te importas que minha irmã me deixou servindo sozinha? Diga-lhe que me ajude.”</font> **41** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas o Senhor respondeu, e disse-lhe: «Marta, Marta, estás ansiosa sobre muitas coisas,</font> **42** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>, mas só uma coisa é necessária. Maria escolheu o que era bem melhor, e esta parte não lhe será tomada.”</font>
 
 ----
 
