@@ -27,7 +27,9 @@
 
 <usfm> \v 13 Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago, sitting in sackcloth and ashes. \v 14 But it will be more tolerable for Tyre and Sidon at the judgment than for you. \v 15 You, Capernaum, do you think you will be exalted to heaven? No, you will be brought down to hades. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**13** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ai de você, Corazim! Ai de você, Betsaida! Se os milagres que foram feitos em vocês tivessem sido feitos em Tiro e Sidom, ha muito tempo que eles teriam se arrependido e se sentado em panos de saco e cinzas.</font> **14** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas haverá mais tolerância para Tiro e Sidom no juízo do que para vocês.</font> **15** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Você, Cafarnaum, você acha que você vai ser elevada até o céu? Do contrário, você será levada para baixo ao ades.</font>
 
 ----
 
