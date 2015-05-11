@@ -21,7 +21,9 @@
 
 <usfm> \v 31 By chance a certain priest was going down that way, and when he saw him, he passed by on the other side. \v 32 Similarly a Levite also, when he came to the place and saw him, passed by on the other side. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Por acaso um sacerdote estava descendo por aquele caminho, e quando o viu, passou pelo outro lado.</font> **32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Semelhantemente um levita também, quando ele chegou até o lugar e o viu, passou pelo outro lado.</font>
 
 ----
 
