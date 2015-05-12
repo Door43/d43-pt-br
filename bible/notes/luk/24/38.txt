@@ -23,7 +23,9 @@
 
 <usfm> \v 38 Jesus said to them, "Why are you troubled? Why do questions arise in your heart? \v 39 See my hands and my feet, that it is I myself. Touch me and see. For a spirit does not have flesh and bones, as you see me having." \v 40 When he had said this, he showed them his hands and his feet. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**38** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Jesus disse-lhes: “Por que vocês estão perturbados? Por que há dúvida em seus corações?</font> ** 39** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Vejam as feridas em minhas mãos e pés! Toquem e vejam meu corpo, então confirmem que sou eu mesmo. Um espírito não tem carne nem ossos como vocês vêem que eu tenho. “</font> **40** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Tendo dito isso, mostrou-lhes as mãos e os pés.</font>
 
 ----
 
