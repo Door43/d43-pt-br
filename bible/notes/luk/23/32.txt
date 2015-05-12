@@ -19,7 +19,9 @@
 
 <usfm> \p \v 32 Other men, two criminals, were led away with him to be put to death. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Outros homens, dois criminosos, foram levados com Jesus para serem mortos.</font>
 
 ----
 
