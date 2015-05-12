@@ -23,7 +23,9 @@
 
 <usfm> \v 45 Then he opened their minds, that they might understand the scriptures. \v 46 He said to them, "Thus it is written, that the Christ should suffer, and rise again from the dead on the third day. \v 47 And repentance and forgiveness of sins should be preached in his name to all the nations, beginning from Jerusalem. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**45** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Então lhes abriu a mente, para que pudessem compreender as escrituras.</font> **46** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>E disse-lhes ”: Assim está escrito que o Cristo sofresse, e ressuscitasse dentre os mortos no terceiro dia.</font> **47** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>E o arrependimento e o perdão dos pecados deveria ser pregado em seu nome a todas as nações, começando por Jerusalém .</font>
 
 ----
 
