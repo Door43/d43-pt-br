@@ -29,9 +29,11 @@
 
 <usfm> \v 3 Pilate asked him, saying, "Are you the King of the Jews?" And Jesus answered him and said, "You say so." \v 4 Pilate said to the chief priests and the multitudes, "I find no fault in this man." \v 5 But they were insisting, saying, "He stirs up the people, teaching throughout all Judea, beginning from Galilee even to this place." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+3Pilatos perguntou-lhe, “Você é o Rei dos Judeus?” E Jesus respondeu-lhe, “Você o disse.” 4E disse Pilatos aos chefes dos sacerdotes e ás multidões, “Nao vejo nem uma falha neste homem.” 5Mas eles insistiam, dizendo, “Ele agita o povo, ensinando por todo Judeia, começando desde Galileia até aqui.”
 
 ===== Important Terms: =====
 
