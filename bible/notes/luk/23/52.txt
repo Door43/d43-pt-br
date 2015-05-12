@@ -21,7 +21,9 @@
 
 <usfm> \v 52 This man, approaching Pilate, asked for the body of Jesus. \v 53 He took it down, and wrapped it in fine linen, and laid him in a tomb that was cut in stone, where no one had ever been laid. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**52** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele, aproximando-se de Pilatos, pediu o corpo de Jesus.</font> **53** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele o desceu, o envolveu em um lençol de linho, e o colocou em um sepulcro escavado na pedra, onde ninguém havia sido colocado antes.</font>
 
 ----
 
