@@ -23,7 +23,9 @@
 
 <usfm> \v 8 The women remembered his words, \v 9 and returned from the tomb and told all these things to the eleven and all the rest. \v 10 Now Mary Magdalene, Joanna, Mary the mother of James, and the other women with them reported these things to the apostles. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**8** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>As mulheres lembraram das palavras dele.</font> **9** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Voltaram do sepulcro e disseram todas essas coisas aos onze e as todos os demais.</font> **10** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Maria Madalena, Joana e Maria mãe de Tiago, e as outras que estavam com elas relataram essas coisas aos apóstolos</font>
 
 ----
 
