@@ -24,7 +24,9 @@
 
 <usfm> \v 41 While they were still incredulous with joy, and wondered, Jesus said to them, "Do you have anything to eat?" \v 42 They gave him a piece of a broiled fish. \v 43 Jesus took it, and ate it before them. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**41** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Enquanto eles estavam maravilhados e alegres sem conseguir ainda acreditar nessas coisas, Jesus disse-lhes: “Vocês têm alguma coisa para comer?”</font> **42** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Deram-lhe um pedaço de peixe assado.</font> **43** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Jesus tomou, e comeu diante deles.</font>
 
 ----
 
