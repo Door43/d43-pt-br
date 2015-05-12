@@ -21,7 +21,9 @@
 
 <usfm> \v 28 As they drew near to the village, where they were going, Jesus acted as though he would go further. \v 29 But they compelled him, saying, "Stay with us, for it is toward evening and the day is almost over." So Jesus went in to stay with them. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**28** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Quando se aproximaram da aldeia, para onde se dirigiam, Jesus fez como quem ia mais longe.</font> **29** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Mas eles insistiram com ele, dizendo: “Fique conosco, porque já é tarde e o dia está quase no fim.” Então Jesus entrou para ficar com eles.</font>
 
 ----
 
