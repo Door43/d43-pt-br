@@ -21,9 +21,11 @@
 
 <usfm> \v 6 So when Pilate heard this, he asked whether the man was a Galilean. \v 7 When he discovered that he was under Herod’s authority, he sent Jesus to Herod, who himself also was at Jerusalem in those days. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+ **6**Quando Pilatos ouviu disso, perguntou se aquele homem era galileu. **7**Descobrindo que era sobre a autoridade de Herodes, enviou-o a Herodes, que também, naqueles dias, estava em Jerusalém.
 
 ===== Important Terms: =====
 
