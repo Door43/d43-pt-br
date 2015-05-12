@@ -28,7 +28,9 @@
 
 \v 12 Yet Peter rose up, and ran to the tomb, and stooping and looking in, he saw the linen cloths by themselves. Peter then departed to his home, wondering what had happened. \p </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**11** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Mas os apóstolos não acreditavam em mulheres, eles acharam que o que foi relatado era tolice.</font> **12** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Mesmo assim, Pedro se levantou e correu para a sepultura. Abaixando-se e olhando dentro, viu somente os panos de linho. Pedro então, partiu para sua casa imaginando o que tinha acontecido</font>
 
 ----
 
