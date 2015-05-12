@@ -27,7 +27,9 @@
 
 <usfm> \v 48 You are witnesses of these things. \v 49 Behold, I send forth the promise of my Father upon you. But wait in the city, until you are clothed with power from on high." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**48** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Vocês são testemunhas dessas coisas.</font> **49** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Eis que eu envio a promessa de meu Pai sobre vocês. Mas esperem na cidade até que sejam revestidos do poder de Deus ”.</font>
 
 ----
 
