@@ -20,7 +20,9 @@
 
 <usfm> \c 24 \nb \v 1 Very early on the first day of the week, they came to the tomb, bringing the spices which they had prepared. \v 2 They found the stone rolled away from the tomb. \v 3 They entered in, but did not find the body of the Lord Jesus. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**1** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Muito cedo no primeiro dia da semana, elas vieram ao sepulcro, trazendo as especiárias que haviam preparado.</font> **2** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Elas encontraram a pedra rolada do sepulcro ,*3** entraram, mas não encontraram o corpo do Senhor Jesus.</font>
 
 ----
 
