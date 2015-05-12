@@ -21,7 +21,9 @@
 
 <usfm> \p \v 33 When they came to the place which is called The Skull, there they crucified him and the criminals, one on the right of him and the other on the left. \v 34 Jesus said, "Father, forgive them, for they do not know what they are doing." And they cast lots, dividing up his garments. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**33** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando chegaram ao lugar chamado Calvário, ali o crucificaram com os criminosos, um à direita dele e outro à esquerda.</font> **34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse: “Pai, perdoa-lhes, eles não sabem o que estão fazendo.” E tiraram sortes, dividindo-se as suas vestes.</font>
 
 ----
 
