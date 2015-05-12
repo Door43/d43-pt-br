@@ -21,7 +21,9 @@
 
 <usfm> \v 44 It was now about the sixth hour, and darkness came over the whole land until the ninth hour \v 45 as the sun's light failed. Then the curtain of the temple was split down the middle. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**44** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Já era mais ou menos a sexta hora, e houve trevas sobre toda a terra até à nona hora</font> **45** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>ao escurecer. O véo do templo foi dividido ao meio.</font>
 
 ----
 
