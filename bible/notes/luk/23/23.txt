@@ -29,7 +29,9 @@
 
 <usfm> \v 23 But they were insistent with loud voices, demanding for him to be crucified. And their voices convinced Pilate. \v 24 So Pilate decided to grant their demand. \v 25 He released the one they asked for who had been put in prison for rioting and murder. But he delivered up Jesus to their will. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas eles clamavam em brados, pedindo para ele ser crucificado. E o clamor da multidão convenceu Pilatos.</font> **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então Pilatos decidiu conceder o que eles pediam.</font> **25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele soltou o que eles haviam colocado na prisão por tumultos e assassinatos. Mas entregou Jesus à vontade deles.</font>
 
 ----
 
