@@ -21,9 +21,11 @@
 
 <usfm> \v 18 But they cried out all together, saying, "Away with this man, and release to us Barabbas!" \v 19 Barrabas was a man who had been put into prison for a certain rebellion in the city and for murder. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+18 Mas eles clamaram todos juntos, dizendo: “Fora daqui com este homem, e solta-nos Barrabás!” 19 Barrabás era um homem que estava preso por causa de uma rebelião na cidade e também por assassinato.
 
 ===== Important Terms: =====
 
