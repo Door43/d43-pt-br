@@ -29,7 +29,9 @@
 
 <usfm> \v 33 They rose up that very hour, and returned to Jerusalem. They found the eleven gathered together, and those who were with them, \v 34 saying, "The Lord is risen indeed, and has appeared to Simon." \v 35 So they told the things that happened on the way, and how Jesus was shown to them in the breaking of the bread. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**33** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Levantaram-se na mesma hora e voltaram para Jerusalém. Eles encontraram os onze reunidos e os que estavam com eles,</font> **34** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>dizendo, “Verdadeiramente o Senhor ressuscitou e apareceu a Simão.”</font> **35** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Então disseram as coisas que aconteceram no caminho, e como Jesus se apresentou a eles após partir o pão.</font>
 
 ----
 
