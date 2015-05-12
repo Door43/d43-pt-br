@@ -21,7 +21,9 @@
 
 <usfm> \v 13 Behold, two of them were going that very day to a village named Emmaus, which was sixty stadia from Jerusalem. \v 14 They discussed with each other about all the things which had happened. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**13** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Dois deles estavam indo naquele mesmo dia a um povoado chamado Emaus, a onze quilômetros de Jerusalém.</font> ** 14** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Eles discutiram entre si sobre todas as coisas que haviam ocorrido.</font>
 
 ----
 
