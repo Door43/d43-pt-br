@@ -27,9 +27,11 @@
 
 <usfm> \v 11 Herod with his soldiers insulted him, and mocked him, and clothed him in beautiful clothing, then sent Jesus back to Pilate. \v 12 Herod and Pilate became friends with each other that very day–before they had been enemies. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+11 Herodes, com os seus soldados o insultaram, e zombavam dele, e o vestiram com roupas bonitas, e em seguida enviaram Jesus a Pilatos. 12 Pilatos e Herodes tornaram-se amigos um do outro naquele mesmo dia, antes disso eram inimigos.
 
 ===== Important Terms: =====
 
