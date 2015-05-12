@@ -23,7 +23,9 @@
 
 <usfm> \v 20 Pilate addressed them again, desiring to release Jesus. \v 21 But they shouted, saying, "Crucify him, crucify him." \v 22 He said to them a third time, "Why, what evil has this man done? I have found nothing deserving the death penalty in him. Therefore after punishing him, I will release him." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Outra vez falou Pilatos, querendo soltar a Jesus.</font> **21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas eles gritaram, dizendo: “Crucifica-o, crucifica-o.”</font> **22** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E disse-lhes pela terceira vez, “Mas que mal ele fez? Eu não encontrei nada nele que mereça a pena de morte. Logo após puni-lo, eu vou liberá-lo.”</font>
 
 ----
 
