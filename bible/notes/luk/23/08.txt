@@ -23,9 +23,11 @@
 
 <usfm> \p \v 8 When Herod saw Jesus, he was very glad, because he had wanted to see him for a long time. He had heard about him and he hoped to see some miracle done by him. \v 9 Herod questioned Jesus in many words, but Jesus answered him nothing. \v 10 The chief priests and the scribes stood, violently accusing him. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+8 Quando Herodes viu Jesus, alegrou-se muito, porque havia a muito tempo que desejava vê-lo. Ele tinham ouvido falar sobre ele e esperava ver algum milagre realizado por ele. 9 Herodes interrogava Jesus com muitas palavras, mas Jesus nada lhe respondia. 10 Os chefes dos sacerdotes e os escribas que ali estavam se levantaram, o acusando violentamente.
 
 ===== Important Terms: =====
 
