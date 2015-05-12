@@ -21,7 +21,9 @@
 
 <usfm> \v 52 So they worshipped him, and returned to Jerusalem with great joy. \v 53 They were continually in the temple, blessing God. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**52** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Então eles o adoraram, e voltaram para Jerusalém com grande alegria.</font> **53** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Eles estavam constantemente no templo, bendizendo a Deus.</font>
 
 ----
 
