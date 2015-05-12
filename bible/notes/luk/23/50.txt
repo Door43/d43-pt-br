@@ -17,7 +17,9 @@
 
 <usfm> \p \v 50 Behold, there was a man named Joseph, belonging to the council, a good and righteous man \v 51 (he had not agreed with the decision and their action), from Arimathea, a Jewish city, who was waiting for the kingdom of God. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**50** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Havia um homem do conselho chamado José, bom e justo</font> **51** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>, de Arimatéia, uma cidade judia. Ele esperava pelo o Reino de Deus.(ele não havia concordado com a decisão e ação deles).</font>
 
 ----
 
