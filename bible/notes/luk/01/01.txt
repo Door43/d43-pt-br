@@ -18,7 +18,7 @@
 
 ===== Target ULB: =====
 
-1 Prezado Teófilo, Muitas pessoas comprometeram-se a escrever sobre os eventos que foram realizados entre nós. 2 Estas foram testemunhas oculares desde o início, tornam-se servos da Palavra, e relataram tais eventos 3 Assim sendo, me pareceu bom que eu faça o mesmo. Investiguei tudo com precisão, desde o começo para escrever-lhes em detalhes. 4 Quero que você tenha completa certeza daquilo que você aprendeu.
+1 Prezado **Teófilo**, Muitas pessoas comprometeram-se a escrever sobre os eventos que foram realizados entre nós. 2 Estas foram testemunhas oculares desde o início, tornam-se servos da Palavra, e relataram tais eventos 3 Assim sendo, me pareceu bom que eu faça o mesmo. Investiguei tudo com precisão, desde o começo para escrever-lhes em detalhes. 4 Quero que você tenha completa certeza daquilo que você aprendeu.
 
 ----
 
@@ -31,10 +31,7 @@
 
 ===== Translation Notes: =====
 
-  * **Theophilus**  - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: __[[:en:ta:translate:translatenames|
-How to Translate Names
-
-</font> ]]__)
+  * **Theophilus**  - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: __[[:en:ta:translate:translatenames|How to Translate Names </font> ]]__)
   * **us **- The word "us" in this section may exclude Theophilus, but the text does not specifically say that. (See: [[:en:ta:vocabulary:exclusive|Exclusive]])
   * **accounts**  - "reports" or "narratives" or "true stories"
   * **from the beginning were eyewitnesses**  - This could be translated as "saw these things from the time they first happened."
