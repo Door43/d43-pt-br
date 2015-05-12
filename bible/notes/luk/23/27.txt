@@ -21,7 +21,9 @@
 
 <usfm> \p \v 27 A great crowd of the people, and of women who grieved and mourned for him, were following him. \v 28 But turning to them, Jesus said, "Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>27 Era seguido por uma grande multidão de pessoas e de mulheres que entristecidas lamentavam. 28 Mas, voltando-se para elas, Jesus disse: “Filhas de Jerusalém, não chorem por mim; chore antes por vocês mesmas e por seus filhos.</font>
 
 ----
 
