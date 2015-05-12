@@ -18,7 +18,9 @@
 
 <usfm> \v 6 He is not here, but is risen! Remember how he spoke to you when he was still in Galilee, \v 7 saying that the Son of Man must be delivered up into the hands of sinful men and be crucified, and on the third day, rise again." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**6** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Ele não está aqui, ressuscitou! Lembre-se de como ele falou a vocês quando ainda estava na Galileia,</font> ** 7** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>dizendo que o Filho do homem tem que ser entregue nas mãos dos homens pecadores e seja crucificado, e ao terceiro dia, ressuscitará ”.</font>
 
 ----
 
