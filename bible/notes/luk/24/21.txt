@@ -16,7 +16,9 @@
 
 <usfm> \v 21 But we hoped that it was he who would free Israel. Yes, and besides all this, it is now the third day since these things came to pass. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+<font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>21 Nós esperávamos que ele fosse quem libertaria Israel. Mas, hoje é o terceiro dia desde que essas coisas aconteceram.</font>
 
 ----
 
