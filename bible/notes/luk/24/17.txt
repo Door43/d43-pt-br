@@ -18,7 +18,9 @@
 
 <usfm> \v 17 Jesus said to them, "What are the two of you talking about as you walk?" They stood there looking sad. \v 18 One of them, named Cleopas, answered him, "Are you the only person in Jerusalem who does not know the things which have happened there these days?" </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**17** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Jesus disse-lhes: ” O que vocês dois estão falando enquanto caminham?” Eles pararam com um olhar entristecido.</font> **18** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Um deles, chamado Cleopas respondeu-lhe: ” Você é o única pessoa em Jerusalém, que não sabe sobre as coisas que aconteceram lá nesses dia?</font>
 
 ----
 
