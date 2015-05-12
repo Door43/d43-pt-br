@@ -29,7 +29,9 @@
 
 <usfm> \v 29 For behold, the days are coming in which they will say, 'Blessed are the barren and the wombs that did not bear, and the breasts that did not nurse.' \v 30 Then they will begin to say to the mountains, 'Fall on us,' and to the hills, 'Cover us.' \v 31 For if they do these things while the tree is green, what will happen when it is dry?" </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**29** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Porque eis que virão os dias em que dirão: Bem-aventuradas as estéreis e os ventres que não geraram, e os peitos que não amamentaram.</font> **30** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então começarão a dizer aos montes: “Caí sobre nós ”, e às colinas:” Cobri-nos.”</font> **31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Porque, se eles fazem isto quando a árvore ainda está verde, o que acontecerá quando ela estiver seca? ”</font>
 
 ----
 
