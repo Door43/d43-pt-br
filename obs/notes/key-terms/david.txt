@@ -2,10 +2,16 @@
 
 ===== Facts: =====
 
+<font inherit/inherit;;#008000;;inherit>** Fatos **</font>
+
 David was the second king of Israel and he served God faithfully.
 
+<font inherit/inherit;;#006400;;inherit>Davi foi o segundo rei de Israel e serviu fielmente a Deus.</font>
+
   * God chose David to become king when he was still a young boy caring for his family's sheep.
+  * <font inherit/inherit;;#008000;;inherit>Deus escolheu David para se tornar rei quando ele  era ainda um jovem rapaz para cuidar das ovelhas de sua família.</font>
   * David became a great fighter and led the Israelite army in battles against their enemies.
+  * <font inherit/inherit;;#008000;;inherit>Davi tornou-se um grande guerreiro e conduziu o exército israelita em batalhas contra os seus inimigos.</font>
   * Saul tried to kill David, but God protected him, and made him king after Saul's death.
   * David sinned against God, but he repented and God forgave him.
   * David's son, King Solomon, built the temple for God that David had planned.
