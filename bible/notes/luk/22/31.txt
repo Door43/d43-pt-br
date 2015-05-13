@@ -21,9 +21,11 @@
 
 <usfm> \p \v 31 Simon, Simon, be aware, Satan asked to have you, that he might sift you as wheat. \v 32 But I have prayed for you, that your faith may not fail. After you have turned back again, strengthen your brothers." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+31 Simão, Simão, ouça! Satanás pediu para ter você, para que ele pudesse te peneirar como o trigo. 32 Mas tenho orado por você, para que sua fé não venha a falhar. Depois que você se voltar para mim, fortaleça seus irmãos.”
 
 ===== Important Terms: =====
 
