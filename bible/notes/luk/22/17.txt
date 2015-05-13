@@ -21,9 +21,11 @@
 
 <usfm> \v 17 Then Jesus took a cup, and when he had given thanks, he said, "Take this, and share it among yourselves. \v 18 For I say to you, I will not drink of the fruit of the vine again, until the kingdom of God comes." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+17 Em seguida Jesus pegou o cálice e, quando deu graças, disse: “Tomem isto e compartilhem entre si. 18 Pois eu lhes digo, não beberei do fruto da videira de novo até que o reino de Deus seja estabelecido.”
 
 ===== Important Terms: =====
 
