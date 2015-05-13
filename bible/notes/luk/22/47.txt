@@ -21,9 +21,11 @@
 
 <usfm> \p \v 47 While he was still speaking, behold, a crowd appeared, with Judas, one of the twelve, leading them. He came near to Jesus to kiss him, \v 48 but Jesus said to him, "Judas, are you betraying the Son of Man with a kiss?" </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+47 Enquanto ele ainda estava falando, eis que uma multidão apareceu com Judas, um dos doze, que a guiava. Ele se aproximou de Jesus para beijá-lo, mas Jesus lhe disse: “Judas, você está traindo o Filho do homem com um beijo?”
 
 ===== Important Terms: =====
 
