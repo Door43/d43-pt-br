@@ -28,6 +28,7 @@ God chose Aaron to be the first high priest for the people of Israel.
   * **[[:pt-br:obs:notes:frames:13-09|[13-09]]]** God chose Moses' brother, **Aaron**, and Aaron's descendants to be his priests.
   * <font inherit/inherit;;#008000;;inherit>Deus escolheu o irmão de Moisés, Arão, e os seus descendentes para serem seus sacerdotes.</font>
   * **[[:pt-br:obs:notes:frames:13-11|[13-11]]]** So they (the Israelites) brought gold to **Aaron**  and asked him to form it into an idol for them!
-  * Então eles (os israelitas) trouxeram ouro para Arão e pediram que, daquele ouro, ele fizesse um ídolo para eles!
+  * <font inherit/inherit;;#008000;;inherit>Então eles (os israelitas) trouxeram ouro para Arão e pediram que, daquele ouro, ele fizesse um ídolo para eles!</font>
   * **[[:pt-br:obs:notes:frames:14-07|[14-07]]]** They (the Israelites) became angry with Moses and **Aaron**  and said, "Oh, why did you bring us to this horrible place?"
+  * <font inherit/inherit;;#008000;;inherit>Eles (os israelitas) ficaram irados contra Moisés e Arão e disseram: "Por que vocês nos trouxeram para esse lugar horrível?"</font>
 ~~DISCUSSION:off~~
