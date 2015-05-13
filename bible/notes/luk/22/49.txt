@@ -23,9 +23,11 @@
 
 <usfm> \v 49 When those who were around Jesus saw what was happening, they said, "Lord, should we strike with the sword?" \v 50 Then one of them struck the servant of the high priest, and cut off his right ear. \v 51 Jesus said, "Let this be enough." And he touched his ear, and healed him. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+49 Quando aqueles, que estavam ao redor de Jesus, viram o que estava acontecendo, lhes disse: “Mestre, devemos atacá-los com a espada?” 50 Em seguida, um deles atacou o servo do sumo sacerdote e decepou sua orelha direita. 51 Mas Jesus disse: “Isto é suficiente.” Então tocou na orelha dele e o curou.
 
 ===== Important Terms: =====
 
