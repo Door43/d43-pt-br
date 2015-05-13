@@ -21,7 +21,9 @@
 
 <usfm> \c 9 \p \v 1 He called the twelve together, and gave them power and authority over all the demons and to cure diseases. \v 2 He sent them out to preach the kingdom of God and to heal the sick. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**1** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Jesus convocou os doze e os deu poder e autoridade sobre todos os demônios e para curar doenças.</font> **2** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ele os enviou para pregar o reino de Deus e para curar doentes.</font>
 
 ----
 
