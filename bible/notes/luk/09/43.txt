@@ -20,6 +20,8 @@
 
 ===== Target ULB: =====
 
+**43** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Todos ficaram maravilhados com a grandeza de Deus. Mas enquanto todos ainda estavam admirados com tudo o que Jesus fez, ele disse aos seus discípulos:</font> **44** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>“Ouçam com atenção e não esqueçam, pois o Filho do Homem será entregue nas mãos dos homens.”</font> **45** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas eles não entenderam o que Jesus queria dizer com esta palavra, e isto foi escondido deles, para que não entendessem. E estavam com medo de perguntá-lo sobre esta palavra</font>
+
 ----
 
 ===== Important Terms: =====
