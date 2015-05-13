@@ -27,9 +27,11 @@
 
 <usfm> \v 37 For I say to you, what is written about me must be fulfilled, 'And he was regarded as one of the lawless.' For what is predicted about me is being fulfilled." \v 38 Then they said, "Lord, look! Here are two swords." And he said to them, "It is enough." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+37 Pois eu vos digo, o que está escrito sobre mim deve se cumprir: 'Ele foi considerado como um criminoso.' Porque o que foi profetizado sobre mim está sendo cumprido. 38 Então eles disseram: “Senhor, olhe! Aqui estão duas espadas.” E Jesus disse, “Basta.”
 
 ===== Important Terms: =====
 
