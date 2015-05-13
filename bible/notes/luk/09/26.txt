@@ -1,46 +1,34 @@
-====== Luke 09:26-27 ======
-
+====== Luke 09:26-27  *F ======
 
 ===== TFT: =====
 
-<usfm>
-\v 26 Those who reject my message\add and\add* refuse to say that \add they belong\add* to me, \add I\add*, the one who came from heaven, will also refuse to say that \add they belong to me\add* when I come back with the holy angels, and have the glorious brightness that my Father has.
-\v 27 But listen carefully! Some of you\add \f + \ft plural \f*\add* who are here now will see God ruling \f + \ft metaphor \f* \add in many powerful ways\add*. You will see it before you die!"
+<usfm> \v 26 Those who reject my message\add and\add* refuse to say that \add they belong\add* to me, \add I\add*, the one who came from heaven, will also refuse to say that \add they belong to me\add* when I come back with the holy angels, and have the glorious brightness that my Father has. \v 27 But listen carefully! Some of you\add \f + \ft plural \f*\add* who are here now will see God ruling \f + \ft metaphor \f* \add in many powerful ways\add*. You will see it before you die!"
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== UDB: =====
 
-<usfm>
-\v 26 As for people who reject my message and refuse to say that they belong to me, I, the Son of Man will also refuse to say that they belong to me when I come back in my glory and in the glory of the Father and of the holy angels.
-\v 27 But I tell you this fact: some of you standing here now will not die until you see God show himself as king!"
+<usfm> \v 26 As for people who reject my message and refuse to say that they belong to me, I, the Son of Man will also refuse to say that they belong to me when I come back in my glory and in the glory of the Father and of the holy angels. \v 27 But I tell you this fact: some of you standing here now will not die until you see God show himself as king!"
 
-
-\p
-</usfm>
-
+\p </usfm>
 
 ===== ULB: =====
 
 <usfm> \v 26 Whoever is ashamed of me and my words, of him will the Son of Man be ashamed when he comes in his own glory, and the glory of the Father and of the holy angels. \v 27 But I tell you the truth, there are some of them who are standing here, who will not taste of death until they see the kingdom of God." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
 
 ===== Important Terms: =====
 
-
-    * [[:pt-br:bible:notes:key-terms:sonofman|Son of Man]]
-    * [[:pt-br:bible:notes:key-terms:glory|glory]]
-    * [[:pt-br:bible:notes:key-terms:god|Father]]
-    * [[:pt-br:bible:notes:key-terms:holy|holy]]
-    * [[:pt-br:bible:notes:key-terms:angel|angels]]
-    * [[:pt-br:bible:notes:key-terms:death|death]]
-    * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
+  * [[:pt-br:bible:notes:key-terms:sonofman|Son of Man]]
+  * [[:pt-br:bible:notes:key-terms:glory|glory]]
+  * [[:pt-br:bible:notes:key-terms:god|Father]]
+  * [[:pt-br:bible:notes:key-terms:holy|holy]]
+  * [[:pt-br:bible:notes:key-terms:angel|angels]]
+  * [[:pt-br:bible:notes:key-terms:death|death]]
+  * [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]]
 
 ===== Translation Notes: =====
 
@@ -53,7 +41,6 @@
   * **will not taste death until they see the kingdom of God**  - This could be translated as "will see the kingdom of God before they die."
   * **will not taste death**  - "will not experience death" or "will not die"
   * **until they see the kingdom of God**  - Depending on how you translate "some of them," you could also translate this as "until you see the kingdom of God."
-
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
