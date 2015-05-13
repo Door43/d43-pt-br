@@ -25,9 +25,11 @@
 
 <usfm> \v 52 Jesus said to the chief priests, and captains of the temple, and elders, who came against him, "Do you come out, as against a robber, with swords and clubs? \v 53 When I was daily with you in the temple, you did not lay your hands on me. But this is your hour, and the authority of darkness." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+52 Jesus disse aos chefes dos sacerdotes, aos capitães do templo e aos anciãos que vieram contra ele: “Vocês vêem contra mim com espadas e porretes como se fossem contra um ladrão?” 53 Quando estive com vocês diariamente no templo, não me tocaram. Mas esta é a hora de vocês, e a hora do poder das trevas.”
 
 ===== Important Terms: =====
 
