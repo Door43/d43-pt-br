@@ -27,9 +27,11 @@
 
 <usfm> \v 61 Turning, the Lord looked at Peter. And Peter remembered the word of the Lord, when he said to him, "Before a rooster crows today you will deny me three times." \v 62 Going outside, Peter wept bitterly. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+61 Virando-se, o Senhor olhou para Pedro. E Pedro lembrou a palavra que o Senhor o havia dito: “Antes que o galo cante hoje, você me negará três vezes.” 62 Saindo dali, Pedro chorou amargamente.
 
 ===== Important Terms: =====
 
