@@ -12,9 +12,11 @@
 
 <usfm> \v 69 But from now on, the Son of Man will be seated at the right hand of the power of God." \v 70 They all said, "Then you are the Son of God?" And Jesus said to them, "You say that I am." \v 71 They said, "Why do we still need a witness? For we ourselves have heard from his own mouth." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+69 Mas de agora em diante, o Filho do Homem estará assentado à direita do Deus todo poderoso.” 70 Todos disseram: “Então você é o Filho de Deus?” E Jesus lhes disse: “Vocês dizem que eu sou.” 71 Então disseram, “Por que ainda precisamos de uma testemunha? Pois nós mesmos ouvimos da sua própria boca.”
 
 ===== Important Terms: =====
 
