@@ -8,21 +8,35 @@ The “translationAcademy” is intended to enable anyone, anywhere to learn the
 
 If you are new to the project, we strongly encourage you to work through the **[[:en:ta:intro:handbook|translationAcademy Handbook]]** which will give you a good [[:en:ta:intro|Introduction]] to the project as well as an overview of the three manuals contained in translationAcademy:
 
-Se você é novo no projeto, nós o encorajamos a trabalhar com o **Manual de Academia de Tradução, ** o qual dará a você uma boa **Introdução ** ao projeto, bem como um panorama dos três manuais contidos na Academia de Tradução:
+<font inherit/inherit;;#008000;;inherit>Se você é novo no projeto, nós o encorajamos a trabalhar com o  ** Manual de Academia de Tradução,  ** o qual dará a você uma boa  ** Introdução  ** ao projeto, bem como um panorama dos três manuais contidos na Academia de Tradução:</font>
 
-   * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
+  * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
+  * <font inherit/inherit;;#008000;;inherit>** Manual de Tradução ** - explica como traduzir</font>
   * **[[:en:ta:check|Checking Manual]]**- explains how to check a translation
+  * <font inherit/inherit;;#008000;;inherit>** Manual de Checagem  ** - explica como checar a tradução</font>
   * **[[:en:ta:tech|Technology Manual]]**- explains how to use the different technology tools
+  * <font inherit/inherit;;#008000;;inherit>** Manual de Tecnologia ** - explica como utilizar as diferentes ferramentas tecnológicas</font>
+
 ==== translationAcademy Workbench ====
+
+<font inherit/inherit;;#008000;;inherit>Mesa de trabalho da Academia de Tradução</font>
 
 We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos.
 
+<font inherit/inherit;;#008000;;inherit>Nós precisamos de "Especialistas em Domínio" para começar a identificar os módulos que são necessários em cada área de foco, e em seguida escrever o conteúdo e (em breve) gravar os vídeos de ensino.</font>
+
 Ready to begin?
 
+<font 14px line-height: 15.6800003051758px;/inherit;;#008000;;inherit>Pronto para começar?</font>
+
   * Go to the [[:en:ta:workbench|translationAcademy Workbench]] page to read about the status of your materials.
+  * <font 14px line-height: 15.6800003051758px;/inherit;;#008000;;inherit>Vá até a página  ** Mesa de Trabalho da Academia de Tradução  ** para ler sobre o estado de seus materiais.</font>
   * Go to the [[:en:ta:workbench:how-to-use|How to Add My Information]] page to learn how to add your information.
+  * <font 14px line-height: 15.6800003051758px;/inherit;;#008000;;inherit>Vá até a página  ** Como Adicionar Minha Informação ** para aprender como adicionar suas informações.</font>
 
 If you are new to translationAcademy, you may also want to take a look at the Translation Manual to learn the basics of translation, checking, and beyond! (See below.)
+
+<font 14px line-height: 15.6800003051758px;/inherit;;#008000;;inherit>Se você é novo na Academia de Tradução, você também pode olhar o Manual de Tradução para aprender os princípios básicos de tradução, chegagem e mais! (Veja abaixo.)</font>
 
 =====   =====
 
