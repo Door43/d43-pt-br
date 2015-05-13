@@ -6,17 +6,22 @@
 
 ===== Facts: =====
 
-<font inherit/inherit;;#008000;;inherit>Fatos</font> :
+<font inherit/inherit;;#008000;;inherit>Fatos</font>    :
 
 Abraham was the person that God chose to start the family that would grow into the people known as the Israelites.
 
 <font inherit/inherit;;#008000;;inherit>Abraão foi a pessoa que Deus escolheu para começar a família que daria início ao povo conhecido como Israel.</font>
 
   * God promised Abraham that he would have many descendants and that they would become a great nation.
+  * <font inherit/inherit;;#008000;;inherit>Deus prometeu a Abraão que ele teria muitos descendentes e que eles se tornariam uma grande nação.</font>
   * God made his covenant with Abraham and promised to uphold it with his descendants forever.
+  * <font inherit/inherit;;#008000;;inherit>Deus fez sua aliança com Abraão e prometeu mantê-la para sempre com os seus descendentes.</font>
   * Abraham believed God and obeyed him.
+  * <font inherit/inherit;;#008000;;inherit>Abraão creu em Deus e o obedeceu.</font>
   * Abraham's name was originally "Abram," but God changed it to Abraham.
+  * <font inherit/inherit;;#008000;;inherit>O nome de Abraão era originalmente "Abrão", mas Deus o mudou para Abraão.</font>
   * Abram means, "exalted father," and Abraham means, "father of many."
+  * <font inherit/inherit;;#008000;;inherit>Abrão significa "pai exaltado", e Abraão significa "pai de muitos".</font>
 
 [See also: **[[:archive:ktobs:sarah|Sarah]]**, **[[:archive:ktobs:isaac|Isaac]]**]
 
