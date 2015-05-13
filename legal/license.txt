@@ -1,45 +1,28 @@
 ====== Copyrights & Licensing ======
 
-<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>Copyrights &</font> Licenciamento
+<font inherit/inherit;;#008000;;inherit>Copyrights &</font>  Licenciamento
 
 All content on Door43 is made available under a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]], which means
 
+<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>Todo o</font> conteúdo<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>no</font> Door43<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit></font> é<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit></font> disponibilizado<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>sob</font> uma<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit></font> Licença<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit></font> Internacional<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>com</font> nome<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>"Creative Commons</font> Attriibution-ShareAlike<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>4.0, a</font> qual<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit></font> significa que
+
 You are free:
 
+<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>Você</font> pode:
+
   * Share — copy and redistribute the material in any medium or format
+  * <font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>Compartilhar - copiar e redistribuir o material em qualquer media ou formato</font>
   * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+  * <font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>Adaptar - remix, transformar e criar em cima do material para qualquer finalidade, inclusive comercial.</font>
 
 Under the following conditions:
+
+<font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>De acordo com as seguintes condições​:</font>
 
   * Attribution — You must attribute the work as follows: "Original work available at [[http://door43.org.|Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.]]
+  * <font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>Atribuição- Você deve atribuir o trabalho da seguinte forma: "O trabalho original disponível em Declarações de atribuição de trabalhos derivativos não deverá surgerir de nenhuma maneira</font> <font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>que nós nos responsabilizamos e/ou endorsamosamos você ou o seu uso do mesmo.</font>
   * [[http://door43.org.|ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.]]
-  * **[[http://door43.org.|Copyrights & Licensin]]**
-  *
-
-Copyrights & Licenciamento
-
-All content on Door43 is made available under a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]], which means
-
-Todo o conteúdo no Door43 é disponibilizado sob uma Licença Internacional com nome "Creative Commons Attriibution-ShareAlike 4.0, a qual significa
-
-You are free:
-
-Você pode:
-
-  * Share — copy and redistribute the material in any medium or format
-  * Compartilhar - copiar e redistribuir o material em qualquer media ou formato
-  * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-  * Adaptar - remix, transformar e criar em cima do material para qualquer finalidade, inclusive comercial.
-  *
-
-Under the following conditions:
-
-De acordo com as seguintes condições:
-
-  * Attribution — You must attribute the work as follows: "Original work available at [[http://door43.org./|Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.]]
-  * Atribuição - Você deve atribuir o trabalho da seguinte forma: "O trabalho original disponível em Declarações de atribuição de trabalhos derivativos não deverá surgerir de nenhuma maneira que nós nos responsabilizamos e/ou endorsamosamos você ou o seu uso do mesmo.
-  * [[http://door43.org./|ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.]]
-  * ShareAlike - Se você remix, transformar ou criar em cima do material, você deve distribuir suas contribuições sob a mesma licença que o original.
+  * <font 14px line-height: 19.6000003814697px;/inherit;;#008000;;inherit>ShareAlike - Se você remix, transformar ou criar em cima do material, você deve distribuir suas contribuições sob a mesma licença do original.</font>
 
 ===== Attribution of Door43 Contributors =====
 
