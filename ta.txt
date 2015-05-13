@@ -4,7 +4,7 @@
 
 The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
 
-<font inherit/inherit;;#008000;;inherit>A "Academia de Tradução" destina-se a capacitar qualquer um, em qualquer lugar a aprender os pricípios básicos de como traduzir a Bíblia para sua própria linguagem, ou de ajudar alguém que queira fazê-lo. Destina-se a ser altamente flexível, pode ser in-advance ou just-in-time (ou âmbos, se necessário), modular, e altamente visual, em formatos de vídeos móveis na web e offline.</font>
+<font inherit/inherit;;#008000;;inherit>A "Academia de Tradução" destina-se a capacitar qualquer um, em qualquer lugar a aprender os pricípios básicos de como traduzir a Bíblia para sua própria linguagem, ou de ajudar alguém que queira fazê-lo. Destina-se a ser altamente flexível, pode ser in-advance ou just-in-time (ou âmbos, se necessário), modular e altamente visual, em formatos de vídeos móveis na web e offline.</font>
 
 If you are new to the project, we strongly encourage you to work through the **[[:en:ta:intro:handbook|translationAcademy Handbook]]** which will give you a good [[:en:ta:intro|Introduction]] to the project as well as an overview of the three manuals contained in translationAcademy:
 
