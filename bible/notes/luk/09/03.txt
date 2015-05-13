@@ -21,7 +21,9 @@
 
 <usfm> \v 3 He said to them, "Take nothing for your journey–neither staff, nor wallet, nor bread, nor money–neither take two tunics. \v 4 Whatever house you enter into, stay there until you leave from that place. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
+
+**3** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ele disse a eles: “Não levem nada para sua jornada, nem cajado, bolsa, pão ou dinheiro, nem mesmo levem duas túnicas.</font> **4** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Qualquer casa em que vocês entrarem, permaneçam nela até que vocês deixem aquela cidade.</font>
 
 ----
 
