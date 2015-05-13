@@ -1,4 +1,4 @@
-====== Luke 09:54-56/  *F ======
+====== Luke 09:54-56/ *F ======
 
 ===== TFT: =====
 
@@ -17,6 +17,8 @@
 <usfm> \v 54 Then when his disciples James and John saw this, they said, "Lord, do you want us to command fire to come down from heaven and destroy them?" \v 55 But he turned and rebuked them. \v 56 Then they went on to another village. </usfm>
 
 ===== Target ULB: =====
+
+**54** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então quando seus discípulos Tiago e João viram isso, eles disseram: “Senhor, você quer que ordenemos que caia fogo dos céus e os destrua?”</font> **55** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas Jesus se virou e os repreendeu. Então foram a uma outra vila.</font>
 
 ----
 
