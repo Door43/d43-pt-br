@@ -1,5 +1,7 @@
 ====== Copyrights & Licensing ======
 
+<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>Copyrights &</font> Licenciamento
+
 All content on Door43 is made available under a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]], which means
 
 You are free:
@@ -35,9 +37,9 @@ Under the following conditions:
 De acordo com as seguintes condições:
 
   * Attribution — You must attribute the work as follows: "Original work available at [[http://door43.org./|Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.]]
-  * Atribuição - Você deve atribuir o trabalho da seguinte forma: "O trabalho original disponível em Declarações de atribuição de trabalhos derivativos  não deverá surgerir de nenhuma maneira que nós nos responsabilizamos e/ou endorsamosamos você ou o seu uso do mesmo.
+  * Atribuição - Você deve atribuir o trabalho da seguinte forma: "O trabalho original disponível em Declarações de atribuição de trabalhos derivativos não deverá surgerir de nenhuma maneira que nós nos responsabilizamos e/ou endorsamosamos você ou o seu uso do mesmo.
   * [[http://door43.org./|ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.]]
-  * ShareAlike -  Se você remix, transformar ou criar em cima do material, você deve distribuir suas contribuições sob a mesma licença que o original.
+  * ShareAlike - Se você remix, transformar ou criar em cima do material, você deve distribuir suas contribuições sob a mesma licença que o original.
 
 ===== Attribution of Door43 Contributors =====
 
