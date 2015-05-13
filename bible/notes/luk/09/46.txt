@@ -1,4 +1,4 @@
-====== Luke 09:46-48/  *F ======
+====== Luke 09:46-48/ *F ======
 
 ===== TFT: =====
 
@@ -17,6 +17,8 @@
 <usfm> \p \v 46 Then a dispute started among them about which one of them would be the greatest. \v 47 But when Jesus realized what they were reasoning in their hearts, he took a little child, and set him by his side, \v 48 and said to them, "If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me. For the person who is least among all of you is the one who is great." </usfm>
 
 ===== Target ULB: =====
+
+**46** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então os discípulos começaram a discutir entre si sobre qual deles seria o maior.</font> **47** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas Jesus, sabendo o que eles estavam pensando em seus corações, pegou uma criancinha e a colocou ao seu lado,</font> **48** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>e disse a eles: “Se alguém receber uma criancinha como esta em meu nome ele também me recebe, e se alguém me recebe ele também recebe aquele que me enviou. Pois o menor entre todos vocês, este que é o maior.</font>
 
 ----
 
