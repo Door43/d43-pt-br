@@ -1,6 +1,6 @@
 ====== Welcome to translationAcademy ======
 
-====== <font inherit/inherit;;#008000;;inherit>Bem-vindo à Academia de Tradução</font>     ======
+Bem-vindo<font inherit font-weight: bold; line-height: 1.2; background-color: inherit;/inherit;;inherit;;inherit></font> à<font inherit font-weight: bold; line-height: 1.2; background-color: inherit;/inherit;;inherit;;inherit>Academia de</font> Tradução
 
 The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
 
