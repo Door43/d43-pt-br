@@ -29,9 +29,11 @@
 
 <usfm> \p \v 63 Then the men guarding Jesus mocked and beat him. \v 64 After blindfolding him, they asked him, saying, "Prophesy! Who is the one who hit you?" \v 65 They spoke many other things against Jesus, blaspheming him. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+63 Então os homens que guardavam a Jesus zombaram dele e o espancaram. 64 Depois de vendar os olhos dele, o perguntaram: “Profetize! Quem te bateu?” 65 Falaram muitas outras coisas contra Jesus, blasfemando-o.
 
 ===== Important Terms: =====
 
