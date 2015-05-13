@@ -15,15 +15,7 @@ Este era o nome da terra no Oriente Médio localizada desde o vale do rio Jordã
   * God promised to give this land to Abraham and his descendants, the Israelites.
   * <font 14px line-height: 19.6000003814697px/inherit;;#008000;;inherit>Deus prometeu dar a​ esta terra a Abraão e seus descendentes , os Israelitas.</font>
   * Today the countries and territories in that land are Israel, Lebanon, part of Jordan, part of Syria, and Palestine.
-  * <font 14px line-height: 19.6000003814697px/inherit;;#008000;;inherit>Hoje, os</font>
-países e territórios daquela
-terra
-são
-Israel, Líbano,
-parte da Jordânia ,
-parte da Síria
-e
-Palestina.
+  * <font 14px line-height: 19.6000003814697px/inherit;;#008000;;inherit>Hoje, os​ países e territórios daquela terra são Israel, Líbano, parte da Jordânia , parte da Síria e Palestina.</font>
 
 [See also: **[[:archive:ktobs:promised-land|Promised Land]]**]
 
