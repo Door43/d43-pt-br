@@ -4,7 +4,7 @@
 
 All content on Door43 is made available under a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]], which means
 
-<font inherit/inherit;;#000080;;inherit>Todo o</font>    conteúdo <font inherit/inherit;;#000080;;inherit>no</font>    Door43 é disponibilizado <font inherit/inherit;;#000080;;inherit>sob</font>    uma Licença Internacional <font inherit/inherit;;#000080;;inherit>com</font>    nome<font inherit/inherit;;#000080;;inherit>"Creative Commons</font>    Attriibution-ShareAlike<font inherit/inherit;;#000080;;inherit>4.0, a</font>    qual significa que
+<font inherit/inherit;;#008000;;inherit>Todo o</font>   conteúdo <font inherit/inherit;;#008000;;inherit>no</font>   Door43 é disponibilizado <font inherit/inherit;;#008000;;inherit>sob</font>   uma Licença Internacional <font inherit/inherit;;#008000;;inherit>com</font>   nome<font inherit/inherit;;#008000;;inherit>"Creative Commons</font>   Attriibution-ShareAlike<font inherit/inherit;;#008000;;inherit>4.0, a</font>   qual significa que
 
 You are free:
 
