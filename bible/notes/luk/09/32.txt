@@ -1,4 +1,4 @@
-====== Luke 09:32-33  *F ======
+====== Luke 09:32-33 *F ======
 
 ===== TFT: =====
 
@@ -13,6 +13,8 @@
 <usfm> \v 32 Now Peter and those who were with him were heavy with sleep. But when they were fully awake, they saw his glory and the two men who were standing with him. \v 33 It happened that, as they were going away from Jesus, Peter said to him, "Master, it is good for us to be here and we should make three shelters. Let us make one for you, one for Moses, and one for Elijah." He did not understand what he was talking about. </usfm>
 
 ===== Target ULB: =====
+
+**32** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Pedro e os que estavam com ele estavam dominados pelo sono, mas quando despertaram, viram a glória de Jesus e os dois homens que estavam com ele.</font> **33** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando eles se estavam indo embora, Pedro disse a ele: “Senhor, é bom estarmos aqui.” Vamos fazer três tendas: uma para você, uma para Moisés e outra para Elias. E não sabia o que estava dizendo.</font>
 
 ----
 
