@@ -27,9 +27,11 @@
 
 <usfm> \v 33 Peter said to him, "Lord, I am ready to go with you both to prison and to death." \v 34 Jesus replied, "I tell you, Peter, the rooster will not crow this day, before you deny three times that you know me." </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+33 Pedro lhe disse: “Senhor, estou pronto para ir contigo tanto para a prisão quanto para a morte.” 34 Jesus lhe respondeu: “Pedro, eu lhe digo que o galo não cantará hoje antes que por três vezes você negue que me conhece.”
 
 ===== Important Terms: =====
 
