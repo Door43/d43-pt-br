@@ -18,9 +18,11 @@
 
 <usfm> \p \v 24 Then there arose also a quarrel among them about which of them was considered to be greatest. \v 25 He said to them, "The kings of the Gentiles have lordship over them, and the ones who have authority over them are called honored rulers. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+24 Então, levantou-se uma disputa sobre qual dentre eles era considerado o mais importante. 25 Jesus lhes disse: “Os reis dos gentios têm senhorio sobre eles, e os que têm autoridade sobre o povo são chamados benfeitores.”
 
 ===== Important Terms: =====
 
