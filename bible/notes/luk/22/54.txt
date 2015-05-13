@@ -21,9 +21,11 @@
 
 <usfm> \p \v 54 Seizing him, they led him away, and brought him into the high priest’s house. But Peter followed from a distance. \v 55 After they had kindled a fire in the middle of the courtyard and had sat down together, Peter sat in the midst of them. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+54 Tendo prendido Jesus, o levaram até a casa do sumo sacerdote. Mas Pedro os seguia de longe. 55 Após terem acendido um fogo no meio do pátio e se sentarem juntos, Pedro se sentou junto a eles.
 
 ===== Important Terms: =====
 
