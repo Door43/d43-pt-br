@@ -8,7 +8,7 @@ The “translationAcademy” is intended to enable anyone, anywhere to learn the
 
 If you are new to the project, we strongly encourage you to work through the **[[:en:ta:intro:handbook|translationAcademy Handbook]]** which will give you a good [[:en:ta:intro|Introduction]] to the project as well as an overview of the three manuals contained in translationAcademy:
 
-Se você é novo no projeto, nós o encorajamos a trabalhar com o **Manual de Academia de Tradução**
+Se você é novo no projeto, nós o encorajamos a trabalhar com o **Manual de Academia de Tradução, ** o qual dará a você uma boa **Introdução ** ao projeto, bem como um panorama dos três manuais contidos na Academia de Tradução:
 
    * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
   * **[[:en:ta:check|Checking Manual]]**- explains how to check a translation
