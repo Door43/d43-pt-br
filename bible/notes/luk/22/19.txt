@@ -20,9 +20,11 @@
 
 <usfm> \v 19 Then he took bread, and when he had given thanks, he broke it, and gave to them, saying, "This is my body which is given for you. Do this in remembrance of me." \v 20 He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+9 Depois ele pegou o pão e, quando deu graças, o quebrou e deu a eles dizendo: “Este é meu corpo que e dado por vocês. Façam isto em memória de mim.” 20 Da mesma maneira, ele pegou o cálice depois da ceia e disse: “Este cálice é a nova aliança do meu sangue que é derramado por vocês.”
 
 ===== Important Terms: =====
 
