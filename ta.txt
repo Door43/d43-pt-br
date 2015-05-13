@@ -1,4 +1,4 @@
-====== Welcome to translationAcademy ======
+====== Welcome to translationAcademy-<font inherit/inherit;;#008000;;inherit>Bem-vindo à Academia de Tradução</font>  ======
 
 The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
 
@@ -7,6 +7,7 @@ If you are new to the project, we strongly encourage you to work through the **[
   * **[[:en:ta:translate:home|Translation Manual]]**- explains how to translate
   * **[[:en:ta:check|Checking Manual]]**- explains how to check a translation
   * **[[:en:ta:tech|Technology Manual]]**- explains how to use the different technology tools
+
 ==== translationAcademy Workbench ====
 
 We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos.
