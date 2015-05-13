@@ -12,9 +12,11 @@
 
 <usfm> \v 10 He answered them, "Listen, when you have entered the city, a man bearing a pitcher of water will meet you. Follow him into the house that he goes into. \v 11 Then say to the master of the house, 'The Teacher says to you, "Where is the guest room, where I will eat the Passover with my disciples?"' </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+10 Ele lhes respondeu: “Quando entrarem na cidade, vocês encontrarão um homem carregando um jarro com água. Sigam-no até a casa que ele entrar. 11 Então digam ao senhor da casa: 'O Mestre te diz: “Onde fica a sala de visita onde eu e os meus discípulos vamos comer a Páscoa?”'
 
 ===== Important Terms: =====
 
