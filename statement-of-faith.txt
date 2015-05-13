@@ -4,11 +4,11 @@
 
 //The following statement of faith is subscribed to by all member organizations of and contributors to the [[http://unfoldingword.org|unfoldingWord]] project. It is in agreement with the [[http://www.lausanne.org/en/documents/lausanne-covenant.html|Lausanne Covenant]].//
 
-<font inherit/inherit;;#008000;;inherit>// A seguinte declaração de fé é assinada por todos as organizações membros e colaboradores do projeto  //</font> //[[http://unfoldingword.org|<font inherit/inherit;;#008000;;inherit>unfoldingWord</font> ]]<font inherit/inherit;;#008000;;inherit>. Ela está de acordo com o Pacto de Lausanne (</font> [[http://www.lausanne.org/en/documents/lausanne-covenant.html|<font inherit/inherit;;#008000;;inherit>Lausanne Covenant</font> ]]<font inherit/inherit;;#008000;;inherit>).</font> //
+<font inherit/inherit;;#008000;;inherit>// A seguinte declaração de fé é assinada por todas as organizações membros e colaboradores do projeto UnfoldingWord, e //</font>    //<font inherit/inherit;;#008000;;inherit>está de acordo com o Pacto de Lausanne.</font>    //
 
 We believe that Christian belief can and should be divided into **essential beliefs** and **peripheral beliefs**.
 
-<font inherit/inherit;;#008000;;inherit>Nós cremos que a fé Cristã pode e deve ser dividida em  ** crenças essenciais ** e  ** crenças periféricas ** ​.</font>
+<font inherit/inherit;;#008000;;inherit>Nós cremos que a fé Cristã pode e deve ser dividida em  ** crenças essenciais  ** e  ** crenças periféricas  ** ​.</font>
 
 ==== Essential beliefs ====
 
