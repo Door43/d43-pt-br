@@ -27,9 +27,11 @@
 
 <usfm> \v 5 They were glad, and agreed to give him money. \v 6 He consented, and looked for an opportunity to deliver him to them away from the crowd. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+5 Eles ficaram felizes e concordaram em lhe dar dinheiro. 6 Judas consentiu, e desde então procurou um oportunidade para entregá-lo quando ele estivesse afastado da multidão.
 
 ===== Important Terms: =====
 
