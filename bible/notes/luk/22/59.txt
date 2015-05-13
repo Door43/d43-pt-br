@@ -21,9 +21,11 @@
 
 <usfm> \v 59 After about an hour another man insisted and said, "Truly this man also was with him, for he is a Galilean." \v 60 But Peter said, "Man, I do not know what you are saying." And immediately, while he was speaking, a rooster crowed. </usfm>
 
-=====Target ULB: =====
+===== Target ULB: =====
 
 ----
+
+59 Depois de quase uma hora um outro homem insistiu dizendo: “Verdadeiramente este homem também estava com ele, porque é galileu.” 60 Mas Pedro disse: “Eu não sei do que você está falando, homem.” E imediatamente, enquanto ainda falava, o galo cantou.
 
 ===== Important Terms: =====
 
