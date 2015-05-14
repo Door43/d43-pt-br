@@ -12,9 +12,11 @@
 
 <usfm> \c 23 \p \v 1 And the whole company of them rose up, and brought him before Pilate. \v 2 And they began to accuse him, saying, We found this man perverting our nation, and forbidding to give tribute to Caesar, and saying that he himself is Christ, a king. </usfm>
 
-===== Target ULB: 1 Então, todos os lideres dos judeus se levantaram contra ele, e o trouxeram a Pilatos. 2 E começaram a lhe acusar dizendo: “Encontramos este homem pervertendo a nossa nação, proibindo pagar os impostos a Cesar, e se declara ele mesmo o Cristo, um rei.” =====
+===== Target ULB: =====
 
 ----
+
+1 Então, todos os lideres dos judeus se levantaram contra ele, e o trouxeram a Pilatos. 2 E começaram a lhe acusar dizendo: “Encontramos este homem pervertendo a nossa nação, proibindo pagar os impostos a Cesar, e se declara ele mesmo o Cristo, um rei.”
 
 ===== Important Terms: =====
 
