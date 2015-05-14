@@ -26,11 +26,11 @@ Under the following conditions:
 
 ===== Attribution of Door43 Contributors =====
 
-<font inherit/inherit;;#B22222;;inherit>** Atribuição dos Contribuintes no Door43 **</font>
+<font inherit/inherit;;#B22222;;inherit>** Atribuição dos Contribuintes no Door43  **</font>
 
 When importing a resource (e.g. a book, Bible study, etc.) into Door43, the original work must be attributed as specified by the open license under which it is available. For example, the artwork used in Open Bible Stories is available under an open license and is clearly attributed on the project's [[:en:obs|main page]].
 
-<font inherit/inherit;;#B22222;;inherit>** Ao importar um recurso (por exemplo, um livro, estudo bíblico, etc.) em Door43, o trabalho original deve ser atribuído, conforme especificado pela licença aberta em que ele estiver disponível. Por exemplo, a obra de arte utilizada em "Open Bible Stories" está disponível sob uma licença aberta e está claramente atribuída na página principal do projeto. **</font>
+<font inherit/inherit;;#B22222;;inherit>Ao importar um recurso (por exemplo, um livro, estudo bíblico, etc.) em Door43, o trabalho original deve ser atribuído, conforme especificado pela licença aberta em que ele estiver disponível. Por exemplo, a obra de arte utilizada em "Open Bible Stories" está disponível sob uma licença aberta e está claramente atribuída na página principal do projeto.</font>
 
 Contributors to projects on Door43 agree that **the attribution that occurs automatically in the revision history of every page is sufficient attribution for their work.** That is, every contributor to a translation of Open Bible Stories into another language is listed as "the Door43 World Missions Community" or something to that effect. The individual contributions of each individual contributor are preserved in the revision history for that translation.
 
