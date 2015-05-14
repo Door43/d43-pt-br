@@ -21,9 +21,9 @@
 
 ===== Target ULB: =====
 
-----
+<font inherit/inherit;;inherit;;inherit>15</font> Nem<font inherit/inherit;;inherit;;inherit></font> mesmo<font inherit/inherit;;inherit;;inherit></font> Herodes<font inherit/inherit;;inherit;;inherit>,</font> porque<font inherit/inherit;;inherit;;inherit>a</font> ele<font inherit/inherit;;inherit;;inherit></font> lhe<font inherit/inherit;;inherit;;inherit></font> mandei<font inherit/inherit;;inherit;;inherit>, e</font> eis<font inherit/inherit;;inherit;;inherit></font> que<font inherit/inherit;;inherit;;inherit>nada</font> tem<font inherit/inherit;;inherit;;inherit></font> feito<font inherit/inherit;;inherit;;inherit></font> ele<font inherit/inherit;;inherit;;inherit></font> digno<font inherit/inherit;;inherit;;inherit>de</font> morte<font inherit/inherit;;inherit;;inherit>. 16</font> Eu<font inherit/inherit;;inherit;;inherit>,</font> portanto<font inherit/inherit;;inherit;;inherit>,</font> irei<font inherit/inherit;;inherit;;inherit></font> puni-lo<font inherit/inherit;;inherit;;inherit>e</font> soltá-lo<font inherit/inherit;;inherit;;inherit>. “17</font> Pilatos<font inherit/inherit;;inherit;;inherit>era</font> obrigado<font inherit/inherit;;inherit;;inherit>a</font> soltar<font inherit/inherit;;inherit;;inherit>um</font> prisioneiro<font inherit/inherit;;inherit;;inherit></font> para<font inherit/inherit;;inherit;;inherit></font> os<font inherit/inherit;;inherit;;inherit></font> judeus<font inherit/inherit;;inherit;;inherit></font> na<font inherit/inherit;;inherit;;inherit></font> festa<font inherit/inherit;;inherit;;inherit>.</font>
 
-15 Nem mesmo Herodes, porque a ele lhe mandei, e eis que nada tem feito ele digno de morte. 16 Eu, portanto, irei puni-lo e soltá-lo. “17 Pilatos era obrigado a soltar um prisioneiro para os judeus na festa.
+----
 
 ===== Important Terms: =====
 
