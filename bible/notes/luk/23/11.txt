@@ -28,9 +28,7 @@
 
 ===== Target ULB: =====
 
-**11** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Herodes, com os seus soldados o insultaram, e zombavam dele, e o vestiram com roupas bonitas,e em seguida enviaram Jesus a Pilatos.</font> **12** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Pilatos e Herodes tornaram-se amigos um do outro naquele mesmo dia, antes disso eram inimigos.</font>
-
-=====   =====
+11 Herodes, com os seus soldados o insultaram, e zombavam dele, e o vestiram com roupas bonitas,e em seguida enviaram Jesus a Pilatos. 12 Pilatos e Herodes tornaram-se amigos um do outro naquele mesmo dia, antes disso eram inimigos.
 
 ----
 
