@@ -34,13 +34,19 @@
 <font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
   * **Theophilus**  - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: __[[:en:ta:translate:translatenames|How to Translate Names </font> ]]__)
-  * <font inherit/inherit;;#B22222;;inherit>** Teófilo ** - Este nome significa "amigo de Deus". Pode vir a descrever o caráter deste homem ou talvez possa ser seu próprio nome. A maioria das traduções consideram como um nome.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Teófilo  ** - Este nome significa "amigo de Deus". Pode vir a descrever o caráter deste homem ou talvez possa ser seu próprio nome. A maioria das traduções consideram como um nome.</font>
   * **us **- The word "us" in this section may exclude Theophilus, but the text does not specifically say that. (See: [[:en:ta:vocabulary:exclusive|Exclusive]])
+  * <font inherit/inherit;;#B22222;;inherit>** nos  ** - A palavra "nos" nesta sessão pode vir a excluir Teófilo, mas  o texto não menciona isso especificamente.</font>
   * **accounts**  - "reports" or "narratives" or "true stories"
+  * <font inherit/inherit;;#B22222;;inherit>** Contas  ** - "relatórios" ou "narrativas" ou "estórias verdadeiras"</font>
   * **from the beginning were eyewitnesses**  - This could be translated as "saw these things from the time they first happened."
+  * <font inherit/inherit;;#B22222;;inherit>** desde o início eram testemunhas oculares ** - Isto pode ser traduzido como "viram estas coisas desde que aconteceram pela primeira vez".</font>
   * **reported them to us**  - The "us" in this phrase is exclusive. It does not include Theophilus. (See: [[:en:ta:vocabulary:exclusive|Exclusive]])
+  * <font inherit/inherit;;#B22222;;inherit>** os relataram para nós ** - O "nós" nessa frase é exclusivo. Não inclui Teófilo.</font>
   * **had become servants of the word**  - Other possible meanings are "served God by telling people his message" or "taught people the good news about Jesus."
+  * <font inherit/inherit;;#B22222;;inherit>** se tornaram servos da palavra ** - Outros possíveis significados são: "serviram a Deus contando às pessoas sua mensagem" ou "ensinou as pessoas as boas novas sobre Jesus".</font>
   * **most excellent**  - Luke said this to show honor and respect for Theophilus. This manner of address may also mean that Theophilus was an important government official. Other ways to translate this would be "honorable" or "noble." Some people may prefer to also put this greeting at the beginning and say "To…..Theophilus" or "Dear… Theophilus."
+  * mais excelente - Lucas disse isso para mostrar honra e respeito a Teófilo. Deste modo
   * **investigated everything accurately**  - This means he was careful to find out exactly what happened. He probably talked to the different people who saw what happened to make sure that what he wrote down about these events was correct. Another way to translate this would be "carefully researched everything that happened.
 
 ===== Links: =====
