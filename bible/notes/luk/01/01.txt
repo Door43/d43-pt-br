@@ -31,7 +31,10 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Theophilus**  - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: __[[:en:ta:translate:translatenames|How to Translate Names </font> ]]__)
+  * <font inherit/inherit;;#B22222;;inherit>** Teófilo ** - Este nome significa "amigo de Deus". Pode vir a descrever o caráter deste homem ou talvez possa ser seu próprio nome. A maioria das traduções consideram como um nome.</font>
   * **us **- The word "us" in this section may exclude Theophilus, but the text does not specifically say that. (See: [[:en:ta:vocabulary:exclusive|Exclusive]])
   * **accounts**  - "reports" or "narratives" or "true stories"
   * **from the beginning were eyewitnesses**  - This could be translated as "saw these things from the time they first happened."
@@ -39,6 +42,7 @@
   * **had become servants of the word**  - Other possible meanings are "served God by telling people his message" or "taught people the good news about Jesus."
   * **most excellent**  - Luke said this to show honor and respect for Theophilus. This manner of address may also mean that Theophilus was an important government official. Other ways to translate this would be "honorable" or "noble." Some people may prefer to also put this greeting at the beginning and say "To…..Theophilus" or "Dear… Theophilus."
   * **investigated everything accurately**  - This means he was careful to find out exactly what happened. He probably talked to the different people who saw what happened to make sure that what he wrote down about these events was correct. Another way to translate this would be "carefully researched everything that happened.
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
