@@ -31,7 +31,20 @@
 
 ===== Translation Notes: =====
 
+\\
+**Informações Uteis para a Tradução:**
+
   * **during the high priesthood of Annas and Caiaphas**  - They were serving together as high priests.
+  *
+durante o
+sumo sacerdócio de
+Anás e Caifás
+-
+Eles
+estavam servindo
+juntos como
+sumos sacerdotes.
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
