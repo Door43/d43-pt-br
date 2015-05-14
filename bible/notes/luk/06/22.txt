@@ -14,8 +14,11 @@
 
 <usfm> \v 22 Blessed are you when people hate you and when they separate you from their company and reproach you and reject your name as evil, for the Son of Man’s sake. \v 23 Rejoice in that day and leap for joy, because you will surely have a great reward in heaven, for their ancestors treated the prophets in the same way. </usfm>
 ===== Target ULB: =====
-20 Então ele olhou para os seus discípulos e disse: “Bem-aventurados vocês que são pobres, pois o reino de Deus é de vocês. 21 Bem-aventurados vocês que agora tem fome, pois vocês serão saciados. Bem-aventurados vocês que agora choram, pois vocês sorrirão. 
+
+22 Bem-aventurados vocês quando as pessoas os odiarem e os excluírem, e quando insultarem vocês, e rejeitarem o nome de vocês como mau por causa do Filho do Homem. 23 Regojizem-se naquele dia e pulem de alegria, certamente vocês terão uma grande recompensa no céu, pois os antepassados deles trataram os profetas da mesma forma.
+
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:bless|blessed]]
