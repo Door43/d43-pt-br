@@ -32,11 +32,18 @@
 
 **7. Expressive** — Communicate the feelings and attitudes of the original text. As much as possible, maintain the literary forms in the original text, including narrative, poetry, exhortation, and prophecy, representing them with corresponding forms that communicate in a similar way in your language. See [[:en:ta:translate:expressive|Creating Expressive Translations]] for more information.
 
-<font inherit/inherit;;#B22222;;inherit>** 7. Expressiva ** - Comunique os sentimentos e atitudes do texto original. Tanto quanto possível, mantenha as formas literárias do texto original, incluindo narração, poesia, exortação e profecia, representando-as com as formas correspondentes que comunicam de modo semelhante na sua língua.</font>
+<font inherit/inherit;;#B22222;;inherit>** 7. Expressiva  ** - Comunique os sentimentos e atitudes do texto original. Tanto quanto possível, mantenha as formas literárias do texto original, incluindo narração, poesia, exortação e profecia, representando-as com as formas correspondentes que comunicam de modo semelhante na sua língua.</font>
 
-  - **Historical**  — Communicate historical events and facts accurately, providing additional information as needed in order to accurately communicate the intended message to people who do not share the same context and culture as the original recipients of the original content. See the (7 min. long) lesson on **//Translating the Scriptures - Culture//** for the [[http://youtu.be/9nLRLAgOIpw|computer]] and the [[http://youtu.be/girNfacETDE|tablet]]. See [[:en:ta:translate:historical|Creating Historical Translations]] for more information.
-  - **Collaborative**  — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible. See [[:en:ta:translate:collaborative|Creating Collaborative Translations]] for more information.
+**8. Historical** — Communicate historical events and facts accurately, providing additional information as needed in order to accurately communicate the intended message to people who do not share the same context and culture as the original recipients of the original content. See the (7 min. long) lesson on **//Translating the Scriptures - Culture//** for the [[http://youtu.be/9nLRLAgOIpw|computer]] and the [[http://youtu.be/girNfacETDE|tablet]]. See [[:en:ta:translate:historical|Creating Historical Translations]] for more information.
+
+<font inherit/inherit;;#B22222;;inherit>** 8. Histórica ** - Comunique eventos históricos e fatos com precisão, fornecendo informações adicionais quando necessário afim de comunicar a mensagem com precisão para pessoas que não compartilham do mesmo contexto e cultura dos destinatários do conteúdo original.</font>
+
+**9. Collaborative** — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible. See [[:en:ta:translate:collaborative|Creating Collaborative Translations]] for more information.
+
+<font inherit/inherit;;#B22222;;inherit>** 9. Colaborativa ** - Onde for possível, trabalhe junto com outros crentes que falam sua língua na tradução, verifique e distribua o conteúdo traduzido, assegurando que ele seja de alta qualidade e disponível para o maior número de pessoas possível. Veja Creating Collaborative Translations para mais informações.</font>
+
   - **Ongoing**  — Encourage the periodic review of translations to ascertain when revision or a new translation is needed. See [[:en:ta:translate:ongoing|Creating Ongoing Translations]] for more information.
+
 ====== Managing and Identifying Translation Quality ======
 
 The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.
