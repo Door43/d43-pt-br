@@ -32,8 +32,12 @@
 ===== Translation Notes: =====
 
   * **Meanwhile**  - This could be translated as "And" or "While the angel and Zechariah were talking."
+  * <font inherit/inherit;;#B22222;;inherit>** Entrementes/enquanto isso ** - Isto pode ser traduzido como: "e" ou "enquanto o anjo e Zacarias estavam falando".</font>
   * **wondering why he stayed so long in the temple**  – This could also be translated with a direct quote: "They wondered, 'Why is he staying so long in the temple?'" (See: [[:en:ta:translate:quotation|Speech Quotations]])
+  * <font inherit/inherit;;#B22222;;inherit>** se perguntando porque ele ficou tanto tempo no templo ** - Isto poderia ser também traduzido com uma citação direta: "Eles se perguntaram: 'Por que ele está demorando tanto no templo?'".</font>
   * **came out**  - This could be translated as "came out of the temple building."
+  * <font inherit/inherit;;#B22222;;inherit>** saiu  ** - Isto poderia ser traduzido como: "saiu do prédio do templo".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
