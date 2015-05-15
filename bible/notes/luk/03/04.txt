@@ -22,9 +22,9 @@
 
 ===== Important Terms: =====
 
-  * [[Isaiah]]
-  * [[prophet]]
-  * [[Lord]]
+  * [[:pt-br:bible:notes:luk:03:isaiah|Isaiah]]
+  * [[:pt-br:bible:notes:luk:03:prophet|prophet]]
+  * [[:pt-br:bible:notes:luk:03:lord|Lord]]
 
 ===== Translation Notes: =====
 
@@ -41,11 +41,11 @@
   * **Make his paths straight**  - This image of a path is also a metaphor that means "Be continually ready for the Lord to come."
   * <font inherit/inherit;;#B22222;;inherit>** Endireitai as suas veredas  **  ** -  ** Esta imagem de um​ caminho é também uma metáfora que significa "Estar continuamente pronto para a vinda do Senhor."</font>
 
-===== Links: =====
+===== <font inherit/inherit;;#B22222;;inherit>Links:</font>  =====
 
-  * [[Luke Chapter 3 Comprehension Questions]]
+  * [[:pt-br:bible:notes:luk:03:luke-chapter-3-comprehension-questions|Luke Chapter 3 Comprehension Questions]]
 
-**[[<<]] | [[>>]]**
+**[[:pt-br:bible:notes:luk:03:lt:lt:home|<<]] | [[:pt-br:bible:notes:luk:03:chevronescc|>>]]**
 
 ~~DISCUSSION~~{{tag>draft isaiah prophet}}
 
