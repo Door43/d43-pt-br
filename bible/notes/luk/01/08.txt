@@ -31,10 +31,16 @@
 ===== Translation Notes: =====
 
   * **before God**  - "in God's presence." For clarity, some translators might want to add the implied information "in the temple at Jerusalem." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** diante de Deus ** - "na presença de Deus". Para esclarecimento, alguns tradutores podem querer adicionar a seguinte informação implícita: "no templo em Jerusalém".</font>
   * **their custom**  - "their tradition" or "their usual way of making important decisions"
+  * <font inherit/inherit;;#B22222;;inherit>** costume deles **</font>  <font inherit/inherit;;#B22222;;inherit>- "tradição deles" ou "a maneira comum deles tomarem decisões importantes".</font>
   * **chose him by lot**  - A lot was a marked stone that was thrown or rolled on the ground in order to help them decide something. The priests believed that God guided the lot to show them which priest he wanted them to choose. (See: [[:en:ta:customs:religious:bylot|by lot]])
+  * <font inherit/inherit;;#B22222;;inherit>** escolheram ele por sorteio/sorte ** - Havia uma pedra marcada que era jogada ou rolada no chão para ajudá-los a decidir algo. Os sacerdotes acreditavam que Deus guiava a pedra para revelar a eles qual sacerdote eles deveriam escolher.</font>
   * **the whole assembly of the people**  - "a large number of people" or "many people"
+  * <font inherit/inherit;;#B22222;;inherit>** toda a assembleia de pessoas ** - "um grande número de pessoas" ou "muitas pessoas".</font>
   * **outside**  – This could be translated as “outside the temple building" or "in the courtyard outside the temple." The courtyard was the enclosed area surrounding the temple.
+  * <font inherit/inherit;;#B22222;;inherit>** fora  ** - Isto pode ser traduzido como: "fora do prédio do templo" ou "" no pátio fora do templo". O pátio era a parte anexa ao redor do templo.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
