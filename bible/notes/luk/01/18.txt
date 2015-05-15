@@ -33,8 +33,12 @@
 ===== Translation Notes: =====
 
   * **How will I know this will happen**  - This could be translated as "How can I know for sure that what you said will happen?"
+  * <font inherit/inherit;;#B22222;;inherit>** Como saberei que isso vai acontecer ** - Isto pode ser traduzido como: "Como eu poderei ter certeza de que o que você disse irá acontecer?".</font>
   * **believe my words**  - "believe what I said"
+  * <font inherit/inherit;;#B22222;;inherit>** creia nas minhas palavras ** - "creia no que eu disse".</font>
   * **at the proper time**  - “at the right time.” This could be translated as “at the appointed time.”
+  * <font inherit/inherit;;#B22222;;inherit>** na hora apropriada ** - "na hora certa". Isto pode ser traduzido como "no momento determinado".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
