@@ -33,10 +33,17 @@
 
 ===== Translation Notes: =====
 
+Informações úteis para a tradução:
+
   * **My soul…my spirit**  – These could be translated as "Oh how I" or "how I" which express deep emotion. (See: [[:en:ta:translate:synecdoche|Synecdoche]]) Mary is using a form of poetry where she states the same thing in two slightly different ways. Both "soul" and "spirit" refer to the spiritual part of a person. She is saying that her worship comes from deep inside her. If possible, translate these with two slightly different words or phrases that have that similar meaning. (See: [[:en:ta:translate:doublet|Doublet]])
+  * <font inherit/inherit;;#B22222;;inherit>** Minha alma ... meu espírito ** - Podem ser traduzidos como: "ó como eu" ou "como eu", que expressam uma profunda emoção. Maria está usando uma forma de poesia em que ela afirma a mesma coisa de duas maneiras levemente distintas. Ambas palavras,  "alma" e "espírito", referem-se à parte espiritual de uma pessoa. Ela está dizendo que seu louvor vem do seu mais profundo interior. Se possível, traduza essas expressões com duas palavras ou frases suavemente diferentes, mas com significados semelhantes.</font>
   * **exalts**  – "highly honors" or "greatly praises"
+  * <font inherit/inherit;;#B22222;;inherit>** exalta ** - "grandemente honra" ou "consideravelmente louva".</font>
   * **rejoices in**  – “feels very joyful about” or “is very happy about”
+  * <font inherit/inherit;;#B22222;;inherit>** se exulta no ** - "se sente muito feliz com" ou "é muito feliz com".</font>
   * **God my Savior**  – “God, the One who saves me” or “God who saves me”
+  * <font inherit/inherit;;#B22222;;inherit>** Deus meu Salvador ** - "Deus, Aquele que me salva" ou "Deus que me salva".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
