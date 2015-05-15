@@ -15,11 +15,11 @@
 **3** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ele viajou em toda a região do Rio Jordão, pregando o batismo do arrependimento, para o perdão dos pecados.</font>
 ===== Important Terms: =====
 
-  * [[Jordan River]]
-  * [[baptism]]
-  * [[repentance]]
-  * [[forgiveness]]
-  * [[sin]]
+  * [[:pt-br:bible:notes:key-terms:jordan-river|Jordan River]]
+  * [[:pt-br:bible:notes:key-terms:baptism|baptism]]
+  * [[:pt-br:bible:notes:key-terms:repentance|repentance]]
+  * [[:pt-br:bible:notes:key-terms:forgiveness|forgiveness]]
+  * [[:pt-br:bible:notes:key-terms:sin|sin]]
 
 ===== Translation Notes: =====
 
