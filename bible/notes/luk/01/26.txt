@@ -14,9 +14,10 @@
 
 ===== Target ULB: =====
 
-26 Quando Isabel estava no sexto mês de gravidez, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré,  27 a uma virgem que estava noiva de um homem chamado José. Ele era descendente de David, e o nome da virgem era Maria. 28 O anjo apareceu a ela e disse: “Saudações, agraciada.! O Senhor está com você!” 29 Mas ela ficou muito angustiada quando ela ouviu esta saudação, e se perguntou o que isso significava. 
+26 Quando Isabel estava no sexto mês de gravidez, o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, 27 a uma virgem que estava noiva de um homem chamado José. Ele era descendente de Davi, e o nome da virgem era Maria. 28 O anjo apareceu a ela e disse: “Saudações, agraciada.! O Senhor está com você!” 29 Mas ela ficou muito angustiada quando ela ouviu esta saudação, e se perguntou o que isso significava.
 
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:elizabeth|Elizabeth]]
