@@ -32,13 +32,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **She**  – It may be more clear or more natural to say "Elizabeth" here, depending on how you translated the previous verse.
+  * <font inherit/inherit;;#B22222;;inherit>** ela ** - Talvez aqui fosse mais claro ou mais natural dizer "Isabel", dependendo de como você traduziu o verso anterior.</font>
   * **the fruit of your womb**  - This could be translated as "the baby in your womb" or "the baby you will bear" (UDB). (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** o fruto do seu ventre ** - Isto pode ser traduzido como: "o bebê no seu ventre" ou "o bebê que você dará à luz" (UDB).</font>
   * **How is it that the mother of my Lord should come to me?**  - This could be translated as "How wonderful it is that the mother of my Lord has come to me!" Elizabeth was not asking for information. Rather she was showing how surprised and happy she was that the mother of the Lord had come to her. (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * <font inherit/inherit;;#B22222;;inherit>** Como pode acontecer de a mãe do meu Senhor vir até mim? ** - Isto pode ser traduzido como: "Quão maravilhoso é que a mãe do meu Senhor venha a mim!". Isabel não estava pedindo informações, ela estava mostrando quão surpresa e feliz ela estava pelo fato de a mãe do Senhor ter ido até ela.</font>
   * **the mother of my Lord**  - This could be translated as "you, the mother of my Lord" since this refers to Mary.
+  * <font inherit/inherit;;#B22222;;inherit>** a mãe do meu Senhor ** - Isto pode ser traduzido como: "você, a mãe do meu Senhor".</font>
   * **leaped**  - "moved suddenly" or "turned forcefully"
+  * <font inherit/inherit;;#B22222;;inherit>** saltou ** - "moveu-se de repente" ou "virou-se vigorosamente".</font>
   * **She who has believed is blessed**  - This could be translated as "You who have believed are blessed" or "Because you believed you will be glad."
+  * <font inherit/inherit;;#B22222;;inherit>** bem aventurada aquela que acreditou ** - Isto pode ser traduzido como: "bem aventurada é você que acreditou" ou "porque você acreditou, você será feliz".</font>
   * **the things which have been spoken to her from the Lord**  - This could be translated as "the message from the Lord that was given to her" or "the things that the Lord told you."
+  * <font inherit/inherit;;#B22222;;inherit>** as coisas que foram faladas pelo Senhor a ela ** - Isto pode ser traduzido como: "a mensagem vinda do Senhor que foi dada a ela" ou "as coisas que o Senhor te contou".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
