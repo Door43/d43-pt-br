@@ -26,9 +26,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **returned to her house**  - "Mary returned to her (Mary's) house"
+  * <font inherit/inherit;;#B22222;;inherit>** retornou para a casa dela ** - "Maria retornou para a sua (de Maria) casa".</font>
   * **deliver her baby**  - "give birth (to her baby)" or "bear her child"
+  * <font inherit/inherit;;#B22222;;inherit>** dar à luz ao seu bebê ** - "dar à luz" ou "ter seu filho".</font>
   * **Her neighbors and her relatives**  - "Elizabeth's neighbors and relatives"
+  * <font inherit/inherit;;#B22222;;inherit>** seus vizinhos e parentes ** - "vizinhos e parentes de Isabel".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
