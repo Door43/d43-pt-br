@@ -29,13 +29,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Mary continues to praise God:)
+  * <font inherit/inherit;;#B22222;;inherit>(Maria continua a louvar a Deus)</font>
   * **And**  - Some languages might not use a connecting word here, depending on how the previous verse was translated.
+  * <font inherit/inherit;;#B22222;;inherit>** e ** - Algumas línguas podem não usar uma palavra conectiva aqui, dependendo de como o verso anterior foi traduzido</font> .
   * **his mercy is for**  - This could be translated as "God's mercy is for" or "he shows mercy to" or "he is merciful to."
+  * <font inherit/inherit;;#B22222;;inherit>** sua misericórida é por  ** - Isto pode ser traduzido como: "a misericórida de Deus é para" ou "ele mostra misericórida para" ou "ele é misericordioso com".</font>
   * **generation after generation of people**  - This could be translated as "every generation of people" or "people in all generations" or "people in every time period."
+  * <font inherit/inherit;;#B22222;;inherit>** geração após geração de pessoas ** - Isto pode ser traduzido como: "todas as gerações de pessoas" ou "pessoas de todas as gerações" ou "pessoas de todos os períodos do tempo".</font>
   * **fear him**  - This has a wider meaning than just being afraid. It also means to respect, honor, and obey God.
+  * <font inherit/inherit;;#B22222;;inherit>** o temerão  ** - Isto tem um significado mais abrangente que apenas ter medo. Isto também significa respeito, honra e obediência a Deus.</font>
   * **with his arm**  - "by means of his arm." This is a figure of speech that refers to God's strength. (See: [[:en:ta:translate:metonymy|Metonymy]])
+  * <font inherit/inherit;;#B22222;;inherit>** com seu braço ** - "através de seu braço". Esta é uma figura de linguagem que se refere à força de Deus.</font>
   * **scattered**  - This could be translated as "caused [them] to run away in different directions" or "chased away."
+  * <font inherit/inherit;;#B22222;;inherit>** dispersados ** - Isto pode ser traduzido como: "os levou a fugir por diferentes direções" ou "afugentados".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
