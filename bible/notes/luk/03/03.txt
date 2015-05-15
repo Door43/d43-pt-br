@@ -13,29 +13,30 @@
 <usfm> \v 3 He traveled throughout the region around the Jordan River, preaching a baptism of repentance for the forgiveness of sins. </usfm>
 
 **3** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ele viajou em toda a região do Rio Jordão, pregando o batismo do arrependimento, para o perdão dos pecados.</font>
-
 ===== Important Terms: =====
 
-  * [[:pt-br:bible:notes:key-terms:jordanriver|Jordan River]]
-  * [[:pt-br:bible:notes:key-terms:baptize|baptism]]
-  * [[:pt-br:bible:notes:key-terms:repent|repentance]]
-  * [[:pt-br:bible:notes:key-terms:forgive|forgiveness]]
-  * [[:pt-br:bible:notes:key-terms:sin|sin]]
+  * [[Jordan River]]
+  * [[baptism]]
+  * [[repentance]]
+  * [[forgiveness]]
+  * [[sin]]
 
 ===== Translation Notes: =====
 
   * **He traveled **- "John traveled"
-  * <font inherit/inherit;;#B22222;;inherit>** Ele viajou  **</font>   - "João viajou"
-  * **preaching a baptism of repentance**  - This could be translated as "preached that people should be baptized to show that they were repenting of their sins."
-  * <font inherit/inherit;;#B22222;;inherit>** pregando um batismo de arrependimento  ** - Isso poderia ser traduzido como "pregou que as pessoas devem ser batizads para mostrar que estavam arrependidas de seus pecados."</font>
-  * **for the forgiveness of sins**  - "so that their sins would be forgiven" or "so that God would forgive their sins." The repentance was for the forgiveness of sins.
-  * <font inherit/inherit;;#B22222;;inherit>** para o  **  ** perd  **  ** ã  **  ** o dos pecados  ** - "para que Deus perdoe seus pecados" "para que seus pecados sejam perdoados." O arrependimento era para o perdão dos pecados.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Ele viajou**
+- "João viajou" <font 14px line-height: 15.6800003051758px;/inherit;;inherit;;inherit></font>
 
+</font>
+  * **preaching a baptism of repentance**  - This could be translated as "preached that people should be baptized to show that they were repenting of their sins."
+  * <font inherit/inherit;;#B22222;;inherit>** pregando um batismo de arrependimento **  - Isso poderia ser traduzido como "pregou que as pessoas devem ser batizads para mostrar que estavam arrependidas de seus pecados."</font>
+  * **for the forgiveness of sins**  - "so that their sins would be forgiven" or "so that God would forgive their sins." The repentance was for the forgiveness of sins.
+  * <font inherit/inherit;;#B22222;;inherit>** para o **** perd **** ã **** o dos pecados **  - "para que Deus perdoe seus pecados" "para que seus pecados sejam perdoados." O arrependimento era para o perdão dos pecados.</font>
 ===== Links: =====
 
-  * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+  * [[Luke Chapter 3 Comprehension Questions]]
 
-**[[:pt-br:bible:notes:luk:03:01|<<]] | [[:pt-br:bible:notes:luk:03:04|>>]]**
+**[[<<]] | [[>>]]**
 
 ~~DISCUSSION~~{{tag>draft jordanriver baptize repent forgive sin}}
 
