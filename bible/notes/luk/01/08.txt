@@ -32,6 +32,8 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **before God**  - "in God's presence." For clarity, some translators might want to add the implied information "in the temple at Jerusalem." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
   * <font inherit/inherit;;#B22222;;inherit>** diante de Deus  ** - "na presença de Deus". Para esclarecimento, alguns tradutores podem querer adicionar a seguinte informação implícita: "no templo em Jerusalém".</font>
   * **their custom**  - "their tradition" or "their usual way of making important decisions"
