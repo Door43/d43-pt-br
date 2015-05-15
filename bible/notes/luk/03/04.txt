@@ -16,35 +16,35 @@
 
 ===== Target ULB: =====
 
-4 O profeta Isaías, escreveu assim em seu livro: “Voz do que clama no deserto: Prepare o caminho do Senhor, endireitai a sua vereda. 
+4 O profeta Isaías, escreveu assim em seu livro: “Voz do que clama no deserto: Prepare o caminho do Senhor, endireitai a sua vereda.
 
 ----
+
 ===== Important Terms: =====
 
-  * [[:pt-br:bible:notes:key-terms:isaiah|Isaiah]]
-  * [[:pt-br:bible:notes:key-terms:prophet|prophet]]
-  * [[:pt-br:bible:notes:key-terms:lord|Lord]]
+  * [[Isaiah]]
+  * [[prophet]]
+  * [[Lord]]
 
 ===== Translation Notes: =====
 
-**<font inherit/inherit;;inherit;;inherit>Informações Úteis para a Tradução:</font>    **
-  * **As it is written … prophet**  - This could be translated as "This happened as Isaiah the prophet had written in his book" or "John fulfilled the words that the prophet Isaiah had written in his book."
-  * <font inherit/inherit;;#B22222;;inherit>** Como está escrito  **</font>   ** …<font inherit/inherit;;#B22222;;inherit>profeta</font>   - ** <font inherit/inherit;;#B22222;;inherit>Isso poderia ser traduzido como "Isso aconteceu quando o profeta Isaías havia escrito em seu livro" ou "João cumpriu as palavras que o profeta Isaías tinha escrito em seu livro."</font>
-  * **the way**  - "the path" or "the road"
-  * <font inherit/inherit;;#B22222;;inherit>** o caminho  **</font>   **
- - ** <font inherit/inherit;;#B22222;;inherit>"</font>   o caminho" ou "a estrada"
-  * **Make ready….make his paths straight**  - This section is in the style of Hebrew poetry, which often repeats important phrases in similar words. "Make ready the way of the Lord" is therefore another way to say "Make his paths straight." The main difference is the first indicates it happens once, while the second should continue to be done.
-  * <font inherit/inherit;;#B22222;;inherit>** Preparem  **</font>   ** ….Preparem suas veredas - ** <font inherit/inherit;;#B22222;;inherit>Esta seção​ é no estilo da poesia hebraica, que muitas vezes as frases importantes são</font>   <font inherit/inherit;;#B22222;;inherit>repetidas com palavras semelhantes.</font>   "Preparai o caminho do Senhor " é, portanto, uma outra maneira de dizer "endireitai as suas veredas." A principal diferença é que a primeira indica que acontece uma vez, enquanto o segundo deve continuar a ser feito.
-  * **Make ready the way of the Lord**  - This metaphor of a road means "Repent and be ready for when the Lord comes." (See: [[:en:ta:translate:metaphor|Metaphor]])
-  * <font inherit/inherit;;#B22222;;inherit>** Preparai o  **</font>   ** caminho do Senhor - ** <font inherit/inherit;;#B22222;;inherit>Esta metáfora de uma estrada significa "Arrependei-vos e esteja pronto para quando o Senhor vier ." (Veja : Metáfora)</font>
-  * **Make his paths straight**  - This image of a path is also a metaphor that means "Be continually ready for the Lord to come."
-  * <font inherit/inherit;;#B22222;;inherit>** Endireitai as suas veredas  **</font>   **<font inherit/inherit;;#B22222;;inherit>-</font>   ** <font inherit/inherit;;#B22222;;inherit>Esta imagem de um​ caminho é também uma metáfora que significa "Estar continuamente pronto para a vinda do Senhor."</font>
+**Informações Úteis para a Tradução:**
 
+  * **As it is written … prophet**  - This could be translated as "This happened as Isaiah the prophet had written in his book" or "John fulfilled the words that the prophet Isaiah had written in his book."
+  * **Como está escrito** **… profeta - ** Isso poderia ser traduzido como "Isso aconteceu quando o profeta Isaías havia escrito em seu livro" ou "João cumpriu as palavras que o profeta Isaías tinha escrito em seu livro."
+  * **the way**  - "the path" or "the road"
+  * **o caminho** **-**"o caminho" ou "a estrada"
+  * **Make ready….make his paths straight**  - This section is in the style of Hebrew poetry, which often repeats important phrases in similar words. "Make ready the way of the Lord" is therefore another way to say "Make his paths straight." The main difference is the first indicates it happens once, while the second should continue to be done.
+  * **Preparem****….Preparem suas veredas - ** Esta seção​ é no estilo da poesia hebraica, que muitas vezes as frases importantes são repetidas com palavras semelhantes. "Preparai o caminho do Senhor " é, portanto, uma outra maneira de dizer "endireitai as suas veredas." A principal diferença é que a primeira indica que acontece uma vez, enquanto o segundo deve continuar a ser feito.
+  * **Make ready the way of the Lord**  - This metaphor of a road means "Repent and be ready for when the Lord comes." (See: [[Metaphor]])
+  * **Preparai o ****caminho do Senhor - ** Esta metáfora de uma estrada significa "Arrependei-vos e esteja pronto para quando o Senhor vier ." (Veja : Metáfora)
+  * **Make his paths straight**  - This image of a path is also a metaphor that means "Be continually ready for the Lord to come."
+  * **Endireitai as suas veredas ****- ** Esta imagem de um​ caminho é também uma metáfora que significa "Estar continuamente pronto para a vinda do Senhor."
 ===== Links: =====
 
-  * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
+  * [[Luke Chapter 3 Comprehension Questions]]
 
-**[[:pt-br:bible:notes:luk:03:03|<<]] | [[:pt-br:bible:notes:luk:03:05|>>]]**
+**[[<<]] | [[>>]]**
 
 ~~DISCUSSION~~{{tag>draft isaiah prophet}}
 
