@@ -30,10 +30,14 @@
 
 ===== Translation Notes: =====
 
-    * **of the Lord ** - "from the Lord" or "who serves the Lord" or "who was sent by the Lord"
-    * **appeared to him** - "suddenly came to him" or "was suddenly there with Zechariah"
-    * **Your prayer has been heard **- "God has heard what you asked him for." The following is implied and could be added: "and will grant it." God did not just hear what Zechariah prayed for; he was also going to do it. (See: [[en:ta:translate:implicitexplicit]])
-    * **will call his name John** - “will give him the name John” or “will name him John”
+  * **of the Lord **  - "from the Lord" or "who serves the Lord" or "who was sent by the Lord"
+  * <font inherit/inherit;;#B22222;;inherit>** do Senhor ** - "vindo do Senhor" ou "quem serve ao Senhor" ou "quem foi enviado pelo Senhor".</font>
+  * **appeared to him**  - "suddenly came to him" or "was suddenly there with Zechariah"
+  * <font inherit/inherit;;#B22222;;inherit>** apareceu a ele ** - "de repente veio a ele" ou "subitamente estava ali com Zacarias".</font>
+  * **Your prayer has been heard **- "God has heard what you asked him for." The following is implied and could be added: "and will grant it." God did not just hear what Zechariah prayed for; he was also going to do it. (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** suas orações foram ouvidas ** - "Deus ouviu o que você pediu a ele". A seguinte informação está implícita e pode ser adicionada: "e te concederá o que pediu".</font>
+  * **will call his name John**  - “will give him the name John” or “will name him John”
+  * <font inherit/inherit;;#B22222;;inherit>** chamará seu nome de João  ** - "dará a ele o nome de João" ou "o chamará João".</font>
 
 ===== Links: =====
 
