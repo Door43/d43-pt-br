@@ -33,6 +33,7 @@
 ===== Translation Notes: =====
 
   * (The angel continues speaking to Zechariah.)
+  * <font inherit/inherit;;#B22222;;inherit>(O anjo continua a falar com Zacarias)</font>
   * **many of the sons of Israel**  - If it sounds like Zechariah is not included, this phrase could be translated as "many of you descendants of Israel" or "many of you who are God's people, Israel." If this change is made, make sure that "their God" is also changed to "your (plural) God."
   * <font inherit/inherit;;#B22222;;inherit>** muitos dos filhos de Israel  ** - Se isso der a impressão de que Zacarias não está incluso, esta frase pode ser traduzida como: "muitos de vocês, descendentes de Israel" ou "muitos de vocês que são povo de Deus, Israel". Se essa mudança for feita, tenha a certeza de que "Deus deles" é também mudado para "Deus de vocês".</font>
   * **in advance of him**  - He would go and announce to the people that the Lord would come to them.
@@ -40,9 +41,9 @@
   * **in the spirit and power of Elijah**  - "with the same spirit and power that Elijah had." The word "spirit" either refers to God's Holy Spirit or to Elijah's attitude or way of thinking. Make sure that the word "spirit" does not mean "ghost" or "evil spirit".
   * <font inherit/inherit;;#B22222;;inherit>** no espírito e poder de Elias  ** - "com o mesmo espírito e poder que Elias teve". A palavra "espírito" ou se refere ao Espírito Santo de Deus ou à atitude ou modo de pensar de Elias.</font>
   * **turn the hearts of the fathers to their children**  - This could be translated as "persuade fathers to care about their children again" or "cause fathers to restore their relationships with their children." This would also apply to mothers, but only father's are named.
-  * <font inherit/inherit;;#B22222;;inherit>** voltar o coração dos pais para os seus filhos ** - Isto pode ser traduzido como "persuadir os pais a cuidarem de seus filhos novamente" ou "levar os pais a restaurarem seus relacionamentos com seus filhos". Isso também se aplicaria às mães, mas apenas os pais são mencionados.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** voltar o coração dos pais para os seus filhos  ** - Isto pode ser traduzido como "persuadir os pais a cuidarem de seus filhos novamente" ou "levar os pais a restaurarem seus relacionamentos com seus filhos". Isso também se aplicaria às mães, mas apenas os pais são mencionados.</font>
   * **prepared for the Lord**  - This could be translated as "ready to believe the Lord's message" or "ready to obey the Lord."
-  * <font inherit/inherit;;rgb(178, 34, 34);;inherit>** preparados para o Senhor ** - Isto pode ser traduzido como:"prontos para crerem na mensagem do Senhor" ou "prontos para</font> <font inherit/inherit;;rgb(178, 34, 34);;inherit>obedecerem ao Senhor".</font>
+  * <font inherit/inherit;;rgb(178, 34, 34);;inherit>** preparados para o Senhor  ** - Isto pode ser traduzido como:"prontos para crerem na mensagem do Senhor" ou "prontos para</font>    <font inherit/inherit;;rgb(178, 34, 34);;inherit>obedecerem ao Senhor".</font>
   * (This is the end of the angel's speech.)
   * <font inherit/inherit;;#B22222;;inherit>(Este é o final da mensagem do anjo)</font>
 
