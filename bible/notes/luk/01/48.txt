@@ -27,12 +27,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Mary continues to praise God:)
+  * <font inherit/inherit;;#B22222;;inherit>(Maria continua a louvar a Deus)</font>
   * **lowly**  - "unimportant" or "ordinary" or "simple" or "poor." Mary did not have high social standing.
+  * <font inherit/inherit;;#B22222;;inherit>** modesta ** - "sem importância" ou "ordinária" ou "pobre". Maria não tinha alta posição social.</font>
   * **paid attention**  - "thought about" or "remembered." It could be translated as "did not forget." This is not an issue of God's ability to remember, but his choosing to remember.
+  * <font inherit/inherit;;#B22222;;inherit>** prestou atenção ** - "pensou sobre" ou "se lembrou". Isto poderia ser traduzido como: "não esqueceu". Isso não se refere à habilidade de Deus se lembrar, mas à sua escolha em se lembrar.</font>
   * **from now on**  - “now and in the future”
+  * <font inherit/inherit;;#B22222;;inherit>** de agora em diante ** - "agora e no futuro".</font>
   * **the Mighty One**  - This refers to God. It could be translated as "God, the Powerful One."
+  * <font inherit/inherit;;#B22222;;inherit>** O Poderoso ** - Isto se refere a Deus. Poderia ser traduzido como: "Deus, o Poderoso".</font>
   * **his name**  - "he"
+  * <font inherit/inherit;;#B22222;;inherit>** nome dele ** - "ele".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
