@@ -32,10 +32,10 @@
 ===== Translation Notes: =====
 
 \\
-<font inherit/inherit;;#B22222;;inherit>** Informações Úteis para a Tradução: **</font>
+<font inherit/inherit;;#B22222;;inherit>** Informações Úteis para a Tradução:  **</font>
 
   * **during the high priesthood of Annas and Caiaphas**  - They were serving together as high priests.
-  * <font inherit/inherit;;#B22222;;inherit>durante o sumo sacerdócio de Anás e Caifás - Eles estavam servindo juntos como sumos sacerdotes.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** durante o sumo sacerdócio de Anás e Caifás - ** Eles estavam servindo juntos como sumos sacerdotes.</font>
 
 ===== Links: =====
 
