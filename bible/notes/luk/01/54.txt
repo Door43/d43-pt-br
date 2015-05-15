@@ -29,12 +29,20 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Mary continues to praise God:)
+  * <font inherit/inherit;;#B22222;;inherit>(Maria continua a louvar a Deus)</font>
   * **He has helped**  - "The Lord has helped"
+  * <font inherit/inherit;;#B22222;;inherit>** tem ajudado ** - "o Senhor tem ajudado".</font>
   * **his servant Israel**  - "Israel" here refers to the nation, or people, of Israel. If readers confuse this with the the man named Israel, it could be translated as "his servant, the nation of Israel" or "Israel, his servants."
+  * <font inherit/inherit;;#B22222;;inherit>** seu servo Israel ** - "Israel" aqui se refere à nação ou ao povo de Israel. Se houver a possibilidade de os leitores confundirem isso com o homem chamado Israel, então traduza como:  "seu servo, a nação de Israel" ou "Israel, seus servos".</font>
   * **just as he promised**  - "because he promised"
+  * <font inherit/inherit;;#B22222;;inherit>** assim como ele prometeu ** - "porque ele prometeu".</font>
   * **his descendants**  - "Abraham's descendants"
+  * <font inherit/inherit;;#B22222;;inherit>** os descendentes dele ** - "os descendentes de Abraão".</font>
   * (This is the end of Mary's speech.)
+  * <font inherit/inherit;;#B22222;;inherit>(Este é o final do discurso de Maria)</font>
 
 ===== Links: =====
 
