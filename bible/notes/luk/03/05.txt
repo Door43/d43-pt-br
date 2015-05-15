@@ -25,9 +25,62 @@
 ===== Translation Notes: =====
 
   * (The quote from Isaiah's prophecy continues.)
+  * <font inherit/inherit;;#B22222;;inherit>(A citação da profecia de</font>
+Isaías continua .)​
   * **Every valley will be filled**  - This could also be translated as "They will fill in every low place in the road." When people prepare the road for an important person who is coming, they fill in the low places with dirt so that the road will be level. This is part of the metaphor started in the previous verse. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Todo o vale</font>
+será preenchido
+- **
+Isso também poderia ser
+traduzida como " Eles irão
+preencher
+cada lugar
+baixo
+na estrada. "
+Quando
+as pessoas preparam
+o caminho
+para
+uma pessoa importante
+que vem , eles
+preenchem os
+lugares baixos
+com
+a sujeira
+de modo que
+o caminho seja
+nívelado.
+Esta é parte
+da metáfora que
+começou
+no verso anterior .
+(Veja : Metáfora)
   * **Every mountain and hill will be made level**  - This could also be translated as "They will level every mountain and hill" or "They will remove every high place in the the road."
+  * **<font inherit/inherit;;#B22222;;inherit>Cada</font>
+montanha
+e
+colina
+serão niveladas
+-  ** <font inherit/inherit;;#B22222;;inherit>Isso também poderia ser</font>
+traduzida como " Eles vão
+nivelar
+toda montanha
+e
+colina
+" ou " Eles vão
+remover
+todos os lugares altos
+na
+estrada. "
   * **see the salvation of God**  - This could be translated as "learn about how God saves people from sin."
+  * <font inherit/inherit;;#B22222;;inherit>** verá a salvação de</font>
+Deus
+- **
+Isso poderia
+ser traduzido como " aprende
+como Deus salva
+as pessoas do pecado ."
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
