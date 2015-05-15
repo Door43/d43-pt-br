@@ -26,11 +26,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Now**  – This word introduces a new part of the story. Consider how your language does this. Some translations might not use an introductory word here.
+  * <font inherit/inherit;;#B22222;;inherit>** agora ** - Esta palavra introduz uma nova parte da história. Considere como sua língua faz isso. Algumas traduções talvez não usem uma palavra introdutória nesses casos.</font>
   * **got up**  – This could be translated as "started out" or "got ready."
+  * <font inherit/inherit;;#B22222;;inherit>** se levantou ** - Isto pode ser traduzido como "começou" ou "se aprontou".</font>
   * **the hill country**  – "the hilly area" or "the highlands" or "the mountainous part of Israel"
+  * <font inherit/inherit;;#B22222;;inherit>** a região montanhosa ** - "a área montanhosa" ou "as terras elevadass" ou "a região montanhosa de Israel".</font>
   * **where she went**  – This could be translated as "and she went" or "When she arrived, she went."
+  * <font inherit/inherit;;#B22222;;inherit>** onde ela foi ** - Isto pode ser traduzido como: "a medida que ela foi" ou "quando ela chegou, ela foi".</font>
   * **leaped**  - "moved suddenly"
+  * <font inherit/inherit;;#B22222;;inherit>** saltou ** - "moveu-se de repente".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
