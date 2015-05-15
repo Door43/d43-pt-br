@@ -35,13 +35,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **the angel Gabriel was sent by God**  - This could be translated as active voice "God told the angel Gabriel to go." (See: [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** o anjo Gabriel foi enviado por Deus ** - Isto pode ser traduzido na voz ativa como: "Deus disse ao anjo Gabriel para ir".</font>
   * **engaged**  - "pledged" or "promised to be married." This meant that Mary's parents had made a commitment for her to marry Joseph.
+  * <font inherit/inherit;;#B22222;;inherit>** noivos ** - "comprometidos" ou "prometidos para se casarem". Isto significa que os pais de Maria tinham assumido o compromisso de ela se casar com José.</font>
   * **came to her**  - "came to where Mary was" or "went to where Mary was"
+  * <font inherit/inherit;;#B22222;;inherit>** veio até ela ** - "veio até onde Maria estava" ou "foi até onde Maria estava".</font>
   * **Greetings**  - “Rejoice” or "Be glad." This was a common greeting.
+  * <font inherit/inherit;;#B22222;;inherit>** Saudações ** - "Exultai" ou "Alegrai-vos". Este era uma saudação comum.</font>
   * **highly favored one**  - This could also be translated as “you who are highly favored" or "you who have received grace" or "you who have received kindness.”
+  * <font inherit/inherit;;#B22222;;inherit>** muito favorecida ** - Isto pode também ser traduzido como: "você que é muito favorecida" ou "você que recebeu graça" ou "você que recebeu generosidade".</font>
   * **was very troubled**  - "was disturbed" or "was afraid and confused"
+  * <font inherit/inherit;;#B22222;;inherit>** estava muito preocupado ** - "estava muito perturbado" ou "estava amedrontado e confuso".</font>
   * **what kind of greeting this might be**  - Mary understood the meaning of the individual words, but she did not understand why the angel said them to her.
+  * <font inherit/inherit;;#B22222;;inherit>** que tipo de saudação essa poderia ser ** - Maria entendeu o significado de cada palavra, mas ela não entendeu o porquê de o anjo as ter dito para ela.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
