@@ -36,12 +36,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **found favor with God**  - This could be translated as "God has decided to give you his grace” or “God is being gracious to you" or “God is showing you his kindness.”
+  * <font inherit/inherit;;#B22222;;inherit>achou favor com Deus - Isto pode ser traduzido como: "Deus decidiu te dar sua graça" ou "Deus está sendo gracioso com você" ou "Deus está demonstrando a você sua bondade".</font>
   * **Behold**  - "Look" or "See" or "Listen"
+  * <font inherit/inherit;;#B22222;;inherit>** Eis que/Atenção ** - "olhe" ou "veja" ou "escute".</font>
   * **call his name**  - "call him" or "name him" or "give him the name"
+  * <font inherit/inherit;;#B22222;;inherit>** chame o nome dele ** - "chame ele" ou "o nomeie" ou "dê a ele o nome".</font>
   * **will be called the Son of the Most High**  - This could be translated as "people will call him the Son of the Most High One" or "people will acknowledge that he is the Son of God Most High."
+  * <font inherit/inherit;;#B22222;;inherit>** será chamado o Filho do Altíssimo ** - Isto pode ser traduzido como: "as pessoas o chamarão de Filho do Altíssimo" ou "as pessoas reconhecerão que ele é o Filho do Deus Altíssimo".</font>
   * **give him the throne of his father, David**- This could be translated as "give him authority to rule as king like his ancestor David did." The throne represents the king's authority to rule. (See: [[:en:ta:translate:metonymy|Metonymy]])
+  * <font inherit/inherit;;#B22222;;inherit>** dar a ele o trono do seu pai, Davi ** - Isto pode ser traduzido como: "dar a ele autoridade para governar como rei, assim como reinou seu ancestral Davi". O trono representa a autoridade do rei para reinar.</font>
   * **his father**  - The Bible often uses the word "fathers" to refer to ancestors and uses the word "sons" to refer to descendants. The word "his" refers to Mary's son.
+  * <font inherit/inherit;;#B22222;;inherit>** pai dele ** - A Bíblia geralmente usa a palavra "pais" para se referir aos ancestrais e usa a palavra "filhos" para se referir aos descendentes. A palavra "dele" se refere ao filho de Maria.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
