@@ -24,10 +24,17 @@
 
 ===== Translation Notes: =====
 
+Informações úteis para a tradução:
+
   * (Mary continues to praise God:)
+  * (Maria continua a louvar a Deus)
   * **He has pulled down rulers from their thrones**  - This could be translated as "He has taken away the authority of kings" or "He has made rulers stop ruling". A throne is a chair that a king sits on, and it is a symbol of his authority. If a king is brought down from his throne, it means he no longer has the authority to reign as king.
+  * <font inherit/inherit;;#B22222;;inherit>** ele derrubou reis de seus tronos ** - Isto pode ser traduzido como: "Ele tirou a autoridade de reis" ou "Ele fez com que reis deixassem de reinar". Um trono é uma cadeira em que o rei se senta, e é um símbolo de autoridade. Se um rei é derrubado de seu trono, isso significa que ele não tem mais autoridade para reinar como rei.</font>
   * **has raised up lowly people**  - In this metaphor, people who are important are higher than people who are less important. If your language does not have this kind of metaphor, you could translate this as "has made humble people important" or "has given honor to people whom others have not honored." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** tem exaltado pessoas humildes ** - Nesta metáfora, pessoas que são importantes são maiores que aquelas que são menos importantes. Se sua língua não possui esse tipo de metáfora, você poderia traduzir isso como "tem feito pessoas humildes importantes" ou "tem dado honra àqueles que outros não tem honrado".</font>
   * **plenty of good things**  - This could be translated here as "plenty of good food."
+  * <font inherit/inherit;;#B22222;;inherit>** muitas coisas boas ** - Isto pode ser traduzido aqui como: "muita comida boa".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
