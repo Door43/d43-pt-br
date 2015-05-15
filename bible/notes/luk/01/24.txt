@@ -28,9 +28,14 @@
 ===== Translation Notes: =====
 
   * **his wife**  - "Zechariah's wife"
+  * <font inherit/inherit;;#B22222;;inherit>** esposa dele ** - "esposa de Zacarias".</font>
   * **conceived**  - "became pregnant" (UDB). Use an expression that is acceptable and will not embarrass people.
+  * <font inherit/inherit;;#B22222;;inherit>** concebeu ** - "ficou grávida" (UDB). Use uma expressão que seja aceitável e que não constranja as pessoas.</font>
   * **This is what the Lord has done for me**  - This phrase refers to the fact that the Lord allowed her to become pregnant.
+  * <font inherit/inherit;;#B22222;;inherit>** Isto é o que o Senhor tem feito por mim ** - Esta frase se refere ao fato de o Senhor permitir que ela fique grávida.</font>
   * **watched over me**  - This is an idiom that means "regarded me kindly" or "had pity on me" or "was compassionate toward me." (See: [[:en:ta:translate:idiom|Idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** zelou por mim ** - Este é uma expressão que significa "me estimou com carinho" ou "teve pena de mim" ou "teve compaixão para comigo".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
