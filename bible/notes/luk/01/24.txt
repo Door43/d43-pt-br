@@ -27,7 +27,7 @@
 
 ===== Translation Notes: =====
 
-<font 14px line-height: 19.6000003814697px;/inherit;;#B22222;;inherit>Informações</font> úteis<font 14px line-height: 19.6000003814697px;/inherit;;#B22222;;inherit></font> para<font 14px line-height: 19.6000003814697px;/inherit;;#B22222;;inherit>a</font> tradução<font 14px line-height: 19.6000003814697px;/inherit;;#B22222;;inherit>:</font>
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
   * **his wife**  - "Zechariah's wife"
   * <font inherit/inherit;;#B22222;;inherit>** esposa dele  ** - "esposa de Zacarias".</font>
