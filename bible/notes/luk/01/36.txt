@@ -34,12 +34,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (The angel continues to speak to Mary:)
+  * <font inherit/inherit;;#B22222;;inherit>(O anjo continua a conversar com Maria)</font>
   * **your relative**  - If you need to state a specific relationship, Elizabeth was probably Mary's aunt or great-aunt.
+  * <font inherit/inherit;;#B22222;;inherit>** seu parente ** - Se você precisar especificar o grau de parentesco, Isabel seria provavelmente a tia ou tia-avó de Maria.</font>
   * **also has conceived a son in her old age**  - "has also become pregnant with a son, even though she is already very old" or "even though she is old, has also become pregnant and will bear a son." Make sure it doesn't sound like both Mary and Elizabeth were old when they conceived.
+  * <font inherit/inherit;;#B22222;;inherit>** também concebeu um filho na sua velhice ** - "também ficou grávida de um filho, apesar de ela já ser idosa" ou "apesar de ela ser idosa, ela também engravidou e dará à luz um filho".  Se certifique que isso não gere a noção de ambas, Maria e Isabel, estavam idosas quando deram à luz.</font>
   * **nothing is impossible for God!**  - This could be translated as "because God can do anything." What God had done for Elizabeth was proof that God was able to do anything, and that he could even enable Mary to become pregnant without her having sexual relations.
+  * <font inherit/inherit;;#B22222;;inherit>** nada é impossível para Deus ** - Isto pode ser traduzido como: "porque Deus pode fazer qualquer coisa". O que Deus fez por Isabel foi uma prova que ele era capaz de fazer qualquer coisa, e que ele poderia até mesmo fazer com que Maria engravidasse sem ter tido relação sexual.</font>
   * **I am the Lord's servant**  - "I am a servant of the Lord." Choose an expression that shows her humility and obedience to the Lord. She was not boasting about being the Lord's servant.
+  * <font inherit/inherit;;#B22222;;inherit>** eu sou a serva do Senhor ** - "eu sou uma serva do Senhor". Escolha a expressão que mostra a humildade e obediência dela ao Senhor. Ela não estava se vangloriando de ser serva do Senhor.</font>
   * **Let this happen to me**  - "Let these things happen to me." Mary was expressing her willingness for the things the angel had told her about to happen.
+  * <font inherit/inherit;;#B22222;;inherit>** Que isso aconteça comigo ** - "Que essas coisas aconteçam comigo". Maria estava expressando sua boa vontade de viver as coisas que o anjo tinha dito que aconteceria.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
