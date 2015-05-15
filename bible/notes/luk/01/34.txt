@@ -32,12 +32,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **How will this happen**  - This could be translated as "How is this possible?" Though Mary did not understand how it could happen, she did not doubt that it would happen.
+  * <font inherit/inherit;;#B22222;;inherit>** como isso acontecerá ** - Isto pode ser traduzido como: "Como isso é possível?". Apesar de Maria não ter entendido como aquilo iria acontecer, ela não duvidou que aconteceria.</font>
   * **will come over you**  - This phrase and the next one are ways of saying that the Holy Spirit would supernaturally cause Mary to become pregnant even while she still remained a virgin. Make sure it is clear that there was no physical union involved; this was a miracle.
+  * <font inherit/inherit;;#B22222;;inherit>** virá até você ** - Esta frase e a seguinte são maneiras de dizer que o Espírito Santo iria sobrenaturalmente levar Maria a ficar gravida, mesmo enquanto ela ainda era virgem. Tenha a certeza de que está claro que não houve união ou envolvimento físico. Isso foi um milagre.</font>
   * **The power of**  - This could be translated as "By his power."
+  * <font inherit/inherit;;#B22222;;inherit>** O poder de ** - Isto pode ser traduzido por: "pelo seu poder".</font>
   * **will overshadow you**  - This could be translated as "will cover you like a shadow" or "will be with you" or, "will cause this to happen." Again, make sure this does not imply any physical union.
+  * <font inherit/inherit;;#B22222;;inherit>** encobrirá você ** - Isto pode ser traduzido como: "encobrirá você como uma sombra" ou "vai estar com você", ou "levará isso a acontecer". De novo, tenha certeza de que isso não dará o significado de união física.</font>
   * **the holy one**  - "the holy child" or "the holy baby"
+  * <font inherit/inherit;;#B22222;;inherit>** o santo ** - "a criança sagrada" ou "o bebê sagrado".</font>
   * **will be called**  - This could be translated as "people will call him" or "people will acknowledge that he is."
+  * <font inherit/inherit;;#B22222;;inherit>** será chamado ** - Isto pode ser traduzido como: "as pessoas o chamarão" ou "as pessoas reconhecerão quem ele é".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
