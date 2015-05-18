@@ -23,8 +23,13 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (This is a continuation of the list of Jesus' ancestors.)
+  * <font inherit/inherit;;#B22222;;inherit>(Esta é a continuação da lista dos ancestrais de Jesus)</font>
   * **the son of Amminadab, the son of Admin…**  - This could be translated as “who was the son of Amminadab, who was the son of Admin…” or “Levi was the son of Amminadab, Simeon was the son of Admin…” or “Nashon's father was Amminadab, Amminadab's father was Admin….” Use the same wording as you used in the previous verses.
+  * <font inherit/inherit;;#B22222;;inherit>** o filho de Aminadabe, o filho de Admim... ** - Isto pode ser traduzido como: "que era o filho de Aminadabe, que era o filho de Admim..." ou "Levi era o filho de Aminadabe, Simeão era o filho de Admim..." ou "o pai de Naassom era Aminadabe, o pai de Aminadabe era Admim...". Use a mesma forma que você usou nos versos anteriores.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
