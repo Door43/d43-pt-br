@@ -29,10 +29,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Zechariah continues to prophecy, but now he speaks directly to his newborn son:)
+  * <font inherit/inherit;;#B22222;;inherit>(Zacarias continua a profetizar, mas agora ele fala diretamente para seu filho recém nascido)</font>
   * **will be called the prophet**  - This means he actually will be the prophet and people will know him as such. To make that clear, this could be translated as "will be the prophet."
+  * <font inherit/inherit;;#B22222;;inherit>** será chamado profeta ** - Isto significa que de fato ele seria profeta e as pessoas o reconheceriam como tal. Para deixar isso claro, isto pode ser traduzido como: "será o profeta".</font>
   * **of the Most High**  - This could be translated as "who serves the Most High" or "who speaks for God Most High."
+  * <font inherit/inherit;;#B22222;;inherit>** do Altíssimo ** - Isto pode ser traduzido como: "que serve ao Altíssimo" ou "que fala pelo Deus Altíssimo".</font>
   * **how they can be saved through the forgiveness of their sins**  - This can be translated as "how God will save them by forgiving their sins."
+  * <font inherit/inherit;;#B22222;;inherit>** como eles podem ser salvos através do perdão dos seus pecados ** - Isto pode ser traduzido como: "como Deus os salvará perdoando seus pecados".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
