@@ -32,10 +32,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **spoke this prophesy**  - This could be translated as "and prophesied, and this is what he said." Consider natural ways of introducing direct quotes in your language. (See: [[:en:ta:translate:quotation|Speech Quotations]])
+  * <font inherit/inherit;;#B22222;;inherit>** falou esta profecia ** - Isto pode ser traduzido como: "e profetizou, e isto é o que ele disse". Considere as maneiras naturais que sua língua possui para introduzir citações diretas.</font>
   * **the God of Israel**  - "the God who reigns over Israel" or "the God whom Israel worships." Israel here refers to the nation of Israel. Zechariah and the people he was talking to all belonged to the nation of Israel.
+  * <font inherit/inherit;;#B22222;;inherit>** o Deus de Israel ** - "o Deus que reina sobre Israel" ou "o Deus que Israel adora". Israel aqui se refere à nação de Israel. Zacarias e e as pessoas com quem ele falava pertenciam à nação de Israel.</font>
   * **has come to us**  - This is an idiom that means "has come to help us."
+  * <font inherit/inherit;;#B22222;;inherit>** tem vindo até nós ** - Este é uma expressão idiomática que significa "tem vindo para nos ajudar".</font>
   * **his people**  - "God's people"
+  * <font inherit/inherit;;#B22222;;inherit>** seu povo  ** - "povo de Deus".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
