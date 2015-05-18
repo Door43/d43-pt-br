@@ -24,10 +24,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (John continues speaking to the crowds.)
+  * <font inherit/inherit;;#B22222;;inherit>(João continua a falar com as multidões)</font>
   * **produce fruits that come from repentance**  - This could also be translated as "Produce the kind of fruit that shows that you have repented" or "Do the good things that show that you have turned away from your sin." In this metaphor a person's behavior is compared to fruit. Just as a plant is expected to produce fruit that is appropriate for that kind of plant, a person who says that he has repented from his sin is expected to live righteously. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** produzam frutos de arrependimento ** - Isto também pode ser traduzido como: "Produzam o tipo de fruto que demonstre que vocês se arrependeram" ou "Façam as coisas boas que demonstram que vocês se voltaram dos seus pecados". Nesta metáfora o comportamento de uma pessoa é comparado com uma fruta. Assim como se espera que uma planta produza frutos que sejam apropriados ao seu tipo, de uma pessoa que diz que se arrependeu de seus pecados é esperado que viva em retidão.</font>
   * **saying within yourselves**  - "saying to yourselves" or "saying in your heart" or "thinking"
+  * <font inherit/inherit;;#B22222;;inherit>** dizendo dentro de vocês mesmos ** - "dizendo para vocês mesmos" ou "dizendo em seus corações" ou "pensando".</font>
   * **We have Abraham for our father**  - "Abraham is our ancestor" or "We are Abraham's descendants." If it is unclear why they would say this, you may also add the implied information "So God won't punish us."
+  * <font inherit/inherit;;#B22222;;inherit>** Nós temos Abraão como nosso pai ** - "Abraão é nosso ancestral" ou "Nós somos descendentes de Abrãao". Se não ficar claro o porquê que eles disseram isso, você pode adicionar a seguinte informação implícita: "então Deus não irá nos punir".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
