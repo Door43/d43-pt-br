@@ -24,11 +24,11 @@
 <font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
   * **asked him, saying**  - "asked him and said" or "asked John"
-  * <font inherit/inherit;;#B22222;;inherit>** perguntou a ele, dizendo ** - "perguntou a ele e disse" ou "perguntou a João".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** perguntou a ele, dizendo  ** - "perguntou a ele e disse" ou "perguntou a João".</font>
   * **answered and said to them**  - "answered them, saying" or "answered them" or "said"
-  * <font inherit/inherit;;#B22222;;inherit>** respondeu e disse para eles ** - "respondeu-os, dizendo" ou "respondeu a eles" ou "disse".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** respondeu e disse para eles  ** - "respondeu-os, dizendo" ou "respondeu a eles" ou "disse".</font>
   * **do likewise**  - "do the same thing." It can be translated here as "give food to someone who does not have any."
-  * <font inherit/inherit;;#B22222;;inherit>** faça da mesma forma ** - "faça a mesma coisa". Isto pode ser traduzdio aqui como "dê comida para aquele que não tem nada".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** faça da mesma forma  ** - "faça a mesma coisa". Isto pode ser traduzido aqui como "dê comida para aquele que não tem nada".</font>
 
 ===== Links: =====
 
