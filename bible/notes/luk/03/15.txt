@@ -25,11 +25,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **as the people**  - This refers to the same people who came to John. This could be translated as "because the people."
+  * <font inherit/inherit;;#B22222;;inherit>** como as pessoas  ** - Isto se refere às mesmas pessoas que foram até João. Isto pode ser traduzido como: "porque as pessoas".</font>
   * **I baptize you with water**  - "I baptize using water" or "I baptize by means of water"
+  * <font inherit/inherit;;#B22222;;inherit>** eu batizo você com água ** - "eu batizo usando água" ou "eu batizo por meio da água".</font>
   * **not worthy even to untie the strap of his sandals**  - This could be translated as "not important enough even to loosen the straps of his sandals." Untying the straps of sandals was a duty of a slave. John was saying that the one who would come is so great that John was not even worthy enough to be his slave.
+  * <font inherit/inherit;;#B22222;;inherit>** nem mesmo digno de desatar a correia de suas sandálias ** - Isto pode ser traduzido como: "não importante o suficiente para até mesmo folgar as correias de suas sandálias". Desatar as correias de uma sandália era trabalho de escravo. João estava dizendo que aquele que viria era tão grande que ele não era digno o suficiente nem mesmo para ser seu escravo.</font>
   * **sandals**  - Sandals are shoes with straps that hold the bottom of the shoe to the foot. It could be translated as "shoes" or "flip-flops" or "thongs."
+  * <font inherit/inherit;;#B22222;;inherit>** sandálias ** - Sandálias são sapatos com correias que seguram a parte de baixo do sapato ao pé. Isto poderia ser traduzido como: "sapatos" ou "chinelas".</font>
   * **He will baptize you with the Holy Spirit and with fire**  - This is a metaphor. It compares literal baptism that brings a person into contact with water to a spiritual baptism that brings them into contact with the Holy Spirit and with fire. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Ele vai batizar vocês com o Espírito Santo e com fogo ** - Esta é uma metáfora. Ela compara o batismo literal, que leva a pessoa ao contato com água, com o batismo espiritual, que as leva ao contato com o Espírito Santo e seu fogo.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
