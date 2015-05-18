@@ -23,9 +23,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (This is a continuation of the list of Jesus' ancestors.)
+  * <font inherit/inherit;;#B22222;;inherit>(Esta é a continuação da lista de ancestrais de Jesus)</font>
   * **the son of Cainan, the son of Arphaxad…**  - This could be translated as “who was the son of Cainan, who was the son of Arphaxad…” or “Levi was the son of Cainan, Cainan was the son of Arphaxad…” or “Shelah's father was Cainan, Cainan's father was Arphaxad….” Use the same wording as you used in the previous verses.
+  * <font inherit/inherit;;#B22222;;inherit>** o filho de Cainã, o filho de Arfaxade...  ** - Isto pode ser traduzido como: "que era o filho de Cainã, que era o filho de Arfaxade..." ou "Levi era o filho de Cainã, Cainã era o filho de Arfaxade..." ou "o pai de Salá era Cainã, o pai de Cainã era Arfaxade...". Use a mesma forma que você usou nos versos anteriores.</font>
   * **Adam, the son of God**  - This could be translated as "Adam, created by God" or "Adam, who was from God" or "Adam, the son, we could say, of God."
+  * <font inherit/inherit;;#B22222;;inherit>** Adão, o filho de Deus ** - Isto poderia ser traduzido como: "Adão, criado por Deus" ou "Adão, que veio de Deus" ou "Adão, o filho, podemos assim dizer, de Deus".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
