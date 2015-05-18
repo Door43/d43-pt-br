@@ -29,9 +29,13 @@
 ===== Translation Notes: =====
 
   * **a large number of the heavenly army**  - The word "army" here could refer to a literal army, or it could be a metaphor for an organized group. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** um grande número de exército celestial  ** - A palavra "exército" aqui pode se referir a um exército no sentido literal, ou pode ser uma metáfora para um grupo organizado. (Veja: Metáfora)</font>
   * **praising God**  - This could be translated as "They were praising God."
+  * <font inherit/inherit;;#B22222;;inherit>** louvando a Deus ** - Isto pode ser traduzido como "Eles estavam louvando a Deus."</font>
   * **Glory to God in the highest**  - Possible meanings are 1) "Give glory to God in the highest place" or 2) "Give the highest glory to God." It could be translated as "speak of God's glory in the highest place" or "Give God the highest praise."
+  * <font inherit/inherit;;#B22222;;inherit>** Glória a Deus nas alturas ** - Os significados possíveis são 1) "Glória a Deus no lugar mais alto" ou 2) "Dê a maior glória a Deus." Isto pode ser traduzido como "Fale da glória de Deus no lugar mais alto" ou "Dê a Deus o mais alto louvor."</font>
   * **may there be peace on earth among people with whom he is pleased**  - "may those people on earth with whom God is pleased have peace"
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
