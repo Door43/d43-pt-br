@@ -32,12 +32,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Zechariah continues to prophesy.)
+  * <font inherit/inherit;;#B22222;;inherit>(Zacarias continua a profetizar)</font>
   * **his servant David **- "King David, who served him"
+  * <font inherit/inherit;;#B22222;;inherit>** seu servo Davi ** - "Rei Davi, que o serviu".</font>
   * **just as God spoke**  - Here, this could be translated as "That is what God promised he would do when he."
+  * <font inherit/inherit;;#B22222;;inherit>** da forma que Deus falou ** -  Aqui, isto poder ser traduzido como: "Isso é o que Deus prometeu que faria quando ele".</font>
   * **spoke through his holy prophets**  - This could be translated as "caused his holy prophets to say" (UDB). When God spoke through the prophets, they used their own voices, but God enabled them to speak the words he wanted them to.
+  * <font inherit/inherit;;#B22222;;inherit>** falou através de seus santos profetas ** - Isto pode ser traduzido como: "levou seus santos profetas a dizerem" (UDB). Quando Deus falou através dos profetas, eles usaram suas próprias vozes, mas Deus os capacitou a falarem as palavras que ele queria.</font>
   * **enemies..all who hate us**  - This is a doublet in which "enemies" and "all who hate us" both refer to those who are against God's people. This could be translated as "people who fight against us and want to harm us." (See: [[:en:ta:translate:doublet|Doublet]])
+  * <font inherit/inherit;;#B22222;;inherit>** inimigos..todos os que nos odeiam ** - Isto é uma expressão composta em que "inimigos" e "todos os que nos odeiam" referem-se àqueles que são contra o povo de Deus. Isto pode ser traduzido como: "pessoas que lutam contra nós e que querem nos causar dano".</font>
   * **hand**  - "power" or "control." This is a metonymy in which "hand" is associated with the power or control that is being used to harm God's people. (See: [[:en:ta:translate:metonymy|Metonymy]])
+  * <font inherit/inherit;;#B22222;;inherit>** mão ** - "poder" ou "controle". Esta é uma metonímia em que "mão" está associada com o poder ou controle que está sendo usado para causar dano ao povo de Deus.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
