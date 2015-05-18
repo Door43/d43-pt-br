@@ -28,7 +28,7 @@
 
 ===== Translation Notes: =====
 
-<font inherit/inherit;;#B22222;;inherit>** Informações Úteis para a Tradução:  **</font>
+<font inherit/inherit;;#B22222;;inherit>Informações Úteis para a Tradução:</font>
 
   * **As it is written … prophet**  - This could be translated as "This happened as Isaiah the prophet had written in his book" or "John fulfilled the words that the prophet Isaiah had written in his book."
   * <font inherit/inherit;;#B22222;;inherit>** Como está escrito  **  ** … profeta -  ** Isso poderia ser traduzido como "Isso aconteceu quando o profeta Isaías havia escrito em seu livro" ou "João cumpriu as palavras que o profeta Isaías tinha escrito em seu livro."</font>
