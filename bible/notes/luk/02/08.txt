@@ -25,11 +25,18 @@
 ===== Translation Notes: =====
 
   * **in that same region**  - "in that area" or "near Bethlehem"
+  * <font inherit/inherit;;#B22222;;inherit>** naquela mesma região ** - "naquela área" ou "perto de Bélem"</font>
   * **keeping watch over**  - "taking care of" or "guarding in order to keep them safe"
+  * <font inherit/inherit;;#B22222;;inherit>** vigiando ** - "cuidando de" ou "protegente a fim de mantê-los seguro"</font>
   * **flocks of sheep**  - "groups of sheep."
+  * <font inherit/inherit;;#B22222;;inherit>** rebanhos de ovelhas ** - "grupos de ovelhas."</font>
   * **at night**  - This could be translated as "after the sun had set and it was dark."
+  * <font inherit/inherit;;#B22222;;inherit>** à noite ** - Isto pode ser traduzido como "após o sol se pôr e estava escuro."</font>
   * **an angel of the Lord**  - This could be translated as "an angel from the Lord" or "an angel who serves the Lord" or "an angel who was sent by the Lord."
+  * <font inherit/inherit;;#B22222;;inherit>** um anjo do Senhor ** - Isto pode ser traduzido como "um anjo vindo do Senhor" ou "um anjo que serve ao Senhor" ou "um anjo que foi enviado pelo Senhor."</font>
   * **appeared to them**  - "came to them."
+  * <font inherit/inherit;;#B22222;;inherit>** apareceu a eles ** - "veio até eles."</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
