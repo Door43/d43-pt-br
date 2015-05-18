@@ -23,10 +23,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **kept growing**  - "grew up (and became a man)." The translation of this should make it clear that he was no longer a child when he lived out in the deserted regions.
+  * <font inherit/inherit;;#B22222;;inherit>** continuou crescendo ** - "cresceu (e se tornou homem)". A tradução disso deve deixar claro que ele não era mais uma criança quando ele viveu nas regiões desertas.</font>
   * **became strong in spirit**  - "became spiritually mature" or "developed a strong moral character" or "grew stronger in his relationship with God"
+  * <font inherit/inherit;;#B22222;;inherit>** se tornou forte em espírito ** - "tornou-se espiritualmente maduro" ou "desenvolveu um forte caráter moral" ou "se fortaleceu no seu relacionamento com Deus".</font>
   * **until**  - This does not necessarily mark a stopping point. John continued to live out in the desert even after he started preaching publicly. So it may be more clear to say "even up to the time when."
+  * <font inherit/inherit;;#B22222;;inherit>** até ** - Isto não necessariamente marca um ponto de parada. João continuou a viver no deserto até mesmo depois que ele começou a pregar publicamente. Pode ser mais claro dizer: "até mesmo ao tempo em que".</font>
   * **appear publicly**  - This could be translated as "go before" or "preach in public."
+  * <font inherit/inherit;;#B22222;;inherit>** aparecer publicamente ** - Isto pode ser traduzido como "ir adiante" ou "pregar em público".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
