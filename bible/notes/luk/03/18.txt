@@ -30,10 +30,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **with many other exhortations**  - This could be translated as "with many other strong urgings" or "John encouraged the people many times to repent and…"
+  * <font inherit/inherit;;#B22222;;inherit>** com muitas outras exortações ** - Isto poderia ser traduzido como: "com muitos outros apelos fortes" ou "João encorajou as pessoas por muitas vezes a se arrependerem. e..</font> .".
   * **rebuked Herod the tetrarch**  - "told Herod the tetrarch that he had sinned." Herod was a tetrarch, not a king. He had only limited rule over the region of Galilee.
+  * <font inherit/inherit;;#B22222;;inherit>** repreendeu Herodes, o tetrarca ** - "disse para Herodes, o tetrarca, que ele havia pecado". Herodes era um tetrarca, não um rei. Ele tinha apenas um governo limitado sobre a região da Galileia.</font>
   * **for marrying his brother's wife**  - "because Herod married his own brother's wife"
+  * <font inherit/inherit;;#B22222;;inherit>** por ter casado com a esposa de seu irmão ** - "porque Herodes tinha se casado com a esposa do seu próprio irmão".</font>
   * **he had John locked up in prison**  - "he told his soldiers to put John in jail"
+  * <font inherit/inherit;;#B22222;;inherit>** ele lançou João na prisão ** - "ele disse aos seus soldados para colocar João na prisão".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
