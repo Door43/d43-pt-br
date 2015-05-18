@@ -24,13 +24,15 @@
   * [[:pt-br:bible:notes:key-terms:baptize|baptize]]
   * [[:pt-br:bible:notes:key-terms:wrath|wrath]]
 
-**Translation Notes:**
+===== **Translation Notes:**  =====
+
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
   * **to be baptized by him**  - "for John to baptize them"
-  * **para ser batizado por ele - **"para John batizá-los"
+  * <font inherit/inherit;;#B22222;;inherit>** para ser batizado por ele -  ** "para João batizá-los".</font>
   * **You offspring of poisonous snakes**  - This is a metaphor. Poisonous snakes are dangerous and represent evil. This could be translated as "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[:en:ta:translate:metaphor|Metaphor]])
-  * **Raça de víboras venenosas -**  Esta é uma metáfora. Cobras venenosas são perigosos e representam o mal. Isso pode ser traduzido como "Vocês cobras venenosas!" ou "Vocês são mal como cobras venenosas." (Veja: Metáfora)
+  * <font inherit/inherit;;#B22222;;inherit>** Raça de víboras venenosas - ** Esta é uma metáfora. Cobras venenosas são perigosas e representam o mal. Isso pode ser traduzido como: "Vocês, cobras venenosas!" ou "Vocês são maus como cobras venenosas." (Veja: Metáfora)</font>
   * **who warned you**  - This starts off a rhetorical question. John was rebuking the people because they were asking him to baptize them so that God would not punish them, but they did not want to stop sinning. The whole rhetorical question could be translated as "You can't flee from God's wrath like this" or "Do you think that you can flee from God's wrath just by being baptized?" (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
-  * **quem vos ensina -**  Isto começa de uma pergunta retórica. John estava repreendendo o povo, porque eles estavam pedindo a ele para batizá-los de modo que Deus não iria puni-los, mas eles não querem parar de pecar. A pergunta retórica inteira poderia ser traduzida como "Você não pode fugir da ira de Deus como esta" ou "Você acha que você pode fugir da ira de Deus apenas por ter sido batizado?" (Veja: da pergunta retórica)
+  * <font inherit/inherit;;#B22222;;inherit>** quem vos ensina - ** Isto inicia uma pergunta retórica. João estava repreendendo o povo, porque eles estavam pedindo a ele para batizá-los a fim de que Deus não viesse a puní-los, mas eles não queriam parar de pecar. A pergunta retórica inteira poderia ser traduzida como: "Vocês não podem fugir da ira de Deus assim" ou "Vocês acham que podem fugir da ira de Deus apenas por terem sido batizados?" (Veja: da pergunta retórica)</font>
   * **from the wrath that is coming**  - This could be translated as "from the punishment that is coming" or "from God's wrath that he is about to act on" or "because God is about to punish you." The word "wrath" is being used to refer to God's punishment because his wrath precedes it. (See: [[:en:ta:translate:metonymy|Metonymy]])
-  * § **da ira que está para vir -**  Isso poderia ser traduzido como "do castigo que está vindo" ou "da ira de Deus que ele está prestes a agir em" ou "porque Deus está prestes a puni-lo." A palavra "ira" está sendo usada para se referir a punição de Deus, porque a sua ira precede. (Veja: metonímia)
+  * <font inherit/inherit;;#B22222;;inherit>** da ira que está para vir - ** Isso poderia ser traduzido como: "do castigo que está vindo" ou "da ira de Deus que está prestes a agir" ou "porque Deus está prestes a puní-los." A palavra "ira" está sendo usada para se referir a punição de Deus, porque a sua ira a precede. (Veja: metonímia)</font>
