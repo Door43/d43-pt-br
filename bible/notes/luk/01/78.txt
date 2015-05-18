@@ -29,16 +29,29 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Zechariah continues prophesying to his newborn son.)
+  * <font inherit/inherit;;#B22222;;inherit>(Zacarias continua a profetizar para seu filho recém nascido)</font>
   * **because of his tender mercy**  - This could be translated as "because he is compassionate and merciful to us."
+  * <font inherit/inherit;;#B22222;;inherit>** por causa da sua terna misericórdia ** - Isto pode ser traduzido como: "porque ele é compassivo e misericordioso conosco".</font>
   * **of our God**  - Note that throughout these verses "our" and "us" are inclusive. (See: [[:en:ta:translate:inclusive|Inclusive]])
+  * <font inherit/inherit;;#B22222;;inherit>** de nosso Deus ** - Perceba que através destes versos "nosso" e "nós" são inclusivos.</font>
   * **like the rising sun**  - "like the sunrise" or "like the dawn." (See: [[:en:ta:translate:simile|Simile]])
+  * <font inherit/inherit;;#B22222;;inherit>** como o sol nascente ** - "como o nascer do sol" ou "como o amanhecer".</font>
   * **He will shine upon**  - This is a metaphor that means "He will give knowledge to." This could be translated as "He will give spiritual light to." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Ele brilhará sobre ** - Esta é uma metáfora que significa "Ele dará conhecimento para". Isto pode ser traduzido como: "Ele dará luz espiritual para".</font>
   * **people who sit in darkness**  - This is a metaphor that means "people who do not know the truth".
+  * <font inherit/inherit;;#B22222;;inherit>** pessoas que se sentam na escuridão ** - Esta é uma metáfora que significa "pessoas que não conhecem a verdade".</font>
   * **and (who sit in) the shadow of death**  - This is a metaphor that means "who are about to die" or "and who are afraid that they will soon die."
+  * <font inherit/inherit;;#B22222;;inherit>** e que se sentam à sombra da morte ** - Esta é uma metáfora que significa "que estão prestes a morrer" ou "que temem que em breve irão morrer".</font>
   * **guide**  - This is a metaphor for "teach."
+  * <font inherit/inherit;;#B22222;;inherit>** guiar ** - Esta é uma metáfora para "ensinar".</font>
   * **our feet**  - This is a synecdoche and refers to the whole person, not just the feet. It could be translated as "us." (See: [[:en:ta:translate:synecdoche|Synecdoche]])
+  * <font inherit/inherit;;#B22222;;inherit>** nossos pés ** - Esta é uma sinédoque e se refere à pessoa por completo, não apenas ao pés. Isto pode ser traduzido como "nós".</font>
   * **into the path of peace**  - This is a metaphor that means "into a peaceful life" or "into a life at peace with God." It could be translated as "to walk along a path that leads to peace" or "to live in a way that brings peace with God." Make sure your translation of this fits with how you translate "our feet."
+  * <font inherit/inherit;;#B22222;;inherit>** no caminho da paz ** - Esta é uma metáfora que significa "em uma vida de paz"  ou "em uma vida de paz com Deus". Isto pode ser traduzido como: "andar em um caminho que leva à paz" ou "viver de um modo que traga paz com Deus". Assegure-se de que a tradução disso se encaixe com a maneira como você traduziu "nossos pés".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
