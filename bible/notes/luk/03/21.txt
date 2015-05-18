@@ -32,13 +32,19 @@
 <font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
   * **Now it came about**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * <font inherit/inherit;;#B22222;;inherit>** sucedeu então que ** - Esta frase é usada aqui para marcar o início de uma nova parte da história. Sua língua tem uma maneira de fazer isso, você pode considerá-la usando aqui.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** sucedeu então que  ** - Esta frase é usada aqui para marcar o início de uma nova parte da história. Sua língua tem uma maneira de fazer isso, você pode considerá-la e usa-la aqui.</font>
   * **while all the people were being baptized by John**  - The phrase "all the people" refers to the people present with John. This could be translated as "while John was baptizing all the people." (See: [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** enquanto todas as pessoas estavam sendo batizadas por João ** - A frase "todas as pessoas" se refere às pessoas presentes com João. Isto poderia ser traduzido como: "enquanto João estava batizando todas as pessoas".</font>
   * **Jesus also was baptized by John**  - This could be translated as "John baptized Jesus, too." (See: [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** Jesus também foi batizado por João ** - Isto pode ser traduzido como: "João batizou Jesus também".</font>
   * **the heavens opened up**  - "the sky opened" or "the sky became open." This is more than a simple clearing of clouds, but it's not clear what it means. It possibly means that a hole appeared in the sky.
+  * <font inherit/inherit;;#B22222;;inherit>** os céus se abriram ** - "o céu abriu" ou "o céu se tornou aberto". Isto é mais que apenas dizer que o céu ficou limpo de nuvens (sem nuvens), mas não está claro o que isso significa. Pode possivelmente significar que um "buraco" apareceu no céu.</font>
   * **the Holy Spirit came down on him**  - "the Holy Spirit came down onto Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** o Espírito Santo veio sobre ele  ** - "o Espirito Santo desceu sobre ele".</font>
   * **dove**  - A dove is a small, gentle bird that people often used in the temple sacrifices and for food. It is similar to a pigeon.
+  * <font inherit/inherit;;#B22222;;inherit>** pombo ** - Uma pomba é um gentil e pequeno pássaro que é geralmente usado nos sacrifífios do templo e como comida.</font>
   * **in bodily form like a dove**  - "in physical form looking like a dove"
+  * <font inherit/inherit;;#B22222;;inherit>** em forma corpórea como um pombo ** - "em forma física parecendo com um pombo".</font>
 
 ===== Links: =====
 
