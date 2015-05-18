@@ -32,13 +32,22 @@
 ===== Translation Notes: =====
 
   * **Do not be afraid**  - "Stop being afraid"
+  * <font inherit/inherit;;#B22222;;inherit>** Não tenha medo ** - "Pare  de ter medo"</font>
   * **because I am about to announce to you good news**  - "for I bring good news to you" or "I will tell you some good news"
+  * <font inherit/inherit;;#B22222;;inherit>** Porque eu estou prestes a anunciar a você boas-novas ** - "pois eu trago boas-novas para você" ou "Eu vou dizer a você algumas boas-novas"</font>
   * **that will bring great joy to all the people**  - This could be translated as "that will make all the people very happy."
+  * <font inherit/inherit;;#B22222;;inherit>** que vai trazer grande alegria para todas as pessoas ** - Isto pode ser traduzido como "Isto vai fazer todas as pessoas muito felizes."</font>
   * **all the people**  - Some understand this to refer to the Jewish people. Others understand it to refer to all people.
+  * <font inherit/inherit;;#B22222;;inherit>** todas as pessoas ** - Alguns entendem que isto se refere ao povo judeu. Outros entendem que se refere a todas as pessoas.</font>
   * **the city of David**  - This could be translated as "in Bethlehem, the city of David."
+  * <font inherit/inherit;;#B22222;;inherit>** a cidade de Davi ** - Isto pode ser traduzido como "em Belém, a cidade de Davi."</font>
   * **This is the sign that will be given to you**  - This could be translated as "God will give you this sign" or "You will see this sign from God."
+  * <font inherit/inherit;;#B22222;;inherit>** Este é o sinal que será dado a você ** - Isto pode ser traduzido como "Deus dará a você este sinal" ou "Você verá este sinal de Deus."</font>
   * **sign**  - This could either be a sign to prove that what the angel was saying was true, or it could be a sign that would help the shepherds recognize the baby. It could be translated as “proof” for the first understanding or “distinguishing mark” for the second.
+  * <font inherit/inherit;;#B22222;;inherit>** sinal  ** - Isto poderia ser um sinal para provar que o que o anjo estava dizendo era verdade, ou poderia ser um sinal que ajudaria os pastores a reconhecerem o bebê. Isto pode ser traduzido como "prova" para a primeira compreensão" ou "marca distintiva" para a segunda.</font>
   * **wrapped in strips of cloth**  - This could be translated as "who was wrapped comfortably in a blanket."
+  * <font inherit/inherit;;#B22222;;inherit>** envolto em faixas de pano ** - Isto poderia ser traduzido como "que foi envolvido confortavelmente em um cobertor."</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
