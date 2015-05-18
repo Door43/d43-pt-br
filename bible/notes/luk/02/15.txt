@@ -28,8 +28,12 @@
 ===== Translation Notes: =====
 
   * **from them**  - "from the shepherds"
+  * <font inherit/inherit;;#B22222;;inherit>** deles ** - "dos pastores"</font>
   * **to each other**  - "to one another"
+  * <font inherit/inherit;;#B22222;;inherit>** entre si ** - "um ao outro"</font>
   * **Let us… to us**  - Since the shepherds were speaking to one another, languages that have inclusive forms for "we" and "us" should use the inclusive form here. (See: [[:en:ta:translate:inclusive|Inclusive]])
+  * <font inherit/inherit;;#B22222;;inherit>** Vamos... para nós ** - Uma vez que os pastores estavam falando um ao outro, línguas que possuem formas inclusivas para "nós" devem usar o formulário incluído aqui. (Veja: Inclusivo)</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
