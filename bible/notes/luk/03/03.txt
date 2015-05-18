@@ -21,6 +21,8 @@
   * [[:pt-br:bible:notes:key-terms:sin|sin]]
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para tradução:</font>
+
   * **He traveled **- "John traveled"
   * <font inherit/inherit;;#B22222;;inherit>** Ele viajou -  ** "João viajou"</font>
   * **preaching a baptism of repentance**  - This could be translated as "preached that people should be baptized to show that they were repenting of their sins."
