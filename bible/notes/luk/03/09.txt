@@ -23,10 +23,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (John continues speaking to the crowd.)
+  * <font inherit/inherit;;#B22222;;inherit>(João continua a falar para a multidão)</font>
   * **the ax has been placed against the root of the trees **- This metaphor means that the punishment is about to start. This could be translated as "It is as if the ax has already been placed against the root of the trees" or "God is like a man who has placed his ax against the root of the trees." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** o machado foi posto à raíz das árvores ** - Esta metáfora significa que o castigo está prestes a começar. Isto pode ser traduzido como: "é como se o machado já tivesse sido colocado contra a raíz das árvores" ou "Deus é como um homem que colocou seu machado contra a raíz das árvores".</font>
   * **every tree that does not produce good fruit is chopped down **  - This is a passive clause. It can be translated with an active clause "He chops down every tree that does not produce good fruit." (See: [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** toda árvore que não produz bons frutos é derrubada ** - Esta é uma sentença passiva. Pode ser traduzida como uma sentença ativa: "ele derruba toda árvore que não produz bons frutos".</font>
   * **thrown into the fire **- This can be translated with an active clause "throws it into the fire."
+  * <font inherit/inherit;;#B22222;;inherit>** jogada no fogo ** - Isto pode ser traduzido como uma sentença ativa: "joga ela no fogo".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
