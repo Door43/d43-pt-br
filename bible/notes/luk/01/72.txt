@@ -34,14 +34,25 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Zechariah continues to prophesy.)
+  * <font inherit/inherit;;#B22222;;inherit>(Zacarias continua a profetizar)</font>
   * **to show mercy**  - "to be merciful to" or "to act according to his mercy"
+  * <font inherit/inherit;;#B22222;;inherit>** para mostrar misericórdia  ** - "ser misericordioso com" ou "agir de acordo com sua misericórdia"</font>
   * **remember**  - In this context "remember" does not mean to not forget. It means to keep a commitment or fulfill something.
+  * <font inherit/inherit;;#B22222;;inherit>** se lembre ** - Neste contexto "se lembre" não significa para não esquecer. Isto significa manter um compromisso ou cumprir alguma coisa.</font>
   * **from the hand of our enemies**  - "from the control of our enemies" or "from being harmed and enslaved by our enemies." "Hand" refers to the harmful control or power a person has over another person. (See: [[:en:ta:translate:metonymy|Metonymy]])
+  * <font inherit/inherit;;#B22222;;inherit>** da mão de nossos inimigos ** - "do controle de nossos inimigos" ou "de ser ferido e escravizado por nossos inimigos". "mão" se refere ao controle ou poder danoso que uma pessoa tem sobre outra.</font>
   * **without fear**  - This could be translated as "without being afraid of our enemies."
+  * <font inherit/inherit;;#B22222;;inherit>** sem medo ** - Isto pode ser traduzido como: "sem ter medo dos nossos inimigos"</font> .
   * **in holiness and righteousness**  - "in holy and righteous ways" (UDB) or "while we live in a holy and righteous way" or "while we live holy lives and do what is right"
+  * <font inherit/inherit;;#B22222;;inherit>** em santidade e justiça ** - "em caminhos santos e justos" (UDB) ou "enquanto vivermos de modo santo e justo" ou "enquanto vivermos vidas santas e fizermos o que é correto".</font>
   * **before him**  - "in his presence" or "according to his will"
+  * <font inherit/inherit;;#B22222;;inherit>** diante dele ** - "em sua presença" ou "de acordo com sua vontade".</font>
   * **all our days**  - "our entire life"
+  * <font inherit/inherit;;#B22222;;inherit>** todos os nossos dias ** - "toda a nossa vida".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
