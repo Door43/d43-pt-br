@@ -18,8 +18,13 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (This is a continuation of the list of Jesus' ancestors.)
+  * <font inherit/inherit;;#B22222;;inherit>(esta é uma continuação da lista dos ancestrais de Jesus)</font>
   * **the son of Joanan, the son of Rhesa…**  - This could be translated as “who was the son of Joanan, who was the son of Rhesa…” or “Joda was the son of Joanan, Joanan was the son of Rhesa…” or “Joda's father was Joanan, Joanan's father was Rhesa….” Use the same wording as you used in the previous verses.
+  * <font inherit/inherit;;#B22222;;inherit>** o filho de Joanã, filho de Resa... ** - Isto pode ser traduzido como: "que era o filho de Joanã, que era filho de Resa..." ou "Jodá era o filho de Joanã, Joanã era o filho de Resa..." ou "o pai de Jodá era Joanã, o pai de Joanã era Resá...". Use a mesma forma que foi usada nos versos anteriores.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
