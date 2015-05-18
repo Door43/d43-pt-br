@@ -28,14 +28,25 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **his mouth was opened…his tongue was freed**  - These are idioms meaning that now he was able to speak. (See: [[:en:ta:translate:idiom|Idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** sua boca foi aberta... sua língua foi solta  ** - Estas expressões idiomáticas significam que agora ele era capaz de falar.</font>
   * **Fear came on everyone who lived around them**  - This could be translated as "All who lived around Zechariah and Elizabeth were afraid" or "All who lived around them were in awe of God" because they saw that God is powerful. "All who lived around them" does not refer only to their immediate neighbors, but to all who lived in that area. (See: [[:en:ta:translate:idiom|Idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** temor veio sobre todos os que viviam ao redor deles ** - Isto pode ser traduzido como: "Todos que viviam ao redor de Zacarias e Isabel estavam com medo" ou "Todos os que viviam ao redor deles estavam com temor de Deus" porque eles viram que Deus é poderoso. "Todos os que viviam ao redor deles" não se refere apenas aos vizinhos próximos, mas a todos que viviam naquela área.</font>
   * **everything that happened was being talked about**  - This could be translated as "people were talking about all these things that had happened."
+  * <font inherit/inherit;;#B22222;;inherit>** tudo o que aconteceu estava sendo falado ** - Isto pode ser traduzido como: "as pessoas estavam falando sobre todas as coisas que tinham acontecido".</font>
   * **who heard about them**- The word "them" refers to the things that had happened.
+  * <font inherit/inherit;;#B22222;;inherit>** que ouviram sobre elas ** - A palavra "eles" se refere às coisas que tinham acontecido.</font>
   * **thinking**  - "wondering"
+  * <font inherit/inherit;;#B22222;;inherit>** pensando ** - "se perguntando".</font>
   * **and said**  - This could be translated as "wondering" or "asking".
+  * <font inherit/inherit;;#B22222;;inherit>** e disse ** - Isto pode ser traduzido como: "e se perguntaram" ou "e perguntaram".</font>
   * **What will this child become?**  - This could be translated as "What kind of great person will this baby grow up to be?" or "What a great man this child will be!" This is a rhetorical question that shows the people's surprise. Because of what they had heard about the baby, they realized that he would grow up to be an important man.
+  * <font inherit/inherit;;#B22222;;inherit>** o que essa criança se tornará? ** - Isto pode der traduzido como: "Que tipo de pessoa importante esse bebê vai se tornar?" ou "Que grande homem essa criança será!". Esta é uma pergunta retórica que demonstra a surpresa das pessoas. Por causa do que eles tinham ouvido sobre o bebê, eles perceberam que ele cresceria para se tornar um homem importante.</font>
   * **the hand of the Lord was with him**  - "The Lord's power was with him" or "The Lord was working in him powerfully." This is an example of metonymy in which the phrase "the hand of the Lord" refers to the Lord's power. (See: [[:en:ta:translate:metonymy|Metonymy]])
+  * <font inherit/inherit;;#B22222;;inherit>** a mão do Senhor estava com ele ** - "O poder do Senhor estava com ele" ou "O Senhor estava trabalhando poderosamente nele". Este é um exemplo de metonímia, em que a frase "a mão do Senhor" se refere ao poder do Senhor".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]
