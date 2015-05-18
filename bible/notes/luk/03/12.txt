@@ -24,9 +24,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **to be baptized**  - "for John to baptize them"
+  * <font inherit/inherit;;#B22222;;inherit>** para ser batizado ** - "para João os batizar".</font>
   * **Do not collect more money**  - "Do not ask for more money" or "Stop collecting more money." The tax collectors were collecting more money than they should have been. They should stop doing that as proof of their repentance.
+  * <font inherit/inherit;;#B22222;;inherit>** não colete mais dinheiro ** - "não peçam mais dinheiro" ou "parem de coletar mais dinheiro". Os coletores de impostos estavam coletando mais dinheiro do que deviam. Eles deveriam parar de fazer aquilo como prova de seu arrependimento.</font>
   * **than you are supposed to**  - "than you have been given authority to take"
+  * <font inherit/inherit;;#B22222;;inherit>** do que o que você deve fazer ** - "do que o que você foi autorizado a fazer".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
