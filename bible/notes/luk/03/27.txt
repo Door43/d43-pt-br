@@ -11,9 +11,13 @@
 ===== ULB: =====
 
 <usfm> \v 27 the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri, \v 28 the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er, \v 29 the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi, </usfm>
+
 ===== Target ULB: =====
-27 filho de Joanã, filho de Resá, filho de Zorobabel, filho de Salatiel, filho de Neri,  28 filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Er,  29 filho de Josué, filho de Eliézer, filho de Jorim, filho Matã, filho de Levi, 
+
+27 filho de Joanã, filho de Resá, filho de Zorobabel, filho de Salatiel, filho de Neri, 28 filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Er, 29 filho de Josué, filho de Eliézer, filho de Jorim, filho Matã, filho de Levi,
+
 ----
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
@@ -23,7 +27,7 @@
   * (This is a continuation of the list of Jesus' ancestors.)
   * <font inherit/inherit;;#B22222;;inherit>(esta é uma continuação da lista dos ancestrais de Jesus)</font>
   * **the son of Joanan, the son of Rhesa…**  - This could be translated as “who was the son of Joanan, who was the son of Rhesa…” or “Joda was the son of Joanan, Joanan was the son of Rhesa…” or “Joda's father was Joanan, Joanan's father was Rhesa….” Use the same wording as you used in the previous verses.
-  * <font inherit/inherit;;#B22222;;inherit>** o filho de Joanã, filho de Resa... ** - Isto pode ser traduzido como: "que era o filho de Joanã, que era filho de Resa..." ou "Jodá era o filho de Joanã, Joanã era o filho de Resa..." ou "o pai de Jodá era Joanã, o pai de Joanã era Resá...". Use a mesma forma que foi usada nos versos anteriores.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** o filho de Joanã, filho de Resa…  ** - Isto pode ser traduzido como: "que era o filho de Joanã, que era filho de Resa…" ou "Jodá era o filho de Joanã, Joanã era o filho de Resa…" ou "o pai de Jodá era Joanã, o pai de Joanã era Resá…". Use a mesma forma que foi usada nos versos anteriores.</font>
 
 ===== Links: =====
 
