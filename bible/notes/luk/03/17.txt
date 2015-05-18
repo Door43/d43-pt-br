@@ -24,14 +24,25 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (John continues teaching about the Christ.)
+  * <font inherit/inherit;;#B22222;;inherit>(João continua a ensinar sobre o Cristo)</font>
   * **His winnowing fork…**  - This metaphor compares how the Christ will separate the righteous people from the unrighteous people to how a man separates wheat grain from chaff. It can be translated as a simile to make the connection more clear: "The Christ is like a man whose winnowing fork is in his hand."(See: [[:en:ta:translate:metaphor|Metaphor]], [[:en:ta:translate:simile|Simile]])
+  * <font inherit/inherit;;#B22222;;inherit>** sua forquilha ** - Esta metáfora compara como Cristo irá separar os justos dos ímpios, assim como o homem separa o grão de trigo da palha.</font>
   * **His winnowing fork is in his hand**  - This can be translated as "He is holding a winnowing fork because he is ready."
+  * <font inherit/inherit;;#B22222;;inherit>** sua forquilha está em suas mãos ** - Isto pode ser traduzido como: "ele está segurando uma forquilha porque ele está pronto".</font>
   * **winnowing fork**  - This is a tool for tossing wheat up into the air to separate the wheat grain from the chaff. The heavier grain falls back down and the unwanted chaff is blown away by the wind. It is similar to a pitchfork.
+  * <font inherit/inherit;;#B22222;;inherit>** forquilha ** - Esta é uma ferramente para lançar o trigo para cima para separar o grão de trigo da palha. O grão mais pesado cai de volta ao chão e a indesejada palha é soprada pelo vento. É parecido com um forcado.</font>
   * **his threshing floor**  - This is a place where people separate the grain from the chaff. This can be translated as "his ground" or "the ground where he separates the grain from the chaff."
+  * <font inherit/inherit;;#B22222;;inherit>** sua eira ** - Este é um lugar onde as pessoas separam o grão da palha. Isto pode ser traduzido como "seu terreno" ou "o terreno onde ele separa o grão da palha".</font>
   * **to gather the wheat**  - This could also be translated as "Then he will gather the wheat."
+  * <font inherit/inherit;;#B22222;;inherit>** ajuntar o trigo ** - Isto poderia também ser traduzio como: "Então ele ajuntará o trigo".</font>
   * **storehouse**  - "barn" or "granary." This is where the grain is kept safe in order to be used later.
+  * <font inherit/inherit;;#B22222;;inherit>** depósito ** - "celeiro" ou "armazém". Isto é onde o grão é mantido em segurança para ser usado depois.</font>
   * **burn up the chaff**  - The chaff is not useful for anything, so people burn it up.
+  * <font inherit/inherit;;#B22222;;inherit>** queime a palha - ** A palha não é usada para nada, então as pessoas a queimam.</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
