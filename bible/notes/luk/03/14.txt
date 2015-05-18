@@ -21,10 +21,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **soldiers**  - "men serving in the army"
+  * <font inherit/inherit;;#B22222;;inherit>** soldados ** - "homens servindo no exército".</font>
   * **What about us? What must we do?**  - This could be translated as "You told the crowd and the tax collector what they must do. How about us soldiers, what must we do?" John is not included in the words "us" and "we." (See: [[:en:ta:translate:exclusive|Exclusive]])
+  * <font inherit/inherit;;#B22222;;inherit>** E nós? O que devemos fazer? ** - Isto pode ser traduzido como: "você disse para a multidão e ao coletor de impostos o que eles devem fazer. "E nós, soldados, o que devemos fazer?" João não está incluso na palavra "nós".</font>
   * **do not accuse anyone falsely**  - This could be translated as "In the same way, do not accuse anyone falsely in order to get money from them" or "Do not say that an innocent person has done something illegal." The soldiers were making false charges against people in order to get money.
+  * <font inherit/inherit;;#B22222;;inherit>** não acuse a ninguém  **  ** falsament **  ** e **  **   ** - Isto pode ser traduzido como: "Da mesma forma, não acuse ninguém falsamente ou para extorquir dinheiro dela" ou "não diga que alguém inocente fez algo ilegal". Os soldados estavam fazendo falsas acusações contra as pessoas para extorquirem dinheiro delas.</font>
   * **Be content with your wages**  - "Be satisfied with your pay" or "Be satisfied with what you are paid"
+  * <font inherit/inherit;;#B22222;;inherit>** esteja contente com seu salário ** - "esteja satisfeito com seu salário" ou "esteja satisfeito com o que te é pago".</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:03|Luke Chapter 3 Comprehension Questions]]
