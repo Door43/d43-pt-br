@@ -26,10 +26,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **immediately**  - "at once" or "right away"
+  * <font inherit/inherit;;#B22222;;inherit>** imediatamente ** - "de uma vez" ou "na mesma hora".</font>
   * **amazement took hold of everyone**  - "everyone who saw it was very surprised"
+  * <font inherit/inherit;;#B22222;;inherit>** espanto tomou conta de todos ** - "todos o que viram aquilo ficaram surpresos".</font>
   * **filled with fear**  - "very afraid" or "filled with awe"
+  * <font inherit/inherit;;#B22222;;inherit>** cheios de temor ** - "com muito medo" ou "cheios de terror".</font>
   * **extraordinary things**  - "amazing things" or "strange things"
+  * <font inherit/inherit;;#B22222;;inherit>** coisas extraordinárias  ** - "coisas maravilhosas" ou "coisas estranhas".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
