@@ -23,9 +23,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **in your own hometown**  - This was in Nazareth, the town Jesus had grown up in.
+  * <font inherit/inherit;;#B22222;;inherit>** na sua própria cidade natal ** - Esta era Nazaré, a cidade em que Jesus cresceu.</font>
   * **no prophet is accepted in his own country**  - Jesus was rebuking the people for refusing to believe him just because they thought they knew him.
+  * <font inherit/inherit;;#B22222;;inherit>** nenhum profeta é aceito em seu próprio país ** - Jesus estava repreendendo as pessoas por se recusarem a crer nele apenas porque elas pensavam que o conheciam.</font>
   * **own country**  - This could be translated as "own town" or "hometown."
+  * <font inherit/inherit;;#B22222;;inherit>** seu próprio país ** - Isto pode ser traduzido como "sua própria cidade" ou "cidade natal".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
