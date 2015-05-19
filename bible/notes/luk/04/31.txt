@@ -28,10 +28,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **he went down**  - "Jesus went downhill." Capernaum was lower in altitude than Nazareth.
+  * <font inherit/inherit;;#B22222;;inherit>ele desceu - "Jesus desceu a colina". Cafarnaum estava em uma altitude mais baixa que Nazaré.</font>
   * **Capernaum, a city in Galilee**  - Since Jesus was already in Galilee, this could be translated as "Capernaum, another city in Galilee."
+  * <font inherit/inherit;;#B22222;;inherit>** Cafarnaum, uma cidade da Galileia ** - Considerando que Jesus já estava na Galileia, isto poderia ser traduzido como: "Cafarnaum, uma outra cidade da Galileia".</font>
   * **astonished**  - "greatly surprised" or "impressed"
+  * <font inherit/inherit;;#B22222;;inherit>** atônitos ** - "muito surpresos" ou "impressionados".</font>
   * **he spoke with authority**  - This could be translated as "his word had authority" or "he spoke as one with authority."
+  * <font inherit/inherit;;#B22222;;inherit>** ele falou com autoridade  ** - Isto poderia ser traduzido como: "sua palavra tinha autoridade" ou "ele falou como alguém com autoridade".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
