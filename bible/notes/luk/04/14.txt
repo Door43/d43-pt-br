@@ -28,10 +28,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **with the power of the Spirit **- This could be translated as "and the Spirit was giving him power." God was with Jesus in a special way, enabling him to do things that humans usually couldn't.
+  * <font inherit/inherit;;#B22222;;inherit>** com o poder do Espírito ** - Isto poderia ser traduzido como: "o Espírito estava dando a ele poder". Deus estava com Jesus de uma forma especial, capacitando-o a fazer coisas que humanos geralmente não conseguiriam.</font>
   * **news about him spread**  - This could be translated as "people spread the news about Jesus" or "people told other people about Jesus" or "knowledge about him was passed on from person to person." Those who heard Jesus told other people about him, and then those other people told even more people about him.
+  * <font inherit/inherit;;#B22222;;inherit>** as notícias sobre ele se espalharam ** - Isto pode ser traduzido como: "as pessoas espalharam as notícias sobre Jesus" ou "as pessoas falaram para outras sobre Jesus" ou "o conhecimento sobre ele foi passado de pessoa para pessoa". Aqueles que ouviram Jesus contaram a outros sobre ele, e então estes contaram ainda a outros sobre ele.</font>
   * **throughout the entire surrounding region**  - This refers to the areas or places around Galilee.
+  * <font inherit/inherit;;#B22222;;inherit>** por toda a região circunvizinha ** - Isto se refere às áreas ou lugares ao redor da Galileia.</font>
   * **everyone praised him**  - "everyone said great things about him" or "all the people spoke about him in a good way"
+  * <font inherit/inherit;;#B22222;;inherit>** todos o elogiaram ** - "todos disseram coisas boas sobre ele" ou "todas as pessoas falaram sobre ele de modo bom".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
