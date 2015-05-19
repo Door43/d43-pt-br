@@ -13,6 +13,7 @@
 <usfm> \v 37 Blessed are those servants, whom the master will find watching when he comes. Truly I say to you that he will tuck his long robe in his belt, make them sit down to a meal, and will come and serve them. \v 38 If the master comes in the second watch of the night, or if even in the third watch, and finds them ready, blessed are those servants. </usfm>
 
 **37** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Bem aventurados são aqueles servos os quais forem encontrados vigiando quando o senhor vier. Verdadeiramente eu digo a vocês que ele irá prender suas vestes ao seu sinto, fazê-los sentar para uma refeição, e então virá e os servirá.</font> **38** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Se o senhor vier na segunda vigília da noite ou até mesmo na terceira vigília e os achar prontos, bem aventurados são aqueles servos.</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:bless|blessed]]
