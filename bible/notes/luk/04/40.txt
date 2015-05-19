@@ -27,9 +27,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **crying out**  - "screaming" or "shouting"
+  * <font inherit/inherit;;#B22222;;inherit>** gritando ** - "berrando" ou "falando alto".</font>
   * **rebuked the demons**  - "spoke sternly to the demons"
+  * <font inherit/inherit;;#B22222;;inherit>** repreendeu os demônios ** - "falou severamente aos demônios".</font>
   * **would not let them**  - "did not allow them"
+  * <font inherit/inherit;;#B22222;;inherit>** não os deixaria ** - "não os permitiu".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
