@@ -21,11 +21,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **when he had finished speaking**  - "when Jesus had finished teaching the people"
+  * <font inherit/inherit;;#B22222;;inherit>** quando ele terminou de falar ** - "quando Jesus terminou de ensinar as pessoas".</font>
   * **Master **  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+  * <font inherit/inherit;;#B22222;;inherit>** Mestre ** - A palavra grega que é traduzida aqui como "Mestre" não é a palavra normal para "Mestre". Esta se refere a alguém que tem autoridade, e não a alguém que possui outra pessoa. Você poderia também traduzir como: "Chefe" ou "Patrão", ou com a palavra que é comumente usada para se dirigir à uma pessoa em autoridade, como a palavra "Senhor".</font>
   * **at your word**  - "because of your word" or "because you have told me to do this"
+  * <font inherit/inherit;;#B22222;;inherit>** por sua palavra  ** - "por causa da sua palavra" ou "porque você me disse isso".</font>
   * **motioned**  - They were too far from shore to call so they made gestures, probably waving their arms.
-  * **they began to sink**  - “the boats began to sink.” If necessary for understanding, the implied information could be made explicit as in, “the boats began to sink because the fish were so heavy." (See: [[en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** gesticulou ** - Eles estavam muito longe da costa para chamar, então eles fizeram gestos, provavelmente acenando com os braços.</font>
+  * **they began to sink**  - “the boats began to sink.” If necessary for understanding, the implied information could be made explicit as in, “the boats began to sink because the fish were so heavy." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** eles começaram a afundar ** - "os barcos começaram a afundar". Se for necessário para ajudar na compreensão, a informação implícita pode ser feita explícita como: "os barcos começaram a afundar porque os peixes eram muito pesados".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
