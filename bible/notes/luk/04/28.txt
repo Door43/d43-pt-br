@@ -24,10 +24,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **forced him out of the city**  - This could be translated as "forced him to leave the city."
+  * <font inherit/inherit;;#B22222;;inherit>** o forçaram para fora da cidade ** - Isto poderia ser traduzido como: "o forçaram a sair da cidade".</font>
   * **edge of the hill**  - "edge of the cliff"
+  * <font inherit/inherit;;#B22222;;inherit>** beira da colina ** - "beira do penhasco".</font>
   * **right through the midst of them**  - This could be translated as "through the middle of them" or "between the people who were trying to kill him." The word "right" here is similar to the word "simply." It indicates that nothing hindered him from walking past the people.
+  * <font inherit/inherit;;#B22222;;inherit>** bem pelo meio deles  ** - Isto poderia ser traduzido como: "através do meio deles" ou "entre as pessoas que estavam tentando matá-lo". A palavra "bem" aqui é parecida com a palavra "simplesmente". Ela indica que nada o impediu de passar pelas pessoas.</font>
   * **went on his way**  - "went away." Jesus went where he had planned to go instead of where the people were trying to force him to go.
+  * <font inherit/inherit;;#B22222;;inherit>** seguiu seu caminho ** - "foi embora". Jesus foi para onde ele tinha planejado ir ao invés de ir para onde as pessoas o estavam forçando a ir.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
