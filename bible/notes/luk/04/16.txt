@@ -29,11 +29,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **where he had been brought up**  - This could be translated as "where his parents had raised him" or "where he grew up" or "where he lived when he was as a child."
+  * <font inherit/inherit;;#B22222;;inherit>** onde ele havia sido criado ** - Isto pode ser traduzido como: "onde seus pais o tinham criado" ou "onde ele cresceu" ou "onde ele viveu quando era criança".</font>
   * **As was his custom**  - "As he normally did." It was his usual practice to go to the synagogue on the Sabbath day.
+  * <font inherit/inherit;;#B22222;;inherit>** como era seu costume ** - "Como ele normalmente fazia". Era sua prática costumeira ir a sinagoga no dia do Sabá.</font>
   * **The scroll of the prophet Isaiah was handed to him**  - This can also be translated with an active clause, as in "Someone gave him the scroll of the prophet Isaiah." (See [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** o pergaminho do profeta Isaías foi entregue a ele ** - Isto também pode ser traduzido na forma ativa: "Alguém entregou a ele o pergaminho do profeta Isaías".</font>
   * **scroll of the prophet Isaiah**  - This refers to the book of Isaiah written on a scroll. Isaiah had written the words many years before, and someone else had copied them onto a scroll.
+  * <font inherit/inherit;;#B22222;;inherit>** pergaminho do profeta Isaías ** - Isto de refere ao livro de Isaías escrito num pergaminho. Isaías havia escrito as palavras muitos anos atrás e outra pessoa as copiou em um pergaminho.</font>
   * **the place where it was written**  - "the place in the scroll where it said" or "the place in the scroll with these words"
+  * <font inherit/inherit;;#B22222;;inherit>** o lugar onde estava escrito ** - "o lugar no pergaminho onde dizia"  ou "o lugar no pergaminho que continha essas palavras".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
