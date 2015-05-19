@@ -22,9 +22,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **No man tears**  - "No one tears" or "People never rip" (UDB)
+  * <font inherit/inherit;;#B22222;;inherit>** nenhum homem rasga ** - "ninguém rasga" ou "pessoas nunca rasgam".</font>
   * **mend**  - "repair"
+  * <font inherit/inherit;;#B22222;;inherit>** emendar ** - "reparar".</font>
   * **would not fit with**  - "would not match" or "would not be the same as"
+  * <font inherit/inherit;;#B22222;;inherit>** não caberia ** - "não combinaria" ou "não seria o mesmo que".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
