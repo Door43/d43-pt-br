@@ -25,10 +25,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **If you are the Son of God**  - The devil was probably challenging Jesus to prove that he was the Son of God.
+  * <font inherit/inherit;;#B22222;;inherit>** se você é o Filho de Deus ** - O diabo estava provavelmente desafiando Jesus a provar que ele era o Filho de Deus.</font>
   * **this stone**  - The devil was either holding a stone in his hand or pointing to a nearby stone.
+  * <font inherit/inherit;;#B22222;;inherit>** esta pedra ** - O diabo estava ou segurando uma pedra em sua mão ou apontando para uma perto dali.</font>
   * **It is written**  - "it is written in the scriptures" or "the scriptures say" or "in the scriptures God said"
+  * <font inherit/inherit;;#B22222;;inherit>** está escrito ** - "está escrito nas escrituras" ou "as escrituras dizem" ou "nas escrituras Deus diz".</font>
   * **Man will not live on bread alone**  - This could be translated as "People cannot live on just bread" or "It is not just food that makes a person live." The word "bread" is used to refer to food in general. (See: [[:en:ta:translate:synecdoche|Synecdoche]]) The point is that food is not enough to sustain a person. People need to obey God. Jesus was quoting the scripture to say why he would not turn the stone into bread.
+  * <font inherit/inherit;;#B22222;;inherit>** nem só de pão viverá o homem ** - Isto poderia ser traduzido como: "as pessoas não podem viver apenas de pão" ou "não é apenas comida que faz uma pessoa viver". A palavra "pão" é usada para se referir a comida em geral. A questão é que comida não é suficiente para sustentar alguém. As pessoas precisam obedecer a Deus. Jesus estava citando as escrituras para dizer o porquê que ele não tornaria a pedra em pão.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
