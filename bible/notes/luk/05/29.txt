@@ -35,13 +35,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **big banquet**  - This is a feast or celebration like a party with a lot of food, drinks and guests.
+  * <font inherit/inherit;;#B22222;;inherit>** grande banquete  ** - Isto é uma festividade ou celebração como uma festa cheia de comidas, bebidas e convidados.</font>
   * **in his house**  - "in Levi's house"
+  * <font inherit/inherit;;#B22222;;inherit>** na sua casa ** - "na casa de Levi".</font>
   * **reclining at the table**  - This could be translated as "at the table" or "sitting at the table." The Greek style of eating at a feast was to lie on a couch and prop oneself up with the left arm on some pillows.
+  * <font inherit/inherit;;#B22222;;inherit>** reclinadas à mesa ** - Isto poderia ser traduzido como: "à mesa" ou "sentadas à mesa". O estilo grego de comer em um banquete era deitar em um sofá e se escorar com o braço esquerdo em alguns travesseiros.</font>
   * **were murmuring**  - "were complaining" or "were expressing discontent"
+  * <font inherit/inherit;;#B22222;;inherit>** estavam murmurando ** - "estavam reclamando" ou "estavam demonstrando descontentamento".</font>
   * **to his disciples**  - "to Jesus' disciples"
-  * **Why do you eat**  - The Pharisees and scribes used this rhetorical question to express their disapproval that Jesus' disciples were eating with sinners. The word "you" is plural. This could be translated as "You should not eat with sinners!" (See: [[en:ta:translate:formsofyou|Forms of 'You']])
+  * <font inherit/inherit;;#B22222;;inherit>** para os seus discípulos ** - "para os discípulos de Jesus".</font>
+  * **Why do you eat**  - The Pharisees and scribes used this rhetorical question to express their disapproval that Jesus' disciples were eating with sinners. The word "you" is plural. This could be translated as "You should not eat with sinners!" (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
+  * <font inherit/inherit;;#B22222;;inherit>** Por que vocês comem ** - Os fariseus e escribas usaram essa pergunta retórica para expressar que eles estavam desaprovando o fato de os discípulos de Jesus estarem comendo com pecadores. A palavra "vocês" é plural. Isto pode ser traduzido como: "Vocês não devem comer com pecadores!".</font>
   * **physician**  - "medical doctor" or "doctor"
+  * <font inherit/inherit;;#B22222;;inherit>** médico ** - "doutor médico" ou "doutor".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
