@@ -27,11 +27,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Jesus rebuked the demon, saying**  - "Jesus scolded the demon, saying" or "Jesus sternly said to the demon"
+  * <font inherit/inherit;;#B22222;;inherit>** Jesus repreendeu o demônio, dizendo ** - "Jesus censurou o demônio, dizendo" ou "Jesus severamente disse ao demônio".</font>
   * **come out of him**  - This could be translated as "leave him alone" or "stop bothering him."
+  * <font inherit/inherit;;#B22222;;inherit>** saia dele ** - Isto poderia ser traduzido como: "deixe-o em paz" ou "pare de o perturbar".</font>
   * **What kind of words are these**  - This is a rhetorical question. The people were expressing how amazed they were that Jesus had the authority to command demons to leave a person. This could be translated as "These are amazing words" or "His words are amazing!"
+  * <font inherit/inherit;;#B22222;;inherit>** Que tipo de palavras são essas ** - Esta é uma pergunta retórica. As pessoas estavam expressando quão maravilhadas elas estavam com o fato de Jesus ter autoridade para ordenar que demônios saiam de pessoas.</font>
   * **he commands the unclean spirits with power and authority**  - "he has power and authority to command the unclean spirits"
+  * <font inherit/inherit;;#B22222;;inherit>** ele ordena aos espíritos imundos com poder e autoridade ** - "ele tem poder e autoridade para ordenar aos espíritos imundos".</font>
   * **news about him began to spread**  - "reports about Jesus began to spread" or "people spread the news about Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** as notícias sobre ele começaram a se espalhar ** - "relatórios sobre Jesus começaram a se espalhar" ou "as pessoas espalharam as notícias sobre Jesus".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
