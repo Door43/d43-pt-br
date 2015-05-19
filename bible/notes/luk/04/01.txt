@@ -29,10 +29,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Then**  - This refers to after John baptized Jesus. It could be translated as "Then after Jesus was baptized."
+  * <font inherit/inherit;;#B22222;;inherit>** então  ** - Isto se refere a depois que João batizou Jesus. Isto poderia ser traduzido como: "Então depois que Jesus foi batizado".</font>
   * **was led by the Spirit**  - This could be translated in active voice as "the Spirit led him." (See: [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** foi guiado pelo Espírito ** - Isto poderia ser traduzido na voz ativa: "o Espírito o guiou".</font>
   * **was tempted there by the devil**  - This could be translated as "was tempted by the devil to disobey God." It is not clear if he was tempted throughout the time, or at the end of the time. This can also be translated in active voice as "the devil tempted him there."
+  * <font inherit/inherit;;#B22222;;inherit>** foi tentado ali pelo diabo ** - Isto poderia ser traduzido como: "foi tentado pelo diabo para desobedecer a Deus". Não está claro se ele foi tentado ao longo do tempo no deserto ou no final do tempo ali. Isto poderia também ser traduzido na voz ativa: "o diabo o tentou ali".</font>
   * **he did not eat**  - "He" refers to Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** ele não comeu ** - "ele" se refere à Jesus.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
