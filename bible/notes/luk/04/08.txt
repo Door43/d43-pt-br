@@ -28,11 +28,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **and said to him**- "responded to him" or "replied to him"
+  * <font inherit/inherit;;#B22222;;inherit>** e disse a ele  ** - "respondeu-o" ou "respondeu para ele".</font>
   * **It is written**  - This could be as “it is written in the scriptures” or “the scriptures say” or “in the scriptures God said.”
+  * <font inherit/inherit;;#B22222;;inherit>** está escrito ** - Isto pode ser traduzido como: "está escrito nas escrituras" ou "as escrituras dizem" ou "nas escrituras Deus diz".</font>
   * **You must worship the Lord your God**  - Jesus was a law from the scriptures to say why he would not worship the devil.
+  * <font inherit/inherit;;#B22222;;inherit>** você deve adorar o Senhor seu Deus ** - Jesus usou uma lei das escrituras para dizer que ele não deveria adorar o diabo.</font>
   * **you**  - This refers to the people in the Old Testament who received God's Law. You could use the singular form of 'you' because each person was to obey it, or you could use the plural form of 'you' because all of the people were to obey it. (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
+  * <font inherit/inherit;;#B22222;;inherit>** você ** - Isto se refere às pessoas no Antigo Testamento que receberam a Lei de Deus. Você pode usar a forma singular "você" porque cada pessoa deveria obedecê-la, ou você pode usar a forma plura "vocês" porque todas as pessoas deveriam obedecê-la.</font>
   * **him**  - This refers to the Lord God.
+  * <font inherit/inherit;;#B22222;;inherit>** ele ** - Isto se refere a Senhor Deus.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
