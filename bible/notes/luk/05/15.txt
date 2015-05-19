@@ -28,9 +28,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **the report about him**  - "the news about Jesus." This could mean either "the report about Jesus healing the man" or "the report about Jesus healing people."
+  * <font inherit/inherit;;#B22222;;inherit>** o relato sobre Jesus ** - "as notícias sobre Jesus". Isto poderia significar ou "o relato de Jesus ter curado o homem" ou "o relato sobre Jesus ter curado pessoas".</font>
   * **the report about him spread even farther**  - "the report about him went out even farther" or "people kept telling the news about him in other places"
+  * <font inherit/inherit;;#B22222;;inherit>** o relato sobre ele se espalhou ainda para mais longe  ** - "o relatório sobre ele foi ainda mais longe" ou "as pessoas ficaram dizendo as notícias sobre ele em outros lugares".</font>
   * **the deserted places**  - "lonely places" or "quiet places" or "places where there were no other people"
+  * <font inherit/inherit;;#B22222;;inherit>** os lugares desertos ** - "lugares solitários" ou "lugares tranquilos" ou "lugares em que não há pessoas".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
