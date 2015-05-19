@@ -23,13 +23,17 @@
 <font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
   * **Now some men came carrying**  - These are new people in the story. Your language may have a way of showing that these are new people. English can also do it with “There were men who came carrying” or “There were men carrying.”
-  * <font inherit/inherit;;#B22222;;inherit>** Agora alguns homens vieram carregando ** - Estas são novas pessoas na história. Sua língua deve ter uma maneira de indicar que essas são novas pessoas. Inglês também pode fazer isso assim: "Havia homens que vieram carregando" ou "Havia homens carregando".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Agora alguns homens vieram carregando  ** - Estas são novas pessoas na história. Sua língua deve ter uma maneira de indicar que essas são novas pessoas. Inglês também pode fazer isso assim: "Havia homens que vieram carregando" ou "Havia homens carregando".</font>
   * **mat**  - This could be translated as "sleeping pad" or "bed" or "stretcher" or "couch."
-  * <font inherit/inherit;;#B22222;;inherit>** Tapete ** - Isto poderia ser traduzido como: "almofada de dormir" ou "cama" ou "maca" ou "sofá".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** leito  ** - Isto poderia ser traduzido como: "almofada de dormir" ou "cama" ou "maca" ou "sofá".</font>
   * **was paralyzed**  - "could not move himself"
+  * <font inherit/inherit;;#B22222;;inherit>** era paralítico ** - "não podia mover-se".</font>
   * **And not finding by what way they might bring him in because of the crowd**  - In some languages it might be more natural to reorder this. "But because of the crowd of people, they could not find a way to take the man inside. So…."
+  * <font inherit/inherit;;#B22222;;inherit>** e não achando uma maneira de levá-lo para dentro por causa da multidão ** - Em algumas línguas pode ser mais natural reordenar isso: "Mas por causa da multidão de pessoas, eles não puderam encontrar uma maneira de levar o homem para dentro. Assim...".</font>
   * **they went up to the housetop**  - Houses had flat roofs, and some houses had a ladder or staircase outside to make it easy to go up there.
+  * <font inherit/inherit;;#B22222;;inherit>** eles subiram para o topo da casa ** - As casas tinham telhados planos, e algumas casas tinham uma escada ou escadaria para tornar fácil o acesso lá para cima.</font>
   * **right in front of Jesus**  - "directly in front of Jesus" or "immediately in front of Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** bem em frente a Jesus  ** - "diretamente em frente a Jesus" ou "imediatamente em frente a Jesus".</font>
 
 ===== Links: =====
 
