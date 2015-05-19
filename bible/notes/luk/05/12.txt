@@ -25,10 +25,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **behold a man full of leprosy was there**  - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There was a man who was full of leprosy."
+  * <font inherit/inherit;;#B22222;;inherit>** um homem cheio de lepra estava lá ** - A palavra "veja" nos alerta para uma nova pessoa na história. Sua língua deve ter um modo de fazer isso. Inglês usa "Havia um homem que estava cheio de lepra".</font>
   * **he fell on his face**  - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face"
+  * <font inherit/inherit;;#B22222;;inherit>** ele caiu com o rosto ** - "ele se prostrou ao chão" (UDB) ou "ele se ajoelhou e tocou o chão com seu rosto".</font>
   * **implored him**  - "begged him" or "pleaded with him" (UDB)
-  * **if you are willing**  - "if you want to"
+  * <font inherit/inherit;;#B22222;;inherit>** o implorou ** - "o mendigou" ou "pleiteou com ele" (UDB)</font>
+  * **if you are willing**  - "if you want to".
+  * <font inherit/inherit;;#B22222;;inherit>** se você está querendo ** - "se você quer".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
