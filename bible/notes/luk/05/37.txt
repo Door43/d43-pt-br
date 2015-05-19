@@ -22,15 +22,27 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus tells the religious leaders another parable.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus fala para os líderes religioso outra parábola)</font>
   * **no man puts**  - "no one puts" (UDB) or "people never put"
+  * <font inherit/inherit;;#B22222;;inherit>** nenhum homem coloca ** - "ninguém coloca" (UDB) ou "pessoas nunca colocam".</font>
   * **new wine**  - "grape juice." This refers to wine that has not fermented yet.
+  * <font inherit/inherit;;#B22222;;inherit>** vinho novo  ** - "suco de uva". Isto se refere ao vinho que ainda não fermentou.</font>
   * **wineskins**  - These were bags made out of animal skins. They could also be called "wine bags" or "skin bags" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** odres ** - Estas eram bolsas feitas com peles de animais. Elas também podem ser chamadas de "bolsas de vinho" ou "bolsas de couro".</font>
   * **the new wine would burst the skins**  - "when the new wine ferments and expands, it would burst the old skins because they could no longer stretch out." Jesus' audience would have understood the implicit information about the wine fermenting and expanding. (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** o vinho novo romperá o odre ** - "quando o vinho novo fermenta e se expande, ele irá romper o odre velho porque ele não tem mais condições de se expandir". A audiência de Jesus teria entendido a informação implícita sobre o vinho fermentando e se expandindo.</font>
   * **the wine would be spilled**  - "the wine would spill out of the bags"
+  * <font inherit/inherit;;#B22222;;inherit>** o vinho iria derramar ** - "o vinho iria derramar das bolsas".</font>
   * **fresh wineskins**  - "new wineskins" or "new wine bags." This refers to wineskins that have not been used.
+  * <font inherit/inherit;;#B22222;;inherit>** odres frescos ** - "novos odres" ou "novas bolsas de vinho". Isto se refere a odres que não haviam sido usados.</font>
   * **old wine**  - "wine that has fermented"
+  * <font inherit/inherit;;#B22222;;inherit>** vinho velho ** - "vinho que foi fermentado".</font>
   * **he says, 'The old is better'**  - It may be helpful to add "and is therefore not willing to try the new wine." This is a metaphor that contrasts the old teaching of the religious leaders against the new teaching of Jesus. The point is that people who is used to the old teaching are not willing to listen to the new things that Jesus is teaching. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** ele diz: 'o velho é melhor' ** - Pode ser possível adicionar "e portando não é desejável experimentar o vinho novo". Esta é uma metáfora que contrasta o velho ensino dos líderes religiosos com o novo ensino de Jesus. A questão é que as pessoas que estão acostumadas ao ensino antigo não estão dispostas a ouvir as coisas novas que Jesus está ensinando.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
