@@ -27,12 +27,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (This is what Jesus read on the scroll.)
+  * <font inherit/inherit;;#B22222;;inherit>(Isto é o que Jesus leu no pergaminho)</font>
   * **The Spirit of the Lord is upon me**  - "God is with me in a special way." Someone saying this is claiming to speak the words of God.
+  * <font inherit/inherit;;#B22222;;inherit>** O Espírito do Senhor está sobre mim ** - "Deus está comigo de modo especial". Alguém dizendo isto está alegando falar as palavras de Deus.</font>
   * **to proclaim freedom to the captives**  - This could be translated as "to tell people who are being held captive that they can go free" or "to set free the prisoners of war."
+  * <font inherit/inherit;;#B22222;;inherit>** para proclamar liberdade aos cativos  ** - Isto pode ser traduzido como: "para dizer as pessoas que estão cativas e que não podem ser libertas" ou "para libertar os prisioneiros de guerra".</font>
   * **recovery of sight to the blind**  - "to proclaim that the blind shall see" or "to give sight to the blind" or "to make the blind be able to see again"
+  * <font inherit/inherit;;#B22222;;inherit>** recuperação da vista aos cegos ** - "para proclamar que os cegos verão" ou "para fazer o cego ser capaz de enxergar de novo".</font>
   * **to set free those who are oppressed**  - "to set free those who are treated harshly"
+  * <font inherit/inherit;;#B22222;;inherit>** para libertar aqueles que estão oprimidos ** - "para libertar aqueles que são tratados com severidade".</font>
   * **to proclaim the favorable year of the Lord**  - This could be translated as "to announce that this is the year that the Lord will show his kindness" or "to tell everyone that the Lord is ready to bless his people."
+  * <font inherit/inherit;;#B22222;;inherit>** para proclamar o ano favorável do Senhor ** - Isto pode ser traduzido como: "para anunciar que este é o ano que o Senhor mostratá sua bondade" ou "para dizer a todos que o Senhor está pronto para abençoar seu povo".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
