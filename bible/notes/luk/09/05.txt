@@ -18,7 +18,7 @@
 
 ===== Target ULB: =====
 
-**5** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando não receberem vocês em alguma cidade sacudam a poeira do seus pés em testemunho contra eles ao saírem do lugar.”</font> **6** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então eles foram pelas vilas, proclamando as boas-novas e curando as pessoas por todos os lugares.</font>
+**5** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando não receberem vocês em alguma cidade sacudam a poeira do seus pés em testemunho contra eles ao saírem do lugar.”</font> **6** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então eles foram pelas vilas, proclamando as boas novas e curando as pessoas por todos os lugares.</font>
 
 ----
 
