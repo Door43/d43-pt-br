@@ -26,11 +26,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **After these things happened**  - This refers to what happened in the previous verses.
+  * <font inherit/inherit;;#B22222;;inherit>Depois que essas coisas aconteceram - Isto se refere ao que aconteceu nos versos anteriores.</font>
   * **saw a tax collector**  - That is, "looked at a tax collector with attention" or "looked carefully at a tax collector."
+  * <font inherit/inherit;;#B22222;;inherit>** viu um coletor de impostos ** - Isto é: "olhou com atenção para um coletor de impostos" ou "olhou cuidadosamente para um coletor de impostos".</font>
   * **tax collecting place**  - "tax booth" or "tax-collecting station." This was a booth or table at the side of the road where people had to pay taxes to the government.
+  * <font inherit/inherit;;#B22222;;inherit>** lugar de coletar impostos  ** - "coletoria" ou "estação de coleta de impostos". Isto era uma tenda ou mesa à beira da estrada onde as pessoas tinham que pagar impostos ao governo.</font>
   * **Follow me**  - This can also be translated as "Be my disciple" or "Come, follow me as your teacher."
+  * <font inherit/inherit;;#B22222;;inherit>** Me siga ** - Isto pode também ser traduzido como: "Seja meu discípulo" ou "Venha, me siga como seu mestre".</font>
   * **left everything**  - "left his work as a tax collector"
+  * <font inherit/inherit;;#B22222;;inherit>** deixou tudo ** - "deixou seu trabalho de coletor de impostos".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
