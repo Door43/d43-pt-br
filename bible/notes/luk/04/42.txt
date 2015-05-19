@@ -25,10 +25,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **When daybreak came**  - "At sunrise" or "At dawn"
+  * <font inherit/inherit;;#B22222;;inherit>** Quando a aurora veio ** - "No nascer do sol" ou "No amanhecer".</font>
   * **a solitary place**  - "a deserted place" or "a place where no people lived" or "a place where there were no people"
+  * <font inherit/inherit;;#B22222;;inherit>** um lugar solitário ** - "um lugar deserto" ou "um lugar onde ninguém vivia" ou "um lugar onde não havia ninguém".</font>
   * **to many other cities**  - This could be translated as "to the people in many other cities."
+  * <font inherit/inherit;;#B22222;;inherit>** muitas outras cidades  ** - Isto poderia ser traduzido como: "para as pessoas de muitas outras cidades".</font>
   * **this is the reason I was sent here**  - This could be translated with an active clause as in "this is the reason God sent me here." (See: [[:en:ta:translate:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** esta é a razão pela qual eu fui enviado para cá ** - Isto poderia ser traduzido na voz ativa: "Esta é a razão pela qual Deus me enviou até aqui".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
