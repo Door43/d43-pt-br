@@ -26,14 +26,25 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to speak to the people in the synagogue.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a falar para as pessoas na sinagoga).</font>
   * **I say to you in truth**  - "I tell you truthfully." This phrase was used to emphasize the importance, truth, and accuracy of the statement that follows.
+  * <font inherit/inherit;;#B22222;;inherit>** eu digo a vocês em verdade ** - "Eu verdadeiramente digo a vocês". Esta frase era usada para enfatizar a importância, verdade e exatidão da declaração que se segue.</font>
   * **widows**  - A widow is a woman whose husband has died.
+  * <font inherit/inherit;;#B22222;;inherit>** viúvas ** - Uma viúva é uma mulher cujo marido morreu.</font>
   * **during Elijah's time**  - This could also be translated as "when Elijah was prophesying in Israel." The people Jesus was speaking to would have known that Elijah was one of God's prophets. If your readers would not know that, you can make this implicit information explicit as in the UDB. (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** durante o tempo de Elias ** - Isto poderia ser traduzido como: "quando Elias estava profetizando em Israel". As pessoas para as quais Jesus estava falando teriam sabido que Elias foi um dos profetas de Deus. Se os seus leitores não souberem disso, você pode fazer dessa informação implícita algo explícito, como na versão UDB.</font>
   * **when the sky was shut up with no rain**  - This can be translated as "when no rain came down from the sky" or "when there was no rain at all." This is a metaphor. The sky is pictured as a ceiling that was closed up to keep the water above it from coming down as rain. (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** quando o céu foi fechado e não caiu chuva ** - Isto pode ser traduzido como: "quando nenhuma chuva caiu do céu" ou "quando não houve chuva nenhuma". Esta é uma metáfora. O céu é descrito como um teto que foi coberto para impedir que a água acima dele descesse como a chuva.</font>
   * **when there was a great famine**  - "when there was a serious lack of food" or "when the people did not have enough food." A famine is a long period of time when the crops do not produce enough food for the people.
+  * <font inherit/inherit;;#B22222;;inherit>** quando houve uma grande fome ** - "quando houve uma séria falta de comida" ou "quando as pessoas não tinham comida suficiente". A fome é um longo período de tempo quando as plantações não produzem comida suficiente para as pessoas.</font>
   * **a widow living in Zarephath**  - The people living in the town of Zarephath were Gentiles, not Jews. This could be translated as "a Gentile widow living in Zarephath." The people listening to Jesus would have understood that the people of Zarephath were Gentiles. (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** uma viúva vivendo em Sarepta  ** - As pessoas que viviam na cidade de Sarepta eram gentios, não judeus. Isto poderia ser traduzido como: "uma viúva gentil vivendo em Sarepta". As pessoas ouvindo Jesus teriam entendido que as pessoas em Sarepta eram gentis.</font>
   * **Naaman the Syrian**  - A Syrian is a person from the country of Syria. The people of Syria were Gentiles, not Jews. This could be translated as "the Gentile Naaman from Syria."
+  * <font inherit/inherit;;#B22222;;inherit>** Naamã, o sírio ** - Um Sírio é uma pessoa do país da Síria. As pessoas da Síria eram gentis, não judias. Isto poderia ser traduzido como: "o gentil Naamã, da Síria".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
