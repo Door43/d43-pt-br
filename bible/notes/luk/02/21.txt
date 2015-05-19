@@ -25,7 +25,10 @@
 ===== Translation Notes: =====
 
   * **his name was called Jesus**  - "they named him Jesus" or "they gave him the name Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** seu nome foi chamado Jesus ** - "eles chamaram ele de Jesus" ou "eles deram a ele o nome Jesus"</font>
   * **which he had been called by the angel**  - This could be translated as "the name the angel had called him" or "That was the name he had been called by the angel."
+  * <font inherit/inherit;;#B22222;;inherit>** que ele havia sido chamado pelo anjo ** - Isto pode ser traduzido como "o nome que o anjo chamou ele" ou "Este foi o nome que ele foi chamado pelo anjo."</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
