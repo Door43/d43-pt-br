@@ -29,9 +29,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **it is said**  - This could be translated as "The scriptures say" or "It is written."
+  * <font inherit/inherit;;#B22222;;inherit>** é dito que ** - Isto pode ser traduzido como "As escrituras dizem" ou "está escrito".</font>
   * **You must not test the Lord your God**  - This can be translated as "Do not test the Lord your God." Jesus quoted this Scripture to say why he would not put God to the test by jumping down from the temple. This command is for God's people.
+  * <font inherit/inherit;;#B22222;;inherit>** Você não deve provar o Senhor seu Deus  ** - Isto pode ser traduzido como: "Não prove o Senhor seu Deus". Jesus citou esta Escritura para dizer porque ele não provaria a Deus pulando do templo. Este mandamento é para o povo de Deus.</font>
   * **until another time**  - "until another occasion"
+  * <font inherit/inherit;;#B22222;;inherit>** até um outro momento ** - "até uma outra ocasião".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
