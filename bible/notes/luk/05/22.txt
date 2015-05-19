@@ -26,12 +26,21 @@
 
 ===== Translation Notes: =====
 
-  * **Why are you questioning this in your hearts**  - This could also be translated as "You should not argue about this in your hearts" or "You should not doubt that I have the authority to forgive sins." (See: [[en:ta:translate:rhetoricalquestion|Rhetorical Question]])
-  * **in your hearts**  - This is an idiom referring to the part of a person that thinks or believes. Some languages will find it more natural not to include this phrase. (See: [[en:ta:translate:idiom|Idiom]])
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * **Why are you questioning this in your hearts**  - This could also be translated as "You should not argue about this in your hearts" or "You should not doubt that I have the authority to forgive sins." (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * <font inherit/inherit;;#B22222;;inherit>** Por que vocês estão questionando isso em seus corações ** - Isto poderia também ser traduzido como: "Vocês não deveriam questionar isso em seus corações" ou "Vocês não devem duvidar da autoridade que eu tenho para perdoar pecados".</font>
+  * **in your hearts**  - This is an idiom referring to the part of a person that thinks or believes. Some languages will find it more natural not to include this phrase. (See: [[:en:ta:translate:idiom|Idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** nos seus corações ** - Esta é uma expressão que se refere à parte da pessoa que pensa ou acredita. Algumas línguas poderão achar mais natural não colocar esta frase.</font>
   * **Which is easier to say**  - Jesus uses this rhetorical question to prepare them to connect his power to forgive with the miracle of healing that he is going to do. The whole question could be translated as "It is easy to say 'Your sins are forgiven,' but only God can cause this lame man to 'Get up and walk.'"
-  * **you may know**  - Jesus was speaking to the scribes and Pharisees. The word "you" is plural. (See: [[en:ta:translate:formsofyou|Forms of 'You']])
+  * <font inherit/inherit;;#B22222;;inherit>** O que é mais fácil dizer ** - Jesus usa esta pergunta retórica para levá-los a associarem seu poder de perdoar pecados com o milagre que ele irá realizar. Toda a pergunta pode ser traduzida como: "É fácil dizer 'seus pecados estão perdoados', mas somente Deus pode fazer esse homem aleijado 'se levantar e andar'".</font>
+  * **you may know**  - Jesus was speaking to the scribes and Pharisees. The word "you" is plural. (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
+  * <font inherit/inherit;;#B22222;;inherit>** vocês devem saber ** - Jesus estava falando com os escribas e fariseus. A palavra "vocês" é plural.</font>
   * **the Son of Man**  - Jesus was referring to himself.
+  * <font inherit/inherit;;#B22222;;inherit>** o Filho do homem ** - Jesus estava se referindo a si mesmo.</font>
   * **I say to you**  - Jesus was saying this to the paralyzed man. The word "you" is singular.
+  * <font inherit/inherit;;#B22222;;inherit>** eu digo a você  ** - Jesus estava dizendo isto para o homem paralítico. A palavra "você" é singular.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
