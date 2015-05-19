@@ -24,11 +24,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **a high place**  - "a high mountain"
+  * <font inherit/inherit;;#B22222;;inherit>** um lugar alto ** - "uma montanha alta".</font>
   * **in a moment of time**  - "in an instant" or "instantly"
+  * <font inherit/inherit;;#B22222;;inherit>** em um momento ** - "em um instante" ou "instantaneamente".</font>
   * **Therefore**  - "So"
+  * <font inherit/inherit;;#B22222;;inherit>** Portanto ** - "Assim".</font>
   * **if you will bow down before me and worship me**  - This could be translated as "if you will kneel before me" or "if you will bow down to worship me" or "if you will worship me by bowing down to me."
+  * <font inherit/inherit;;#B22222;;inherit>** se você se prostrar diante de mim e me adorar ** - Isto pode ser traduzido como: "se você se ajoelhar diante de mim" ou "se você se prostrar para me adorar" ou "se você me adorar se prostando diante de mim".</font>
   * **all of this will be yours**  - This could be translated as "I will give all these kingdoms to you."
+  * <font inherit/inherit;;#B22222;;inherit>** tudo isso será seu ** - Isto pode ser traduzido como: "Eu darei todos esses reinos a você".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
