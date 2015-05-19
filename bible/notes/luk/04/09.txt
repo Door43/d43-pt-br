@@ -26,11 +26,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **the very highest point**  - This was the corner of the temple roof. If someone slipped or jumped from there, they would be seriously injured or die.
+  * <font inherit/inherit;;#B22222;;inherit>** o ponto mais alto ** - Este era o topo do telhado do templo. Se alguém escorregasse ou pulasse dali estaria seriamente ferido ou morto.</font>
   * **If you are the Son of God**  - The devil was probably challenging Jesus to prove that he was the Son of God.
+  * <font inherit/inherit;;#B22222;;inherit>** se você é o Filho de Deus ** - O diabo estava provavelmente desafiando Jesus a provar que ele era o Filho de Deus.</font>
   * **throw yourself down**- "jump down to the ground"
+  * <font inherit/inherit;;#B22222;;inherit>** se jogue para baixo ** - "pule para o chão"</font>
   * **It is written**  - This could be translated as “it is written in the scriptures” or “the scriptures say” or “in the scriptures God said.” The devil was about to quote scripture in an effort to persuade Jesus to jump off the building.
+  * <font inherit/inherit;;#B22222;;inherit>** está escrito  ** - Isto pode ser traduzido como: "está escrito nas escrituras" ou "as escrituras dizem" ou "nas escrituras Deus diz". O diabo estava prestes a citar as escrituras em um esforço para persuadir Jesus a pular do templo.</font>
   * **He will command**  - "He" refers to God.
+  * <font inherit/inherit;;#B22222;;inherit>** ele irá ordenar ** - "Ele" se refere a Deus.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:04|Luke Chapter 04 Comprehension Questions]]**
