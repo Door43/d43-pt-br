@@ -27,11 +27,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **they said to him**  - "the religious leaders said to Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** eles falaram para eles ** - "os líderes religiosos disseram para Jesus"</font>
   * **Can anyone make**  - Jesus used this rhetorical question to cause the people to think about a situation that they already know. It can also be translated as "No one tells the wedding attendants of the bridegroom to fast while he is still with them." (See [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * <font inherit/inherit;;#B22222;;inherit>** Pode alguém fazer ** - Jesus usou essa pergunta retórica para levar as pessoas a pensarem sobre uma situação que elas já sabiam. Isto também pode ser traduzido como: "Ninguém diz aos convidados do noivo para eles jejuarem enquanto ele ainda está entre eles".</font>
   * **wedding attendants**  - "guests" or "friends." These are friends who celebrate with a man who is getting married.
+  * <font inherit/inherit;;#B22222;;inherit>** convidados do casamento ** - "convidados" ou "amigos". Estes são amigos que celebram com o homem que está se casando.</font>
   * **But the days will come when**  - "But some day" (UDB) or "But soon"
+  * <font inherit/inherit;;#B22222;;inherit>** Mas virão os dias quando ** - "Mas algum dia" (UDB) ou "Mas em breve".</font>
   * **the bridegroom will be taken away from them**  - This is a metaphor. Jesus was speaking about himself. This can be made explicit by adding "In the same way, my disciples cannot fast while I am with them." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** o noivo será tirado deles ** - Esta é uma metáfora. Jesus estava falando sobre ele mesmo. Isto pode ser feito explícito ao adicionar "da mesma forma, meus discípulos não podem jejuar enquanto eu estou com eles".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:05|Luke Chapter 05 Comprehension Questions]]**
