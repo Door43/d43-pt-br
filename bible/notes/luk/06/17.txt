@@ -30,11 +30,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **with them**  - "with the twelve he had chosen" or "with his twelve apostles"
+  * <font inherit/inherit;;#B22222;;inherit>** com eles  ** - "com os doze que ele havia escolhido" ou "com seus doze apóstolos".</font>
   * **and to be healed**  - This could be translated with the active voice as "and for Jesus to heal them." If it is not clear to your readers that Jesus actually healed them, you could make it explicit by saying "and Jesus healed them." (See [[:en:ta:vocabulary:active|Active or Passive]], [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** e para serem curados ** - Isto poderia ser traduzido na voz ativa: "e para Jesus curá-los". Se não ficar claro para seus leitores que Jesus de fato os curou, você pode deixar isso explícito ao dizer: "e Jesus os curou".</font>
   * **troubled with unclean spirits**  - "bothered by unclean spirits." This could also be translated as "controlled by unclean spirits" or "held captive by unclean spirits." See the UDB for a translation using the active voice.
+  * <font inherit/inherit;;#B22222;;inherit>** atormentadas com espíritos imundos ** - "perturbadas com espíritos imundos". Isto também pode ser traduzido como: "controladas por espíritos imundos" ou "mantidas cativas por espíritos imundos". Veja a versão UDB para uma tradução na voz ativa.</font>
   * **were also healed**  - This could be translated with the active voice as "Jesus also healed." If it is not natural to talk about people being healed from unclean spirits, this could be translated as "Jesus set them free" or "Jesus made the evil spirits leave them."
+  * <font inherit/inherit;;#B22222;;inherit>** também eram curadas ** - Isto poderia ser traduzido na voz ativa: "Jesus também curou". Se não for natural falar sobre pessoas serem curadas de espíritos imundos, isto poderia ser traduzido como: "Jesus as libertou" ou "Jesus fez os espíritos malignos saírem".</font>
   * **power to heal was coming out from him**  - This could be translated as "he had power to heal people." Jesus did not lose any power when power went out from him.
+  * <font inherit/inherit;;#B22222;;inherit>** poder para curar estava saindo dele ** - Isto poderia ser traduzido como: "ele tinha poder para curar pessoas". Jesus não perdeu nenhum poder quando este saiu dele.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
