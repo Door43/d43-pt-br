@@ -33,13 +33,13 @@
   * **Can a blind person guide another blind person?**  - Jesus used this rhetorical question to get people to think about something that they already knew. It can be translated as "A blind person cannot guide another blind person, can he?" or "We all know that a blind person cannot guide another blind person." (See: [[:en:ta:figuresofspeech:rhetoricalquestion|rhetoricalquestion]])
   * <font inherit/inherit;;#B22222;;inherit>** Pode um cego guiar um outro cego?  ** - Jesus usou essa pergunta retórica para levar as pessoas a pensarem sobre algo que elas já sabiam. Pode ser traduzido como: "Um cego não pode guiar outro cego, pode?" ou "Nós todos sabemos que uma pessoa cega não pode guiar outra cega".</font>
   * **If he did**  - Some languages might prefer "if one did."
-  * Se ele guiar - Algumas línguas podem preferir "se alguém guiar".
+  * <font inherit/inherit;;#B22222;;inherit>** Se ele guiar ** - Algumas línguas podem preferir "se alguém guiar".</font>
   * **they would both fall into a pit, would they not?**  - This is another rhetorical question. It could be translated as "Would they not both fall into a pit?" or "They both would fall into a hole" (UDB).
-  * <font inherit/inherit;;#B22222;;inherit>** ambos cairiam em uma cova, não é mesmo? ** - Esta é uma outra pergunta retórica. Poderia ser traduzida como: "Não iriam ambos cair em uma cova?" ou "Ambos cairiam em um buraco" (UDB).</font>
+  * <font inherit/inherit;;#B22222;;inherit>** ambos cairiam em uma cova, não é mesmo?  ** - Esta é uma outra pergunta retórica. Poderia ser traduzida como: "Não iriam ambos cair em uma cova?" ou "Ambos cairiam em um buraco" (UDB).</font>
   * **A disciple is not greater than his teacher**  - This could either mean 1) "A disciple does not have more knowledge than his teacher" or 2) "A disciple does not have more authority than his teacher." It could be translated as "A disciple has not surpassed his teacher."
-  * <font inherit/inherit;;#B22222;;inherit>** Um discípulo não é maior que o seu mestre ** - Isto pode significar uma das duas coisas: 1) Um discípulo não tem mais conhecimento que seu mestre" ou 2) "Um discípulo não tem mais autoridade que seu mestre". Poderia ser traduzido como: "Um discípulo não ultrapassou seu mestre".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Um discípulo não é maior que o seu mestre  ** - Isto pode significar uma das duas coisas: 1) Um discípulo não tem mais conhecimento que seu mestre" ou 2) "Um discípulo não tem mais autoridade que seu mestre". Poderia ser traduzido como: "Um discípulo não ultrapassou seu mestre".</font>
   * **everyone when he is completely trained**  - "every disciple who has been trained well." It can be translated with an active verb: "every disciple whose training has reached its goal" or "every disciple whose teacher has fully taught him." (See: [[:en:ta:vocabulary:active|Active or Passive]])
-  * <font inherit/inherit;;#B22222;;inherit>** todo aquele quando for completamente treinado ** - "todo discípulo que tiver sido bem treinado". Pode ser traduzido com um verbo ativo "todo discípulo cujo treino tiver alcançado seu objetivo" ou "todo discípulo cujo mestre o houver ensinado por completo".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** todo aquele quando for completamente treinado  ** - "todo discípulo que tiver sido bem treinado". Pode ser traduzido com um verbo ativo "todo discípulo cujo treino tiver alcançado seu objetivo" ou "todo discípulo cujo mestre o houver ensinado por completo".</font>
 
 ===== Links: =====
 
