@@ -26,10 +26,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>informações úteis para a tradução:</font>
+
   * (Jesus continues to teach his disciples.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar seus discípulos).</font>
   * **woe to you**  - “how terrible it is for you ” or “trouble will come to you” or “how sad you should be” or “what sorrow you will have”
+  * <font inherit/inherit;;#B22222;;inherit>** ai de vocês ** - "que terrível é para vocês" ou "aflição virá sobre vocês" ou "quão tristes vocês deveriam estar" ou "quanta tristeza vocês terão".</font>
   * **when all men**  - That is "when all people," or "when everyone."
+  * <font inherit/inherit;;#B22222;;inherit>** quando todos os homens ** - Ou seja, "quando todas as pessoas" ou "quando todos".</font>
   * **treated the false prophets in the same way**  - "spoke well of the false prophets"
+  * <font inherit/inherit;;#B22222;;inherit>** trataram os falsos profetas da mesma maneira ** - "falaram bem dos falsos profetas".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
