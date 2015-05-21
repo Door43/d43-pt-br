@@ -24,13 +24,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus teaches the crowd not to judge people.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus ensina a multidão a não julgar as pessoas).</font>
   * **Do not judge**  - "Do not judge people" or "Do not criticize people"
+  * <font inherit/inherit;;#B22222;;inherit>** Não julguem  ** - "Não julguem as pessoas" ou "Não critiquem as pessoas".</font>
   * **and**  - This could also be translated as "and as a result"
+  * e - Isto poderia ser também traduzido como: "e como resultado".
   * **you will not be judged**  - Jesus did not say who would not judge. Possible meanings are 1) "God will not judge you" or 2) "no one will judge you." Both of these translations make it explicit who will not judge. (See: [[:en:ta:discourse:implicitexplicit-and:en:ta:vocabulary:active|active]])
+  * <font inherit/inherit;;#B22222;;inherit>** vocês não serão julgados ** - Jesus não disse quem não julgaria. Possíveis significados são: 1) "Deus não julgará você" ou 2) "ninguém julgará você". Ambas traduções explicitam quem não julgará.</font>
   * **Do not condemn**  - "Do not condemn people"
+  * <font inherit/inherit;;#B22222;;inherit>** Não condenem  ** - "Não condenem as pessoas".</font>
   * **you will not be condemned**  - Jesus did not say who would not condemn. Possible meanings are 1) "God will not condemn you" or 2) "no one will condemn you." Both of these translations make it explicit who will not condemn.
+  * <font inherit/inherit;;#B22222;;inherit>** vocês não serão condenados ** - Jesus não disse quem não condenaria. Possíveis significados: 1) "Deus não condenará vocês" ou 2) "ninguém irá condenar vocês". Ambas traduções explicitam quem não condenará.</font>
   * **you will be forgiven**  - Jesus did not say who would forgive. Possible meanings are 1) "God will forgive you" or 2) "they will forgive you." The first translation make it explicit who will forgive.
+  * <font inherit/inherit;;#B22222;;inherit>** vocês serão perdoados  ** - Jesus não disse quem perdoaria. Possíveis significados são: 1) "Deus perdoará vocês" ou 2) "eles perdoarão vocês". A primeira tradução explicita quem irá perdoar.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
