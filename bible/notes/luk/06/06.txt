@@ -26,11 +26,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **And it happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** E aconteceu  ** - Esta frase é usada aqui para indicar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, considere usá-la aqui.</font>
   * **hand was shriveled**  - The man's hand was damaged in such a way that he could not stretch it. It was probably bent into almost a fist, making it look smaller and wrinkled.
+  * <font inherit/inherit;;#B22222;;inherit>** mão estava atrofiada ** - A mão do homem estava danificada de tal maneira que ele não podia esticá-la. Estava provavelmente dobrada quase que como um punho fechado., fazendo-a parecer menor e enrugada.</font>
   * **were watching him closely**  - "were watching Jesus carefully"
+  * <font inherit/inherit;;#B22222;;inherit>** estavam observando-o de perto  ** - "estavam observando Jesus com cuidado".</font>
   * **so that they might find**  - This could be translated as "because they wanted to find."
+  * <font inherit/inherit;;#B22222;;inherit>** para que eles possam encontrar ** - Isto poderia ser traduzido como: "porque eles queriam encontrar".</font>
   * **in the middle of everyone**  - This could be translated as "in front of everyone" (UDB). Jesus wanted the man to stand where everyone there could see him.
+  * <font inherit/inherit;;#B22222;;inherit>** no meio de todos ** - Isto pode ser traduzido como: "em frente de todos" (UDB). Jesus queria que o homem se colocasse de pé onde todos pudessem vê-lo.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
