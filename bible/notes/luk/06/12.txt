@@ -25,11 +25,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **And it happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** E aconteceu ** - Esta frase é usada aqui para indicar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, considere usá-la aqui.</font>
   * **in those days**  - "around that time" or "not long after that" or "one day around then"
+  * <font inherit/inherit;;#B22222;;inherit>** naqueles dias ** - "por volta daquele tempo" ou "não muito tempo depois" ou "em um dia daqueles".</font>
   * **he went out**  - "Jesus went out"
+  * <font inherit/inherit;;#B22222;;inherit>** ele saiu ** - "Jesus saiu".</font>
   * **chose from them twelve**  - "he chose twelve of them" or "he chose twelve from among the disciples"
+  * <font inherit/inherit;;#B22222;;inherit>** escolheu dentre eles doze ** - "ele escolheu doze deles" ou "ele escolheu doze dentre os discípulos".</font>
   * **whom he named 'apostles'**  - "and he called them 'apostles'" or "whom he appointed to be apostles" or "whom he made apostles"
+  * <font inherit/inherit;;#B22222;;inherit>** aos quais ele chamou 'apóstolos' ** - "e ele os chamou 'apóstolos'" ou "os quais ele designou para serem apóstolos" ou "os quais ele fez apóstolos".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
