@@ -25,11 +25,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to teach the crowd not to judge people.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar a multidão a não julgar as pessoas).</font>
   * **Why do you look**  - This is a metaphor about noticing or judging others. It can be translated as a simile as it is in the UDB. "Why do you notice … That is like…" (See: [[:en:ta:figuresofspeech:metaphor|metaphor]], [[:en:ta:figuresofspeech:simile|simile]])
+  * <font inherit/inherit;;#B22222;;inherit>** Por que você olha ** - Esta é uma metáfora sobre observar e julgar os outros. Isto pode ser traduzido como uma símile, assim como está na versão UDB. "Por que você percebe... Isso é como...".</font>
   * **tiny piece of straw**  - This could be translated as "splinter" or "speck" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** pequeno pedaço de palha ** - Isto poderia ser traduzido como: "fragmento" ou "cisco" (UDB).</font>
   * **brother**  - Here it could refer to a fellow Jew or a fellow believer in Jesus.
+  * **<font inherit/inherit;;#B22222;;inherit>irmão</font> **-<font inherit/inherit;;#B22222;;inherit>Aqui pode se referir a um companheiro judeu ou um companheiro crente em Jesus.</font>
   * **log**  - This could be translated as "beam" or "plank."
+  * <font inherit/inherit;;#B22222;;inherit>** tora ** - Isto pode ser traduzido como: "trave" ou "prancha".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
