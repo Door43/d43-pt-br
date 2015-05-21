@@ -23,13 +23,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to teach the crowd about the importance of obeying him.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar a multidão sobre a importância de obedecê-lo).</font>
   * **a man who built a house…**  - *This metaphor now compares a man building a house without a foundation to a person who does not obey the teachings of Jesus. (See: [[:en:ta:figuresofspeech:metaphor|metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** um homem que construiu uma casa ** - Esta metáfora agora compara um homem construindo uma casa sem uma fundação à uma pessoa que não obedece os ensinos de Jesus.</font>
   * **foundation**  - "base" or "support"
+  * <font inherit/inherit;;#B22222;;inherit>** fundação ** - "base" ou "suporte".</font>
   * **without a foundation**  - This could be translated as "but he did not dig down and build a foundation first."
+  * <font inherit/inherit;;#B22222;;inherit>** sem uma fundação ** - Isto poderia ser traduzido como: "mas ele não cavou e construiu primeiro a fundação".</font>
   * **torrent of water**  - "fast-moving water" or "river"
+  * <font inherit/inherit;;#B22222;;inherit>** torrente de água ** - "água com movimento rápido" ou "rio".</font>
   * **flowed against**  - "crashed against"
+  * <font inherit/inherit;;#B22222;;inherit>** fluiu contra  ** - "bateu contra".</font>
   * **collapsed**  - "fell down" or "came apart"
+  * <font inherit/inherit;;#B22222;;inherit>** desabou ** - "caiu" ou "se despedaçou".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
