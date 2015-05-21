@@ -22,13 +22,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to teach his disciples.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar seus discípulos).</font>
   * **woe to you**  - This phrase is repeated three times. It is the opposite of "blessed are you." Each time, it indicates that God's anger is directed at the people, or that something negative or bad awaits them.
+  * <font inherit/inherit;;#B22222;;inherit>** Ai de vocês ** - Esta é uma frase que é repetida por três vezes. Ela é o oposto de "bem aventurados são vocês". Cada uma das vezes indica ou que a ira de Deus é direcionada para aquelas pessoas, ou que algo negativo ou ruim espera por elas.</font>
   * **woe to you who are rich**  - “how terrible it is for you who are rich ” or "trouble will come to you who are rich." It could be translated as “You who are rich, how sad for you” or “You who are rich, what sorrow you will have.”
+  * <font inherit/inherit;;#B22222;;inherit>** Ai de vocês que são ricos  ** - "quão terrível é para vocês que são ricos" ou "aflição virá sobre vocês que são ricos". Isto poderia ser traduzido como: "vocês que são ricos, que triste para vocês" ou "vocês que são ricos, quanta tristeza vocês terão".</font>
   * **you have already received**  - "you are already receiving in full" or "you are already receiving all you will receive"
+  * <font inherit/inherit;;#B22222;;inherit>** vocês já receberam ** - "vocês já receberam por completo" ou "vocês já estão recebendo tudo o que receberão".</font>
   * **your comfort**  - "what comforts you" or "what satisfies you" or "what makes you happy"
+  * <font inherit/inherit;;#B22222;;inherit>** seu conforto ** - "o que conforta vocês" ou "o que satisfaz vocês" ou "o que faz vocês felizes".</font>
   * **who are full now**  - "whose stomachs are full now" or "who eat much now"
+  * <font inherit/inherit;;#B22222;;inherit>** que estão cheios agora ** - "cujos estômagos estão cheios agora" ou "que comem muito agora".</font>
   * **who laugh now**  - "who are happy now"
+  * <font inherit/inherit;;#B22222;;inherit>** que riem agora ** - "que são felizes agora".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
