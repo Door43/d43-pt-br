@@ -24,14 +24,25 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus teaches the crowd about the importance of obeying him.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus ensina a multidão sobre a importância de obedecê-lo).</font>
   * **a man building a house…**  - *This metaphor compares a man building a house on rock to a person who lives his life based on the teachings of Jesus. (See: [[:en:ta:figuresofspeech:metaphor|metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** um homem contruindo uma casa...  ** - Esta metáfora compara um homem construindo uma casa na rocha a uma pessoa que vive sua vida baseada nos ensinos de Jesus.</font>
   * **foundation**  - "base" or "support"
+  * <font inherit/inherit;;#B22222;;inherit>** fundação ** - "base" ou "suporte".</font>
   * **solid rock**  - This is the very large, hard rock that is deep under the soil.
+  * <font inherit/inherit;;#B22222;;inherit>** rocha sólida ** - Esta é a grande e dura rocha que é encontrada numa camada profunda do solo.</font>
   * **built the house's foundation on solid rock**  - "dug the foundation of the house deep enough to reach" or "built the house on solid rock." Some cultures may not be familiar with building on bedrock. In those cases, this could be translated in a more general way as in "set the house's foundation firmly in solid ground."
+  * <font inherit/inherit;;#B22222;;inherit>** construiu a base da casa numa rocha sólida ** - "cavou a fundação da casa profunda o suficiente para alcançar" ou "construiu a casa em rocha sólida". Algumas culturas podem não ser familiarizadas com construções em base rochosa. Nestes casos, isto poderia ser traduzido de uma forma mais geral como em: "estabeleceu a fundação da casa firmemente em um terreno sólido".</font>
   * **torrent of water**  - "fast-moving water" or "river"
+  * **<font inherit/inherit;;#B22222;;inherit>torrente de água - "água com movimento rápido" ou "rio".</font> **
   * **flowed against**  - "crashed against"
+  * <font inherit/inherit;;#B22222;;inherit>** fluiu contra ** - "bateu contra".</font>
   * **because it had been well built**  - "because the man had built it well"
+  * <font inherit/inherit;;#B22222;;inherit>** porque foi bem construída  ** - "porque o homem a construiu bem".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
