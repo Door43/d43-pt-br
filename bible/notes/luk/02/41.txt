@@ -19,7 +19,6 @@
 
   * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
   * [[:pt-br:bible:notes:key-terms:feast|feast]]
-  * [[:pt-br:bible:notes:key-terms:passover|Passover]]
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
 
 ===== Translation Notes: =====
@@ -35,4 +34,4 @@
 
 **[[:pt-br:bible:notes:luk:02:39|<<]] | [[:pt-br:bible:notes:luk:02:45|>>]]**
 
-~~DISCUSSION~~{{tag>draft feast passover}}
+~~DISCUSSION~~{{tag>draft feast }}
