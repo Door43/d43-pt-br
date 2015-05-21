@@ -33,13 +33,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to teach his disciples.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar seus discípulos).</font>
   * **blessed are you**- “You receive God's favor” or “you benefit” or “how good it is for you”
+  * <font inherit/inherit;;#B22222;;inherit>** bem aventurados são vocês ** - "Vocês recebem o favor de Deus" ou "vocês se beneficiam" ou "que bom para vocês".</font>
   * **separate you from their company**  - "exclude you" or "reject you"
+  * <font inherit/inherit;;#B22222;;inherit>** separarem vocês da companhia deles ** - "excluírem vocês" ou "rejeitarem vocês".</font>
   * **reproach you**  - "criticize you in an insulting way"
+  * <font inherit/inherit;;#B22222;;inherit>** difamarem vocês ** - "criticá-los de modo a os insultar".</font>
   * **for the Son of Man's sake**  - "because of the Son of Man" or "because you associate with the Son of Man" or "because they reject the Son of Man"
+  * <font inherit/inherit;;#B22222;;inherit>** por amor ao Filho do Homem ** - "por causa do Filho do Homem" ou "porque vocês se associaram ao Filho do Homem" ou "porque eles rejeitaram o Filho do Homem".</font>
   * **in that day**  - "when they do those things" or "when that happens"
+  * <font inherit/inherit;;#B22222;;inherit>** naquele dia ** - "quando fizerem aquelas coisas" ou "quando aquilo acontecer".</font>
   * **a great reward**  - "a good payment" or "good gifts because of it"
+  * <font inherit/inherit;;#B22222;;inherit>** uma grande recompensa ** - "um bom pagamento" ou "bons presentes por causa disso".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
