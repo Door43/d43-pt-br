@@ -29,10 +29,16 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Have you not even read**  - This is the beginning of a rhetorical question. Jesus is mildly rebuking them for not learning from it. It could be translated as "Certainly you have read." (UDB) or "You should learn from what you have read" (See: [[:en:ta:figuresofspeech:rhetoricalquestion|rhetoricalquestion]])
   * **the ceremonial bread**  - "the holy bread" or "the bread that was offered to God"
+  * <font inherit/inherit;;#B22222;;inherit>** Vocês nunca nem leram ** - Este é o início de uma pergunta retórica. Gentilmente Jesus está repreendendo-os por não terem aprendido com o que estava escrito. Isto poderia ser traduzido como: "Certamente vocês leram" (UDB) ou "Vocês devem aprender com o que vocês leram".</font>
   * **Son of Man**  - This could be translated as "I, the Son of Man." Jesus was referring to himself.
+  * <font inherit/inherit;;#B22222;;inherit>** Filho do Homem  ** - Isto pode ser traduzido como: "Eu, o Filho do homem". Jesus estava se referindo a si mesmo.</font>
   * **Lord of the Sabbath**  - "owner of the Sabbath." It could be translated as "has the authority to determine what is right for people to do on the Sabbath!" (UDB)
+  * <font inherit/inherit;;#B22222;;inherit>** Senhor do Sabá ** - "dono do Sabá". Isto poderia ser traduzido como: "tem a autoridade de determinar o que é correto para as pessoas fazerem no dia de Sabá".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
