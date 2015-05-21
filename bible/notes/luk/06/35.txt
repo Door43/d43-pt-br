@@ -31,11 +31,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to teach the crowd to love their enemies.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar as multidões a amarem seus inimigos).</font>
   * **your reward will be great**  - "you will receive a great reward" or "you will receive good payment" or "you will receive good gifts because of it"
+  * <font inherit/inherit;;#B22222;;inherit>** sua recompensa será grande ** - "você receberá uma grande recompensa" ou "você receberá um bom pagamento" ou "você receberá bons presentes por causa disso".</font>
   * **you will be sons of the Most High**  - The words "sons of" is an idiom meaning "like." It indicates that people who love their enemies act like God acts. This could be translated as "you will be acting like children of the the Most High God" or "you will be like the Most High God." Make sure that the word "sons" is plural so it is not confused with Jesus' title "The Son of God."
-  * **unthankful and evil people**  - "people who who do not thank him and who are evil"
+  * <font inherit/inherit;;#B22222;;inherit>** vocês serão filhos do Altíssimo ** - As palavras "filhos de" compõem uma expressão que significa "como". Indica que aqueles que amam seus inimigos agem como Deus age. Isto poderia ser traduzido como: "vocês estarão agindo como filhos dos Deus Altíssimo" ou "vocês serão como o Deus Altíssimo". Assegure que a palavra "filhos" esteja no plural para que não cause confusão com o título de Jesus "O Filho de Deus".</font>
+  * **unthankful and evil people**  - "people who do not thank him and who are evil"
+  * <font inherit/inherit;;#B22222;;inherit>** pessoas ingratas e más ** - "pessoas que não o agradecem e são más".</font>
   * **your Father**  - This refers to God. This could be made clearer by saying "your Father in heaven."
+  * <font inherit/inherit;;#B22222;;inherit>** seu Pai  ** - Isto se refere a Deus. Isto poderia ser feito mais claro dizendo "seu Pai no céu".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
