@@ -28,13 +28,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to teach the crowd not to judge people.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar a multidão a não julgar as pessoas).</font>
   * These verses are a metaphor that compares the thoughts of a person to treasures that people store in a safe place. It could be translated without the figure of speech as in the UDB. (See: [[:en:ta:figuresofspeech:metaphor|metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>Estes versos são metáforas que comparam os pensamentos de uma pessoa a tesouros que pessoas guardam em um lugar seguro. Isso poderia ser traduzido sem a figura de linguagem, como é encontrado na versão UDB.</font>
   * **The good man**  - "The good person." The word "good" here refers to righteousness or moral goodness. The word "man" here refers to a person, male or female. It could be translated as "A good person" or "Good people" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** O bom homem  ** - "A boa pessoa". A palavra "bom" aqui se refere a retidão ou bondade moral. A palavra "homem" aqui se refere a pessoa, macho ou fêmea. Poderia ser traduzido como "Uma boa pessoa" ou "boas pessoas" (UDB).</font>
   * **the good treasure of his heart**  - "the good things he keeps in his heart" or "what he values"
+  * <font inherit/inherit;;#B22222;;inherit>** o bom tesouro do seu coração ** - "as coisas boas que ele guarda no seu coração" ou "o que ele valoriza".</font>
   * **brings out**  - This could be translated without the metaphor as "lives his life" or "demonstrates" or "shows" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** traz para fora ** - Isto poderia ser traduzico sem a metáfora, como em "vive sua vida" ou "demonstra" ou "mostra" (UDB).</font>
   * **that which is good**  - "good things"
+  * <font inherit/inherit;;#B22222;;inherit>** aquilo que é bom ** - "coisas boas".</font>
   * **from the abundance of his heart his mouth speaks**  - "what he thinks in his heart affects what he says with his mouth" or "what he values in his heart determines what he says with his mouth." It could be translated without reference to the mouth and heart, as in "what a person says shows what he constantly thinks about" or "what he thinks about affects what he says."
+  * <font inherit/inherit;;#B22222;;inherit>** da abundância de seu coração sua boca fala ** - "o que ele pensa em seu coração afeta o que ele diz com sua boca" ou "o que ele valoriza em seu coração determina o que ele diz com sua boca". Isso poderia ser traduzido sem a referência à boca e ao coração, como é visto em: "o que uma pessoa diz demonstra o que ela está constantemente pensando" ou "o que ele pensa afeta o que ele diz".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
