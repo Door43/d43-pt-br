@@ -25,10 +25,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **blessed are you**  - This phrase is repeated three times. Each time, it indicates that God gives favor to someone or that their situation is positive or good.
+  * <font inherit/inherit;;#B22222;;inherit>** bem aventurados são vocês ** - Esta frase é repetida três vezes. Cada vez indica que Deus favorece a alguém ou que a situação delas é positiva ou boa.</font>
   * **blessed are you who are poor**  - "You who are poor receive God's favor" or "you who are poor benefit" or "how good it is for you who who are poor" or "It is very good for you who are poor"
+  * <font inherit/inherit;;#B22222;;inherit>** bem aventurados são vocês que são pobres ** - "Vocês que são pobres recebam o favor de Deus" ou "vocês que são pobres se beneficiem" ou "é muito bom para vocês que são pobres".</font>
   * **yours is the kingdom of God**  - "the kingdom of God belongs to you." This could mean 1) "you belong to God's kingdom" or 2) "you will have authority in God's kingdom." Languages that don't have a word for kingdom might say "God is your king" or "God is your ruler."
+  * <font inherit/inherit;;#B22222;;inherit>** de vocês é o reino de Deus ** - "o reino de Deus pertence a vocês". Isto poderia significar: 1) "vocês pertencem ao reino de Deus" ou 2) "vocês terão autoridade no reino de Deus". Línguas que não têm uma palavra para "reino" podem dizer: "Deus é o seu rei" ou "Deus é o seu governante".</font>
   * **you will laugh**  - "you will laugh with joy" or "you will be joyful"
+  * <font inherit/inherit;;#B22222;;inherit>** vocês irão sorrir ** - "vocês irão sorrir de alegria" ou "vocês serão alegres".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
