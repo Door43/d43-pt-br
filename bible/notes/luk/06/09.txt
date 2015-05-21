@@ -28,10 +28,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **to them**  - "to the Pharisees"
+  * <font inherit/inherit;;#B22222;;inherit>** para ele ** - "para os fariseus"</font> .
   * **Is it lawful**  - This is the beginning of a rhetorical question. Jesus wanted the Pharisees to think about it and acknowledge that it is lawful to heal on the Sabbath. This could be translated as "Which is lawful? To do good" or "Which does the law of Moses permit us to do?" (See: [[:en:ta:translate:rhetoricalquestion|Rhetorical Question]])
+  * <font inherit/inherit;;#B22222;;inherit>** é permitido ** - Esta é o início de uma pergunta retórica. Jesus queria que os fariseus pensassem e reconhecessem que é permitido curar em um dia de Sabá. Isto pode ser traduzido como: "Que é permitido? Fazer o bem" ou "O que a lei de Moisés nos permite fazer?".</font>
   * **stretch out your hand**  - "hold out your hand" or "extend your hand"
+  * <font inherit/inherit;;#B22222;;inherit>** alongue sua mão ** - "estique sua mão" ou "estenda sua mão".</font>
   * **restored**  - "healed"
+  * <font inherit/inherit;;#B22222;;inherit>** restabelecido ** - "curado".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
