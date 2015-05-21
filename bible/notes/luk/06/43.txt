@@ -23,16 +23,28 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to teach the crowd not to judge people.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar a multidão a não julgar as pessoas).</font>
   * **For**  - "because." This links the fact that our character will be exposed as the reason why we should not judge our brother.
+  * <font inherit/inherit;;#B22222;;inherit>** Pois ** - "porque". Isto liga ao fato de que nosso personagem será exposto como a razão pela qual nós não devemos julgar nosso irmão.</font>
   * **good tree**  - "healthy tree"
+  * <font inherit/inherit;;#B22222;;inherit>** boa árvore ** - "árvore saudável".</font>
   * **rotten**  - "decaying." It could be translated as "bad".
+  * <font inherit/inherit;;#B22222;;inherit>** estragada  ** - "decadente". Poderia ser traduzida como: "má".</font>
   * **each tree is known**  - "recognized." This could be translated with an active verb, as in "people know a tree" or "people recognize a tree."
+  * <font inherit/inherit;;#B22222;;inherit>** cada árvore é conhecida ** - "reconhecida". Isto poderia ser traduzida como um verbo ativo: "as pessoas conhecem a árvore" ou "as pessoas reconhecem uma árvore".</font>
   * **fig**  - the sweet-tasting fruit of the fig tree. The fig tree does not have thorns on it.
+  * <font inherit/inherit;;#B22222;;inherit>** figo ** - a fruta de sabor doce da figueira. A figueira não possui espinhos.</font>
   * **thornbush**  - a plant or shrub that has thorns
+  * <font inherit/inherit;;#B22222;;inherit>** espinheiro ** - a planta ou arbusto que tem espinhos.</font>
   * **grape**  - the sweet-tasting fruit of the grape vine. The grape vine does not have thorns on it.
+  * <font inherit/inherit;;#B22222;;inherit>** uva ** - a fruta de sabor doce da videira. A videira não possui espinhos.</font>
   * **briar bush**  - a vine or shrub that has thorns
+  * <font inherit/inherit;;#B22222;;inherit>** arbusto espinhoso ** - uma vinha ou arbusto que tem espinhos.</font>
   * These verses are a metaphor about how people's actions show what they are really like. If necessary, it could be explained as it is in the last sentence of the UDB with "In the same way …." (See: [[:en:ta:figuresofspeech:metaphor|Metaphor]], [[:en:ta:figuresofspeech:simile|Simile]])
+  * <font inherit/inherit;;#B22222;;inherit>Estes versos são metáforas sobre como as ações das pessoas demonstram o que elas realmente são. Se necessário isso poderia ser explicado da mesma forma como é encontrado na última sentença da versão UDB: "Da mesma forma...".</font>
 
 ===== Links: =====
 
