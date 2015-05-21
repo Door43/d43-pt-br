@@ -21,11 +21,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to teach the crowd not to judge people.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar a multidão a não julgar as pessoas).</font>
   * **and it will be given to you**  - Jesus did not say explicitly who would give. Possible meanings are 1) “someone will give it to you” or 2) "God will give it to you." Both of these translations make the giver explicit.(See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]], [[:en:ta:vocabulary:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** e será dado a você ** - Jesus não disse explicitamente que daria. Possíveis significados são: 1) Alguém dará para você" ou 2) "Deus dará para você". Ambas as traduções explicitam o doador.</font>
   * **a generous amount**  - "a large amount"
+  * uma quantia generosa - "uma grande quantia".
   * **A generous amount … your lap**  - The order of this sentence can be reversed and active verbs can be used. "They will pour into your lap a generous amount that they have pressed down and shaken together and that is spilling over." Jesus used the metaphor of a grain merchant giving a generous amount. It could be translated as a simile "Like a grain merchant who presses down the grain and shakes it together and pours in so much grain that it spills over, they will give generously to you." (See: [[:en:ta:figuresofspeech:metaphor|metaphor]], [[:en:ta:figuresofspeech:simile|simile]])
+  * <font inherit/inherit;;#B22222;;inherit>** uma quantia generosa... seu colo ** - A ordem desta sentença pode ser invertida e verbos ativos podem ser usados. "Eles despejarão em seu colo uma quantia generosa que eles prensaram, sacudiram e que está transbordando". Jesus usou a metáfora de um comerciante de grãos dando uma quantia generosa. Poderia ser traduzido como uma símile: "Como um comerciante de grãos que os prensa, sacode, e coloca mais até que a bolsa transborda, eles darão generosamente para vocês".</font>
   * **the same standard will be used to measure for you**  - This can be translated as "They will use the same size measure to measure things for you" or "They will measure things for you by the same standard."
+  * <font inherit/inherit;;#B22222;;inherit>** o mesmo padrão será usado para medir vocês ** - Isto pode ser traduzido como: "Eles usarão a mesma medida de tamanho para medir coisas para vocês".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
