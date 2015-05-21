@@ -25,11 +25,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Apparently Jesus begins to speak to the whole crowd that was there, including those who were not his disciples.)
+  * <font inherit/inherit;;#B22222;;inherit>(Aparentemente Jesus começa a falar para toda a multidão que estava ali, incluindo aqueles que não eram seus discípulos).</font>
   * **Love… do good… bless… pray**  - Each of these commands are to be done continually, not just a single time.
+  * <font inherit/inherit;;#B22222;;inherit>** Ame... faça o bem... abençoe... ore ** - Cada um desses mandamentos devem ser contínuos, não apenas feitos uma única vez.</font>
   * **love your enemies**  - "care about your enemies" or "do what is good for your enemies"
+  * <font inherit/inherit;;#B22222;;inherit>** ame seus inimigos ** - "se importe com seus inimigos" ou "faça o bem aos seus inimigos".</font>
   * **those who curse you**  - "those who habitually curse you"
+  * <font inherit/inherit;;#B22222;;inherit>** aqueles que te amaldiçoam  ** - "aqueles que habitualmente te amaldiçoam".</font>
   * **those who mistreat you**  - "those who habitually mistreat you"
+  * <font inherit/inherit;;#B22222;;inherit>** aqueles que te maltratam  ** - "aqueles que habitualmente te maltratam".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
