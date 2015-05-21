@@ -27,10 +27,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **It happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** Aconteceu ** - Esta palavra é usada aqui para marcar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, você deve considerar usá-la aqui.</font>
   * **grain fields**  - In this case, these are large sections of land where wheat seed had been scattered to grow more wheat.
+  * <font inherit/inherit;;#B22222;;inherit>** searas ** - Neste caso, estas são grandes seções de terra onde sementes de trigo foram disseminadas para darem mais trigo.</font>
   * **heads of grain**  - This is the topmost part of the wheat plant, which is a kind of large grass. It holds the mature grain or seeds of the plant.
+  * <font inherit/inherit;;#B22222;;inherit>** espigas ** - Esta é a parte mais alta do pé de trigo, que é um tipo de capim. Ela segura o grão maduro ou as sementes da planta.</font>
   * **Why are you doing something that is not lawful to do on the Sabbath**  - This could be translated as, "Why are you picking grain on the Sabbath?" It is a rhetorical question that means "Picking grain on the Sabbath is against God's law!" The word "you" is plural, and refers to the disciples. (See: [[:en:ta:translate:formsofyou|Forms of 'You']])
+  * <font inherit/inherit;;#B22222;;inherit>** Por que vocês estão fazendo algo que não é permitido fazer no dia de Sabá? ** - Isto poderia ser traduzido como: "Por que você está colhendo trigo no dia do Sabá?. Esta é uma pergunta retórica que significa: "Colher grãos no dia de Sabá é contra a Lei de Deus!". A palavra "vocês" é plural.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:06|Luke Chapter 06 Comprehension Questions]]**
