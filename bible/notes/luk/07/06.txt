@@ -28,11 +28,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Do not trouble yourself**  - "Don't trouble yourself by coming to my house." It could also be translated as "I don't wish to bother you." The centurion was speaking politely to Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** Não se incomode ** - "Não se incomode em vir à minha casa". Isto poderia também ser traduzido como: "Eu não desejo perturbá-lo". O centurião estava falando educadamente com Jesus.</font>
   * **enter under my roof**  - "come into my house". "Enter under my roof" is an idiom. If you language has an idiom meaning "come into my house," think about whether it would be good to use here. (See: [[:en:ta:figuresofspeech:idiom|idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** entre debaixo do meu telhado ** - "venha a minha casa". "entre debaixo do meu telhado" é uma expressão idiomática. Se sua língua tem uma expressão que signifique "venha para a minha casa", veja se não seria melhor usá-la aqui.</font>
   * **just say a word**  - This can be translated as "just give the order." The servant understood that Jesus could heal the servant just by speaking.
+  * <font inherit/inherit;;#B22222;;inherit>** apenas diga uma palavra  ** - Isto pode ser traduzido como: "apenas ordene". O servo entendeu que Jesus poderia curar o servo com apenas sua fala.</font>
   * **my servant will be healed**  - The word that is translated here as "servant" is normally translated as "boy." It may indicate that the servant was very young, or show the centurion's affection for him.
+  * <font inherit/inherit;;#B22222;;inherit>** meu servo será curado ** - A palavra que é traduzida aqui como "servo" é normalmente traduzida como "menino". Isto pode indicar que o servo era muito jovem, ou mostrar o afeto que o centurião tinha por ele.</font>
   * **to my servant**  - The word that is translated here as "servant" is the typical word for a servant.
+  * <font inherit/inherit;;#B22222;;inherit>** para meu servo ** - A palavra que é traduzida aqui como "servo" é a típica palavra para servo.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
