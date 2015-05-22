@@ -23,16 +23,29 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **it happened that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** e aconteceu que ** - Esta frase é usada aqui para marcar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, você deve considerar usá-la aqui.</font>
   * **behold, a dead man**  - The word "behold" alerts us to the introduction of the dead man into the story. Your language may have a way of doing this. English uses "There was a dead man who was…”
+  * <font inherit/inherit;;#B22222;;inherit>** veja, um homem morto ** - A palavra "veja" nos alerta para a introdução do homem morto na história. Sua língua deve ter uma maneira de fazer isso. Inglês usa: "Havia um homem morto que estava...".</font>
   * **the city gate**  - This could also be translated as "the entrance to the city."
+  * <font inherit/inherit;;#B22222;;inherit>** o portão da cidade ** - Isto poderia também ser traduzido como: "a entrada da cidade".</font>
   * **an only son to his mother**  - "a woman's only son"
+  * <font inherit/inherit;;#B22222;;inherit>** o filho único da sua mãe ** - "o filho único da uma mulher".</font>
   * **widow**  - This is a woman whose husband has died.
+  * <font inherit/inherit;;#B22222;;inherit>** viúva  ** - Esta é uma mulher cujo marido faleceu.</font>
   * **was deeply moved with compassion for her**  - "felt very sorry for her"
+  * <font inherit/inherit;;#B22222;;inherit>** foi profundamente movido de compaixão por ela ** - "sentiu muita pena dela".</font>
   * **and coming forward**  - Some languages would say "and going forward" or "and approaching the group."
+  * <font inherit/inherit;;#B22222;;inherit>** e vindo adiante ** - Algumas línguas diriam: "e indo adiante" ou "e se aproximando do grupo".</font>
   * **funeral couch**  - This was a stretcher or bed used to move the body to the burial place. It did not have to be something the body was buried in.
+  * <font inherit/inherit;;#B22222;;inherit>** leito funerário ** - Isto era uma maca ou cama usada para mover o corpo até o lugar do sepultamento. Não teria que ser algo que era enterrado com o corpo.</font>
   * **I say to you**  - Jesus said this to emphasize his authority. It means "Listen to me!"
+  * <font inherit/inherit;;#B22222;;inherit>** eu digo a vocês ** - Jesus disse isso para enfatizar sua autoridade. Significa: "Me escutem!".</font>
   * **the dead man**  - "the man who had been dead." The man was not still dead; he was alive.
+  * <font inherit/inherit;;#B22222;;inherit>** o homem morto ** - "o homem que estava morto". O homem não estava mais morto; ele estava vivo.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
