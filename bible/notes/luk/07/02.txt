@@ -29,11 +29,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **who was precious to him**  - "whom the centurion valued" or "whom he respected"
+  * <font inherit/inherit;;#B22222;;inherit>** que era precioso para ele ** - "a quem o centurião estimava" ou "a quem ele respeitava"</font>
   * **having heard about Jesus**  - "because he had heard about Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** tendo ouvido sobre Jesus ** - "porque ele ouviu sobre Jesus".</font>
   * **save his slave from dying**  - "save his slave so that he would not die" or "keep his slave from dying"
+  * <font inherit/inherit;;#B22222;;inherit>** salvasse seu escravo da morte ** - "salvasse seu escravo para que ele não morresse" ou "preservar seu escravo da morte".</font>
   * **He is worthy**  - "The centurion is worthy"
+  * <font inherit/inherit;;#B22222;;inherit>** Ele é digno ** - "O centurião é digno".</font>
   * **our nation**  - "our people." This refers to the Jewish people.
+  * <font inherit/inherit;;#B22222;;inherit>** nossa nação ** - "nosso povo". Isto se refere ao povo judeu.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
