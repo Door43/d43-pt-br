@@ -28,13 +28,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **fear overcame all of them**  - This could be translated as "fear took everyone" or "they were all filled with fear."
+  * <font inherit/inherit;;#B22222;;inherit>** temor caiu sobre todos eles ** - Isto poderia ser traduzido como: "temor tomou a todos" ou "eles foram todos cheios de temor".</font>
   * **A great prophet**  - They were referring to Jesus, not to some unidentified prophet. It could be translated as "This great prophet."
+  * <font inherit/inherit;;#B22222;;inherit>** um grande profeta ** - Eles estavam se referindo a Jesus, não a algum profeta não identificado. Isto poderia ser traduzido como: "Este grande profeta".</font>
   * **has been raised among us**  - "has come to be with us" or "has appeared to us" or "we have seen"
+  * <font inherit/inherit;;#B22222;;inherit>** surgiu entre nós ** - "veio para estar conosco" ou "apareceu a nós" ou "temos visto".</font>
   * **looked upon**  - "cared for"
+  * <font inherit/inherit;;#B22222;;inherit>** considerou ** - "se importou".</font>
   * **this report**  - "this word" or "this message" or "this news"
+  * <font inherit/inherit;;#B22222;;inherit>** este relato ** - "esta palavra" ou "esta mensagem" ou "esta notícia".</font>
   * **went forth**  - "went out" or "was spread"
+  * <font inherit/inherit;;#B22222;;inherit>** foi adiante ** - "saiu" ou "foi espalhada".</font>
   * **This report about him went forth**  - This could also be translated as "People spread this report about Jesus" or "People told others this report about Jesus." "This report" refers to the things people were saying in verse 16.
+  * <font inherit/inherit;;#B22222;;inherit>** este relato sobre ele foi adiante  ** - Isto poderia também ser traduzido como: "Pessoas espalharam este relato sobre Jesus" ou "As pessoas falaram a outras este relato sobre Jesus". "Este relato" se refere às coisas que as pessoas estavam dizendo no verso 16.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
