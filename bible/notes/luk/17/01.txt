@@ -12,8 +12,11 @@
 
 <usfm> \c 17 \p \v 1 Jesus said to his disciples, "It is certain that things that cause sin will come, but woe to him through whom they come! \v 2 It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble. </usfm>
 ===== Target ULB: =====
-1 Jesus disse aos seus discípulos, certamente acontecerão coisas que faram as pessoas pecarem. Aí daquele, por meio do qual essas coisas acontecerem. 2 Seria melhor que ele fosse lançado ao mar com uma pedra de moinho amarrada em seu pescoço, do que fazer um desses pequenos tropeçar. 
+
+1 Jesus disse aos seus discípulos, certamente acontecerão coisas que faram as pessoas pecarem. Ai daquele, por meio do qual essas coisas acontecerem. 2 Seria melhor que ele fosse lançado ao mar com uma pedra de moinho amarrada em seu pescoço, do que fazer um desses pequenos tropeçar.
+
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:disciple|disciple]]
