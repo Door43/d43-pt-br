@@ -26,15 +26,27 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus talks to the people about John the Baptist.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus conversa com as pessoas sobre João Batista).</font>
   * **What did you go out to see**  - This phrase is used in three rhetorical questions cause the people to think about what kind of person John the Baptist was. It could be translated as "Did you go out to see a…? Of course not!" or "Surely you did not go out to see a…!" (See: [[:en:ta:figuresofspeech:rhetoricalquestion|rhetoricalquestion]])
+  * <font inherit/inherit;;#B22222;;inherit>** O que vocês saíram a ver ** - Ista frase é usada em três perguntas retóricas e levou as pessoas a pensarem sobre que tipo de pessoa era João Batista. Isto poderia ser traduzido como: "Vocês sairam para ver um..? É claro que não!" ou "Certamente vocês não saíram para ver um...!".</font>
   * **a reed shaken by the wind**  - This metaphor has two possible interpretations. Reeds are easily moved by the wind, so it could refer to a person who is easily motivated to change his mind. Reeds also make noise when the wind rattles them, so it could also refer to a person who talks a lot, but his speech does not result in anything important (See: [[:en:ta:figuresofspeech:metaphor|metaphor]]). It could also be translated as a simile: "Did you go out to see a man who was like a reed shaken by the wind?"
+  * <font inherit/inherit;;#B22222;;inherit>** um caniço balançado pelo vento ** - Esta metáfora tem duas possíveis interpretações. Caniços são facilmente agitados pelo vento, então isto poderia se referir a uma pessoa que é facilmente motivada a mudar sua mente. Caniços também fazem barulho quando o vento o chacoalha, então isso também poderia se referir a uma símile: "Vocês saíram para ver um homem que era como um caniço agitado pelo vento?".</font>
   * **dressed in soft clothes**  - "wearing expensive clothing." Rich people wore this kind of clothing.
+  * <font inherit/inherit;;#B22222;;inherit>** vestido em roupas macias  ** - "vestindo roupas caras". Pessoas ricas usavam este tipo de roupa.</font>
   * **kings' palaces**  - A palace is a large, expensive house that a king lives in.
+  * <font inherit/inherit;;#B22222;;inherit>** palácios reais  ** - Um palácio é uma casa grande e cara onde mora um rei.</font>
   * **But**  - "If you did not go out to see that, then"
+  * <font inherit/inherit;;#B22222;;inherit>** Mas ** - "Se vocês não saíram para ver isso, então".</font>
   * **Behold**  - "Look" or "Listen." Jesus used this word here to emphasize what he would say next.
+  * <font inherit/inherit;;#B22222;;inherit>** Veja  ** - "Olhe" ou "Escute". Jesus usou esta palavra para enfatizar o que ele iria dizer em seguida.</font>
   * **I say to you**  - Jesus said this to emphasize the importance of what he would say next.
-  * **much more than a prophet**  - "not an ordinary prophet" or "more important than a normal prophet"
+  * <font inherit/inherit;;#B22222;;inherit>** Eu digo a vocês ** - Jesus disse isso para enfatizar a importância do que ele iria dizer em seguida.</font>
+  * **much more than a prophet**  - "not an ordinary prophet" or "more important than a normal prophet".
+  * <font inherit/inherit;;#B22222;;inherit>** muito mais que um profeta  ** - "não um profeta ordinário" ou "mais importante que um profeta normal".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
