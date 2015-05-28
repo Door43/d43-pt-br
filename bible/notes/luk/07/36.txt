@@ -23,13 +23,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Now a certain Pharisee**  - This is the beginning of a new account.
+  * <font inherit/inherit;;#B22222;;inherit>** Agora um certo fariseu ** - Este é o início de uma nova narrativa.</font>
   * **reclined at the table to eat**  - "sat down at the table for the meal." It was the custom for a relaxed meal such as this dinner for men to eat while lying down comfortably around the table.
+  * <font inherit/inherit;;#B22222;;inherit>** reclinou-se à mesa para comer  ** - "sentou-se à mesa para a refeição". Era costume, para uma refeição descontraída como este jantar, que os homens comessem enquanto se deitavam confortavelmente ao redor da mesa.</font>
   * **who was a sinner**  - "who lived a sinful lifestyle" or "who had a reputation for living a sinful life." She may have been a prostitute.
+  * <font inherit/inherit;;#B22222;;inherit>** que era uma pecadora  ** - "que havia vivido um estilo de vida pecaminoso" ou "que tinha a reputação de viver uma vida pecaminosa". Ela pode ter sido uma prostituta.</font>
   * **And having found out**  - This starts a very long sentence. It may be more natural in some languages to break it up into smaller sentences as in the UDB.
+  * <font inherit/inherit;;#B22222;;inherit>** E tendo descoberto ** - Isto inicia uma sentença muito longa. Pode ser mais natural em algumas línguas quebrá-la em sentenças menores como fez a versão UDB.</font>
   * **an alabaster flask**  - "a jar made of soft stone." Alabaster is a soft, white rock. People stored precious things in alabaster jars.
+  * <font inherit/inherit;;#B22222;;inherit>** um frasco de alabastro  ** - "uma jarra feita de pedra macia". Alabastro é uma pedra branca e macia. Pessoas guardavam coisas preciosas em jarros de alabastro.</font>
   * **of perfume**  - "with perfume in it." The perfume was an oil that held good smells in it. People rubbed it on themselves or sprinkled their clothing with it in order to smell nice.
+  * <font inherit/inherit;;#B22222;;inherit>** de perfume ** - "com perfume dentro". O perfume era um óleo que continha boas fragrâncias. As pessoas o esfregavam em si mesmas ou o aspergiam em suas roupas para que cheirassem bem.</font>
   * **with the hairs of her head**  - "with her hair"
+  * <font inherit/inherit;;#B22222;;inherit>** com os cabelos de sua cabeça ** - "com seus cabelos".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
