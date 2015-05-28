@@ -22,11 +22,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **told him**  - "told John"
+  * <font inherit/inherit;;#B22222;;inherit>** disse a ele ** - "disse a João".</font>
   * **all these things**  - "all the things Jesus was doing"
+  * <font inherit/inherit;;#B22222;;inherit>** todas essas coisas ** - "todas as coisas que Jesus estava fazendo".</font>
   * **sent them to the Lord, saying**  - "(John) sent them to the Lord, telling them to ask (Jesus)"
+  * <font inherit/inherit;;#B22222;;inherit>** enviou eles ao Senhor, dizendo  ** - "João enviou eles ao Senhor dizendo a eles que perguntassem a Jesus".</font>
   * **has sent us to you saying, 'Are you the Coming One**  - "(John) has sent us to you. He asks 'Are you the Coming One'" or "(John) has sent us to to ask you, 'Are you the Coming One'" (UDB)
+  * <font inherit/inherit;;#B22222;;inherit>** nos enviou até você para dizer: 'Você é o que haveria de vir' ** - "João nos enviou até você. Ele pergunta: 'Você é o que haveria de vir'" ou "João nos enviou até você para que perguntássemos: 'Você é o que haveria de vir'" (UDB).</font>
   * **we should be looking for**  - "we should be waiting for" or "we should be expecting to come"
+  * <font inherit/inherit;;#B22222;;inherit>** nós deveríamos estar procurando por ** - "nós deveríamos estar esperando por" ou "nós deveríamos estar esperando que viesse".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
