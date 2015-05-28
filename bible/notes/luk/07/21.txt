@@ -29,12 +29,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **and from evil spirits**  - This could be translated as "and he set people free from evil spirits."
+  * <font inherit/inherit;;#B22222;;inherit>** e de espíritos malignos ** - Isto poderia ser traduzido como: "e ele libertou pessoas de espíritos malignos".</font>
   * **granted**  - "gave"
+  * <font inherit/inherit;;#B22222;;inherit>** concedeu ** - "deu".</font>
   * **needy people**  - "poor people"
+  * <font inherit/inherit;;#B22222;;inherit>** pessoas necessitadas ** - "pessoas pobres".</font>
   * **report to John**  - "tell John"
+  * <font inherit/inherit;;#B22222;;inherit>** relate a João ** - "diga a João".</font>
   * **The person who does not stop believing in me because of my actions is blessed**  - This can be translated as "How good it is for the person who does not stop believing in me because of my actions."
+  * <font inherit/inherit;;#B22222;;inherit>** Aquele que não deixar de crer em mim por causa das minhas ações é abençoado ** - Isto poderia ser traduzido como: "Como é bom para aquele que não deixar de acreditar em mim por causa das minhas ações".</font>
   * **The person**  - Since this is not a specific person, it can be translated as "People" or "Anyone" or "Whoever."
+  * <font inherit/inherit;;#B22222;;inherit>** Aquele ** - Já que iso não é referente à uma pessoa em específico, poderia ser traduzido como: "Aqueles" ou "Qualquer um" ou "Quem quer que".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
