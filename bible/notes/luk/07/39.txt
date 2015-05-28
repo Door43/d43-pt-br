@@ -24,9 +24,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **he thought to himself saying**  - "he said to himself"
+  * <font inherit/inherit;;#B22222;;inherit>** ele pensou consigo mesmo dizendo ** - "ele disse a si mesmo".</font>
   * **If Jesus were a prophet, then he would know**  - The Pharisee thought that Jesus was not a prophet because he allowed the sinful woman to touch him. This could be translated as "Apparently Jesus is not a prophet. If he were, he would know."
+  * <font inherit/inherit;;#B22222;;inherit>** Se Jesus fosse um profeta então ele saberia  ** - O Fariseu pensou que Jesus não era um profeta porque ele permitiu que uma mulher pecadora o tocasse. Isto poderia ser traduzido como: "Aparentemente Jesus não é um profeta. Se ele fosse, ele saberia."</font>
   * **Simon**  - This was the name of the Pharisee who invited Jesus into his home. This was not Simon Peter.
+  * <font inherit/inherit;;#B22222;;inherit>** Simão  ** - Este era o nome do Fariseu que convidou Jesus para ir à sua casa. Este não era Simão Pedro.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
