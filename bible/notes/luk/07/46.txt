@@ -25,12 +25,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues speaking to Simon.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a falar para Simão).</font>
   * **anoint my head with oil**  - "put oil on my head." This was a way of welcoming an honored guest. It could be translated as "welcome me by anointing my head with oil."
+  * <font inherit/inherit;;#B22222;;inherit>** ungiu minha cabeça com óleo ** - "colocou óleo sobre minha cabeça". Esta era uma maneira de dar as boas vindas a um visitante de honra. Isto poderia ser traduzido como: "me deu as boas vindas me ungindo a cabeça com óleo".</font>
   * **anointed my feet**  - Though this was probably not a common practice, the woman greatly honored Jesus by doing this.
+  * <font inherit/inherit;;#B22222;;inherit>** ungiu meus pés  ** - Apesar disto provavelmente não ser uma prática comum, a mulher muito honrou a Jesus fazendo isso.</font>
   * **has been forgiven much**  - This can also be translated in the active voice with "who has received much forgiveness" or "whom God has forgiven much."
+  * <font inherit/inherit;;#B22222;;inherit>** foi perdoado muito ** - Isto pode também ser traduzido com a voz ativa: "que recebeu muito perdão" ou "a quem Deus perdoou muito".</font>
   * **has also loved much**  - "has also loved much the one who forgave her" or "has also love God much." Some languages require that the object of "love" be stated.
+  * <font inherit/inherit;;#B22222;;inherit>** também amou muito ** - "também amou muito aquele que a perdoou" ou "também amou muito a Deus". Algumas línguas exigem que o objeto do "amor" seja mencionado.</font>
   * **He who is being forgiven only a little**  - "He who is forgiven little" or "Anyone who is forgiven little." In this sentence Jesus states a general principle. However, Simon was expected to understand that Jesus was saying that Simon had loved little.
+  * <font inherit/inherit;;#B22222;;inherit>** Aquele que foi perdoado apenas um pouco ** - "Aquele que pouco é perdoado" ou "Alguém que foi perdoado pouco". Nesta frase Jesus estabelece um princípio geral. Porém, era esperado que Simão entendesse que Jesus estava dizendo que ele havia amado pouco.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:07|Luke Chapter 07 Comprehension Questions]]**
