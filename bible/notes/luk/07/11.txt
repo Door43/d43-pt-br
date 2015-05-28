@@ -11,9 +11,13 @@
 ===== ULB: =====
 
 <usfm> \p \v 11 Some time after that, it happened that Jesus was traveling to a city called Nain. His disciples were going with him, along with a large crowd of people. \v 12 As he came near to the city gate, behold, a dead man was being carried out, an only son to his mother. She was a widow, and a sizeable crowd from the city was with her. \v 13 Seeing her, the Lord was deeply moved with compassion for her and said to her, "Do not cry." \v 14 Then he came forward and touched the funeral couch, and those carrying it stood still. He said, "Young man, I say to you, arise." \v 15 The dead man sat up and began to speak. Then Jesus gave him to his mother. </usfm>
+
 ===== Target ULB: =====
-11 Algum tempo depois disto, aconteceu que Jesus estava viajando para uma cidade chamada Naim. Os seus discípulos iam com ele, juntamente com uma grande multidão. 12 Quando ele se aproximava do portão da cidade um homem morto estava sendo carregado, o filho único de sua mãe. Ele era uma viúva e uma multidão numerosa da cidade estava com ela. 13 Quando o Senhor a viu, ele ficou profundamente movido de compaixão por ela, e disse: “Não chore!” 14 Então ele chegou perto, tocou o leito funerário e os que o carregavam pararam. Ele disse: “Jovem, eu digo a você, levante.” 15 O homem que estava morto se levantou e começou a falar. Então Jesus o entregou para sua mãe. 
+
+11 Algum tempo depois disto, aconteceu que Jesus estava viajando para uma cidade chamada Naim. Os seus discípulos iam com ele, juntamente com uma grande multidão. 12 Quando ele se aproximava do portão da cidade um homem morto estava sendo carregado, o filho único de sua mãe. Ele era uma viúva e uma multidão numerosa da cidade estava com ela. 13 Quando o Senhor a viu, ele ficou profundamente movido de compaixão por ela, e disse: “Não chore!” 14 Então ele chegou perto, tocou o leito funerário e os que o carregavam pararam. Ele disse: “Jovem, eu digo a você, levante.” 15 O homem que estava morto se levantou e começou a falar. Então Jesus o entregou para sua mãe.
+
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
@@ -26,25 +30,25 @@
 <font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
   * **it happened that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * <font inherit/inherit;;#B22222;;inherit>** e aconteceu que ** - Esta frase é usada aqui para marcar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, você deve considerar usá-la aqui.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** e aconteceu que  ** - Esta frase é usada aqui para marcar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, você deve considerar usá-la aqui.</font>
   * **behold, a dead man**  - The word "behold" alerts us to the introduction of the dead man into the story. Your language may have a way of doing this. English uses "There was a dead man who was…”
-  * <font inherit/inherit;;#B22222;;inherit>** veja, um homem morto ** - A palavra "veja" nos alerta para a introdução do homem morto na história. Sua língua deve ter uma maneira de fazer isso. Inglês usa: "Havia um homem morto que estava...".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** veja, um homem morto  ** - A palavra "veja" nos alerta para a introdução do homem morto na história. Sua língua deve ter uma maneira de fazer isso. Inglês usa: "Havia um homem morto que estava…".</font>
   * **the city gate**  - This could also be translated as "the entrance to the city."
-  * <font inherit/inherit;;#B22222;;inherit>** o portão da cidade ** - Isto poderia também ser traduzido como: "a entrada da cidade".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** o portão da cidade  ** - Isto poderia também ser traduzido como: "a entrada da cidade".</font>
   * **an only son to his mother**  - "a woman's only son"
-  * <font inherit/inherit;;#B22222;;inherit>** o filho único da sua mãe ** - "o filho único da uma mulher".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** o filho único da sua mãe  ** - "o filho único de uma mulher".</font>
   * **widow**  - This is a woman whose husband has died.
   * <font inherit/inherit;;#B22222;;inherit>** viúva  ** - Esta é uma mulher cujo marido faleceu.</font>
   * **was deeply moved with compassion for her**  - "felt very sorry for her"
-  * <font inherit/inherit;;#B22222;;inherit>** foi profundamente movido de compaixão por ela ** - "sentiu muita pena dela".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** foi profundamente movido de compaixão por ela  ** - "sentiu muita pena dela".</font>
   * **and coming forward**  - Some languages would say "and going forward" or "and approaching the group."
-  * <font inherit/inherit;;#B22222;;inherit>** e vindo adiante ** - Algumas línguas diriam: "e indo adiante" ou "e se aproximando do grupo".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** e vindo adiante  ** - Algumas línguas diriam: "e indo adiante" ou "e se aproximando do grupo".</font>
   * **funeral couch**  - This was a stretcher or bed used to move the body to the burial place. It did not have to be something the body was buried in.
-  * <font inherit/inherit;;#B22222;;inherit>** leito funerário ** - Isto era uma maca ou cama usada para mover o corpo até o lugar do sepultamento. Não teria que ser algo que era enterrado com o corpo.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** leito funerário  ** - Isto era uma maca ou cama usada para mover o corpo até o lugar do sepultamento. Não teria que ser algo que era enterrado com o corpo.</font>
   * **I say to you**  - Jesus said this to emphasize his authority. It means "Listen to me!"
-  * <font inherit/inherit;;#B22222;;inherit>** eu digo a vocês ** - Jesus disse isso para enfatizar sua autoridade. Significa: "Me escutem!".</font>
+  * <font inherit/inherit;;#B22222;;inherit>** eu digo a vocês  ** - Jesus disse isso para enfatizar sua autoridade. Significa: "Me escutem!".</font>
   * **the dead man**  - "the man who had been dead." The man was not still dead; he was alive.
-  * <font inherit/inherit;;#B22222;;inherit>** o homem morto ** - "o homem que estava morto". O homem não estava mais morto; ele estava vivo.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** o homem morto  ** - "o homem que estava morto". O homem não estava mais morto; ele estava vivo.</font>
 
 ===== Links: =====
 
