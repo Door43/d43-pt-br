@@ -26,12 +26,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Master**  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+  * <font inherit/inherit;;#B22222;;inherit>** Mestre  ** - A palavra grega que é traduzida aqui como "mestre" não é a palavra normal para "mestre". Esta se refere a alguém que tem autoridade, e não a alguém que é dono de outra pessoa. Você poderia também traduzir isso como: "Chefe" ou "Patrão" ou com uma palavra que seja comumente usada para se dirigir a uma pessoa em autoridade, tal como "Senhor".</font>
   * **rebuked**  - "spoke sharply to"
+  * <font inherit/inherit;;#B22222;;inherit>** repreendeu  ** - "falou rispidamente com".</font>
   * **they ceased**  - "the wind and the waves stopped"
+  * <font inherit/inherit;;#B22222;;inherit>** eles cessaram  ** - "o vento e as ondas pararam".</font>
   * **Where is your faith?**  - This is a rhetorical question. Jesus was rebuking them mildly because they did not trust him to take care of them. It can be translated as "You should have had faith" or "You should have trusted me."
+  * <font inherit/inherit;;#B22222;;inherit>** Onde está a fé de vocês? ** - Esta é uma pergunta retórica. Jesus os estava repreendendo suavemente porque eles não confiavam nele para cuidar deles. Isto pode ser traduzido como: "Vocês deveriam ter tido fé" ou "Vocês deveriam ter confiado em mim".</font>
   * **Who is this**  - This can be translated as "What kind of man is this."
+  * <font inherit/inherit;;#B22222;;inherit>** Quem é este ** - Isto pode ser traduzido como: "Que tipo de homem é este".</font>
   * **that he commands**  - This can be the beginning of a new sentence: "He commands."
+  * <font inherit/inherit;;#B22222;;inherit>** que ele ordena ** - Isto pode ser o início de uma nova sentença: "Ele ordena".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
