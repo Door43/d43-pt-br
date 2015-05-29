@@ -27,15 +27,15 @@
 ===== Translation Notes: =====
 
   * **devout**  - "devoted to God" or "faithful to God"
-  * <font inherit/inherit;;#B22222;;inherit>** devoto ** - "dedicado a Deus" ou "fiel a Deus"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** devoto  ** - "dedicado a Deus" ou "fiel a Deus"</font>
   * **Comforter of Israel**  - This could be translated as "the one who would comfort Israel." It is another name for the "Messiah" or "Christ."
-  * <font inherit/inherit;;#B22222;;inherit>** Consolador de Israel ** - Isto pode ser traduzido como "aquele que consolaria Israel." Este é outro nome para "Messias" ou "Cristo."</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Consolador de Israel  ** - Isto pode ser traduzido como "aquele que consolaria Israel." Este é outro nome para "Messias" ou "Cristo."</font>
   * **the Holy Spirit was upon him**  - "the Holy Spirit was with him." God was with him in a special way, and gave him wisdom and direction in his life.
-  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** o Espírito Santo estava sobre ele  ** - "o Espírito Santo estava com ele." Deus</font> estava<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>com</font> ele<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>de</font> uma<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit></font> maneira<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>especial, e</font> lhe<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit></font> deu<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit></font> sabedoria<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>e</font> direção<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>em</font> sua<font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit></font> vida.
+  * <font inherit/inherit;;#B22222;;inherit>** o Espírito Santo estava sobre ele  ** - "o Espírito Santo estava com ele." Deus</font>  estava<font inherit/inherit;;#B22222;;inherit>com</font>  ele<font inherit/inherit;;#B22222;;inherit>de</font>  uma maneira<font inherit/inherit;;#B22222;;inherit>especial</font>  <font inherit/inherit;;#B22222;;inherit>, e</font>  lhe deu sabedoria<font inherit/inherit;;#B22222;;inherit>e</font>  direção<font inherit/inherit;;#B22222;;inherit>em</font>  sua vida.
   * **it had been revealed to him by the Holy Spirit**  - This could be translated as "The Holy Spirit had shown him" or "The Holy Spirit had told him."
-  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** foi revelado a ele pelo Espírito Santo  ** - Isto pode ser traduzido como "O Espírito Santo havia mostrado a ele" ou "O Espírito Santo havia dito a ele."</font>
+  * <font 14px line-height: 15.6800003051758px/inherit;;#B22222;;inherit>** foi revelado a ele pelo Espírito Santo  ** - Isto pode ser traduzido como "O Espírito Santo havia mostrado a ele" ou "O Espírito Santo havia dito a ele."</font>
   * **he would not die before he had seen the Lord's Christ**  - This could be translated as "he would see the Lord's Christ before dying" or "he would see the Lord's Christ and die only after that." The word "Lord" here refers to God.
-  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** ele não morreria antes de ver o Cristo do Senhor ** - Isto pode ser traduzido como "ele veria o Cristo do Senhor antes de morrer" ou "ele veria o Cristo do Senhor e morreria só depois disto." A palavra "Senhor" aqui se refere a Deus.</font>
+  * <font 14px line-height: 15.6800003051758px/inherit;;#B22222;;inherit>** ele não morreria antes de ver o Cristo do Senhor  ** - Isto pode ser traduzido como "ele veria o Cristo do Senhor antes de morrer" ou "ele veria o Cristo do Senhor e morreria só depois disto." A palavra "Senhor" aqui se refere a Deus.</font>
 
 ===== Links: =====
 
