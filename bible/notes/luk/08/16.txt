@@ -21,15 +21,27 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues to speak to his disciples.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a falar para seus discípulos).</font>
   * **a lamp**  - This was a small bowl with a wick and olive oil for fuel.
+  * <font inherit/inherit;;#B22222;;inherit>** uma lamparina ** - Esta era uma pequena tigela com um pavio e azeite de oliva como combustível.</font>
   * **a lampstand**  - "a table" or "a shelf"
+  * <font inherit/inherit;;#B22222;;inherit>** candelabro ** - "uma mesa" ou "uma prateleira".</font>
   * **For nothing is hidden, that will not be made known**  - This can be translated positively as "Everything that is hidden will be made known."
+  * <font inherit/inherit;;#B22222;;inherit>** Pois nada há que esteja escondido que não venha a ser feito conhecido ** - Isto pode ser traduzido positivamente como: "Tudo o que está escondido irá ser feito conhecido".</font>
   * **nor anything secret, that will not be known and come into the light**  - This can be translated as "and everything that is secret will be known and come into the light."
+  * <font inherit/inherit;;#B22222;;inherit>** nem nada em secreto que não venha a ser conhecido e trazido à luz  ** - Isto pode ser traduzido como: "e tudo o que está secreto será conhecido e virá à luz".</font>
   * **how you listen**  - This could also be translated as "how you listen to what I tell you" or "how you listen to God's word." (See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** como vocês escutam ** - Isto poderia ser traduzido como: "como vocês escutam o que eu vos digo" ou "como vocês escutam a palavra de Deus".</font>
   * **whoever has**  - This could be also be translated as "whoever has understanding" or "whoever receives what I teach."
+  * <font inherit/inherit;;#B22222;;inherit>** aquele que tem ** - Isto poderia ser traduzido como: "aquele que tem entendimento" ou "aquele que recebe o que eu ensino".</font>
   * **to him will be given more**  - "more will be given to him." This can be translated with an active verb: "God will give him more." (See: [[:en:ta:vocabulary:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** a ele será dado mais ** - "mais será dado a ele". Isto pode ser traduzido com um verbo ativo: "Deus dará mais</font> a ele".
   * **whoever has not**  - This can be translated as "whoever does not have understanding" or "whoever does not receive what I teach."
+  * <font inherit/inherit;;#B22222;;inherit>** aquele que não tem ** - Isto pode ser traduzido como: "aquele que não tem entendimento" ou "aquele que não recebe o que eu ensino".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
