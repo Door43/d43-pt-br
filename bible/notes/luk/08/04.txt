@@ -22,12 +22,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **A sower went out to sow some seeds**  - This can be translated as “A farmer went out to scatter some seeds in a field.”
+  * <font inherit/inherit;;#B22222;;inherit>** Um semeador saiu a semear algumas sementes ** - Isto pode ser traduzido como: "Um agricultor saiu a espalhar algumas sementes no campo".</font>
   * **wayside**  - "road" or "path." The ground would have been hard from the people walking on it.
+  * <font inherit/inherit;;#B22222;;inherit>** beira da estrada ** - "estrada" ou "caminho". O solo estaria duro de tanto as pessoas andarem nele.</font>
   * **they were trampled underfoot**  - This can be translated as "They were stepped on too often for them to grow" or with an active verb as in the UDB. (See: [[:en:ta:vocabulary:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** elas foram pisoteadas ** -  Isto pode ser traduzido como: "Elas foram pisadas tantas vezes para que crescessem" ou com um verbo ativo como na versão UDB.</font>
   * **devoured them**  - "ate them all"
+  * <font inherit/inherit;;#B22222;;inherit>** as devoraram ** - "as comeram todas".</font>
   * **they withered**  - "the plants became dry and shriveled up"
+  * <font inherit/inherit;;#B22222;;inherit>** elas murcharam ** - "as plantas ficaram secas e atrofiaram-se"</font>
   * **they had no moisture**  - This could be translated as "the ground was too dry."
+  * <font inherit/inherit;;#B22222;;inherit>** elas não tinham umidade ** - Isto poderia ser traduzido como: "o solo estava muito seco".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
