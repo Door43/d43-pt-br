@@ -37,15 +37,17 @@
 ===== Translation Notes: =====
 
   * **the required number of days**  - This could be translated as "the number of days that God required."
-  * <font inherit/inherit;;#B22222;;inherit>** o número de dias requeridos ** - Isto pode ser traduzido como "o número de dias que Deus requereu."</font>
+  * <font inherit/inherit;;#B22222;;inherit>** o número de dias requeridos  ** - Isto pode ser traduzido como "o número de dias que Deus requereu."</font>
   * **for their purification**  - "for them to become ceremonially clean" or "for God to consider them to be clean again"
-  * <font inherit/inherit;;#B22222;;inherit>** para a purificação deles ** - "para que eles se tornem cerimonialmente limpos" ou "para que Deus os considerasse limpos novamente"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** para a purificação deles  ** - "para que eles se tornem cerimonialmente limpos" ou "para que Deus os considerasse limpos novamente"</font>
   * **to present him to the Lord**  - "to bring him to the Lord" or "to bring him into the Lord's presence." This was a ceremony acknowledging God's claim on the firstborn children who were male.
   * <font inherit/inherit;;#B22222;;inherit>** para apresentá-lo ao Senhor  ** - "para trazê-lo ao Senhor" ou "para trazê-lo à presença do Senhor." Esta era uma cerimônia reconhecendo a reivindicação de Deus sobre o filho primogênito que era homem.</font>
   * **As it is written**  - This could be translated as "They did this because it is written."
-  * <font inherit/inherit;;#B22222;;inherit>** Como está escrito ** - Isto pode ser traduzido como "Eles fizeram isto porque está escrito."</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Como está escrito  ** - Isto pode ser traduzido como "Eles fizeram isto porque está escrito."</font>
   * **male that opens the womb**  - This is an idiom for "firstborn offspring that is a male." The law was about the firstborn offspring of both people and domestic animals, but in this context it could be translated as "firstborn son." (See: [[:en:ta:translate:idiom|Idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** macho que abre o ventre ** - Esta é uma expressão idiomática para "descendente primogênito que é macho." A lei era acerca do descendente primogênito de ambos, pessoas e animais domésticos, mas neste contexto isto pode ser traduzido como "filho primogênito." (Veja: Expressão Idiomática)</font>
   * **turtledoves**  - These are common birds that eat seeds and often live in open areas. They are small enough to be held in two hands, and people would eat them.
+  *
   * **young pigeons**  - These are birds that eat seeds and often live in hilly or mountain areas. They are small enough to be held in two hands, and people would eat them.
 
 ===== Links: =====
