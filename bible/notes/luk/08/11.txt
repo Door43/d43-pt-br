@@ -32,11 +32,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continues speaking to his disciples. He explains the meaning of the parable.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a falar aos seus discípulos. Ele explica o significado da parábola).</font>
   * **the devil comes and takes away the word from their heart**  - This means that he causes them to forget the word of God that they have heard.
+  * <font inherit/inherit;;#B22222;;inherit>** o diabo vem e leva embora a palavra de seus corações ** - Isto significa que ele os leva a esquecerem a palavra de Deus que eles haviam ouvido.</font>
   * **takes away**  - In the parable this was a metaphor of a bird snatching away the seeds. Try to use words in your language that keep that image. (See: [[:en:ta:figuresofspeech:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** leva embora  ** - Nesta parábola isto era uma metáfora de um pássaro carregando as sementes. Tente usar as palavras na sua língua que mantenham essa imagem.</font>
   * **so that they might not believe and be saved**  - This can be translated with an active verb: "so they might not believe with the result that God saves them." (See: [[:en:ta:vocabulary:active|Active or Passive]]) Since this is the devil's purpose, it can be translated as "because the devil thinks, 'They must not believe and they must not be saved.'"
+  * <font inherit/inherit;;#B22222;;inherit>** para que eles não acreditem e sejam salvos  ** - Isto pode ser traduzido com um verbo ativo: "para que eles não creiam com o resultado de que Deus os salva". Como este é o propósito do diabo, isto poderia ser traduzido como: "porque o diabo pensa: 'eles não devem crer e não devem ser salvos'".</font>
   * **during the time of testing they fall away**  - "when they experience hardship they fall away from the faith" or "when they experience hardship they stop believing"
+  * <font inherit/inherit;;#B22222;;inherit>** no tempo da provação eles se desviaram ** - "quando eles experienciaram dificuldades eles se desviaram da fé" ou "quando eles experienciaram dificuldades eles deixaram de acreditar".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
