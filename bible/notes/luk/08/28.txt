@@ -24,13 +24,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **When he saw Jesus**  - "When the man who had the demon saw Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** Quando ele viu Jesus ** - "Quando o homem que tinha demônio viu Jesus".</font>
   * **he cried out**  - "he screamed" or "he shrieked"
+  * <font inherit/inherit;;#B22222;;inherit>** ele clamou ** - "ele gritou" ou "ele berrou".</font>
   * **fell down before him**  - “lay down on the ground before Jesus.” He did not fall accidentally. He did this because he was afraid of Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** caiu diante dele ** - "deitou-se no chão diante de Jesus". Ele não caiu acidentalmente. Ele fez isso porque ele estava com medo de Jesus.</font>
   * **with a loud voice said**  - "he said loudly" or "he shouted out"
+  * <font inherit/inherit;;#B22222;;inherit>** com alta voz disse ** - "ele disse em voz alta" ou "ele gritou".</font>
   * **What do I have to do with you**  - This can be translated as "Why are you bothering me."
+  * <font inherit/inherit;;#B22222;;inherit>** O que eu tenho a ver com você ** - Isto pode ser traduzido como: "Por que você está me aborrecendo".</font>
   * **many times it had seized him**  - "many times it had captured the man." It can be translated as "many times it had gone into him." This and the next sentence tell about what the demon had done many times before Jesus went to the man.
+  * <font inherit/inherit;;#B22222;;inherit>** muitas vezes ele havia se apoderado dele ** - "muitas vezes ele havia capturado o homem". Isto pode ser traduzido como: "muitas vezes ele havia entrado nele". Esta e a sentença seguinte fala sobre o que o demônio havia feito por muitas vezes antes de Jesus ter ido até o homem.</font>
   * **even though he was bound with chains and shackles, and kept under guard**  - This can be translated with active verbs: "even though the people had bound the man with chains and shackles and guarded him." (See: [[:en:ta:vocabulary:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** embora ele fosse preso por correntes e grilhões e mantido sob vigilância ** - Isto pode ser traduzido com verbos ativos: "mesmo que as pessoas tivessem prendido o homem com correntes e grilhões e o vigiado".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
