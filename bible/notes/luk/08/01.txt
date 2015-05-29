@@ -32,10 +32,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **And it happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** E aconteceu que ** - Esta frase é usada aqui para marcar o início de uma nova parte na história. Se sua língua tem uma maneira de fazer isso, considere usá-la aqui.</font>
   * **who had been healed of evil spirits and diseases**  - This could be translated with active verbs: "whom Jesus had set free from evil spirits and healed of diseases." (See: [[:en:ta:vocabulary:active|Active or Passive]])
+  * <font inherit/inherit;;#B22222;;inherit>** que haviam sido curadas de espíritos malignos e doenças ** - Isto poderia ser traduzido como verbos ativos: "as quais Jesus havia libertado de espíritos malignos e curado de doenças".</font>
   * **Mary … and many other women**  - Three of the women were named: Mary, Joanna, and Susanna.
-  * **Joanna the wife of Chuza, Herod’s manager**  - This could also be translated as "Joanna, the wife of Herod's manager, Chuza." Joanna was Chuza's wife, and Chuza was Herod's manager.
+  * <font inherit/inherit;;#B22222;;inherit>** Maria... e muitas outras mulheres  ** - Três destas mulheres se chamavam: Maria, Joana e Suzana.</font>
+  * **Joanna the wife of Chuza, Herod’s manager**  - This could also be translated as "Joanna, the wife of Herod's manager, Chuza."Joanna was Chuza's wife, and Chuza was Herod's manager.
+  * <font inherit/inherit;;#B22222;;inherit>** Joana **  ** , a esposa de Cuza, administrador de Herodes ** - Isto poderia ser traduzido também como: Joana, a esposa do administrador de Herodes, Cuza". Joana era a esposa de Cuza e Cuza era o administrador de Herodes.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
