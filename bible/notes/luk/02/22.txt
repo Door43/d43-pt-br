@@ -45,10 +45,11 @@
   * **As it is written**  - This could be translated as "They did this because it is written."
   * <font inherit/inherit;;#B22222;;inherit>** Como está escrito  ** - Isto pode ser traduzido como "Eles fizeram isto porque está escrito."</font>
   * **male that opens the womb**  - This is an idiom for "firstborn offspring that is a male." The law was about the firstborn offspring of both people and domestic animals, but in this context it could be translated as "firstborn son." (See: [[:en:ta:translate:idiom|Idiom]])
-  * <font inherit/inherit;;#B22222;;inherit>** macho que abre o ventre ** - Esta é uma expressão idiomática para "descendente primogênito que é macho." A lei era acerca do descendente primogênito de ambos, pessoas e animais domésticos, mas neste contexto isto pode ser traduzido como "filho primogênito." (Veja: Expressão Idiomática)</font>
+  * <font inherit/inherit;;#B22222;;inherit>** macho que abre o ventre  ** - Esta é uma expressão idiomática para "descendente primogênito que é macho." A lei era acerca do descendente primogênito de ambos, pessoas e animais domésticos, mas neste contexto isto pode ser traduzido como "filho primogênito." (Veja: Expressão Idiomática)</font>
   * **turtledoves**  - These are common birds that eat seeds and often live in open areas. They are small enough to be held in two hands, and people would eat them.
-  *
+  * <font inherit/inherit;;#B22222;;inherit>** rolas  ** - Estes são pássaros comuns que comem sementes e geralmente vivem em áreas abertas. Eles são pequenos o suficiente para serem segurados com as duas mãos, e pessoas comeriam eles.</font>
   * **young pigeons**  - These are birds that eat seeds and often live in hilly or mountain areas. They are small enough to be held in two hands, and people would eat them.
+  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** dois pombinhos ** - Estes são pássaros que comem sementes e geralmente vivem colinas ou áreas montanhosas. Eles são pequenos o suficiente para serem segurados com as duas mãos, e pessoas comeriam eles.</font>
 
 ===== Links: =====
 
