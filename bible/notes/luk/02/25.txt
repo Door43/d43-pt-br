@@ -13,8 +13,11 @@
 <usfm> \v 25 Behold, there was a man in Jerusalem whose name was Simeon. This man was righteous and devout. He was waiting for the comforter of Israel, and the Holy Spirit was upon him. \v 26 It had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord’s Christ. </usfm>
 
 ===== Target ULB: =====
-25 Naquele tempo, havia em Jerusalém um homem chamado Simeão. Ele era justo e piedoso. Ele estava esperando o Consolador de Israel e o Espírito Santo estava sobre ele. 26 O Espírito Santo revelou a ele que ele não morreria antes que visse o Messias prometido por Deus. 
+
+25 Naquele tempo, havia em Jerusalém um homem chamado Simeão. Ele era justo e piedoso. Ele estava esperando o Consolador de Israel e o Espírito Santo estava sobre ele. 26 O Espírito Santo revelou a ele que ele não morreria antes que visse o Messias prometido por Deus.
+
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jerusalem|Jerusalem]]
@@ -31,7 +34,7 @@
   * **Comforter of Israel**  - This could be translated as "the one who would comfort Israel." It is another name for the "Messiah" or "Christ."
   * <font inherit/inherit;;#B22222;;inherit>** Consolador de Israel  ** - Isto pode ser traduzido como "aquele que consolaria Israel." Este é outro nome para "Messias" ou "Cristo."</font>
   * **the Holy Spirit was upon him**  - "the Holy Spirit was with him." God was with him in a special way, and gave him wisdom and direction in his life.
-  * <font inherit/inherit;;#B22222;;inherit>** o Espírito Santo estava sobre ele  ** - "o Espírito Santo estava com ele." Deus</font>  estava<font inherit/inherit;;#B22222;;inherit>com</font>  ele<font inherit/inherit;;#B22222;;inherit>de</font>  uma maneira<font inherit/inherit;;#B22222;;inherit>especial</font>  <font inherit/inherit;;#B22222;;inherit>, e</font>  lhe deu sabedoria<font inherit/inherit;;#B22222;;inherit>e</font>  direção<font inherit/inherit;;#B22222;;inherit>em</font>  sua vida.
+  * <font inherit/inherit;;#B22222;;inherit>** o Espírito Santo estava sobre ele  ** - "o Espírito Santo estava com ele." Deus</font>   estava<font inherit/inherit;;#B22222;;inherit>com</font>   ele<font inherit/inherit;;#B22222;;inherit>de</font>   uma maneira<font inherit/inherit;;#B22222;;inherit>especial</font>   <font inherit/inherit;;#B22222;;inherit>, e</font>   lhe deu sabedoria<font inherit/inherit;;#B22222;;inherit>e</font>   direção<font inherit/inherit;;#B22222;;inherit>em</font>   sua vida.
   * **it had been revealed to him by the Holy Spirit**  - This could be translated as "The Holy Spirit had shown him" or "The Holy Spirit had told him."
   * <font 14px line-height: 15.6800003051758px/inherit;;#B22222;;inherit>** foi revelado a ele pelo Espírito Santo  ** - Isto pode ser traduzido como "O Espírito Santo havia mostrado a ele" ou "O Espírito Santo havia dito a ele."</font>
   * **he would not die before he had seen the Lord's Christ**  - This could be translated as "he would see the Lord's Christ before dying" or "he would see the Lord's Christ and die only after that." The word "Lord" here refers to God.
