@@ -35,13 +35,22 @@
 ===== Translation Notes: =====
 
   * **came**  - This could be translated as "went."
+  * <font inherit/inherit;;#B22222;;inherit>** veio ** - Isto pode ser traduzido como "foi."</font>
   * **led by the Holy Spirit**  - This could be translated as "directed by God" or "the Holy Spirit directed him."
+  * <font inherit/inherit;;#B22222;;inherit>** guiado pelo Espírito Santo ** - Isto pode ser traduzido como "direcionado por Deus" ou "o Espírito Santo direcionou ele."</font>
   * **the parents**  - "Jesus' parents"
+  * <font inherit/inherit;;#B22222;;inherit>** os pais ** - "os pais de Jesus"</font>
   * **the custom of the law required**  - "the law of God required"
+  * <font inherit/inherit;;#B22222;;inherit>** o costume da lei requeria ** - "a lei de Deus requeria"</font>
   * **received him**  - "took him"
+  * <font inherit/inherit;;#B22222;;inherit>** o recebeu ** - "o tomou"</font>
   * **Now let your servant depart in peace**  - This could be translated as "I am your servant. Let me depart in peace." Simeon was referring to himself.
+  * <font inherit/inherit;;#B22222;;inherit>** Agora deixe o seu servo partir em paz  ** - Isto pode ser traduzido como "Eu sou o seu servo. Me deixe partir em paz." Simeão estava se referindo a si mesmo.</font>
   * **depart**  - This is a euphemism meaning "die." (See: [[:en:ta:translate:euphemism|Euphemism]])
+  * <font inherit/inherit;;#B22222;;inherit>** partir  ** - Este é um eufemismo que significa "morrer." (Veja: Eufemismo)</font>
   * **according to your word**  - This could be translated as "as you have said" or "because you said you would."
+  * <font inherit/inherit;;#B22222;;inherit>** de acordo com sua palavra ** - Isto pode ser traduzido como "como você disse" ou "porque você disse que faria."</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
