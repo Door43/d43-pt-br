@@ -25,10 +25,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **brothers**  - These were Jesus' younger brothers.
+  * <font inherit/inherit;;#B22222;;inherit>** irmãos ** - Estes eram os irmãos menores de Jesus.</font>
   * **it was told him**  - "people told him" or "someone told him"
+  * <font inherit/inherit;;#B22222;;inherit>** disseram a ele ** - "pessoas disseram a ele" ou "alguém disse a ele".</font>
   * **desiring to see you**  - "waiting to see you" or "and they want to see you"
+  * <font inherit/inherit;;#B22222;;inherit>** desejando te ver  ** - "esperando para ver você" ou "e eles querem ver você".</font>
   * **My mother and my brothers are those who hear the word of God, and obey it.**  - This metaphor can be translated as a simile: "Those who hear the word of God and obey it are like a mother and brothers to me" or "Those who hear the word of God and obey it are as important to me as my mother and brothers." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Minha mãe e meus irmãos são aqueles que escutam a palavra de Deus e a obedece  ** - Esta metáfora pode ser traduzida como uma símile: "Aqueles que escutam a palavra de Deus e a obedece são como uma mãe e irmãos para mim" ou "Aqueles que escutam a palavra de Deus e a obedece são tão importantes para mim quanto minha mãe e meus irmãos".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
