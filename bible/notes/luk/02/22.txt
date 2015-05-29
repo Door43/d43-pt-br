@@ -49,7 +49,7 @@
   * **turtledoves**  - These are common birds that eat seeds and often live in open areas. They are small enough to be held in two hands, and people would eat them.
   * <font inherit/inherit;;#B22222;;inherit>** rolas  ** - Estes são pássaros comuns que comem sementes e geralmente vivem em áreas abertas. Eles são pequenos o suficiente para serem segurados com as duas mãos, e pessoas comeriam eles.</font>
   * **young pigeons**  - These are birds that eat seeds and often live in hilly or mountain areas. They are small enough to be held in two hands, and people would eat them.
-  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** dois pombinhos ** - Estes são pássaros que comem sementes e geralmente vivem colinas ou áreas montanhosas. Eles são pequenos o suficiente para serem segurados com as duas mãos, e pessoas comeriam eles.</font>
+  * <font 14px line-height: 15.6800003051758px/inherit;;#B22222;;inherit>** pombinhos  ** - Estes são pássaros que comem sementes e geralmente vivem colinas ou áreas montanhosas. Eles são pequenos o suficiente para serem segurados com as duas mãos, e pessoas comeriam eles.</font>
 
 ===== Links: =====
 
