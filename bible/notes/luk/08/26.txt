@@ -24,12 +24,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **region of the Gerasenes**  - Gerasenes were people from the city called Gerasa.
-  * **opposite Galilee**  - "on the other side of the lack from Galilee"
+  * <font inherit/inherit;;#B22222;;inherit>** região dos Gerasenos  ** - Gerasenos eram as pessoas da uma cidade chamada Gerasa.</font>
+  * **opposite Galilee**  - "on the other side of the lake from Galilee"
+  * <font inherit/inherit;;#B22222;;inherit>** oposto à Galileia ** - "do outro lado do lago da Galileia".</font>
   * **a certain man from the city**  - "a man from the city of Gerasa"
+  * <font inherit/inherit;;#B22222;;inherit>** um certo homem da cidade ** - "um homem da cidade de Gerasa"</font>
   * **had demons**  - "he was controlled by demons"
+  * <font inherit/inherit;;#B22222;;inherit>** tinha demônios ** - "ele era controlado por demônios".</font>
   * **he had worn no clothes**  - "he had not worn clothes"
+  * <font inherit/inherit;;#B22222;;inherit>** ele não vestia nenhuma roupa ** - "ele não tinha vestido roupas".</font>
   * **tombs**  - These are places where people put dead bodies, possibly caves. The fact that the man was living in them indicates that these were not holes dug down in the ground.
+  * <font inherit/inherit;;#B22222;;inherit>** tumbas  ** - Estes eram lugares onde corpos mortos eram colocados, possivelmente cavernas. O fato de que o homem estava morando nesses lugares indica que não se tratavam de buracos cavados no chão.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
