@@ -20,10 +20,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Now it happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** Agora aconteceu que ** - Esta frase é usada aqui para marcar o início de uma nova parte da história. Se sua língua tem uma maneira de fazer isso, você deve considerar usá-la aqui.</font>
   * **as they sailed**  - "as they went"
+  * <font inherit/inherit;;#B22222;;inherit>** enquanto eles navegavam ** - "enquanto eles iam"</font>
   * **fell asleep**  - "slept"
+  * <font inherit/inherit;;#B22222;;inherit>** adormeceu  ** - "dormiu"</font>
   * **a storm of very strong winds came up**  - "very strong winds suddenly began to blow"
+  * <font inherit/inherit;;#B22222;;inherit>** surgiu uma tempestade de ventos fortes ** - "ventos muito fortes de repente começaram a soprar".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
