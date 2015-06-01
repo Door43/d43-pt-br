@@ -30,8 +30,12 @@
 ===== Translation Notes: =====
 
   * **that they were required to do according to the law of the Lord**  - Possible meanings are 1) "that the law of the Lord required them to do" or 2) "that the law which the Lord commanded required them to do."
+  * <font inherit/inherit;;#B22222;;inherit>** o que eles eram requeridos a fazer de acordo com a lei do Senhor  ** - Possíveis significados são 1) "o que a lei do Senhor requeria que eles fizessem" ou 2) "o que a lei que o Senhor ordenou exigia que eles fizessem."</font>
   * **increasing in wisdom**  - "became more wise" or "learned what was wise"
+  * <font inherit/inherit;;#B22222;;inherit>** crescendo em sabedoria  ** - "se tornou mais sábio" ou "aprendeu o que era sábio"</font>
   * **the grace of God was upon him**  - This could be translated as "God blessed him" or "God was with him in a special way."
+  * <font inherit/inherit;;#B22222;;inherit>** a graça de Deus estava sobre ele  ** - Isto pode ser traduzido como "Deus o abençoou" ou "Deus estava com ele de uma maneira especial."</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
