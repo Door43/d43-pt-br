@@ -34,11 +34,18 @@
 ===== Translation Notes: =====
 
   * **after her marriage**  - "after she married him"
+  * <font inherit/inherit;;#B22222;;inherit>** após ela se casar ** - "após ela casar com ele"</font>
   * **a widow for eighty-four years**  - Possible meanings are 1) she had been a widow for eighty-four years or 2) she was a widow and was now eighty-four years old.
+  * <font inherit/inherit;;#B22222;;inherit>** uma viúva por oitenta e quatro anos  ** - Possíveis significados são 1) ela foi viúva por oitenta e quatro anos ou 2) ela era viúva e agora tinha oitenta e quatro anos.</font>
   * **never left the temple**  - This is probably an exaggeration meaning that she spent so much time in the temple that it seemed as though she never left it. It could be translated as "was always at the temple" or it could state the meaning without the hyperbole: "was often at the temple." (See: [[:en:ta:translate:hyperbole|Hyperbole]])
+  * <font inherit/inherit;;#B22222;;inherit>** nunca deixava o templo  ** - Isto é provavelmente um exagero significando que ela ela passava tanto tempo no templo que parecia que ela nunca deixava o lugar. Isto pode ser traduzido como "estava sempre no templo" ou pode indicar o significado sem a hipérbole: "estava frequentemente no templo." (Veja: Hipérbole)</font>
   * **with fastings and prayers**  - "by abstaining from food and by praying"
+  * <font inherit/inherit;;#B22222;;inherit>** com jejuns e orações ** - "abstendo-se de comida e orando"</font>
   * **came up to them**  - "approached them" or "went to Mary and Joseph"
+  * <font inherit/inherit;;#B22222;;inherit>** veio até eles ** - "aproximou-se deles" ou "foi até Maria e José"</font>
   * **the redemption of Jerusalem**  - This could be translated as "the one who would redeem Jerusalem" or "the person who would bring God's blessings and favor back to Jerusalem." Here the word "redemption" is used to refer to the the person who would do it. (See: [[:en:ta:translate:metonymy|Metonymy]])
+  * <font inherit/inherit;;#B22222;;inherit>** a redenção de Jerusalém ** - Isto pode ser traduzido como "aquele que redimiria Jerusalém" ou "a pessoa que traria as bençãos e os favores de Deus de volta a Jerusalém." Aqui a palavra "redenção" é usada para se referir a pessoa que faria isto. "Veja: Metonímia)</font>
+
 ===== Links: =====
 
   * [[:pt-br:bible:notes:luk:questions:comprehension:02|Luke Chapter 2 Comprehension Questions]]
