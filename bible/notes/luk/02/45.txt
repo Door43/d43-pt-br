@@ -33,10 +33,13 @@
   * **in the temple**  - This could be translated as "in the temple courtyard" or "at the temple."
   * <font inherit/inherit;;#B22222;;inherit>** no templo  ** - Isto pode ser traduzido como "no pátio do templo."</font>
   * **in the middle of**  - This does not mean the exact center. Rather, it means "among" or "together with" or "in the midst of" (UDB).
-  * <font inherit/inherit;;#B22222;;inherit>** no meio de ** - Isto não significa exatamente no centro. Pelo contrário, significa "entre" ou "juntamente com" ou "no meio de" (UDB).</font>
+  * <font inherit/inherit;;#B22222;;inherit>** no meio de  ** - Isto não significa exatamente no centro. Pelo contrário, significa "entre" ou "juntamente com" ou "no meio de" (UDB).</font>
   * **the teachers**  - "the religious teachers" or "those who taught people about God"
+  * <font inherit/inherit;;#B22222;;inherit>** os mestres ** - "os mestres religiosos" ou "aqueles que ensinavam as pessoas sobre Deus"</font>
   * **at his understanding**  - This could be translated as "at how much he understood" or "that he understood so much about God."
+  * <font inherit/inherit;;#B22222;;inherit>** com seu entendimento ** - Isto pode ser traduzido como "com o quanto ele entendia" ou "que ele entendia muito sobre Deus."</font>
   * **his answers**  - This could also be translated as "at how well he answered them" or "that he answered their questions so well."
+  * <font inherit/inherit;;#B22222;;inherit>** suas respostas ** - Isto pode ser traduzido como "o quão bem ele os respondia" ou "que ele respondia suas respostas tão bem."</font>
 
 ===== Links: =====
 
