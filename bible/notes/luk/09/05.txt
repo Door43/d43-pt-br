@@ -32,9 +32,14 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to give directions to his twelve apostles.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua dando instruções aos seus apóstolos.)</font>
   * **as for those who do not receive you**  - This can be translated as "here is what you should do about the people who do not receive you."
+  * <font inherit/inherit;;#B22222;;inherit>** quanto àqueles que não os receberem ** - Isto pode ser traduzido como "aqui está o que vocês devem fazer sobre as pessoas que não os receberem."</font>
   * **they departed**  - "they left the place were Jesus was"
+  * <font inherit/inherit;;#B22222;;inherit>** eles partiram ** - "eles deixaram o lugar que Jesus estava"</font>
   * **everywhere**  - "everywhere they went"
+  * <font inherit/inherit;;#B22222;;inherit>** todos os lugares ** - "todos os lugares que eles foram"</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
