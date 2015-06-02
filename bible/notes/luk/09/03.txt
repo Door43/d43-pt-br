@@ -34,8 +34,11 @@
   * **staff **- "rod" or "walking stick." A staff was a large stick that was a used for balance when climbing or on uneven ground. It could also be used for defense against attackers.
   * <font inherit/inherit;;#B22222;;inherit>** cajado  ** - "vara" ou "bengala." Um cajado era uma vara comprida que era usada para equilíbrio ao escalar ou caminhar em um terreno irregular.</font>
   * **whatever house you enter into**  - "any house you enter"
+  * <font inherit/inherit;;#B22222;;inherit>** seja qual for a casa em que vocês entrarem  ** - "Qualquer casa em que vocês entrarem"</font>
   * **stay there**  - "remain there" or "temporarily live in that house as a guest"
+  * <font inherit/inherit;;#B22222;;inherit>** fiquem lá ** - "permaneçam lá" ou "morem temporariamente como hóspedes naquela casa"</font>
   * **from that place**  - "from that town" or "from that area"
+  * <font inherit/inherit;;#B22222;;inherit>** daquele lugar ** - "daquela cidade" ou "daquela área"</font>
 
 ===== Links: =====
 
