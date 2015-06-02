@@ -31,9 +31,14 @@
 ===== Translation Notes: =====
 
   * **the twelve **- This is the group of disciples that Jesus chose to be his apostles.
+  * <font inherit/inherit;;#B22222;;inherit>** os doze ** - Este é o grupo de discípulos que Jesus escolheu para ser seus apóstolos.</font>
   * **power and authority**- These two terms are used together to show that the twelve had both the ability and the right to heal people. Translate this phrase with a combination of words that include both of these ideas.
+  * <font inherit/inherit;;#B22222;;inherit>** poder e autoridade ** - Este dois termos são usados juntos para mostrar que os doze tinham ambos, habilidade e direito de curar as pessoas. Traduza esta expressão com a combinação de palavras que incluem ambas ideias.</font>
   * **diseases**  - "sicknesses." This refers to what makes a person sick.
+  * <font inherit/inherit;;#B22222;;inherit>** doenças ** - "enfermidade." Isto se refere ao que deixa uma pessoa doente.</font>
   * **sent them out**  - This could be translated as "sent them to various places" or "told them to go."
+  * <font inherit/inherit;;#B22222;;inherit>** os enviou ** - Isto pode ser traduzido como "os enviou a vários lugares" ou "disse a eles para ir."</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
