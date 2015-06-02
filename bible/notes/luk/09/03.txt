@@ -26,12 +26,13 @@
 ===== Translation Notes: =====
 
   * **he said to them**  - "Jesus said to the twelve"
-  * <font inherit/inherit;;#B22222;;inherit>** ele disse a eles ** - "Jesus disse aos doze"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** ele disse a eles  ** - "Jesus disse aos doze"</font>
   * **Take nothing **- This could be translated as "Do not take anything with you" or "Do not bring anything with you."
-  * <font inherit/inherit;;#B22222;;inherit>** Levem nada ** - Isto pode ser traduzido como "Não levem nada com vocês" ou "Não traga nenhuma coisa com vocês."</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Levem nada  ** - Isto pode ser traduzido como "Não levem nada com vocês" ou "Não traga nenhuma coisa com vocês."</font>
   * **for your journey**  - "for your trip" or "when you travel." They are to take nothing for their entire trip, as they move from village to village, and until they come back to Jesus.
-  * <font inherit/inherit;;#B22222;;inherit>** para sua jornada ** - "para sua viagem" ou "quando vocês viajarem." Eles não devem levar nada durante toda a viagem, enquanto eles se movem de vila à vila e até que eles voltem à Jesus.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** para sua jornada  ** - "para sua viagem" ou "quando vocês viajarem." Eles não devem levar nada durante toda a viagem, enquanto eles se movem de vila à vila e até que eles voltem à Jesus.</font>
   * **staff **- "rod" or "walking stick." A staff was a large stick that was a used for balance when climbing or on uneven ground. It could also be used for defense against attackers.
+  * <font inherit/inherit;;#B22222;;inherit>** cajado  ** - "vara" ou "bengala." Um cajado era uma vara comprida que era usada para equilíbrio ao escalar ou caminhar em um terreno irregular.</font>
   * **whatever house you enter into**  - "any house you enter"
   * **stay there**  - "remain there" or "temporarily live in that house as a guest"
   * **from that place**  - "from that town" or "from that area"
