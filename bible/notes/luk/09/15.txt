@@ -30,16 +30,19 @@
 ===== Translation Notes: =====
 
   * **So they did that**  - The disciples had the crowd sit down in groups of fifty people.
-  * <font inherit/inherit;;#B22222;;inherit>** Então eles fizeram isto ** - Os discípulos fizeram a multidão sentar em grupos de cinquenta pessoas.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Então eles fizeram isto  ** - Os discípulos fizeram a multidão sentar em grupos de cinquenta pessoas.</font>
   * **and he**  - This refers to Jesus.
   * <font inherit/inherit;;#B22222;;inherit>** e ele  ** - Isto se refere a Jesus.</font>
   * **loaves**  - These are specific amounts of baked bread. This could be translated as "whole breads."
-  * <font inherit/inherit;;#B22222;;inherit>** pães ** - Estas são quantidades específicas de pães assados. Isto pode ser traduzido como "pães integral."</font>
+  * <font inherit/inherit;;#B22222;;inherit>** pães  ** - Estas são quantidades específicas de pães assados. Isto pode ser traduzido como "pães integral."</font>
   * **and looking**  - "while looking" or "after looking"
-  * <font inherit/inherit;;#B22222;;inherit>** e olhando ** - "ao olhar" ou "após olhar"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** e olhando  ** - "ao olhar" ou "após olhar"</font>
   * **up to heaven**  - This refers to looking up, toward the sky. The Jews believed that heaven was located above the sky.
+  * <font inherit/inherit;;#B22222;;inherit>** para o céu ** - Isto se refere a olhar para cima, em direção ao céu.</font>
   * **to set before**  - "to hand out to" or "to pass out to" or "to give to"
+  * <font inherit/inherit;;#B22222;;inherit>** para distribuir à  ** - "para entregar à" ou "para passar para" ou "para dar à"</font>
   * **were satisfied**  - This could be translated as "they had as much as they wanted to eat."
+  * <font inherit/inherit;;#B22222;;inherit>** ficaram satisfeitos ** - Isto pode ser traduzido como "eles tinham tanto quanto eles queriam comer."</font>
 
 ===== Links: =====
 
