@@ -28,10 +28,12 @@
 ===== Translation Notes: =====
 
   * **as the day began to come to an end**  - "as the sun set" or "as the day ended" or "as evening came"
+  * <font inherit/inherit;;#B22222;;inherit>** à medida que o dia começou chegar ao fim  ** - "à medida que o sol se punha" ou "à medida que o dia terminava" ou "à medida que a noite chegava"</font>
   * **Dismiss the crowds**  - "Tell the crowds to go away"
   * **unless we went and bought food**  - This could be translated as "unless we were to go and buy food" or "unless we go and buy food." Or you could start a new sentence, "If you want us to feed them, we would have to go and buy food."
   * **about five thousand men**  - This number does not include the women and children who might have been present.
   * **Have them sit down**  - "Tell them to sit down"
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
