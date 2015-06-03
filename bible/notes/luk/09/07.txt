@@ -33,8 +33,12 @@
 ===== Translation Notes: =====
 
   * **Herod, the tetrarch**  - This refers to Herod Antipas, who was the ruler of one-fourth of Israel.
+  * <font inherit/inherit;;#B22222;;inherit>** Herodes, o tetrarca ** - Isto se refere a Herodes Antipas, que era governador de um quarto de Israel.</font>
   * **was very disturbed**  - "was very upset" or "was troubled by the news" or "was perplexed" (UDB)
+  * <font inherit/inherit;;#B22222;;inherit>** ficou muito perturbado ** - "ficou muito chateado" ou "ficou incomodado com a notícia" ou "ficou perplexo" (UDB)</font>
   * **I beheaded John**  - This could be translated as "I commanded my soldiers to cut off John's head."
+  * <font inherit/inherit;;#B22222;;inherit>** eu decapitei João  ** - Isto pode ser traduzido como "Eu dei ordem aos meus soldados para cortarem a cabeça de João."</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
