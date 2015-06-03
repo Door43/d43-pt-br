@@ -32,7 +32,7 @@ Informações Úteis para a Tradução
   * **Now**  - This word shows that the author is introducing another subject.
   * <font inherit/inherit;;#B22222;;inherit>** Agora  ** - Esta palavra mostra que o autor está introduzindo outro assunto.</font>
   * **it came about that**  - This phrase is used to show that this is the beginning of an account. If your language has a way of showing the start of an account, you may use that. Some versions do not include this phrase.
-  * <font inherit/inherit;;#B22222;;inherit>** ​aconteceu que  ** - Esta frase é usada para mostrar que este é o começo de um relato. Se a sua língua possui uma maneira de mostrar o começo de um relato, você pode usar isto. Algumas versões não incluem esta frase.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** ​sucedeu que  ** - Esta frase é usada para mostrar que este é o começo de um relato. Se a sua língua possui uma maneira de mostrar o começo de um relato, você pode usar isto. Algumas versões não incluem esta frase.</font>
   * **Caesar Augustus**  - "King Augustus" or "Emperor Augustus." Augustus was the first emperor of the Roman Empire. (See: [[:en:ta:translate:translatenames|How to Translate Names]])
   * <font inherit/inherit;;#B22222;;inherit>** César Augusto  ** - "Rei Augusto" ou "Imperador Augusto." Augusto foi o primeiro imperador do Império Romano. (Veja: Como Traduzir Nomes)</font>
   * **sent out a decree ordering**  - A decree is an order or command. This could be translated as "decreed" or "ordered" or "gave the command."
@@ -42,11 +42,11 @@ Informações Úteis para a Tradução
   * **that a census be taken of all the people living in the Roman world **- This could be translated as "that they register all the people living in the Roman world" or "that they count all the people in the Roman world and write down their names."
   * <font inherit/inherit;;#B22222;;inherit>** que um censo seja tomado de todas as pessoas que viviam no mundo Romano -  ** Isto pode ser traduzido como "que eles registrem todas as pessoas que viviam no mundo Romano" ou "que eles contassem todas as pessoas no mundo Romano e escrevesse o nome deles."</font>
   * **the Roman world**  - This could be translated as "the part of the world controlled by the Roman government" or "the countries ruled by the Roman emperor" or "the Roman empire."
-  * <font inherit/inherit;;#B22222;;inherit>** o mundo Romano ** - Isto pode ser traduzido como "a parte do mundo controlada pelo governo Romano" ou "os países governados pelo imperador Romano" ou "o império Romano."</font>
+  * <font inherit/inherit;;#B22222;;inherit>** o mundo Romano  ** - Isto pode ser traduzido como "a parte do mundo controlada pelo governo Romano" ou "os países governados pelo imperador Romano" ou "o império Romano."</font>
   * **Quirinius**  - Quirinius was appointed to be the governor of Syria. (See: [[:en:ta:translate:translatenames|How to Translate Names]])
   * <font inherit/inherit;;#B22222;;inherit>** Quirino  ** - Quirino foi designado para ser o governador da Síria. (Veja: Como Traduzir Nomes)</font>
   * **everyone went -**  This could be translated as "everyone started off" or "everyone was going."
-  * <font inherit/inherit;;#B22222;;inherit>** todos foram ** - Isto pode ser traduzido como "todos começaram" ou "todos estavam indo."</font>
+  * <font inherit/inherit;;#B22222;;inherit>** todos foram  ** - Isto pode ser traduzido como "todos começaram" ou "todos estavam indo."</font>
   * **his own town**  - "the town his ancestors lived in"
   * <font inherit/inherit;;#B22222;;inherit>** sua própria cidade  ** - "a cidade onde seus antepassados viviam"</font>
   * **to be registered for the census**  - "to have their name written in the register" or "to be included in the official count"
