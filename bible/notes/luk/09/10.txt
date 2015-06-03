@@ -31,13 +31,15 @@
 ===== Translation Notes: =====
 
   * **the ones who had been sent out**  - "the twelve apostles that Jesus had sent out"
-  * <font inherit/inherit;;#B22222;;inherit>** os que haviam sido enviados ** - "os doze apóstolos que Jesus enviou"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** os que haviam sido enviados  ** - "os doze apóstolos que Jesus enviou"</font>
   * **returned**  - "came back to where Jesus was"
-  * <font inherit/inherit;;#B22222;;inherit>** retornaram ** - "voltaram para onde Jesus estava"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** retornaram  ** - "voltaram para onde Jesus estava"</font>
   * **they told him**  - "the apostles told Jesus"
-  * <font inherit/inherit;;#B22222;;inherit>** eles contaram para ele ** - "os apóstolos contaram para Jesus"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** eles contaram para ele  ** - "os apóstolos contaram para Jesus"</font>
   * **everything they had done**  - This refers to the teaching and healing that they did when they went to the other cities.
+  * <font inherit/inherit;;#B22222;;inherit>** tudo que haviam feito ** - Isto se refere aos ensinamentos e as curas que eles fizeram quando foram as outras cidades.</font>
   * **And taking them with him, he went away by himself**  - This could be translated as "He took them with him and they went by themselves." Jesus and his apostles went away by themselves.
+  * **E levando-os consigo, retirou-se à parte**  - Isto pode ser traduzido como "Ele os levou consigo e eles retiraram-se
 
 ===== Links: =====
 
