@@ -33,17 +33,19 @@
 ===== Translation Notes: =====
 
   * **And he said to them**  - "And Jesus said to his disciples"
-  * <font inherit/inherit;;#B22222;;inherit>** E ele disse a eles ** - "E Jesus disse aos seus discípulos"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** E ele disse a eles  ** - "E Jesus disse aos seus discípulos"</font>
   * **And answering, Peter said**  - "And Peter answered and said" or "And Peter answered by saying"
-  * <font inherit/inherit;;#B22222;;inherit>** E respondendo, Pedro disse ** - "E Pedro respondeu e disse" ou "E Pedro respondeu dizendo"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** E respondendo, Pedro disse  ** - "E Pedro respondeu e disse" ou "E Pedro respondeu dizendo"</font>
   * **But warning them, Jesus instructed them**  - This can be translated as "But Jesus warned and instructed them" or "Then Jesus warned them strongly" (UDB).
-  * <font inherit/inherit;;#B22222;;inherit>** Mas, alertando eles Jesus os instruiu ** - Isto pode ser traduzido como "Mas Jesus alertou e instruiu eles" ou "Então Jesus os alertou fortemente" (UDB)</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Mas, alertando eles Jesus os instruiu  ** - Isto pode ser traduzido como "Mas Jesus alertou e instruiu eles" ou "Então Jesus os alertou fortemente" (UDB)</font>
   * **to tell this to no one**  - "not to tell anyone" or "that they should not tell anyone." This is an indirect quote. It can also be translated as a direct quote, as in "Do not tell anyone." (See: [[:en:ta:vocabulary:quotation|quotation]])
-  * <font inherit/inherit;;#B22222;;inherit>** para não contar isso a ninguém ** - "não dizer a ninguém" ou "que eles não contassem a ninguém." Esta é uma citação indireta. Isto pode ser traduzido como uma citação direta como "Não conte a ninguém." (Veja: citação"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** para não contar isso a ninguém  ** - "não dizer a ninguém" ou "que eles não contassem a ninguém." Esta é uma citação indireta. Isto pode ser traduzido como uma citação direta como "Não conte a ninguém." (Veja: citação)</font>
   * **that the Son of Man must suffer many things**  - This can be translated as "that people would cause the Son of Man to suffer greatly." Verse 22 can also be translated as a direct quote as it is in the UDB. (See: [[:en:ta:vocabulary:quotation|quotation]])
-  *
+  * <font inherit/inherit;;#B22222;;inherit>** que o Filho do Homem deve sofrer muitas coisas ** - Isto pode ser traduzido como "que as pessoas iriam fazer com que o Filho do Homem sofra muito." O versículo 22 pode ser traduzido como uma citação direta, como está no UDB. (Veja: citação)</font>
   * **be raised back to life**  - "be made alive again"
+  * <font inherit/inherit;;#B22222;;inherit>** ser trazido de volta à vida ** - "ser feito vivo novamente"</font>
   * **on the third day**  - "three days after dying" or "on the third day after his death"
+  *
 
 ===== Links: =====
 
