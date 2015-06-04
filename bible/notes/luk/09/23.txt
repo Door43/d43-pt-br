@@ -37,10 +37,11 @@
   * **follow me**  - "go along with me" or "begin to follow me and keep on following me"
   * <font inherit/inherit;;#B22222;;inherit>** me siga  ** - "ir junto comigo" ou "comece a me seguir e continue me seguindo"</font>
   * **what does it benefit a man**  - This can be translated as "how does a person profit." This is part of a rhetorical question. It could also be translated as "It does not benefit a man" or "A man does not receive anything good." (See: [[:en:ta:figuresofspeech:rhetoricalquestion|Rhetorical Questions]])
-  * <font inherit/inherit;;#B22222;;inherit>** o que beneficia um homem ** - Isto pode ser traduzido como "como é que uma pessoa lucra" Isto é parte de uma pergunta retórica. Isto pode ser traduzido como "Isto não beneficia um homem" ou "Um homem não recebe nada de bom." (Veja: Perguntas Retóricas)</font>
+  * <font inherit/inherit;;#B22222;;inherit>** o que beneficia um homem  ** - Isto pode ser traduzido como "como é que uma pessoa lucra" Isto é parte de uma pergunta retórica. Isto pode ser traduzido como "Isto não beneficia um homem" ou "Um homem não recebe nada de bom." (Veja: Perguntas Retóricas)</font>
   * **if he gains that whole world**  - "if he gets everything in the world"
-  *
+  * <font inherit/inherit;;#B22222;;inherit>** se ele ganhar este mundo todo ** - "se ele receber tudo neste mundo"</font>
   * **loses or forfeits his own self**  - This can be translated as "he himself is lost or destroyed."
+  * <font inherit/inherit;;#B22222;;inherit>** perder ou destruir seu próprio ser ** - Isto pode ser traduzido como "ele mesmo está perdido ou destruído."</font>
 
 ===== Links: =====
 
