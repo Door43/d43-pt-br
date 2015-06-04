@@ -30,13 +30,19 @@
 ===== Translation Notes: =====
 
   * **And it happened that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * <font inherit/inherit;;#B22222;;inherit>** ​E aconteceu que ** - Esta frase é usada para marcar o começo de uma nova parte da história. Se a sua língua possui uma maneira de mostrar o começo de um relato, você pode usar isto.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** ​E aconteceu que  ** - Esta frase é usada para marcar o começo de uma nova parte da história. Se a sua língua possui uma maneira de mostrar o começo de um relato, você pode usar isto.</font>
   * **as he was praying**  - This refers to Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** enquanto ele estava orando ** - Isto se refere a Jesus.</font>
   * **praying alone**  - The disciples were with Jesus, but he was praying personally and privately by himself.
+  * <font inherit/inherit;;#B22222;;inherit>** orando sozinho ** - Os discípulos estavam com Jesus, mas eles estava orando pessoalmente e particularmente, consigo mesmo.</font>
   * **And answering, they said**  - "And they answered him by saying"
+  * <font inherit/inherit;;#B22222;;inherit>** E respondendo, eles disseram ** - "E eles o responderam dizendo"</font>
   * **John the Baptist**  - Some languages may prefer to add "Some say you are John the Baptist."
+  * <font inherit/inherit;;#B22222;;inherit>J ** oão, o Batista ** - Alguns idiomas podem preferir acrescentar "Alguns dizem que você é João, o Batista."</font>
   * **from ancient times**  - "who lived a very long time ago"
+  * <font inherit/inherit;;#B22222;;inherit>** desde os tempos antigos ** - "que viveu há muito tempo"</font>
   * **has risen again**  - "has come back to life"
+  * <font inherit/inherit;;#B22222;;inherit>** ressuscitou novamente  ** - "voltou à vida"</font>
 
 ===== Links: =====
 
