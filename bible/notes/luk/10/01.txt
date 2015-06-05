@@ -35,10 +35,16 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **seventy**  - Some versions say "seventy-two." You may want to include a footnote that says that.
+  * <font inherit/inherit;;#B22222;;inherit>** setenta ** - Algumas versões dizem "setenta e dois". Talvez você queira incluir uma nota de rodapé que diz isso.</font>
   * **sent them out by pairs**  - "sent them out in groups of two" or "sent them out with two people in each group"
+  * <font inherit/inherit;;#B22222;;inherit>** enviou-os em pares ** - "enviou-os em grupos de dois" ou "os enviou com duas pessoas em cada grupo".</font>
   * **He said to them**  - This was before the men actually went out. This can be translated as "This is what he said to them" or "Before they went out he told them."
-  * **The harvest is plentiful but the laborers are few**  - "There is a big crop, but not enough workers to bring it in." This metaphor means that there are many people who are ready to be brought into the [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]], but there are not enough workers to bring them in. To state this clearly, it could be translated as "There is a big crop of people ready to be brought into God's kingdom, but there are few workers to bring them in." (See: [[en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** ele os disse ** - Isto foi antes dos homens partirem. Isto pode ser traduzido como: "Isto é o que ele disse para eles" ou "Antes deles sa​írem ele disse".</font>
+  * **The harvest is plentiful but the laborers are few**  - "There is a big crop, but not enough workers to bring it in." This metaphor means that there are many people who are ready to be brought into the [[:pt-br:bible:notes:key-terms:kingdomofgod|kingdom of God]], but there are not enough workers to bring them in. To state this clearly, it could be translated as "There is a big crop of people ready to be brought into God's kingdom, but there are few workers to bring them in." (See: [[:en:ta:translate:metaphor|Metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** a seara é grande, mas os trabalhadores são poucos ** - "Há uma grande safra, mas não há trabalhadores suficientes para colhê-la". Esta metáfora significa que há muitas pessoas que estão prontas para serem trazidas para o reino de Deus, mas não há trabalhadores suficientes para levá-las até lá. Para que isto fique claro, isto poderia ser traduzido como: "Há uma grande safra de pessoas prontas para serem trazidas para o reino de Deus, mas há poucos trabalhadores para levá-la para lá".</font>
 
 ===== Links: =====
 
