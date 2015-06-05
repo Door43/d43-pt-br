@@ -20,12 +20,21 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **they fled**  - "they quickly ran away"
+  * <font inherit/inherit;;#B22222;;inherit>** eles fugiram ** - "eles fugiram rapidamente".</font>
   * **found the man from whom the demons had gone out**  - "saw the man whom the demons had left"
+  * <font inherit/inherit;;#B22222;;inherit>** encontraram o homem de quem os demônios haviam saído ** - "viram o homem cujos demônios haviam deixado".</font>
   * **He was clothed**  - "He was wearing clothes"
+  * <font inherit/inherit;;#B22222;;inherit>** Ele estava vestido ** - "Ele estava vestindo roupas".</font>
   * **in his right mind**  - "he was sane" or "he was behaving normally"
+  * <font inherit/inherit;;#B22222;;inherit>** em seu perfeito juízo ** - "ele estava são" ou "ele estava se comportando normalmente".</font>
   * **sitting at the feet of Jesus**  - This can also be translated as "sitting on the ground, listening to Jesus."
+  * <font inherit/inherit;;#B22222;;inherit>** sentado aos pés de Jesus ** - Isto também pode ser traduzido como: "sentado no chão, escutando Jesus".</font>
   * **they were afraid**  - "they were afraid of Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** eles estavam com medo  ** - "eles estavam com medo de Jesus".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
