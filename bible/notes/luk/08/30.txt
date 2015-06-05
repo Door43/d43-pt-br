@@ -21,8 +21,13 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Army**  - Translate this with a word that refers to a large number of soldiers or people. It could also be translated as "Battalion" or "Brigade."
+  * <font inherit/inherit;;#B22222;;inherit>** Exército  ** - Traduza isto com uma palavra que se refira a um grande número de soldados ou pessoas. Isto também poderia ser traduzido como "Batalhão" ou "Brigada".</font>
   * **to depart into the abyss**  - "to leave the man and go into the abyss"
+  * <font inherit/inherit;;#B22222;;inherit>** partir para o abismo ** - "deixar o homem e ir para o abismo".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
