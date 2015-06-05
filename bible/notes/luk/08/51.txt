@@ -21,10 +21,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (Jesus continued on to Jairus' house despite hearing that his daughter was dead.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continuou seguindo para a casa de Jairo, apesar de ter ouvido que a filha dele estava morta).</font>
   * **Then when he came to the house, he**  - Because Jesus did not go alone to the house, it can be translated as "Then when they came to the house, Jesus."
+  * <font inherit/inherit;;#B22222;;inherit>** Então, quando ele veio para a casa, ele ** - Porque Jesus não foi sozinho até a casa, isto pode ser traduzido como: "Então quado eles vieram até a casa, Jesus".</font>
   * **except Peter, John and James, and the father of the girl and her mother**  - "He only allowed Peter, John and James, and the girl's father and mother to go inside"
+  * <font inherit/inherit;;#B22222;;inherit>** exceto Pedro, João e Tiago, o pai e a mãe da menina ** - "Ele só permitiu que Pedro, João, Tiago, o pai e a mãe da menina entrassem".</font>
   * **all the people there were mourning and wailing for her**  - "all the people were showing how sad they were and crying loudly because the girl had died"
+  * <font inherit/inherit;;#B22222;;inherit>** todos estavam lá lamentando e pranteando por ela  ** - "todas as pessoas estavam demonstrando tristeza e estavam pranteando porque a menina havia morrido".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
