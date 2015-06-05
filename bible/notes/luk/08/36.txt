@@ -20,10 +20,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **the ones who had seen what had happened told**  - These were the people who had been with the man when Jesus made the demons leave him.
+  * <font inherit/inherit;;#B22222;;inherit>** os que haviam visto o que aconteceu contaram ** - Estas eram as pessoas que estavam com o homem quando Jesus fez com que os demônios o deixassem.</font>
   * **had been saved**  - "had been rescued" or "had been set free" or "had been healed"
+  * <font inherit/inherit;;#B22222;;inherit>** foi salvo ** - "foi resgatado" ou "foi liberto" ou "foi curado".</font>
   * **region of the Gerasenes**  - "that area" or "the area where the Gerasene people lived"
+  * <font inherit/inherit;;#B22222;;inherit>** região dos gerasenos  ** - "aquela área" ou "a área em que os gerasenos moravam".</font>
   * **gripped with great fear**  - "had become very fearful"
+  * <font inherit/inherit;;#B22222;;inherit>** foram tomados de grande temor  ** - "ficaram com muito medo".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
