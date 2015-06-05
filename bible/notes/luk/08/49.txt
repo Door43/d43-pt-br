@@ -24,11 +24,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (A messenger arrives from Jairus' house as Jesus finishes speaking to the woman that he healed.)
+  * <font inherit/inherit;;#B22222;;inherit>(Um mensageiro chega da casa de Jairo quando Jesus termina de falar com a mulher que ele curou).</font>
   * **while he was still speaking**  - "While Jesus was still speaking to the woman"
+  * <font inherit/inherit;;#B22222;;inherit>** enquanto ele ainda estava falando ** - "enquanto Jesus ainda falava com a mulher".</font>
   * **synagogue leader**  - This refers to Jairus. He was one of the leaders at the local synagogue.
+  * <font inherit/inherit;;#B22222;;inherit>** líder da sinagoga  ** - Isto se refere a Jairo. Ele era um dos líderes da sinagoga local.</font>
   * **he answered him**  - "Jesus answered Jairus." Jesus was speaking to the synagogue ruler, and not to the messenger.
+  * <font inherit/inherit;;#B22222;;inherit>** ele o respondeu ** - "Jesus respondeu a Jairo". Jesus estava falando com o chefe da sinagoga, e não com o mensageiro.</font>
   * **she will be saved**  - "she will well" or "she will live again" (UDB)
+  * <font inherit/inherit;;#B22222;;inherit>** ela será salva ** - "ela ficará boa" ou "ela viverá de novo" (UDB).</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
