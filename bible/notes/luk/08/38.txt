@@ -25,9 +25,15 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **But the man**  - Some may need to start this with "But before Jesus and his disciples left, the man" or "Before Jesus and his disciples set sail, the man."
+  * <font inherit/inherit;;#B22222;;inherit>** Mas o homem ** - Alguns talvez precisem começar isso com: "Mas antes de Jesus e seus discípulos saírem, o homem" ou "Antes de Jesus e seus discípulos zarparem, o homem".</font>
   * **he sent him away**  - "Jesus sent the man away"
+  * <font inherit/inherit;;#B22222;;inherit>** ele o mandou embora ** - "Jesus mandou o homem embora".</font>
   * **your house**  - "your household" or "your family"
+  * <font inherit/inherit;;#B22222;;inherit>** sua casa ** - "seus familiares" ou "sua família".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
