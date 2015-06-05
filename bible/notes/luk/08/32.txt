@@ -21,8 +21,13 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **a herd of many pigs was there feeding on the hill**  - "a herd of many pigs was nearby eating grass on a hill"
+  * <font inherit/inherit;;#B22222;;inherit>** uma manada de muitos porcos estava ali se alimentando na colina ** - "uma manada de muitos porcos estava por perto, comendo capim em uma colina".</font>
   * **rushed**  - "ran very fast"
+  * <font inherit/inherit;;#B22222;;inherit>** se lançou ** - "correu muito rápido".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
