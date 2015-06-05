@@ -29,10 +29,16 @@
 ===== Translation Notes: =====
 
   * **And it happened**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** E aconteceu ** - Esta expressão é usada aqui para marcar um evento importante na história. Se sua língua possui uma maneira de fazer isto você pode considerar fazer isto aqui.</font>
   * **these words**  - This refers to what Jesus said to his disciples in the preceding verses.
+  * <font inherit/inherit;;#B22222;;inherit>** estas palavras ** - Isto se refere ao que Jesus disse aos seus discípulos nos versículos anteriores.</font>
   * **into the mountain**  - This could be translated as "on the side of a mountain." It is unclear how far up the mountain they went.
+  * <font inherit/inherit;;#B22222;;inherit>** à montanha ** - Isto pode ser traduzido como "ao lado de uma montanha." Não está claro o quão longe eles foram montanha acima.</font>
   * **the appearance of his face looked different**  - This could be translated as "the appearance of his face changed."
+  * <font inherit/inherit;;#B22222;;inherit>** a aparência de seu rosto parecia diferente ** - Isto pode ser traduzido como "a aparência de seu rosto mudou."</font>
   * **white and dazzling**  - "shining white and brilliant" or "brilliant white and shining" or "dazzling white and shining like lightening" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** brancas e resplandecentes  ** - "refletindo luz branca e brilhante" ou "branco brilhante e reluzente" ou "branco resplandecente e brilhando como raio" (UDB).</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
