@@ -19,8 +19,13 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **Child, arise**  - "Little girl, get up"
+  * <font inherit/inherit;;#B22222;;inherit>** Menina, levante ** - "Menininha, levante".</font>
   * **her spirit returned**  - The word "spirit" can also be translated as "breath" or "life." The phrase can be translated as "She came back to life" or "she became alive again."
+  * <font inherit/inherit;;#B22222;;inherit>** seu espírito voltou ** - A palavra "espírito" pode também ser traduzica como "fôlego" ou "vida". A frase pode ser traduzida como: "Ela voltou à vida" ou "ela tornou a viver de novo".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
