@@ -29,8 +29,12 @@
 ===== Translation Notes: =====
 
   * **And behold, there were two men talking**  - The word “behold” here alerts us pay attention to the surprising thing that follows. It can be translated as "Suddenly there were two men talking" or "Suddenly two men were talking."
+  * <font inherit/inherit;;#B22222;;inherit>** E eis que haviam dois homens falando ** - A expressão "eis que" aqui nos alerta para prestarmos atenção à coisas surpreendentes que se seguem. Isto pode ser traduzido como "De repente, haviam dois homens conversando" ou "De repente, dois homens estavam conversando."</font>
   * **who looked glorious**  - This relative clause is adding information about Moses and Elijah. It can be translated as "and they looked glorious." (See: description of Relative Clauses in [[https://door43.org/en/ta/vocabulary/sentencestructure#clause|Clauses ]]on [[:en:ta:vocabulary:sentencestructure|sentencestructure]])
+  * <font inherit/inherit;;#B22222;;inherit>** que pareciam gloriosos ** - Esta cláusula relativa está adicionando informações sobre Moisés e Elias. Isto pode ser traduzido como "e eles pareciam gloriosos." (Veja: descrição de Cláusula Relativa em Cláusulas no Estrutura de Sentença)</font>
   * **his departure**  - "his leaving" or "how he would leave this world." It could be translated as "his death." (See: [[:en:ta:figuresofspeech:euphemism|Euphemism]])
+  * <font inherit/inherit;;#B22222;;inherit>** sua partida ** - "sua ida" ou "como ele deixaria este mundo." Isto pode ser traduzido como "sua morte." (Veja: Eufemismo)</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
