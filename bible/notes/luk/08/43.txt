@@ -19,10 +19,17 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (This event happens on the way to heal Jairus' daughter.)
+  * <font inherit/inherit;;#B22222;;inherit>(Este evento aconteceu no caminho para curar a filha de Jairo).</font>
   * **had been bleeding**  - "had a flow of blood." She was probably bleeding from her womb even when it was not the normal time for it. Some cultures may have a polite way of referring to this condition. (See: [[:en:ta:figuresofspeech:euphemism|euphemism]])
+  * <font inherit/inherit;;#B22222;;inherit>** estava sangrando ** - "tinha um fluxo de sangue". Ela estava provavelmente sangrando por seu útero, mesmo quando não era o tempo normal de isso acontecer. Algumas culturas talvez tenham uma maneira educada de se referir a essa condição.</font>
   * **but could not be healed by any of them**  - "but none of them could cure her"
+  * <font inherit/inherit;;#B22222;;inherit>** mas não pôde ser curada por nenhum deles  ** - "mas nenhum deles pôde curá-la".</font>
   * **touched the border of his garment**  - "touched the fringe of his robe." Jewish men wore tassels on the edges of their robes as a part of their ceremonial dress, as commanded in God's Law. This is likely what she touched.
+  * <font inherit/inherit;;#B22222;;inherit>** tocou a borda do seu manto ** - "tocou a orla da sua túnica". Homens judeus usavam pendões nas bordas de suas túnicas como parte de suas vestimentas cerimoniais, conforme ordenado na Lei de Deus. Isto é provavelmente o que ela tocou.</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
