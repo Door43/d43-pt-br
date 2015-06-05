@@ -29,9 +29,13 @@
 ===== Translation Notes: =====
 
   * **they saw his glory**  - This refers to the brilliant light that surrounded them. This could be translated as "they saw brilliant light coming from Jesus" or "they saw very bright light coming out of Jesus."
+  * <font inherit/inherit;;#B22222;;inherit>** eles viram sua glória ** - Isto se refere à luz brilhante que os cercou. Isto pode ser traduzido como "eles viram uma luz brilhante vindo de Jesus" ou "eles viram uma luz muito brilhante saindo de Jesus."</font>
   * **the two men who were standing with him**  - This refers to Moses and Elijah.
+  * <font inherit/inherit;;#B22222;;inherit>** os dois homens que estavam com ele ** - Isto se refere a Moisés e Elias.</font>
   * **It happened that**  - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** E aconteceu que ** - Esta expressão é usada aqui para marcar onde a ação começa. Se sua língua possui uma maneira de fazer isto, você deve considerar usá-la aqui.</font>
   * **Master**  - The word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+  * <font inherit/inherit;;#B22222;;inherit>** Senhor  ** - A palavra que é traduzida aqui como "Senhor" não é a palavra normal para "Senhor." Esta se refere a alguém que tem autoridade, e não a alguém que possui outra pessoa. Você também pode traduzir isto como "Chefe" ou com uma palavra que seja normalmente usada para tratar uma pessoa que tem autoridade, como "Senhor".</font>
   * **shelter**- "tent" or "hut"
 ===== Links: =====
 
