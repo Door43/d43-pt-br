@@ -21,13 +21,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * **the crowd welcomed him**  - This could be translated as "the crowd joyfully greeted him."
+  * <font inherit/inherit;;#B22222;;inherit>** a multidão o recebeu ** - Isto poderia ser traduzido como: "a multidão alegremente o saudou".</font>
   * **And behold, there came a man named Jairus**  - The word "behold" alerts us to Jairus as a new person in the story. Your language may have a way of doing this. English uses "There was a man who was named Jairus.”
+  * <font inherit/inherit;;#B22222;;inherit>** Então veio um homem chamado Jairo ** - A palavra "então" alerta-nos para Jairo como sendo uma nova pessoa na história". Sua língua deve ter um modo de fazer isso. Inglês usa: "Havia um homem chamado Jairo".</font>
   * **one of the leaders of the synagogue**  - "one of the leaders at the local synagogue" or "a leader of the people who met at the synagogue in that area"
+  * <font inherit/inherit;;#B22222;;inherit>** um dos líderes da sinagoga  ** - "um dos líderes da sinagoga local" ou "um líder das pessoas que se encontravam na sinagoga naquela área"</font> .
   * **he fell down at Jesus' feet**  - 1) “bowed down at Jesus feet” or 2) “lay down on the ground at Jesus feet.” Jairus did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** ele caiu aos pés de Jesus ** - 1) "se prostrou aos pés de Jesus" ou 2) "se deitou no chão aos pés de Jesus". Jairo não caiu acidentalmente. Ele fez isso como um sinal de humildade e respeito a Jesus.</font>
   * **she was dying**  - "she was about to die" or "she was near death"
+  * <font inherit/inherit;;#B22222;;inherit>** ela estava morrendo ** - "ela estava prestes a morrer" ou "ela estava perto da morte".</font>
   * **But as he was going**  - Some translators may need to first say "So Jesus agreed to go with the man." (See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** mas enquanto ele ia  ** - Alguns tradutores talvez precisem primeiro dizer: "Então Jesus concordou em ir com o homem".</font>
   * **the crowds of people were pressing against him**  - "the people were crowding tightly around Jesus"
+  * <font inherit/inherit;;#B22222;;inherit>** as multidões o estavam espremendo ** - "as pessoas estavam fortemente aglomeradas ao redor de Jesus".</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:08|Luke Chapter 08 Comprehension Questions]]**
