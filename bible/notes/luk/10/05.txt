@@ -35,16 +35,27 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
-    * (Jesus continues to give directions to the 70 people he was sending out.)
-    * **May peace be on this house** -  "May the people in this household receive peace." This was both a greeting and a blessing.
-    * **a person of peace**  - "a peaceful person." This is a person who wants peace with God and with people.
-    * **your peace will rest upon him**  - This can be translated as "he will have the peace you blessed him with."
-    * **if not**  - "if there is no person of peace there" or "if the owner of the house is not a peaceful person"
-    * **it will return to you** - "you will have that peace"
-    * **Remain in that same house** - This could be translated as "Continue to sleep at that house." Jesus was not saying that they should stay in the house all day, but that they should sleep at the same house every night they were there.
-    * **for the laborer is worthy of his wages** - This is a general principle that Jesus was applying to the men he was sending out. Since they would be teaching and healing the people, the people should provide them with a place to stay and food.
-    * **Do not go from house to house** - This means "Do not go sleep at a different house each night."
+  * (Jesus continues to give directions to the 70 people he was sending out.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a dar direções para os 70 que ele estava enviando).</font>
+  * **May peace be on this house**  - "May the people in this household receive peace." This was both a greeting and a blessing.
+  * <font inherit/inherit;;#B22222;;inherit>** Que haja paz nesta casa  ** - "Que as pessoas nesta casa recebam a paz". Isto era tanto uma saudação quanto uma bênção.</font>
+  * **a person of peace**  - "a peaceful person." This is a person who wants peace with God and with people.
+  * <font inherit/inherit;;#B22222;;inherit>** uma pessoa de paz ** - "uma pessoa pacífica". Esta é uma pessoa que quer paz com Deus e com as pessoas.</font>
+  * **your peace will rest upon him**  - This can be translated as "he will have the peace you blessed him with."
+  * <font inherit/inherit;;#B22222;;inherit>** sua paz será com ele ** - Isto pode ser traduzido como: "ele terá a paz que você o abençoou".</font>
+  * **if not**  - "if there is no person of peace there" or "if the owner of the house is not a peaceful person"
+  * <font inherit/inherit;;#B22222;;inherit>** se não  ** - "se não houver nenhuma pessoa de paz ali" ou "se o dono da casa não for uma pessoa pacífica".</font>
+  * **it will return to you**  - "you will have that peace"
+  * <font inherit/inherit;;#B22222;;inherit>** ela retornará para você ** - "você terá aquela bênção".</font>
+  * **Remain in that same house**  - This could be translated as "Continue to sleep at that house." Jesus was not saying that they should stay in the house all day, but that they should sleep at the same house every night they were there.
+  * <font inherit/inherit;;#B22222;;inherit>** Permaneça naquela mesma casa ** - Isto poderia ser traduzido como: "Continue a dormir naquela casa". Jesus não estava dizendo que eles deveriam ficar naquela casa o dia inteiro, mas que eles deveriam dormir naquela mesma casa todas as noites que eles estivessem ali.</font>
+  * **for the laborer is worthy of his wages**  - This is a general principle that Jesus was applying to the men he was sending out. Since they would be teaching and healing the people, the people should provide them with a place to stay and food.
+  * <font inherit/inherit;;#B22222;;inherit>** pois o trabalhador é digo de seu salário ** - Este é um princípio geral que Jesus estava aplicando para os homens que eles estava enviando. Já que eles estariam ensinando e curando as pessoas, estas deveriam fornecer para eles um lugar para ficar e comida.</font>
+  * **Do not go from house to house**  - This means "Do not go sleep at a different house each night."
+  * <font inherit/inherit;;#B22222;;inherit>** Não vá de casa em casa ** - Isto significa: "Não durma em casas diferentes todas as noites".</font>
+
 ===== Links: =====
 
   * **[[pt-br/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Comprehension Questions]]**
