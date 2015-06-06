@@ -30,10 +30,17 @@
 
 ===== Translation Notes: =====
 
-    * (Jesus continues to give directions to the 70 people he was sending out.)
-    * **and they receive you** - "if they welcome you"
-    * **eat what is set before you**  - "eat whatever food they give you"
-    * **The kingdom of God has come near to you**  - This refers to the fact that the activity of the kingdom of God was happening all around them in the healing of the disciples and the teaching of Jesus. It could also be translated as "you can see the kingdom of God all around you right now."
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
+  * (Jesus continues to give directions to the 70 people he was sending out.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a dar orientações para os 70 que ele estava enviando).</font>
+  * **and they receive you**  - "if they welcome you"
+  * <font inherit/inherit;;#B22222;;inherit>** e eles receberem vocês ** - "se eles derem as boas vindas a vocês".</font>
+  * **eat what is set before you**  - "eat whatever food they give you"
+  * <font inherit/inherit;;#B22222;;inherit>** comam do que eles colocarem diante de vocês ** - "comam qualquer comida que eles te derem".</font>
+  * **The kingdom of God has come near to you**  - This refers to the fact that the activity of the kingdom of God was happening all around them in the healing of the disciples and the teaching of Jesus. It could also be translated as "you can see the kingdom of God all around you right now."
+  * <font inherit/inherit;;#B22222;;inherit>** O reino de Deus está perto de vocês ** - Isto se refere ao fato de que a atividade do reino de Deus estava acontecendo por todos os lugares ao redor deles através da cura pelos discípulos e do ensino de Jesus. Isto poderia também ser traduzido como: "como vocês podem ver, o reino de Deus está por todos os lugares ao redor de vocês".</font>
+
  ===== Links: =====
 
   * **[[pt-br/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Comprehension Questions]]**
