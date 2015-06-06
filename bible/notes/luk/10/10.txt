@@ -43,15 +43,25 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
-    * (Jesus continues to give directions to the 70 people he was sending out.)
-    * **and they do not receive you** - "if they reject you"
-    * **Even the dust from your city that clings to our feet, we wipe off against you!**  - This can be translated as "Just as you rejected us, we thoroughly reject you. We even reject the dust from your city that clings to our feet." Since Jesus was sending these people out in groups of two, it would be two people saying this. So languages that have a dual form of 'we' would use it. (See: [[en:ta:vocabulary:pluralpronouns]])
-    * **But know this, that the kingdom of God had drawn near** - This phrase introduces a warning. It means "Even though you reject us, it does not change the fact that the kingdom of is here!"
-    * **the kingdom of God has drawn near**  - "the kingdom of God is all around you."
-    * **I say to you**  - Jesus was saying this to the 70 people he was sending out. He said this to show that he was about to say something very important.
-    * **the judgment day** - The phrase simply says "that day." But the disciples would have understood that this refers to the time of final judgment of sinners. (See: [[:en:ta:discourse:implicitexplicit]])
-    * **it will be more tolerable for Sodom, than for that city**  - "Sodom will not be judged as severely as that city will be judged." This means "that city will be judged more severely than Sodom."
+  * (Jesus continues to give directions to the 70 people he was sending out.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a dar orientações para os 70 que ele estava enviando).</font>
+  * **and they do not receive you**  - "if they reject you"
+  * <font inherit/inherit;;#B22222;;inherit>** e eles não receberem vocês ** - "se eles os rejeitarem".</font>
+  * **Even the dust from your city that clings to our feet, we wipe off against you!**  - This can be translated as "Just as you rejected us, we thoroughly reject you. We even reject the dust from your city that clings to our feet." Since Jesus was sending these people out in groups of two, it would be two people saying this. So languages that have a dual form of 'we' would use it. (See: [[:en:ta:vocabulary:pluralpronouns|pluralpronouns]])
+  * <font inherit/inherit;;#B22222;;inherit>** Até mesmo o pó da sua cidade que se agarra nos nossos pés, nós sacudimos contra vocês!  ** - Isto pode ser traduzido como: "Assim como vocês nos rejeitaram, nós os rejeitaremos por completo. Rejeitaremos até mesmo a poeira da sua cidade que se agarra aos nossos pés". Uma vez que Jesus estava enviando essas pessoas em grupos de dois, seriam duas pessoas dizendo isso. Línguas que possuem duas formas de 'nós' devem usá-las.</font>
+  * **But know this, that the kingdom of God had drawn near**  - This phrase introduces a warning. It means "Even though you reject us, it does not change the fact that the kingdom of is here!"
+  * <font inherit/inherit;;#B22222;;inherit>** Mas saibam disso, que o reino de Deus está próximo ** - Esta frase introduz um aviso: "A rejeição de vocês contra nós não muda o fato de que o reino de Deus está aqui!".</font>
+  * **the kingdom of God has drawn near**  - "the kingdom of God is all around you."
+  * <font inherit/inherit;;#B22222;;inherit>** o reino de Deus está próximo ** - "o reino de Deus está ao redor de vocês".</font>
+  * **I say to you**  - Jesus was saying this to the 70 people he was sending out. He said this to show that he was about to say something very important.
+  * <font inherit/inherit;;#B22222;;inherit>** Eu digo a vocês  ** - Jesus estava dizendo isso aos 70 que ele estava enviando. Ele disse isso para mostrar que ele estava prestes a dizer algo importante.</font>
+  * **the judgment day**  - The phrase simply says "that day." But the disciples would have understood that this refers to the time of final judgment of sinners. (See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** o dia do julgamento ** - A frase simplesmente diz "aquele dia". Mas os discípulos teriam entendido que isso se referia ao tempo do julgamento final dos pecadores.</font>
+  * **it will be more tolerable for Sodom, than for that city**  - "Sodom will not be judged as severely as that city will be judged." This means "that city will be judged more severely than Sodom."
+  * <font inherit/inherit;;#B22222;;inherit>** haverá mais tolerância para Sodoma do que para aquela cidade ** - "Sodoma não será julgada tão severamente quanto será aquela cidade". Isto significa: "aquela cidade será julgada mais severamente do que Sodoma".</font>
+
 ===== Links: =====
 
   * **[[pt-br/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Comprehension Questions]]**
