@@ -33,11 +33,18 @@
 ===== Translation Notes: =====
 
   * **they were all amazed at the greatness of God**  - Jesus performed the miracle, but the crowd recognized that God was the power behind the healing.
+  * <font inherit/inherit;;#B22222;;inherit>** Todos ficaram maravilhados com a grandeza de Deus ** - Jesus realizou o milagre, mas a multidão reconheceu que Deus era o poder por trás da cura.</font>
   * **which he did**  - "that Jesus did"
+  * <font inherit/inherit;;#B22222;;inherit>** o que ele fez ** - "que Jesus fez"</font>
   * **Let these words go deeply into your ears**  - This is an idiom that means "Listen carefully and remember" or "Do not forget this." (See: [[:en:ta:figuresofspeech:idiom|idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** Deixem estas palavras entrarem profundamente em seus ouvidos  ** - Esta é uma expressão idiomática que significa "Ouçam com atenção e lembrem-se" ou "Não esqueçam isto." (Veja: Expressão Idiomática)</font>
   * **the Son of Man**  - Jesus is speaking about himself in the third person. This can be translated as "I, the son of Man." (See: [[:en:ta:vocabulary:123person|123person]])
+  * <font inherit/inherit;;#B22222;;inherit>** o Filho do Homem ** - Jesus está falando sobre si mesmo na terceira pessoa. Isto pode ser traduzido como "Eu, o Filho do Homem." (Veja: 123pessoa)</font>
   * **delivered over into the hands**  - "handed over to" (UDB). This entire sentence can be translated as "Men will hand the Son of Man over to the authorities."
+  * <font inherit/inherit;;#B22222;;inherit>** entregue nas mãos ** - "entregue a" (UDB). Toda esta sentença pode ser traduzida como "Os homens vão entregar o Filho do Homem para as autoridades."</font>
   * **they did not understand**- This could be translated as "they did not know he was talking about his death."
+  * <font inherit/inherit;;#B22222;;inherit>** eles não entenderam ** - Isto pode ser traduzido como "eles não sabiam que eles estava falando sobre sua morte."</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
