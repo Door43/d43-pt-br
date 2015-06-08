@@ -28,11 +28,18 @@
 ===== Translation Notes: =====
 
   * **And Jesus answered and said**  - "And in answer Jesus said"
+  * <font inherit/inherit;;#B22222;;inherit>** E Jesus respondeu e disse ** - "E, em resposta, Jesus disse"</font>
   * **you unbelieving and corrupt generation**  - This was addressed to the crowd that had gathered, and not to the disciples.
+  * <font inherit/inherit;;#B22222;;inherit>** vocês, geração de incrédulos e perversos  ** - Isto foi dirigido à multidão que se reuniu, e não aos discípulos.</font>
   * **how long will I have to stay with you and bear with you?**  - This is a rhetorical question. Jesus did not expect and answer. The meaning is "I have done so much and still you do not believe!" (See: [[:en:ta:figuresofspeech:rhetoricalquestion|Rhetorical Question]])
+  * <font inherit/inherit;;#B22222;;inherit>** quanto tempo eu vou ter que ficar com vocês e suportá-los? ** - Está é uma Pergunta Retórica. Jesus não esperava uma resposta. o significado é "Eu tenho feito tanto e vocês ainda não acreditam!" (Veja: Pergunta Retórica)</font>
   * **Bring your son here**  - Here Jesus is speaking directly to the father who addressed him.
+  * <font inherit/inherit;;#B22222;;inherit>** Traga o seu filho aqui ** - Aqui Jesus está falando diretamente ao pai que se dirigiu a ele.</font>
   * **still coming**  - "on his way" or "on the way"
+  * <font inherit/inherit;;#B22222;;inherit>** ainda estava vindo ** - "em seu caminho" ou "a caminho"</font>
   * **rebuked**  - "spoke harshly to"
+  * <font inherit/inherit;;#B22222;;inherit>** repreendeu ** - "falou severamente com"</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
