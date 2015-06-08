@@ -31,8 +31,12 @@
 ===== Translation Notes: =====
 
   * **among them**  - "among the disciples"
+  * <font inherit/inherit;;#B22222;;inherit>** entre eles ** - "entre os discípulos"</font>
   * **reasoning in their hearts**  - "thinking about individually" or "considering in their private thoughts"
+  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** raciocinando em seus corações  ** - "pensando sobre individualmente</font> " ou "considerando em seus pensamentos particulares"
   * **the one who sent me**  - "God, who sent me" (UDB)
+  * <font 14px line-height: 15.6800003051758px;/inherit;;#B22222;;inherit>** aquele que me enviou ** - "Deus, que me enviou" (UDB)</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
