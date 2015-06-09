@@ -28,11 +28,16 @@
 ===== Translation Notes: =====
 
   * **It happened that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** Aconteceu que ** - Esta expressão é usada aqui para marcar o começo de uma nova parte na história. Se a sua língua possui uma maneira de fazer isto você pode considerar usá-la aqui.</font>
   * **the days were approaching for him to go up**  - "the time was coming for him to go up" or "it was almost time for him to go up"
+  * <font inherit/inherit;;#B22222;;inherit>** os dias estavam se aproximando para ele subir  ** - "o tempo estava chegando para ele subir" ou "era quase tempo para ele subir"</font>
   * **resolutely**  - "determinedly" or "deliberately"
+  * <font inherit/inherit;;#B22222;;inherit>** resolutamente ** - "com determinação" ou "deliberadamente"</font>
   * **set his face**  - This is an idiom meaning "made up his mind" or "decided" or "firmly resolved" (UDB). (See: [[:en:ta:figuresofspeech:idiom|idiom]])
+  * <font inherit/inherit;;#B22222;;inherit>** tinha o rosto para ** - Esta é uma expressão idiomática que significa "fez a sua mente" ou "firmemente resolveu" (UDB). (Veja: Expressão Idiomática)</font>
   * **to prepare for him**  - This means to make arrangements for his arrival in the area, possibly including a place to speak, a place to stay, and food.
   * **did not receive him**  - "did not welcome him" or "did not want him to stay"
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
