@@ -26,8 +26,12 @@
 ===== Translation Notes: =====
 
   * **Follow me**  - This could be translated as "Be my follower" or "Be my disciple and come with me."
+  * <font inherit/inherit;;#B22222;;inherit>** Me siga ** - Isto pode ser traduzido como "Seja meu seguidor" ou "Seja meu discípulo e venha comigo."</font>
   * **allow me first to go**  - This could be translated as "before I do that, let me go." This is a request from the man to Jesus.
+  * <font inherit/inherit;;#B22222;;inherit>** permita-me primeiro ir  ** - Isto pode ser traduzido como "antes que eu faça isto, deixe-me ir." Este é um pedido do homem para Jesus.</font>
   * **Leave the dead to bury their own dead**  - "Let the dead people bury their own dead people." Since people who are dead cannot bury anyone, the implied meaning here is "let the spiritually dead bury the dead people." (See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
+  * <font inherit/inherit;;#B22222;;inherit>** Deixe os mortos enterrarem seus próprios mortos ** - "Deixe as pessoas mortas enterrarem suas próprias pessoas mortas." Uma vez que pessoas que estão mortas não podem enterrar ninguém, o significado implícito aqui é "deixe os mortos espiritualmente enterrarem pessoas mortas." (Veja: Informação Implícita e Explícita)</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:09|Luke Chapter 09 Comprehension Questions]]**
