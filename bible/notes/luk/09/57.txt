@@ -34,9 +34,9 @@
   * **birds of the sky**  - "birds that fly in the air"
   * <font inherit/inherit;;#B22222;;inherit>** pássaros do céu  ** - "pássaros que voam no ar"</font>
   * **Son of Man**  - Jesus is speaking about himself in the third person. This could be translated as "I, the Son of Man." (See: [[:en:ta:vocabulary:123person|123person]])
-  * <font inherit/inherit;;#B22222;;inherit>** Filho do Homem ** - Jesus está falando sobre si mesmo na terceira pessoa. Isto pode ser traduzido como "Eu, o Filho do Homem." (Veja: 123pessoa)</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Filho do Homem  ** - Jesus está falando sobre si mesmo na terceira pessoa. Isto pode ser traduzido como "Eu, o Filho do Homem." (Veja: 123pessoa)</font>
   * **nowhere to lay his head**  - "nowhere to rest my head" or "nowhere to sleep." This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. (See: [[:en:ta:figuresofspeech:hyperbole|hyperbole]])
-  * nenhum lugar para reclinar sua cabeça - "nenhum lugar para descansar minha cabeça" ou "nenhum lugar para dormir." Esta é uma hipérbole. Jesus está exagerando a fim de transmitir
+  * <font inherit/inherit;;#B22222;;inherit>** nenhum lugar para reclinar sua cabeça  ** - "nenhum lugar para descansar minha cabeça" ou "nenhum lugar para dormir." Esta é uma hipérbole. Jesus está exagerando a fim de transmitir o fato de que ele não seria bem-vindo em qualquer lugar para viver. (Veja: hipérbole)</font>
 
 ===== Links: =====
 
