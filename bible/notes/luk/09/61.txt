@@ -27,12 +27,13 @@
 ===== Translation Notes: =====
 
   * **I will follow you **- "I will join you as a disciple" or "I am ready to follow you" or "I promise to follow you"
-  * <font inherit/inherit;;#B22222;;inherit>** Eu te seguirei  ** - "Eu vou acompanhar você  como um discípulo" ou "Eu estou pronto para te seguir" ou "Eu prometo seguir você"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Eu te seguirei  ** - "Eu vou acompanhar você como um discípulo" ou "Eu estou pronto para te seguir" ou "Eu prometo seguir você"</font>
   * **first allow me to say farewell**  - This could be translated as "before I do that, let me say goodbye" or "let me first tell them that I am leaving."
-  * <font inherit/inherit;;#B22222;;inherit>** primeiro permita-me despedir ** - Isto pode ser traduzido como "antes que eu faça isto, deixe-me dizer adeus" ou "deixe-me primeiro dizer-lhes que eu estou partindo."</font>
+  * <font inherit/inherit;;#B22222;;inherit>** primeiro permita-me despedir  ** - Isto pode ser traduzido como "antes que eu faça isto, deixe-me dizer adeus" ou "deixe-me primeiro dizer-lhes que eu estou partindo."</font>
   * **them that are at my house**  - "my household" or "the people at my home"
-  * <font inherit/inherit;;#B22222;;inherit>** os que estão em minha casa ** - "minha família" ou "as pessoas em minha casa"</font>
+  * <font inherit/inherit;;#B22222;;inherit>** os que estão em minha casa  ** - "minha família" ou "as pessoas em minha casa"</font>
   * **No one…fit for the kingdom of God**  - Jesus states this as a general principle that applies to every person. The implied meaning to the man, however is "You will not be fit for my kingdom if you focus on the people in your past instead of on following me." (See: [[:en:ta:translate:implicitexplicit|Explicit and Implicit Information]])
+  * **Ninguém...apto para o reino de Deus**  - Jesus declara isto como um princípio geral que se aplica para cada pessoa. O significado implícito para o homem
   * **having put his hand to the plow**  - "having started to plow his field." Farmers use a plow to prepare their field so they can put seeds in it. Communities that do not know about plows could translate this in a general way: "having started to prepare his field." (See: [[:en:ta:translate:translateunknowns|How to Translate Unknowns]])
   * **looking back**  - A person who is looking back while plowing cannot guide the plow where it needs to go. They must focus on looking forward in order to plow well.
   * **fit for**  - "useful for" or "suitable for"
