@@ -26,10 +26,11 @@
 ===== Translation Notes: =====
 
   * **someone**  - This was not one of the disciples.
-  * <font inherit/inherit;;#B22222;;inherit>** alguém ** - Este não era um dos discípulos.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** alguém  ** - Este não era um dos discípulos.</font>
   * **Foxes have holes…nowhere to lay his head**  - Jesus was implying that if the the man were to follow him, that man too might not have a home. The implied information can be made explicit: "So do not expect that you will have a home." (See: [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]])
-  * <font inherit/inherit;;#B22222;;inherit>** Raposas tem tocas...onde reclinar a cabeça ** - Jesus estava sugerindo que se o homem fosse segui-lo, aquele homem também poderia não ter uma casa. A informação implícita pode ficar explícita: "Então, não espere que você vá ter uma casa." (Veja: Informação Explícita e Implícita)</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Raposas tem tocas…onde reclinar a cabeça  ** - Jesus estava sugerindo que se o homem fosse segui-lo, aquele homem também poderia não ter uma casa. A informação implícita pode ficar explícita: "Então, não espere que você vá ter uma casa." (Veja: Informação Explícita e Implícita)</font>
   * **Foxes**  - These are land animals similar to small dogs. They sleep in a den or a burrow in the ground.
+  * <font inherit/inherit;;#B22222;;inherit>** Raposas ** - Estes são animais terrestres semelhantes a cães pequenos. Eles dormem em um covil ou uma toca no chão.</font>
   * **birds of the sky**  - "birds that fly in the air"
   * **Son of Man**  - Jesus is speaking about himself in the third person. This could be translated as "I, the Son of Man." (See: [[:en:ta:vocabulary:123person|123person]])
   * **nowhere to lay his head**  - "nowhere to rest my head" or "nowhere to sleep." This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. (See: [[:en:ta:figuresofspeech:hyperbole|hyperbole]])
