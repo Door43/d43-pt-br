@@ -29,8 +29,12 @@
 ===== Translation Notes: =====
 
   * **Jesus said to them**  - "Jesus said to his disciples"
+  * <font inherit/inherit;;#B22222;;inherit>** Jesus disse a ele ** - "Jesus disse aos seus discípulos"</font>
   * **sanctify your name**  - It can be translated as "may all people honor you" or "cause everyone to honor your name." It means "we want everyone to honor you."
+  * <font inherit/inherit;;#B22222;;inherit>** santifique seu nome ** - Isto pode ser traduzido como "que todas as pessoas honrem você" ou "leve todos a honrar seu nome." Isto significa "nós queremos que todos honrem a você."</font>
   * **Let your kingdom come**  - "Establish your kingdom." It means "We want you to rule over your people."
+  *
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
