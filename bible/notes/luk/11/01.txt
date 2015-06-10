@@ -28,7 +28,10 @@
 ===== Translation Notes: =====
 
   * **it happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * <font inherit/inherit;;#B22222;;inherit>** aconteceu ** - Esta expressão é usada aqui para marcar o começo de uma nova parte na história. Se a sua língua possui uma maneira de fazer isto você pode considerar usá-la aqui.</font>
   * **when he finished praying**  - In some languages it is more natural to use Jesus' name rather than the pronoun "he." It may also be more natural to state that Jesus was praying before saying "when he finished praying." (See UDB)
+  * <font inherit/inherit;;#B22222;;inherit>** quando ele terminou de orar  ** - Em algumas línguas é mais natural usar o nome de Jesus, em vez do pronome "ele". Também pode ser mais natural declarar que Jesus estava orando, antes de dizer "quando ele terminou de orar." (Veja UDB)</font>
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
