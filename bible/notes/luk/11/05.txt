@@ -25,8 +25,11 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to teach his disciples about prayer.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar seus discípulos como orar.)</font>
   * **Which of you will have**  - This can be translated as "Suppose one of you has" or "Suppose you have." Jesus used rhetorical questions to get people to consider what might happen if they were in a certain situation. (See: [[:en:ta:figuresofspeech:rhetoricalquestion|rhetoricalquestion]])
+  * <font inherit/inherit;;#B22222;;inherit>** Qual de vocês vai ter  ** - Isto pode ser traduzido como "Suponha que um de vocês tem" ou "Suponha que você tenha." Jesus usou perguntas retóricas para levar as pessoas  considerarem o que poderia acontecer se eles estivessem em certa situação. (Veja: Pergunta Retórica)</font>
   * **lend to me three loaves of bread**  - "let me borrow three loaves of bread" or "give me three loaves of bread and I will pay you later." The host does not have any food ready to give to his guest.
+  * <font inherit/inherit;;#B22222;;inherit>** me empreste três pães ** - "deixe-me pedir emprestado três pães" ou "me dê três pães e eu vou te pagarei mais tarde."  O anfitrião não tem nenhum alimento pronto para dar ao seu convidado.</font>
   * **three loaves of bread**  - If your people would wonder why someone would ask for bread, you could use a generic term like "cooked food" or "prepared food."
   * **just came in from the road**  - This can be translated as "was traveling and just came to my house."
   * **anything to set before him**  - "any food ready to give him"
