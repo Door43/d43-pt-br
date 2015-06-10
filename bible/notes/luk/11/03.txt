@@ -32,11 +32,15 @@
   * (Jesus continues to teach his disciples how to pray)
   * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar seus discípulos como orar)</font>
   * **our daily bread**  - This can be translated as "the food we need each day." Bread was in inexpensive food that people ate everyday. It is used here to refer to food in general.
-  *
+  * <font inherit/inherit;;#B22222;;inherit>** nosso pão de cada dia ** - Isto pode ser traduzido como "o alimento que precisamos a cada dia." O pão era uma comida barata que as pessoas comiam todos os dias. Ele é usado aqui para se referir aos alimentos em geral.</font>
   * **forgive us our sins**  - "Forgive us for sinning against you" or "Forgive our sins"
+  * <font inherit/inherit;;#B22222;;inherit>** perdoa-no os nossos pecados ** - "Perdoa-nos por pecarmos contra você" ou "Perdoa o nossos pecados"</font>
   * **for we ourselves forgive**  - "since we also forgive"
+  * <font inherit/inherit;;#B22222;;inherit>** pois nós mesmos perdoamos ** - "já que nós também perdoamos"</font>
   * **who is in debt to us**  - "who have sinned against us" or "who have done wrong things to us"
+  * <font inherit/inherit;;#B22222;;inherit>** quem está em débito conosco  ** - "que têm pecado contra nós" ou "que têm feito coisas erradas a nós"</font>
   * **Do not lead us into temptation**  - This is a figure of speech that means "Lead us away from temptation." (See: [[:en:ta:figuresofspeech:litotes|litotes]])
+  * <font inherit/inherit;;#B22222;;inherit>** Não nos leve à tentação  ** - Esta é uma figura de linguagem que significa "Leve-nos para longe da tentação." (Veja: lítotes)</font>
 
 ===== Links: =====
 
