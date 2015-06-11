@@ -27,16 +27,23 @@
   * (Jesus continues to teach his disciples about prayer.)
   * <font inherit/inherit;;#B22222;;inherit>(Jesus continua a ensinar seus discípulos como orar.)</font>
   * **Which of you will have**  - This can be translated as "Suppose one of you has" or "Suppose you have." Jesus used rhetorical questions to get people to consider what might happen if they were in a certain situation. (See: [[:en:ta:figuresofspeech:rhetoricalquestion|rhetoricalquestion]])
-  * <font inherit/inherit;;#B22222;;inherit>** Qual de vocês vai ter  ** - Isto pode ser traduzido como "Suponha que um de vocês tem" ou "Suponha que você tenha." Jesus usou perguntas retóricas para levar as pessoas  considerarem o que poderia acontecer se eles estivessem em certa situação. (Veja: Pergunta Retórica)</font>
+  * <font inherit/inherit;;#B22222;;inherit>** Qual de vocês vai ter  ** - Isto pode ser traduzido como "Suponha que um de vocês tem" ou "Suponha que você tenha." Jesus usou perguntas retóricas para levar as pessoas considerarem o que poderia acontecer se eles estivessem em certa situação. (Veja: Pergunta Retórica)</font>
   * **lend to me three loaves of bread**  - "let me borrow three loaves of bread" or "give me three loaves of bread and I will pay you later." The host does not have any food ready to give to his guest.
-  * <font inherit/inherit;;#B22222;;inherit>** me empreste três pães ** - "deixe-me pedir emprestado três pães" ou "me dê três pães e eu vou te pagarei mais tarde."  O anfitrião não tem nenhum alimento pronto para dar ao seu convidado.</font>
+  * <font inherit/inherit;;#B22222;;inherit>** me empreste três pães  ** - "deixe-me pedir emprestado três pães" ou "me dê três pães e eu vou te pagarei mais tarde." O anfitrião não tem nenhum alimento pronto para dar ao seu convidado.co</font>
   * **three loaves of bread**  - If your people would wonder why someone would ask for bread, you could use a generic term like "cooked food" or "prepared food."
+  * <font inherit/inherit;;#B22222;;inherit>** três pães ** - Se o seu povo se perguntaria porque alguém pediria pão, você pode considerar usar um termo genérico como "comida feita" ou "comida preparada."</font>
   * **just came in from the road**  - This can be translated as "was traveling and just came to my house."
+  * <font inherit/inherit;;#B22222;;inherit>** apenas veio da estrada ** - Isto pode ser traduzido como "estava viajando e apenas veio a minha casa."</font>
   * **anything to set before him**  - "any food ready to give him"
+  * <font inherit/inherit;;#B22222;;inherit>** nada pra lhe oferecer  ** - "qualquer comida pronta pra lhe dar"</font>
   * **I am not able to get up**  - "It is not convenient for me to get up"
+  * <font inherit/inherit;;#B22222;;inherit>** Eu não sou capaz de me levantar ** - "Não é conveniente para mim me levantar"</font>
   * **I say to you**  - Jesus was speaking to the disciples, so the word "you" is plural. (See: [[:en:ta:vocabulary:formsofyou|formsofyou]])
+  * <font inherit/inherit;;#B22222;;inherit>** Eu digo a vocês ** - Jesus estava falando aos discípulos, então a palavra "você" deve estar no plural. (Veja: formas de você)</font>
   * **give bread to you because you are his friend**  - Jesus addresses the disciples as if they were the ones asking for bread. If this would confuse you audience, this could be translated as "give bread to him because he is his friend."
+  *
   * **shameless persistence**  - This refers to the fact that the person asking for bread ignores the fact that is is inconvenient for his friend to get up in the middle of the night to get the bread for him.
+
 ===== Links: =====
 
   * **[[:pt-br:bible:notes:luk:questions:comprehension:11|Luke Chapter 11 Comprehension Questions]]**
