@@ -37,14 +37,23 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
-    * (Jesus begins to speak directly to his Father in the presence of the disciples.)
-    * **Lord of heaven and earth**  - "Master over everyone and everything in heaven and earth"
-    * **these things** - This refers to Jesus' previous teaching about the authority of the disciples. It may be best to simply say "these things" and let the reader determine the meaning.
-    * **the wise and understanding**  - "from people who are wise and understanding." This can be translated as "from people who think they are wise and understanding." (See: [[en:ta:translate:irony]])
-    * **untaught, like little children**  - The term in the Greek refers to a very young child. Possible meanings are 1) "untaught" (ULB) or 2) "who accept your truth readily" (UDB). 
-    * **like little children** - This is a simile for people who are not wise and knowledgable, or people who know that they are not wise and knowledgable. (See: [[en:ta:translate:simile]])
-    * **for so it was well-pleasing in your sight**  - "for you saw that it was good to do that" 
+  * (Jesus begins to speak directly to his Father in the presence of the disciples.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus começa a falar diretamente com seu Pai na presença dos seus discípulos).</font>
+  * **Lord of heaven and earth**  - "Master over everyone and everything in heaven and earth"
+  * <font inherit/inherit;;#B22222;;inherit>** Senhor do céu e da terra ** - "Senhor de todos e de tudo no céu e na terra".</font>
+  * **these things**  - This refers to Jesus' previous teaching about the authority of the disciples. It may be best to simply say "these things" and let the reader determine the meaning.
+  * <font inherit/inherit;;#B22222;;inherit>** estas coisas ** - Isto se refere ao ensino anterior de Jesus sobre a autoridade dos discípulos. Talvez seja melhor apenas dizer: "estas coisas" e deixar que o leitor identifique o significado.</font>
+  * **the wise and understanding**  - "from people who are wise and understanding." This can be translated as "from people who think they are wise and understanding." (See: [[:en:ta:translate:irony|Irony]])
+  * <font inherit/inherit;;#B22222;;inherit>** os sábios e entendidos ** - "das pessoas que são sábias e entendidas". Isto pode ser traduzido como: "das pessoas que pensam ser sábias e entendidas".</font>
+  * **untaught, like little children**  - The term in the Greek refers to a very young child. Possible meanings are 1) "untaught" (ULB) or 2) "who accept your truth readily" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** iletradas, como as crianças  ** - O termo no grego se refere a uma criança muito jovem. Possíveis significados: 1) "iletrados" (ULB) ou 2) "que prontamente aceitam sua verdade" (UDB).</font>
+  * **like little children**  - This is a simile for people who are not wise and knowledgable, or people who know that they are not wise and knowledgable. (See: [[:en:ta:translate:simile|Simile]])
+  * <font inherit/inherit;;#B22222;;inherit>** como criancinhas  ** - Esta é uma símile para pessoas que não são sábias e inteligentes, ou pessoas que sabem que não são sábias e inteligentes.</font>
+  * **for so it was well-pleasing in your sight**  - "for you saw that it was good to do that"
+  * <font inherit/inherit;;#B22222;;inherit>** pois isto te foi agradável à vista  ** - "pois você viu que era bom fazer aquilo".</font>
+
 ===== Links: =====
 
   * **[[pt-br/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Comprehension Questions]]**
