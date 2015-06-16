@@ -35,12 +35,19 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
 
-    * (Jesus finishes teaching the 70 people he was sending out.)
-    * **The one who listens to you listens to me** - This can be translated as "When someone listens to you, it is as if they are listening to me."
-    * **the one who rejects you rejects me** - This can be translated as "When someone rejects you, it is as if they are rejecting me."
-    * **the one who rejects me rejects the on who sent me** -This can be translated as "When someone rejects me, it is as if they are rejecting the one who sent me."
-    * **the one who sent me** - This refers to God the Father. It could be translated as "God, who sent me" (UDB).
+  * (Jesus finishes teaching the 70 people he was sending out.)
+  * <font inherit/inherit;;#B22222;;inherit>(Jesus termina de ensinar os 70 discípulos que ele estava enviando).</font>
+  * **The one who listens to you listens to me**  - This can be translated as "When someone listens to you, it is as if they are listening to me."
+  * <font inherit/inherit;;#B22222;;inherit>** Aquele que ouve vocês ouve a mim ** - Isto pode ser traduzido como: "Quando alguém ouvir vocês, será como se estivesse ouvindo a mim".</font>
+  * **the one who rejects you rejects me**  - This can be translated as "When someone rejects you, it is as if they are rejecting me."
+  * <font inherit/inherit;;#B22222;;inherit>** aquele que rejeita a vocês rejeita a mim ** - Isto pode ser traduzido como: "Quando alguém rejeitar vocês, será como se estivesse rejeitando a mim".</font>
+  * **the one who rejects me rejects the on who sent me**  -This can be translated as "When someone rejects me, it is as if they are rejecting the one who sent me."
+  * <font inherit/inherit;;#B22222;;inherit>** aquele que me rejeita, rejeita aquele que me enviou  ** - Isto pode ser traduzido como: "Quando alguém me rejeitar, será como se estivesse rejeitando aquele que me enviou".</font>
+  * **the one who sent me**  - This refers to God the Father. It could be translated as "God, who sent me" (UDB).
+  * <font inherit/inherit;;#B22222;;inherit>** aquele que me enviou ** - Isto se refere a Deus Pai. Isto poderia ser traduzico como: "Deus, que me enviou" (UDB).</font>
+
 ===== Links: =====
 
   * **[[pt-br/bible/notes:luk/questions/comprehension/10|Luke Chapter 10 Comprehension Questions]]**
