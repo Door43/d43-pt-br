@@ -50,16 +50,28 @@
 
 ===== Translation Notes: =====
 
+<font inherit/inherit;;#B22222;;inherit>Informações úteis para a tradução:</font>
+
   * (After some time passes, the seventy disciples return to where Jesus was.)
+  * <font inherit/inherit;;#B22222;;inherit>(Depois de passar algum tempo, os setenta discípulos retornam para onde Jesus estava).</font>
   * **seventy**  - You may want to add a footnote: "Some versions have '72' instead of '70.'"
-  * **The seventy returned**  - Some languages will need to say that the seventy actually went out first as the UDB does. This is implicit information that can be made explicit. (See [[:en:ta:discourse:implicitexplicit]].)
+  * <font inherit/inherit;;#B22222;;inherit>** setenta  ** - Você pode querer adicionar uma nota de rodapé: "Algumas versões têm '72' ao invés de '70'".</font>
+  * **The seventy returned**  - Some languages will need to say that the seventy actually went out first as the UDB does. This is implicit information that can be made explicit. (See [[:en:ta:discourse:implicitexplicit|Explicit and Implicit Information]].)
+  * <font inherit/inherit;;#B22222;;inherit>** Os setenta retornaram ** - Algumas línguas precisarão dizer que na verdade eles primeiro foram, como a versão UDB faz. Esta é informação implícita que pode ser feita explícita.</font>
   * **I was watching Satan fall from heaven as lightening**  - Jesus used a simile to describe how God was defeating Satan when his 70 disciples were preaching in the towns.
+  * <font inherit/inherit;;#B22222;;inherit>** Eu estava assistindo Satanás cair do céu como um relâmpago ** - Jesus usou esta símile para descrever como Deus estaria derrotando Satanás quando os seus 70 discípulos estivessem pregando nas cidades.</font>
   * **Behold, I have given you authority**  - The word "Behold" alerts us to the fact that Jesus is giving new authority to the disciples in the story. Your language may have a way of doing this. English uses "And now I am giving you the authority…”
-  * **authority to tread on serpents and scorpions**  - "authority to step on snakes and crush scorpions." Possible meanings are 1) this refers to actual snakes and scorpions or 2) snakes and scorpions are a metaphor for evil spirits. The UDB translates this as referring to evil spirits: "I have given you the right to attack evil spirits." (See: [[:en:ta:figuresofspeech:metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** Vejam, eu tenho dado a vocês autoridade ** - A palavra "vejam" nos alerta para o fato de Jesus estar dando nova autoridade aos discípulos na história. Sua língua deve ter uma maneira de fazer isso. Inglês usa: "E agora eu estou dando a vocês autoridade...".</font>
+  * **authority to tread on serpents and scorpions**  - "authority to step on snakes and crush scorpions." Possible meanings are 1) this refers to actual snakes and scorpions or 2) snakes and scorpions are a metaphor for evil spirits. The UDB translates this as referring to evil spirits: "I have given you the right to attack evil spirits." (See: [[:en:ta:figuresofspeech:metaphor|metaphor]])
+  * <font inherit/inherit;;#B22222;;inherit>** autoridade para pisar em serpentes e escorpiões ** - "autoridade para pisar em cobras e esmagar escorpiões". Possíveis significados: 1) Isto se refere a de fato à cobras e escorpiões, ou 2) cobras e escorpiões são uma metáfora para espíritos malignos. A UDB traduz como se referindo a espíritos malignos: "Eu tenho dado a vocês o direito de atacar espíritos malignos".</font>
   * **tread on serpents and scorpions**  - This implies that they would do this and not be injured. You can make this explicit: "walk on snakes and scorpions and not be hurt."
+  * <font inherit/inherit;;#B22222;;inherit>** pisar em serpentes e escorpiões ** - Isto implica que eles fariam isso e não seriam feridos. Você pode tornar isso explícito: "andar sobre cobras e escorpiões e não ser ferido".</font>
   * **over all the power of the enemy**  - "I have given you authority to crush the power of the enemy" or "I have given you authority to defeat the enemy." The enemy is Satan.
+  * <font inherit/inherit;;#B22222;;inherit>** sobre todo o poder do inimigo ** - "eu tenho dado autoridade a vocês para esmagar o poder do inimigo" ou "eu tenho dado a vocês autoridade para derrotar o inimigo". O inimigo é Satanás.</font>
   * **rejoice in this**  - The words "in this" refer to the following phrase "that the spirits submit to you."
+  * <font inherit/inherit;;#B22222;;inherit>** rejubilem-se nisso ** - A palavra "nisso" se refere à seguinte frase: "que os espíritos se submetem a vocês".</font>
   * **your names are engraved in heaven**  - This can be translated as an active verb "God has written your names in heaven" or "your names are on the list of people who are citizens of heaven."
+  * <font inherit/inherit;;#B22222;;inherit>** os seus nomes estão gravados no céu ** - Isto pode ser traduzido com um verbo ativo: "Deus escreveu seus nomes no céu" ou "seus nomes estão na lista de pessoas que são cidadões do céu".</font>
 
 ===== Links: =====
 
