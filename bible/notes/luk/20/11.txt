@@ -12,8 +12,10 @@
 
 <usfm> \v 11 He then sent yet another servant and they also beat him, treated him shamefully, and sent him away empty-handed. \v 12 He also sent yet a third and they also wounded him, and threw him out. </usfm>
 
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>11 Depois enviou mais um servo e também espancaram, humilharam, e mandaram de volta com as mãos vazias. 12 Ele ainda enviou outro, o terceiro, e machucaram ele, e lançaram-no fora.</font>
+===== Target ULB: =====
+11 Depois enviou mais um servo e também espancaram, humilharam, e mandaram de volta com as mãos vazias. 12 Ele ainda enviou outro, o terceiro, e machucaram ele, e lançaram-no fora. 
 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:servant|servant]]
