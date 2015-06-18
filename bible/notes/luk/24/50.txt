@@ -21,10 +21,7 @@
 <usfm> \p \v 50 Then Jesus led them out until they were near Bethany. He lifted up his hands, and blessed them. \v 51 It happened that, while he was blessing them, he left them and was carried up into heaven. </usfm>
 
 ===== Target ULB: =====
-
-**50** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Então Jesus os conduziu para fora até que eles estavam perto de Betânia. Ele ergueu as mãos e os abençoou.</font> **51** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Aconteceu que, enquanto ele estava abençoando-os, ele os deixou e foi tomado ao céu.</font>
-
-----
+50 Então Jesus os conduziu para fora até que eles estavam perto de Betânia. Ele ergueu as mãos e os abençoou. 51 Aconteceu que, enquanto ele estava abençoando-os, ele os deixou e foi tomado ao céu. ----
 
 ===== Important Terms: =====
 
