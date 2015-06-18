@@ -16,9 +16,7 @@
 
 ===== Target ULB: =====
 
-**24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando um espírito maligno deixa um homem, ele passa por caminhos áridos e procura descanso. Não encontrando nenhum, ele diz: 'Eu retornarei para a minha casa de onde eu vim'.</font> **25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando ele retorna, a encontra varrida e em ordem.</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então ele vai e leva consigo outros sete espíritos piores que ele para ali viverem. Então, a condição final daquele homem se torna pior que a primeira.”</font>
-
-----
+24 Quando um espírito maligno deixa um homem, ele passa por caminhos áridos e procura descanso. Não encontrando nenhum, ele diz: 'Eu retornarei para a minha casa de onde eu vim'. 25 Quando ele retorna, a encontra varrida e em ordem. 26 Então ele vai e leva consigo outros sete espíritos piores que ele para ali viverem. Então, a condição final daquele homem se torna pior que a primeira.” ----
 
 ===== Important Terms: =====
 
