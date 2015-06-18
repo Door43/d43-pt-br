@@ -12,7 +12,10 @@
 
 <usfm> \p \v 49 I came to cast fire upon the earth, and how I wish that it was already kindled. \v 50 But I have a baptism to be baptized with, and how I am distressed until it is completed! </usfm>
 
-**49** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu vim para pôr fogo na terra e eu queria que ele já estivesse ardendo.</font> **50** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas eu preciso ser consumido com sofrimento assim como uma pessoa é coberta com água quando é batizada. Eu estou profundamente angustiado e sei que permanecerei assim até que esse sofrimento seja completado.</font>
+===== Target ULB: =====
+49 Eu vim para pôr fogo na terra e eu queria que ele já estivesse ardendo. 50 Mas eu preciso ser consumido com sofrimento assim como uma pessoa é coberta com água quando é batizada. Eu estou profundamente angustiado e sei que permanecerei assim até que esse sofrimento seja completado. 
+
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:baptize|baptism]]
