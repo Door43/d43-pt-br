@@ -12,7 +12,10 @@
 
 <usfm> \v 20 And another came, saying, 'Lord, here is your mina, which I kept safely in a cloth, \v 21 for I was afraid of you, because you are a severe man. You take up that which you did not lay down, and reap that which you did not sow.' </usfm>
 
-**20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E veio outro, dizendo: Senhor, aqui está seu dinheiro, que eu mantive com segurança em um lenço.</font> **21** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eu estava com medo de você, pois sei que és um homem severo, que toma o que não é seu, e colhe aquilo que não semeou'.</font>
+===== Target ULB: =====
+20 E veio outro, dizendo: Senhor, aqui está seu dinheiro, que eu mantive com segurança em um lenço. 21 Eu estava com medo de você, pois sei que és um homem severo, que toma o que não é seu, e colhe aquilo que não semeou'. 
+
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|lord]]
