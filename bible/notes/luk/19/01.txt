@@ -11,9 +11,10 @@
 ===== ULB: =====
 
 <usfm> \c 19 \p \v 1 Jesus entered and was passing through Jericho. \v 2 Behold, there was a man there named Zacchaeus. He was a chief tax collector and was rich. </usfm>
+===== Target ULB: =====
 
-**1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus entrou e passando por Jericó.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>e ali havia um homem chamado Zaqueu. Ele era chefe dos coletores de impostos e rico</font>
-
+1 Jesus entrou e passando por Jericó. 2 e ali havia um homem chamado Zaqueu. Ele era chefe dos coletores de impostos e rico 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
