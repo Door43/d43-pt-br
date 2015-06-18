@@ -15,9 +15,9 @@
 ===== ULB: =====
 
 <usfm> \v 25 He said to them, "Then give to Caesar the things that are Caesar’s, and to God, the things that are God’s." \v 26 The scribes and chief priests were not able to criticize what he had said in front of the people. They marveled at his answer and they said nothing. </usfm>
-
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>25 Ele disse: “Então dê a César as coisas que são de César, e a Deus, aquilo que é de Deus.” 26 Os escribas e sumo sacerdotes não tinham como discutir o que ele disse na frente de todos. Eles se maravilharam com a resposta dele e não disseram nada.</font>
-
+===== Target ULB: =====
+25 Ele disse: “Então dê a César as coisas que são de César, e a Deus, aquilo que é de Deus.” 26 Os escribas e sumo sacerdotes não tinham como discutir o que ele disse na frente de todos. Eles se maravilharam com a resposta dele e não disseram nada. 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:caesar|Caesar]]
