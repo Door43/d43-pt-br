@@ -24,8 +24,7 @@
 
 ===== Target ULB: =====
 
-**54** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Era o Dia da Preparação e o Sabá amanhecia.</font> **55** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>As mulheres, que tinham vindo com ele da Galiléia, seguiram também, viram o sepulcro e como o corpo foi ali colocado.</font> **56** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Elas voltaram, e prepararam especiarias e unguentos. No sábado repousaram conforme o mandamento.</font>
-
+54 Era o Dia da Preparação e o Sabá amanhecia. 55 As mulheres, que tinham vindo com ele da Galiléia, seguiram também, viram o sepulcro e como o corpo foi ali colocado. 56 Elas voltaram, e prepararam especiarias e unguentos. No sábado repousaram conforme o mandamento. 
 ----
 
 ===== Important Terms: =====
