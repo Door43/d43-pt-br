@@ -26,8 +26,7 @@
 
 ===== Target ULB: =====
 
-**42** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E acrescentou: “Jesus, lembra de mim, quando você entrar no seu reino.”</font> **43** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Disse-lhe Jesus: “Em verdade lhe digo, ainda hoje você estará comigo no Paraíso.”</font>
-
+42 E acrescentou: “Jesus, lembra de mim, quando você entrar no seu reino.” 43 Disse-lhe Jesus: “Em verdade lhe digo, ainda hoje você estará comigo no Paraíso.” 
 ----
 
 ===== Important Terms: =====
