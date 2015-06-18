@@ -13,8 +13,11 @@
 ===== ULB: =====
 
 <usfm> \p \v 26 They arrived at the region of the Gerasenes, which is opposite Galilee. \v 27 When Jesus stepped out on the land, a certain man from the city met him, and this man had demons. For a long time he had worn no clothes, and did not live in a house, but rather in the tombs. </usfm>
+===== Target ULB: =====
 
-**26** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E eles navegaram para a região dos gerasenos, que fica no outro lado do lago da Galileia.</font> **27** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando Jesus pisou em terra, um certo homem da cidade foi ao encontro dele, e este homem tinha demônios. Há muito tempo ele não vestia roupas e não vivia em casa, mas sim nos túmulos.</font>
+26 E eles navegaram para a região dos gerasenos, que fica no outro lado do lago da Galileia. 27 Quando Jesus pisou em terra, um certo homem da cidade foi ao encontro dele, e este homem tinha demônios. Há muito tempo ele não vestia roupas e não vivia em casa, mas sim nos túmulos. 
+-----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:galilee|Galilee]]
