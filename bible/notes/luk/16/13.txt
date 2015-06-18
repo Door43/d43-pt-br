@@ -21,6 +21,7 @@
 ===== Target ULB: =====
 
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|master]]
