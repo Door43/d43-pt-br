@@ -20,8 +20,7 @@
 
 ===== Target ULB: =====
 
-**44** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Ele disse-lhes: “Quando eu estava com vocês, eu lhes disse que tudo o que foi escrito na lei de Moisés, nos Profetas e nos Salmos tinha que ser cumprido”.</font>
-
+44 Ele disse-lhes: “Quando eu estava com vocês, eu lhes disse que tudo o que foi escrito na lei de Moisés, nos Profetas e nos Salmos tinha que ser cumprido”. 
 ----
 
 ===== Important Terms: =====
