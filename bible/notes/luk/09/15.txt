@@ -18,8 +18,7 @@
 
 ===== Target ULB: =====
 
-**15** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então eles fizeram isto, e todas as pessoas se sentaram.</font> **16** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ele pegou os cinco pães e os dois peixes, e olhando para o céu os abençoou e partiu em pedaços e entregou aos discípulos para que eles distribuíssem à multidão.</font> **17** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Todos comeram e ficaram satisfeitos, e encheram doze cestos com a comida que sobrou.</font>
-
+15 Então eles fizeram isto, e todas as pessoas se sentaram. 16 Ele pegou os cinco pães e os dois peixes, e olhando para o céu os abençoou e partiu em pedaços e entregou aos discípulos para que eles distribuíssem à multidão. 17 Todos comeram e ficaram satisfeitos, e encheram doze cestos com a comida que sobrou. 
 ----
 
 ===== Important Terms: =====
