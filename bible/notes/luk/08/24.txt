@@ -15,8 +15,11 @@
 ===== ULB: =====
 
 <usfm> \v 24 Then Jesus' disciples came over to him and woke him up, saying, "Master, master, we are about to die!" He awoke, and rebuked the wind and the raging of the water and they ceased, and there was a calm. \v 25 Then he said to them, "Where is your faith?" Being afraid, they were very amazed, saying one to another, "Who then is this, that he commands even the winds and the water, and they obey him?" </usfm>
+=====Target ULB: =====
 
-**24** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Os discípulos de Jesus foram até ele o acordaram dizendo: “Mestre, Mestre, estamos prestes à morrer!” Ele acordou, repreendeu a tempestade e a fúria das águas e elas cessaram, e houve calmaria.</font> **25** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então ele disse a eles: “Onde está a fé de vocês?” Com temor e muito admirados, eles diziam uns aos outros, “Quem é este, que comanda os ventos e as águas, e eles o obedecem?”</font>
+24 Os discípulos de Jesus foram até ele o acordaram dizendo: “Mestre, Mestre, estamos prestes à morrer!” Ele acordou, repreendeu a tempestade e a fúria das águas e elas cessaram, e houve calmaria. 25 Então ele disse a eles: “Onde está a fé de vocês?” Com temor e muito admirados, eles diziam uns aos outros, “Quem é este, que comanda os ventos e as águas, e eles o obedecem?” 
+
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
