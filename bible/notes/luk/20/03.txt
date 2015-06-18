@@ -12,8 +12,10 @@
 
 <usfm> \v 3 He answered and said to them, "I also will ask you a question. Tell me about \v 4 the baptism of John. Was it from heaven or from men?" </usfm>
 
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>3 Ele respondeu para eles,”Vou fazer uma pergunta a vocês. Me diz sobre 4 o batismo de João. Veio do céu ou dos homens?”</font>
+===== Target ULB: =====
+3 Ele respondeu para eles,”Vou fazer uma pergunta a vocês. Me diz sobre 4 o batismo de João. Veio do céu ou dos homens?” 
 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:johnthebaptist|John the Baptist]]
