@@ -24,8 +24,7 @@
 
 ===== Target ULB: =====
 
-**39** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Um dos criminosos que foi crucificado, insultou dizendo: “Se você e o Cristo, salve a você mesmo e a nós também.”</font> **40** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas o outro respondeu, censurando-o disse: “Nem sequer temes a Deus, você que esta na mesma condenação?</font> **41** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Nós, na verdade com justiça, recebemos o que merecemos por nossos atos. Mas este homem não cometeu nenhum mal. ”</font>
-
+39 Um dos criminosos que foi crucificado, insultou dizendo: “Se você e o Cristo, salve a você mesmo e a nós também.” 40 Mas o outro respondeu, censurando-o disse: “Nem sequer temes a Deus, você que esta na mesma condenação? 41 Nós, na verdade com justiça, recebemos o que merecemos por nossos atos. Mas este homem não cometeu nenhum mal. ” 
 ----
 
 ===== Important Terms: =====
