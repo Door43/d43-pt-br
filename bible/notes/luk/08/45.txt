@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 45 Jesus said, "Who is it that touched me?" When all denied it, Peter said, "Master, the crowds of people are pressing in on you and crowding you." \v 46 But Jesus said, "Someone did touch me, for I knew that power was going out from me." </usfm>
-
-**45** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Jesus disse: “Quem me tocou?” Quando todos negaram, Pedro disse: “Mestre, as multidões de pessoas estão espremendo e apertando você.”</font> **46** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas Jesus disse: “Alguém me tocou, pois eu senti poder de cura saindo de mim.”</font>
+===== Target ULB: =====
+45 Jesus disse: “Quem me tocou?” Quando todos negaram, Pedro disse: “Mestre, as multidões de pessoas estão espremendo e apertando você.” 46 Mas Jesus disse: “Alguém me tocou, pois eu senti poder de cura saindo de mim.” 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
