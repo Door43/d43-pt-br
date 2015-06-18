@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**8** <font inherit/Lato, sans-serif;;inherit;;inherit>Eu digo a você que todo aquele que me confessar diante dos homens, o Filho do homem também o confessará diante dos anjos de Deus,</font>    **9** <font inherit/Lato, sans-serif;;inherit;;inherit>mas aquele que me negar diante dos homens, será negado diante dos anjos de Deus.</font>    **10** <font inherit/Lato, sans-serif;;inherit;;inherit>Aquele que falar uma palavra contra o Filho do homem, isso lhe será perdoado, mas aquele que blasfemar contra o Espírito Santo, isso não lhe será perdoado.</font>
-
+8 Eu digo a você que todo aquele que me confessar diante dos homens, o Filho do homem também o confessará diante dos anjos de Deus, 9 mas aquele que me negar diante dos homens, será negado diante dos anjos de Deus. 10 Aquele que falar uma palavra contra o Filho do homem, isso lhe será perdoado, mas aquele que blasfemar contra o Espírito Santo, isso não lhe será perdoado. 
 ----
 
 ===== Important Terms: =====
