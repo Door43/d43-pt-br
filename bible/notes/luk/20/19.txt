@@ -11,9 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 19 So the scribes and the chief priests sought to lay hands on him in that very hour, for they knew that he had spoken this parable against them. But they were afraid of the people. \v 20 Watching him carefully, they sent out spies who pretended to be righteous, that they might find fault with his speech, so as to deliver him up to the rule and to the authority of the governor. </usfm>
-
-**19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Na mesma hora os escribas e os chefes dos sacerdotes procuraram uma maneira de prender Jesus, por que sabiam que a parábola que ele contou era contra eles. Porém tinham medo do povo.</font> **20** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Observando Jesus cuidadosamente, eles enviaram espiões, que fingiram ser justos, para acharem em suas palavras alguma falha, e assim o entregarem à autoridade do governador.</font>
-
+===== Target ULB: =====
+19 Na mesma hora os escribas e os chefes dos sacerdotes procuraram uma maneira de prender Jesus, por que sabiam que a parábola que ele contou era contra eles. Porém tinham medo do povo. 20 Observando Jesus cuidadosamente, eles enviaram espiões, que fingiram ser justos, para acharem em suas palavras alguma falha, e assim o entregarem à autoridade do governador. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:scribe|scribes]]
