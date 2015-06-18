@@ -18,8 +18,7 @@
 
 ===== Target ULB: =====
 
-**10** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando os doze apóstolos enviados por Jesus retornaram eles contaram para ele tudo que haviam feito. Então Jesus os levou consigo para uma cidade chamada Betsaida,</font> **11** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>mas as multidões ouviram sobre isto e o seguiram. Ele acolheu a todos, falou sobre o reino de Deus e curou os que necessitavam ser curados.</font>
-
+10 Quando os doze apóstolos enviados por Jesus retornaram eles contaram para ele tudo que haviam feito. Então Jesus os levou consigo para uma cidade chamada Betsaida, 11 mas as multidões ouviram sobre isto e o seguiram. Ele acolheu a todos, falou sobre o reino de Deus e curou os que necessitavam ser curados. 
 ----
 
 ===== Important Terms: =====
