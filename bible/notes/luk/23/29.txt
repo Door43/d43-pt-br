@@ -30,8 +30,7 @@
 
 ===== Target ULB: =====
 
-**29** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Porque eis que virão os dias em que dirão: Bem-aventuradas as estéreis e os ventres que não geraram, e os peitos que não amamentaram.</font> **30** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então começarão a dizer aos montes: “Caí sobre nós ”, e às colinas:” Cobri-nos.”</font> **31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Porque, se eles fazem isto quando a árvore ainda está verde, o que acontecerá quando ela estiver seca? ”</font>
-
+29 Porque eis que virão os dias em que dirão: Bem-aventuradas as estéreis e os ventres que não geraram, e os peitos que não amamentaram. 30 Então começarão a dizer aos montes: “Caí sobre nós ”, e às colinas:” Cobri-nos.” 31 Porque, se eles fazem isto quando a árvore ainda está verde, o que acontecerá quando ela estiver seca? ” 
 ----
 
 ===== Important Terms: =====
