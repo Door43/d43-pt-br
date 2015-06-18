@@ -13,8 +13,11 @@
 <usfm> \v 51 Then he went back home with them to Nazareth and was obedient to them. His mother treasured all these things in her heart. \p \v 52 But Jesus continued to grow in wisdom and stature, and increased in favor with God and people. </usfm>
 
 ===== Target ULB: =====
-51 Então Jesus voltou com seus pais para Nazaré e era obediente a eles. Sua mãe continuava guardando estas coisas em seu coração. 52 E Jesus crescia em sabedoria e estatura, e era aprovado por Deus e pelas pessoas cada vez mais e mais. 
+
+51 Então Jesus voltou com seus pais para Nazaré e era obediente a eles. Sua mãe continuava guardando estas coisas em seu coração. 52 E Jesus crescia em sabedoria e estatura, e era aprovado por Deus e pelas pessoas cada vez mais e mais.
+
 ----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:nazareth|Nazareth]]
