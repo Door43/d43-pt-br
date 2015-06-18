@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**45** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E um certo mestre da lei judáica respondeu: “Mestre, o que você diz nos insulta também”.</font> **46** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse: “Ai de vocês também, mestres da lei! Pois vocês sobrecarregam os homens com fardos difíceis de suportar, mas nem mesmo com um de seus dedos querem ajudá-los a carregar.</font>
-
+45 E um certo mestre da lei judáica respondeu: “Mestre, o que você diz nos insulta também”. 46 Jesus disse: “Ai de vocês também, mestres da lei! Pois vocês sobrecarregam os homens com fardos difíceis de suportar, mas nem mesmo com um de seus dedos querem ajudá-los a carregar. 
 ----
 
 ===== Important Terms: =====
