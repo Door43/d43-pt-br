@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**53** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Depois que Jesus saiu de lá, os escribas e fariseus se opuseram a ele e argumentaram sobre muitas coisas,</font> **54** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>a fim de contradizê-lo com suas próprias palavras.</font>
-
+53 Depois que Jesus saiu de lá, os escribas e fariseus se opuseram a ele e argumentaram sobre muitas coisas, 54 a fim de contradizê-lo com suas próprias palavras. 
 ----
 
 ===== Important Terms: =====
