@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \p \v 35 Let your long clothing be tucked in at your belt, and let your lamps be kept burning, \v 36 and be like people looking for their master when he returns from the marriage feast, so that when he comes and knocks, they may immediately open the door for him. </usfm>
+===== Target ULB: =====
 
-**35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Deixem as suas vestes presas por seus cintos em prontidão para servir, e mantenham suas lâmpadas queimando.</font> **36** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Sejam como as pessoas à procura de seu mestre quando ele retorna da festa de casamento, para que quando ele vier e bater, eles possam abrí-la para ele imediatamente.</font>
+35 Deixem as suas vestes presas por seus cintos em prontidão para servir, e mantenham suas lâmpadas queimando. 36 Sejam como as pessoas à procura de seu mestre quando ele retorna da festa de casamento, para que quando ele vier e bater, eles possam abrí-la para ele imediatamente. 
+
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|master]]
