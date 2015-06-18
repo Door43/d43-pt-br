@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**34** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Esteja atento com você mesmos, que seus corações não se sobrecarregue com libertinagem, bebedeira e ansiedade. Pois aquele dia virá inesperadamente .</font> **35** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Pois virá sobre todo o ser vivente na face da terra.</font>
-
+34 Esteja atento com você mesmos, que seus corações não se sobrecarregue com libertinagem, bebedeira e ansiedade. Pois aquele dia virá inesperadamente . 35 Pois virá sobre todo o ser vivente na face da terra. 
 ----
 
 ===== Important Terms: =====
