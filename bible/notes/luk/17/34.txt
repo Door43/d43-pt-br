@@ -13,7 +13,7 @@
 <usfm> \v 34 I tell you, in that night there will be two men in one bed. One will be taken, and the other will be left. \v 35-36 There will be two women grinding together. One will be taken, and the other will be left." \v 37 They asked him, "Where, Lord?" And he said to them, "Where there is a body, there will the vultures also be gathered together." </usfm>
 ===== Target ULB: =====
 
-<font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>34 E digo a vocês, naquela noite estarão dois numa cama. Um será levado, e outro será deixado. 35-36 Duas mulheres estarão moendo grãos juntas. Uma será levada, e a outra será deixada." 37 Seus discípulos disseram-lhe: “Senhor, onde isso vai acontecer “E ele lhes disse:” “onde há um corpo morto, ali os abutres estarão reunidos”.</font>
+<font 14px background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;inherit line-height: 15.68px; font-family: Lato, sans-serif; font-size: 14px; background-color: rgb(238, 238, 238);>34 E digo a vocês, naquela noite estarão dois numa cama. Um será levado, e outro será deixado. 35-36 Duas mulheres estarão moendo grãos juntas. Uma será levada, e a outra será deixada.” 37 Seus discípulos disseram-lhe: “Senhor, onde isso vai acontecer “E ele lhes disse:” “onde há um corpo morto, ali os abutres estarão reunidos”.</font>
 
 ===== Important Terms: =====
 
