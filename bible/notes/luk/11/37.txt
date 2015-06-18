@@ -13,9 +13,7 @@
 <usfm> \p \v 37 When he had finished speaking, a Pharisee asked him to eat with him at his house, so Jesus went in and reclined. \v 38 And the Pharisee was surprised that he first did not wash before dinner. </usfm>
 
 ===== Target ULB: =====
-
-**37** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando ele terminou de falar, um fariseu o convidou para comer com ele em sua casa, então Jesus foi e se sentou à mesa.</font> **38** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O fariseu ficou maravilhado por ele não ter primeiro se lavado antes da refeição.</font>
-
+37 Quando ele terminou de falar, um fariseu o convidou para comer com ele em sua casa, então Jesus foi e se sentou à mesa. 38 O fariseu ficou maravilhado por ele não ter primeiro se lavado antes da refeição. 
 ----
 
 ===== Important Terms: =====
