@@ -24,8 +24,7 @@
 
 ===== Target ULB: =====
 
-**8** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>As mulheres lembraram das palavras dele.</font> **9** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Voltaram do sepulcro e disseram todas essas coisas aos onze e as todos os demais.</font> **10** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Maria Madalena, Joana e Maria mãe de Tiago, e as outras que estavam com elas relataram essas coisas aos apóstolos</font>
-
+8 As mulheres lembraram das palavras dele. 9 Voltaram do sepulcro e disseram todas essas coisas aos onze e as todos os demais. 10 Maria Madalena, Joana e Maria mãe de Tiago, e as outras que estavam com elas relataram essas coisas aos apóstolos 
 ----
 
 ===== Important Terms: =====
