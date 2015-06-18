@@ -22,8 +22,7 @@
 
 ===== Target ULB: =====
 
-**44** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Já era mais ou menos a sexta hora, e houve trevas sobre toda a terra até à nona hora</font> **45** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>ao escurecer. O véo do templo foi dividido ao meio.</font>
-
+44 Já era mais ou menos a sexta hora, e houve trevas sobre toda a terra até à nona hora 45 ao escurecer. O véo do templo foi dividido ao meio. 
 ----
 
 ===== Important Terms: =====
