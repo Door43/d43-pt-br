@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**57** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Enquanto iam pelo caminho, alguém lhe falou: “Eu te seguirei onde quer que fores.”</font> **58** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus disse a ele: “As raposas tem suas tocas e os pássaros do céu seus ninhos, mas o Filho do homem não tem onde reclinar a cabeça.”</font>
-
+57 Enquanto iam pelo caminho, alguém lhe falou: “Eu te seguirei onde quer que fores.” 58 Jesus disse a ele: “As raposas tem suas tocas e os pássaros do céu seus ninhos, mas o Filho do homem não tem onde reclinar a cabeça.” 
 ----
 
 ===== Important Terms: =====
