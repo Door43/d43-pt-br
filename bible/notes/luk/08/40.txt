@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 40 As Jesus returned, the crowd welcomed him, for they were all waiting for him. \v 41 Behold, there came a man named Jairus, and he was one of the leaders of the synagogue. Jairus fell down at Jesus’ feet and implored him to come to his house, \v 42 for he had an only daughter, about twelve years of age, and she was dying. But as he was going, the crowds of people were pressing up against him. </usfm>
-
-**40** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando Jesus retornou, uma multidão que estava esperando por ele o recebeu com alegria.</font> **41** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Lá havia um homem chamado Jairo, que era um dos líderes da sinagoga. Jairo se prostrou aos pés de Jesus e o implorou que ele fosse até a sua casa,</font> **42** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>pois sua única filha, de doze anos, estava morrendo. Mas enquanto ele ia as multidões de pessoas o espremia.</font>
+===== Target ULB: =====
+40 Quando Jesus retornou, uma multidão que estava esperando por ele o recebeu com alegria. 41 Lá havia um homem chamado Jairo, que era um dos líderes da sinagoga. Jairo se prostrou aos pés de Jesus e o implorou que ele fosse até a sua casa, 42 pois sua única filha, de doze anos, estava morrendo. Mas enquanto ele ia as multidões de pessoas o espremia. 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
