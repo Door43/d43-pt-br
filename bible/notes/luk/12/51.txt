@@ -15,8 +15,10 @@
 ===== ULB: =====
 
 <usfm> \v 51 Do you think that I came to bring peace on the earth? No, I tell you, but rather division. \v 52 For from now on there will be five in one house divided–three people against two, or two people against three. \v 53 They will be divided, father against son, and son against father; mother against daughter, and daughter against mother; mother-in-law against her daughter-in-law, and daughter-in-law against mother-in-law." </usfm>
+===== Target ULB: =====
+51 Vocês acham que eu vim trazer paz à terra? Eu digo que não, pois vim trazer divisão. 52 A partir de agora haverão cinco em uma casa divididos: três pessoas contra duas e duas contra três. 53 Eles estarão divididos: pai contra filho e filho contra pai, mãe contra filha e filha contra mãe, sogra contra nora e nora contra sogra.” 
 
-**51** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Vocês acham que eu vim trazer paz à terra? Eu digo que não, pois vim trazer divisão.</font> **52** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>A partir de agora haverão cinco em uma casa divididos: três pessoas contra duas e duas contra três.</font> **53** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Eles estarão divididos: pai contra filho e filho contra pai, mãe contra filha e filha contra mãe, sogra contra nora e nora contra sogra.”</font>
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:peace|peace]]
