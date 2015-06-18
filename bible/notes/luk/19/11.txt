@@ -11,9 +11,11 @@
 ===== ULB: =====
 
 <usfm> \p \v 11 As they heard these things, he continued speaking and told a parable, because he was near to Jerusalem, and they thought that the kingdom of God was about to appear immediately. \v 12 He said therefore, "A certain nobleman went into a far country to receive for himself a kingdom and then to return. </usfm>
+===== Target ULB: =====
 
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>“11 Por eles estarem se aproximando de Jerusalém, as pessoas que estavam ouvindo tudo o que Jesus estava dizendo, pensaram que o reino de Deus estava preste a aparecer . 12 Diante disso, ele contou-lhes uma parábola:” Certo homem nobre partiu para uma terra distante para se tornar rei e em seguida retornar</font>
+“11 Por eles estarem se aproximando de Jerusalém, as pessoas que estavam ouvindo tudo o que Jesus estava dizendo, pensaram que o reino de Deus estava preste a aparecer . 12 Diante disso, ele contou-lhes uma parábola:” Certo homem nobre partiu para uma terra distante para se tornar rei e em seguida retornar 
 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:parable|parable]]
