@@ -15,9 +15,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 41 Jesus said to them, "How do they say that the Christ is David’s son? \v 42 For David himself says in the book of Psalms, \q The Lord said to my Lord, \q 'Sit at my right hand, \q \v 43 until I make your enemies your footstool.' \m \v 44 David therefore calls the Christ 'Lord', so how is he David's son?" </usfm>
-
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>41 Jesus disse para eles: “Como podem dizer que Cristo é o filho de Davi? 42 Pois Davi mesmo diz no livro de Salmos, O Senhor disse ao meu Senhor, 'Sente-se à minha direita, 43 Até que eu ponha seus inimigos embaixo do seus pés.' 44 Se Davi chama Cristo de 'Senhor', como é que ele pode ser o filho de Davi?”</font>
-
+===== Target ULB: =====
+41 Jesus disse para eles: “Como podem dizer que Cristo é o filho de Davi? 42 Pois Davi mesmo diz no livro de Salmos, O Senhor disse ao meu Senhor, 'Sente-se à minha direita, 43 Até que eu ponha seus inimigos embaixo do seus pés.' 44 Se Davi chama Cristo de 'Senhor', como é que ele pode ser o filho de Davi?”
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:christ|Christ]]
