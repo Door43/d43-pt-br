@@ -18,7 +18,7 @@
 
 ===== Target ULB: =====
 
-**16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Vocês serão traídos por seus pais, irmãos, parentes e amigos, e eles entregarão alguns de vocês à morte.</font> **17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E vocês serão odiados por todos por causa de meu nome.</font> **18** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas nem um só fio de cabelo de sua cabeça será perdido.</font> **19** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Na sua perseverança vocês ganharão as suas almas.</font>
+16 Vocês serão traídos por seus pais, irmãos, parentes e amigos, e eles entregarão alguns de vocês à morte. 17 E vocês serão odiados por todos por causa de meu nome. 18 Mas nem um só fio de cabelo de sua cabeça será perdido. 19 Na sua perseverança vocês ganharão as suas almas. 
 
 ----
 
