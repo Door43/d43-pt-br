@@ -13,9 +13,11 @@
 ===== ULB: =====
 
 <usfm> \v 37 But that the dead are raised, even Moses showed, in the place concerning the bush, where he calls the Lord the God of Abraham and the God of Isaac and the God of Jacob. \v 38 Now he is not the God of the dead, but of the living, because all live to him." </usfm>
+===== Target ULB: =====
 
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>37 Assim os mortos serão ressuscitados, até Moisés mostrou isso, no local da sarça ardente onde ele chamou o Senhor Deus de Abraão, Deus de Isaque e Deus de Jacó. 38 Ele não é Deus de mortos, mas de vivos, pois para ele todos vivem.”</font>
+37 Assim os mortos serão ressuscitados, até Moisés mostrou isso, no local da sarça ardente onde ele chamou o Senhor Deus de Abraão, Deus de Isaque e Deus de Jacó. 38 Ele não é Deus de mortos, mas de vivos, pois para ele todos vivem.” 
 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:death|dead]]
