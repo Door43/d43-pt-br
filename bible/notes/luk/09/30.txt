@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**30** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Inesperadamente dois homens estavam falando com ele, estes eram Moisés e Elias.</font> **31** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Eles apareceram com glória e falavam sobre a partida de Jesus que estava prestes a se cumprir em Jerusalém.</font>
-
+30 Inesperadamente dois homens estavam falando com ele, estes eram Moisés e Elias. 31 Eles apareceram com glória e falavam sobre a partida de Jesus que estava prestes a se cumprir em Jerusalém. 
 ----
 
 ===== Important Terms: =====
