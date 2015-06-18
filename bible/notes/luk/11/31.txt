@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>A Rainha do Sul se levantará com os homens desta geração no dia do julgamento e os condenará, pois ela veio dos confins da terra para ouvir a sabedoria de Salomão. E este que está aqui é maior que Salomão.</font>
-
+31 A Rainha do Sul se levantará com os homens desta geração no dia do julgamento e os condenará, pois ela veio dos confins da terra para ouvir a sabedoria de Salomão. E este que está aqui é maior que Salomão. 
 ----
 
 ===== Important Terms: =====
