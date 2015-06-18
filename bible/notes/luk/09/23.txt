@@ -13,9 +13,7 @@
 <usfm> \v 23 He said to them all, "If anyone wants to come after me, he must deny himself, take up his cross daily, and follow me. \v 24 Whoever would try to save his life will lose it, but whoever loses his life for my sake, he will save it. \v 25 What does it benefit a man, if he gains the whole world, but loses or forfeits his own self? </usfm>
 
 ===== Target ULB: =====
-
-**23** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Se alguém deseja ser meu seguidor, negue-se a si mesmo, tome a sua cruz todos os dias, e me siga.</font> **24** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Aquele que deseja salvar a sua vida irá perdê-la, mas aquele que perder a sua vida por minha causa, irá salvá-la.</font> **25** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>O que adianta alguém ganhar o mundo todo e se perder ou destruir-se a si mesmo?</font>
-
+23 Se alguém deseja ser meu seguidor, negue-se a si mesmo, tome a sua cruz todos os dias, e me siga. 24 Aquele que deseja salvar a sua vida irá perdê-la, mas aquele que perder a sua vida por minha causa, irá salvá-la. 25 O que adianta alguém ganhar o mundo todo e se perder ou destruir-se a si mesmo? 
 ----
 
 ===== Important Terms: =====
