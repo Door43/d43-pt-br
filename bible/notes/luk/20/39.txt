@@ -15,9 +15,9 @@
 ===== ULB: =====
 
 <usfm> \v 39 Some of the scribes answered, "Teacher, you have answered well." \v 40 For they did not dare ask him any more questions. </usfm>
-
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>39 Alguns dos escribas responderam: “Mestre, você respondeu muito bem.” 40 Pois não tinham coragem de fazer mais perguntas.</font>
-
+===== Target ULB: =====
+39 Alguns dos escribas responderam: “Mestre, você respondeu muito bem.” 40 Pois não tinham coragem de fazer mais perguntas. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:scribe|scribes]]
