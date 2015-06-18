@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 29 It came about that when he drew near to Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples, \v 30 saying, "Go into the next village. As you enter, you will find a colt that has never been ridden. Untie it and bring it to me. \v 31 If any one asks you, 'Why are you untying it?' say, 'The Lord has need of it.'" </usfm>
-
-**29** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Aconteceu que quando ele chegou perto de Betfagé e de Betânia, em direção ao monte das Oliveiras, enviou dois dos discípulos,</font> **30** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>dizendo: “Vão ao povoado mais próximo. Assim que entrarem, vocês encontrarão um jumentinho que nunca foi montado. Desate-o e traga-o a mim.</font> **31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Se alguém perguntar, 'Por que você está desatando ele. Diga:'O Senhor necessita dele'. '”</font>
+===== Target ULB: =====
+29 Aconteceu que quando ele chegou perto de Betfagé e de Betânia, em direção ao monte das Oliveiras, enviou dois dos discípulos, 30 dizendo: “Vão ao povoado mais próximo. Assim que entrarem, vocês encontrarão um jumentinho que nunca foi montado. Desate-o e traga-o a mim. 31 Se alguém perguntar, 'Por que você está desatando ele. Diga:'O Senhor necessita dele'. '” 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:bethany|Bethany]]
