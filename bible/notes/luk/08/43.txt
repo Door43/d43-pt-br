@@ -12,7 +12,9 @@
 
 <usfm> \p \v 43 A woman was there who had been bleeding for twelve years and had spent all her money on physicians, but could not be healed by any of them. \v 44 She came behind Jesus and touched the border of his garment, and immediately her bleeding stopped. </usfm>
 
-**43** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Uma mulher que há doze anos sofria de fluxo de sangue estava na multidão, ela já havia gastado todo o seu dinheiro com médicos, mas nenhum deles conseguia curá-la.</font> **44** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ela veio por trás de Jesus, tocou a borda de seu manto e imediatamente seu sangramento parou.</font>
+===== Target ULB: =====
+43 Uma mulher que há doze anos sofria de fluxo de sangue estava na multidão, ela já havia gastado todo o seu dinheiro com médicos, mas nenhum deles conseguia curá-la. 44 Ela veio por trás de Jesus, tocou a borda de seu manto e imediatamente seu sangramento parou. 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
