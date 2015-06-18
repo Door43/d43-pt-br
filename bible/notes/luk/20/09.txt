@@ -12,8 +12,10 @@
 
 <usfm> \p \v 9 He told the people this parable, "A man planted a vineyard, rented it out to vine dressers, and went into another country for a long time. \v 10 At the appointed time he sent a servant to the vine dressers, that they should give him of the fruit of the vineyard. But the vine dressers beat him, and sent him away empty-handed. </usfm>
 
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>9 Ele contou ao povo esta parábola, “Um homem fez uma plantação de uva, arrendou-a para uns lavradores, e saiu para um outro país por muito tempo. 10 Na hora marcada ele enviou o servo aos lavradores, que deveriam dar-lhe os frutos da plantação. Mas os lavradores o espancaram e mandaram ele de volta com as mãos vazias.</font>
+===== Target ULB: =====
+9 Ele contou ao povo esta parábola, “Um homem fez uma plantação de uva, arrendou-a para uns lavradores, e saiu para um outro país por muito tempo. 10 Na hora marcada ele enviou o servo aos lavradores, que deveriam dar-lhe os frutos da plantação. Mas os lavradores o espancaram e mandaram ele de volta com as mãos vazias. 
 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:parable|parable]]
