@@ -13,9 +13,7 @@
 <usfm> \v 16 Then Jesus told them a parable, saying, "The field of a rich man yielded abundantly, \v 17 and he reasoned with himself, saying, 'What will I do, because I do not have a place to store my crops?' \v 18 He said, 'This is what will I do. I will pull down my barns and build bigger ones, and there I will store all of my grain and other goods. \v 19 I will say to my soul, "Soul, you have many goods stored up for many years.Rest easy, eat, drink, be merry."' </usfm>
 
 ===== Target ULB: =====
-
-16 <font inherit/Lato, sans-serif;;inherit;;inherit>Então Jesus contou-lhes uma parábola: “O campo de um homem rico produziu abundantemente,</font>    **17** <font inherit/Lato, sans-serif;;inherit;;inherit>e ele pensou consigo mesmo: 'Eu não tenho espaço para estocar toda a minha colheita. O que farei?'</font>    **18** <font inherit/Lato, sans-serif;;inherit;;inherit>Ele disse: 'Isso é o que irei fazer, irei derrubar meus celeiros e construir outros maiores para que eu estoque todos os meus grãos e outros bens.</font>    **19** <font inherit/Lato, sans-serif;;inherit;;inherit>Direi a minha alma: 'Alma, você tem muitos bens armazenados por muitos anos. Descanse tranquila, coma, beba e seja feliz.'”</font>
-
+16 Então Jesus contou-lhes uma parábola: “O campo de um homem rico produziu abundantemente, 17 e ele pensou consigo mesmo: 'Eu não tenho espaço para estocar toda a minha colheita. O que farei?' 18 Ele disse: 'Isso é o que irei fazer, irei derrubar meus celeiros e construir outros maiores para que eu estoque todos os meus grãos e outros bens. 19 Direi a minha alma: 'Alma, você tem muitos bens armazenados por muitos anos. Descanse tranquila, coma, beba e seja feliz.'” 
 ----
 
 ===== Important Terms: =====
