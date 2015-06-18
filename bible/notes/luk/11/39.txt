@@ -16,8 +16,7 @@
 
 ===== Target ULB: =====
 
-**39** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas o Senhor disse a eles: “Vocês, fariseus, limpam o exterior dos copos e tigelas, mas o seu interior é cheio de ganância e maldade.</font> **40** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Tolos! Por acaso aquele que fez o exterior também não fez o interior?</font> **41** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ao invés de se preocuparem em limpar o exterior das coisas, dêem aos pobres o que está dentro delas, e então todas as coisas vos serão limpas.</font>
-
+39 Mas o Senhor disse a eles: “Vocês, fariseus, limpam o exterior dos copos e tigelas, mas o seu interior é cheio de ganância e maldade. 40 Tolos! Por acaso aquele que fez o exterior também não fez o interior? 41 Ao invés de se preocuparem em limpar o exterior das coisas, dêem aos pobres o que está dentro delas, e então todas as coisas vos serão limpas. 
 ----
 
 ===== Important Terms: =====
