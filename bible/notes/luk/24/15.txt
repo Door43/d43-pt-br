@@ -20,8 +20,7 @@
 
 ===== Target ULB: =====
 
-**15** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Aconteceu que enquanto eles discutiam e questionavam entre eles, Jesus se aproximou deles e foi com eles.</font> **16** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Mas seus olhos estavam impedidos de reconhecê-lo.</font>
-
+15 Aconteceu que enquanto eles discutiam e questionavam entre eles, Jesus se aproximou deles e foi com eles. 16 Mas seus olhos estavam impedidos de reconhecê-lo. 
 ----
 
 ===== Important Terms: =====
