@@ -18,8 +18,7 @@
 
 ===== Target ULB: =====
 
-**1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus levantou os olhos e viu os ricos que colocavam suas ofertas na caixinha de oferta</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele também viu uma pobre viúva ofertando duas pequenas moedas.</font> **3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então, disse: “Em verdade digo a vocês que essa viúva deu mais do que todos eles.</font> **4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Todos eles deram ofertas do muito que tinham. Mas esta viúva, da sua pobreza, deu tudo o que tinha. ”</font>
-
+1 Jesus levantou os olhos e viu os ricos que colocavam suas ofertas na caixinha de oferta 2 Ele também viu uma pobre viúva ofertando duas pequenas moedas. 3 Então, disse: “Em verdade digo a vocês que essa viúva deu mais do que todos eles. 4 Todos eles deram ofertas do muito que tinham. Mas esta viúva, da sua pobreza, deu tudo o que tinha. ” 
 ----
 
 ===== Important Terms: =====
