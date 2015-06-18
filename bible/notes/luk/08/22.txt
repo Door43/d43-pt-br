@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 22 Now it happened on one of those days that Jesus and his disciples entered into a boat, and he said to them, "Let us go over to the other side of the lake." Then they set sail. \v 23 But as they sailed, Jesus fell asleep, and a storm of very strong winds came up over the lake, and their boat started filling up with water, and they were in serious danger. </usfm>
-
-**22** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Aconteceu que em um daqueles dias Jesus e os seus discípulos entraram em um barco, e Jesus disse a eles: “Vamos para o outro lado do lago”. Então eles zarparam.</font> **23** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas, enquanto eles navegavam, Jesus dormiu e uma tempestade de ventos fortes atingiu o lago e o barco começou a se encher de água, e eles estavam em grave perigo.</font>
+===== Target ULB: =====
+22 Aconteceu que em um daqueles dias Jesus e os seus discípulos entraram em um barco, e Jesus disse a eles: “Vamos para o outro lado do lago”. Então eles zarparam. 23 Mas, enquanto eles navegavam, Jesus dormiu e uma tempestade de ventos fortes atingiu o lago e o barco começou a se encher de água, e eles estavam em grave perigo. 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
