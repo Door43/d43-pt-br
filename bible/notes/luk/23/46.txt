@@ -24,8 +24,7 @@
 
 ===== Target ULB: =====
 
-**46** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E clamando em voz alta, Jesus disse: “Pai, em suas mãos entrego o meu espírito”. Dito isto, ele morreu.</font> **47** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Quando o centurião viu o que acontecera, deu glória a Deus, dizendo: “Certamente este homem era justo.”</font>
-
+46 E clamando em voz alta, Jesus disse: “Pai, em suas mãos entrego o meu espírito”. Dito isto, ele morreu. 47 Quando o centurião viu o que acontecera, deu glória a Deus, dizendo: “Certamente este homem era justo.” 
 ----
 
 ===== Important Terms: =====
