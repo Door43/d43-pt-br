@@ -16,8 +16,7 @@
 
 ===== Target ULB: =====
 
-**7** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Herodes, o tetrarca, ouviu sobre tudo o que estava acontecendo e ficou perplexo, pois uns diziam que João Batista ressuscitou da morte,</font> **8** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>alguns diziam que Elias apareceu e outros diziam que um dos profetas antigos voltou à vida.</font> **9** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Herodes disse: “Eu decapitei João, então quem pode ser este sobre o qual eu ouço tais coisas?” E Herodes tentou encontrar alguma maneira de ver Jesus.</font>
-
+7 Herodes, o tetrarca, ouviu sobre tudo o que estava acontecendo e ficou perplexo, pois uns diziam que João Batista ressuscitou da morte, 8 alguns diziam que Elias apareceu e outros diziam que um dos profetas antigos voltou à vida. 9 Herodes disse: “Eu decapitei João, então quem pode ser este sobre o qual eu ouço tais coisas?” E Herodes tentou encontrar alguma maneira de ver Jesus. 
 ----
 
 ===== Important Terms: =====
