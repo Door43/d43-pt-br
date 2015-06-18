@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \v 3 He was trying to see who Jesus was, but could not see over the crowd, because he was small in height. \v 4 So he ran on ahead of the people and climbed up into a sycamore tree to see him, because Jesus was about to pass that way. </usfm>
-
-**3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele tentou ver quem era Jesus, mas não conseguia vê-lo por cima da multidão, pois ele era de baixa estatura.</font> **4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então correu a frente das pessoas e subiu numa árvore de sicômoro para poder ver Jesus já que estava prestes a passar por ali.</font>
+===== Target ULB: =====
+3 Ele tentou ver quem era Jesus, mas não conseguia vê-lo por cima da multidão, pois ele era de baixa estatura. 4 Então correu a frente das pessoas e subiu numa árvore de sicômoro para poder ver Jesus já que estava prestes a passar por ali. 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
