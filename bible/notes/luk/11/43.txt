@@ -16,8 +16,7 @@
 
 ===== Target ULB: =====
 
-**43** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ai de vocês fariseus! Vocês amam os primeiros lugares nas sinagogas e os cumprimentos respeitosos nos mercados.</font> **44** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ai de vocês, pois são como sepulturas sem identificação sobre as quais as pessoas caminham sem saber.</font>
-
+43 Ai de vocês fariseus! Vocês amam os primeiros lugares nas sinagogas e os cumprimentos respeitosos nos mercados. 44 Ai de vocês, pois são como sepulturas sem identificação sobre as quais as pessoas caminham sem saber. 
 ----
 
 ===== Important Terms: =====
