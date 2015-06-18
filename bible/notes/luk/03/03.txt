@@ -13,6 +13,7 @@
 <usfm> \v 3 He traveled throughout the region around the Jordan River, preaching a baptism of repentance for the forgiveness of sins. </usfm>
 
 **3** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ele viajou em toda a região do Rio Jordão, pregando o batismo do arrependimento, para o perdão dos pecados.</font>
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jordan-river|Jordan River]]
