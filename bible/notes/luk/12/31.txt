@@ -11,8 +11,11 @@
 ===== ULB: =====
 
 <usfm> \v 31 But seek his kingdom, and these things will be added to you. \v 32 Do not fear, little flock, because your Father is very pleased to give you the kingdom. </usfm>
+===== Target ULB: =====
 
-**31** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas busquem o seu reino e essas coisas serão acrescentadas a vocês.</font> **32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Não temam, pequeno rebanho, pois o Pai muito se agrada de dar o reino a vocês.</font>
+31 Mas busquem o seu reino e essas coisas serão acrescentadas a vocês. 32 Não temam, pequeno rebanho, pois o Pai muito se agrada de dar o reino a vocês. 
+
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:kingdom|kingdom]]
