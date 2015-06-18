@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E haverá sinais no sol,na lua e nas estrelas. E as nações da terra ficarão aflitas e perplexas com o bramido e a agitação do mar.</font> **26** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Haverão homens desmaiando de medo na expectativa das coisas que sobrevirão ao mundo. Pois os poderes dos céus serão abalados.</font>
-
+25 E haverá sinais no sol,na lua e nas estrelas. E as nações da terra ficarão aflitas e perplexas com o bramido e a agitação do mar. 26 Haverão homens desmaiando de medo na expectativa das coisas que sobrevirão ao mundo. Pois os poderes dos céus serão abalados. 
 ----
 
 ===== Important Terms: =====
