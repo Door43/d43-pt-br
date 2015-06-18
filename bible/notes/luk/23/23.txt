@@ -30,8 +30,7 @@
 
 ===== Target ULB: =====
 
-**23** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas eles clamavam em brados, pedindo para ele ser crucificado. E o clamor da multidão convenceu Pilatos.</font> **24** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então Pilatos decidiu conceder o que eles pediam.</font> **25** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele soltou o que eles haviam colocado na prisão por tumultos e assassinatos. Mas entregou Jesus à vontade deles.</font>
-
+23 Mas eles clamavam em brados, pedindo para ele ser crucificado. E o clamor da multidão convenceu Pilatos. 24 Então Pilatos decidiu conceder o que eles pediam. 25 Ele soltou o que eles haviam colocado na prisão por tumultos e assassinatos. Mas entregou Jesus à vontade deles. 
 ----
 
 ===== Important Terms: =====
