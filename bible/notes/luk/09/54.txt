@@ -18,7 +18,7 @@
 
 ===== Target ULB: =====
 
-**54** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Então quando seus discípulos Tiago e João viram isso, eles disseram: “Senhor, você quer que ordenemos que caia fogo dos céus e os destrua?”</font> **55** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas Jesus se virou e os repreendeu. Então foram a uma outra vila.</font>
+54 Então quando seus discípulos Tiago e João viram isso, eles disseram: “Senhor, você quer que ordenemos que caia fogo dos céus e os destrua?” 55 Mas Jesus se virou e os repreendeu. Então foram a uma outra vila. 
 
 ----
 
