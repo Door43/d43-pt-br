@@ -22,8 +22,7 @@
 
 ===== Target ULB: =====
 
-**19** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Jesus disse-lhes: ” Quais coisas?” Eles responderam-lhe: ” As que dizem respeito a Jesus de Nazaré, o qual foi um profeta poderoso em obras e palavras diante de Deus e todas as pessoas.</font> **20** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>E de como os chefes dos sacerdotes e as nossas autoridades o entregaram para ser condenado à morte e o crucificaram.</font>
-
+19 Jesus disse-lhes: ” Quais coisas?” Eles responderam-lhe: ” As que dizem respeito a Jesus de Nazaré, o qual foi um profeta poderoso em obras e palavras diante de Deus e todas as pessoas. 20 E de como os chefes dos sacerdotes e as nossas autoridades o entregaram para ser condenado à morte e o crucificaram. 
 ----
 
 ===== Important Terms: =====
