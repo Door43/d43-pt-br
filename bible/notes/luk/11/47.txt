@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**47** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ai de vocês, pois vocês constroem memoriais para as sepulturas dos profetas, sendo que seus ancestrais que os mataram.</font> **48** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Vocês testemunham e consentem com os feitos de seus ancestrais, porque eles de fato mataram os profetas para os quais vocês constroem memoriais.</font>
-
+47 Ai de vocês, pois vocês constroem memoriais para as sepulturas dos profetas, sendo que seus ancestrais que os mataram. 48 Vocês testemunham e consentem com os feitos de seus ancestrais, porque eles de fato mataram os profetas para os quais vocês constroem memoriais. 
 ----
 
 ===== Important Terms: =====
