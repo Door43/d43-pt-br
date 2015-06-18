@@ -11,8 +11,10 @@
 ===== ULB: =====
 
 <usfm> \v 16 The first came before him, saying, 'Lord, your mina has made ten minas more.' \v 17 The nobleman said to him, 'Well done, good servant. Because you were faithful in very little, you will have authority over ten cities.' </usfm>
+===== Taraget ULB: =====
+16 O primeiro veio diante dele, dizendo: 'Senhor, o seu dinheiro rendeu dez vezes mais.' 17 Ele disse: 'Muito bem, bom servo. Porque fosses fiel no pouco, você terá autoridade sobre dez cidades. ” 
 
-**16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>O primeiro veio diante dele, dizendo: 'Senhor, o seu dinheiro rendeu dez vezes mais.'</font> **17** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Ele disse: 'Muito bem, bom servo. Porque fosses fiel no pouco, você terá autoridade sobre dez cidades. ”</font>
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:lord|lord]]
