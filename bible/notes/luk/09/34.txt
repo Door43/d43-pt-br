@@ -17,9 +17,7 @@
 <usfm> \v 34 Then while he was saying these things, a cloud came and overshadowed them; and they were afraid as they were surrounded by the cloud. \v 35 A voice came out of the cloud, saying, "This is my chosen son. Listen to him." \v 36 When the voice had finished, Jesus was alone. They kept silent, and in those days they told no one any of the things which they had seen. </usfm>
 
 ===== Target ULB: =====
-
-**34** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Enquanto ele estava dizendo estas coisas uma nuvem veio e os ofuscou, e eles ficaram com medo quando a nuvem os envolveu.</font> **35** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Uma voz saiu da nuvem, dizendo: “Este é o meu filho, o escolhido. Ouçam a ele.”</font> **36** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando a voz parou, Jesus estava sozinho. Eles ficaram em silêncio e naqueles dias não disseram nada a ninguém sobre o que tinham visto.</font>
-
+34 Enquanto ele estava dizendo estas coisas uma nuvem veio e os ofuscou, e eles ficaram com medo quando a nuvem os envolveu. 35 Uma voz saiu da nuvem, dizendo: “Este é o meu filho, o escolhido. Ouçam a ele.” 36 Quando a voz parou, Jesus estava sozinho. Eles ficaram em silêncio e naqueles dias não disseram nada a ninguém sobre o que tinham visto. 
 ----
 
 ===== Important Terms: =====
