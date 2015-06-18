@@ -22,8 +22,7 @@
 
 ===== Target ULB: =====
 
-**36** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Enquanto falavam essas coisas, Jesus se apresentou no meio deles, e disse-lhes: “A paz esteja com vocês.”</font> **37** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Mas, eles aterrorizados e cheio de medo, pensaram ter visto ter visto um espírito.</font>
-
+36 Enquanto falavam essas coisas, Jesus se apresentou no meio deles, e disse-lhes: “A paz esteja com vocês.” 37 Mas, eles aterrorizados e cheio de medo, pensaram ter visto ter visto um espírito. 
 ----
 
 ===== Important Terms: =====
