@@ -11,9 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 49 While he was still speaking, someone came from the synagogue leader's house, saying, "Your daughter is dead. Do not trouble the teacher." \v 50 But when Jesus heard that, he answered him, "Do not be afraid. Just believe, and she will be saved." </usfm>
-
+===== Target ULB: =====
 49 Enquanto ele ainda falava, alguém veio da casa do líder da sinagoga , dizendo: “Não incomode o Mestre. A sua filha está morta.” 50 Mas quando Jesus ouviu isto, disse a ele: “Não tenha medo. Apenas acredite e ela será salva.”
-
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:synagogue|synagogue]]
