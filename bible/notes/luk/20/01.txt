@@ -11,8 +11,9 @@
 ===== ULB: =====
 
 <usfm> \c 20 \p \v 1 It came about one day, as Jesus was teaching the people in the temple and preaching the gospel, the chief priests and the scribes came to him with the elders. \v 2 They spoke, saying to him, "Tell us by what authority you do these things? Or who is he that gave you this authority?" </usfm>
-
-**1** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Um dia quando Jesus estava ensinando o povo no templo e proclamando o evangelho, os chefes dos sacerdotes e as escribas vieram com os anciãos.</font> **2** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Disseram para ele, “Diga-nos com que autoridade você faz estas coisas? E quem te deu este autoridade?”</font>
+===== Target ULB:=====
+1 Um dia quando Jesus estava ensinando o povo no templo e proclamando o evangelho, os chefes dos sacerdotes e as escribas vieram com os anciãos. 2 Disseram para ele, “Diga-nos com que autoridade você faz estas coisas? E quem te deu este autoridade?” 
+----
 
 ===== Important Terms: =====
 
