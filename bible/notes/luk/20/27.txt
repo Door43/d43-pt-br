@@ -11,9 +11,9 @@
 ===== ULB: =====
 
 <usfm> \p \v 27 When some of the Sadducees came to him, the ones who say that there is no resurrection, \v 28 they asked him, saying, "Teacher, Moses wrote to us that if a man’s brother dies, having a wife, and being childless, the man should take the brother's wife, and have a child for his brother. </usfm>
-
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>27 Alguns dos saduceus, aqueles que dizem que não há ressurreição, foram até ele, perguntando: “Mestre, Moisés escreveu para nós, que se 28 o irmão de um homem morrer, e tendo ele esposa, e não tendo filhos, o homem deveria casar com a viúva do seu irmão e gerar um filho para o seu irmão.”</font>
-
+===== Target ULB: =====
+27 Alguns dos saduceus, aqueles que dizem que não há ressurreição, foram até ele, perguntando: “Mestre, Moisés escreveu para nós, que se 28 o irmão de um homem morrer, e tendo ele esposa, e não tendo filhos, o homem deveria casar com a viúva do seu irmão e gerar um filho para o seu irmão.” 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:sadducee|Sadducees]]
