@@ -26,8 +26,7 @@
 
 ===== Target ULB: =====
 
-**16** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os</font> <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>que escutam a você, escutam a mim, e quem lhe rejeita, a mim me rejeita, e os que me rejeitam também rejeitam aquele que me enviou ”.</font>
-
+16 Os que escutam a você, escutam a mim, e quem lhe rejeita, a mim me rejeita, e os que me rejeitam também rejeitam aquele que me enviou ”. 
 ----
 
 ===== Important Terms: =====
