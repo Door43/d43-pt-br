@@ -16,7 +16,10 @@
 
 <usfm> \p \v 19 Then Jesus' mother and brothers came to him, but they could not come near him because of the crowd. \v 20 And it was told him, "Your mother and your brothers are standing outside, desiring to see you." \v 21 But Jesus answered and said to them, "My mother and my brothers are those who hear the word of God, and obey it." </usfm>
 
-**19** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então a mãe e os irmãos de Jesus vieram até ele, mas não podiam se aproximar por causa da multidão.</font> **20** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E disseram a ele: “Sua mãe e seus irmãos estão do lado de fora, esperando para ver você.”</font> **21** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Mas Jesus disse a eles: “Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a obedece.”</font>
+===== Target ULB=====
+
+19 Então a mãe e os irmãos de Jesus vieram até ele, mas não podiam se aproximar por causa da multidão. 20 E disseram a ele: “Sua mãe e seus irmãos estão do lado de fora, esperando para ver você.” 21 Mas Jesus disse a eles: “Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a obedece.” 
+=====
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
