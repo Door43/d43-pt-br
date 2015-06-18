@@ -16,10 +16,8 @@
 
 ===== Target ULB: =====
 
-----
-
-**13** <font 14px line-height: 19px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(238, 238, 238);>Então alguém da multidão disse a ele: “Mestre, diga a meu irmão para dividir a herança comigo.”</font> **14** <font 14px line-height: 19px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(238, 238, 238);>Jesus disse a ele: “Homem, quem me fez juíz ou mediador sobre vocês?”</font> **15** <font 14px line-height: 19px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px; background-color: rgb(238, 238, 238);>E ele disse para a multidão: “Cuidem para que vocês se guardem de todos os desejos gananciosos, pois a vida de alguém não consiste na abundância de suas possessões.”</font>
-
+13 Então alguém da multidão disse a ele: “Mestre, diga a meu irmão para dividir a herança comigo.” 14 Jesus disse a ele: “Homem, quem me fez juíz ou mediador sobre vocês?” 15 E ele disse para a multidão: “Cuidem para que vocês se guardem de todos os desejos gananciosos, pois a vida de alguém não consiste na abundância de suas possessões.” 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:luk:12:teacher|Teacher]]
