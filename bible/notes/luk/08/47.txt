@@ -13,8 +13,11 @@
 ===== ULB: =====
 
 <usfm> \v 47 When the woman saw that she could not hide what she had done, she came trembling. Falling down before Jesus, she declared in the presence of all the people the reason she had touched him and how she was healed immediately. \v 48 Then he said to her, "Daughter, your faith has made you well. Go in peace." </usfm>
+===== Target ULB: =====
 
-**47** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Quando a mulher viu que não poderia se esconder do que fez, ela veio tremendo, se prostrou aos pés de Jesus e declarou na presença de todos o motivo de ter tocado nele e como ela foi curada imediatamente.</font> **48** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Então ele disse a ela: “Filha, a sua fé te curou. Vá em paz.”</font>
+47 Quando a mulher viu que não poderia se esconder do que fez, ela veio tremendo, se prostrou aos pés de Jesus e declarou na presença de todos o motivo de ter tocado nele e como ela foi curada imediatamente. 48 Então ele disse a ela: “Filha, a sua fé te curou. Vá em paz.” 
+-----
+
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:jesus|Jesus]]
