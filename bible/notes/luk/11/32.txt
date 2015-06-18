@@ -16,8 +16,7 @@
 
 ===== Target ULB: =====
 
-**32** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Os homens de Nínive ficarão de pé juntamente com os homens dessa geração no dia do julgamento e os condenarão, pois eles se arrependeram diante da pregação de Jonas. E este que aqui está é maior que Jonas.</font>
-
+32 Os homens de Nínive ficarão de pé juntamente com os homens dessa geração no dia do julgamento e os condenarão, pois eles se arrependeram diante da pregação de Jonas. E este que aqui está é maior que Jonas. 
 ----
 
 ===== Important Terms: =====
