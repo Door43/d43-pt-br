@@ -18,8 +18,7 @@
 
 ===== Target ULB: =====
 
-**27** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E aconteceu que, ao dizer essas coisas, uma certa mulher falou em voz alta do meio da multidão para ele: “Bendito é o ventre que te gerou e os seios que te amamentaram.”</font> **28** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas ele disse: “Antes, benditos são aqueles que ouvem as palavras de Deus e as guarda.”</font>
-
+27 E aconteceu que, ao dizer essas coisas, uma certa mulher falou em voz alta do meio da multidão para ele: “Bendito é o ventre que te gerou e os seios que te amamentaram.” 28 Mas ele disse: “Antes, benditos são aqueles que ouvem as palavras de Deus e as guarda.” 
 ----
 
 ===== Important Terms: =====
