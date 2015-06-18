@@ -22,8 +22,7 @@
 
 ===== Target ULB: =====
 
-**3** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Vão agora, sigam seus caminhos. Eis que eu vos envio como cordeiros no meio de lobos.</font> **4** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Não leve nenhum dinheiro, tampouco nenhuma bagagem, nem sandálias, e não cumprimente ninguém ao longo do caminho.</font>
-
+3 Vão agora, sigam seus caminhos. Eis que eu vos envio como cordeiros no meio de lobos. 4 Não leve nenhum dinheiro, tampouco nenhuma bagagem, nem sandálias, e não cumprimente ninguém ao longo do caminho. 
 ----
 
 ===== Important Terms: =====
