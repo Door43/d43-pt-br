@@ -28,8 +28,7 @@
 
 ===== Target ULB: =====
 
-**25** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Jesus disse-lhes: “Ó homens tolos e tardos de coração para crer em tudo o que os profetas disseram!</font> **26** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Não era necessário que Cristo sofresse essas coisas para entrar em sua glória?”</font> **27** <font 14px line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 21.7777786254883px; background-color: rgb(238, 238, 238);>Então, começando por Moisés e por todos os profetas, Jesus interpretou para eles as coisas com relação a ele mesmo em todas as Escrituras.</font>
-
+25 Jesus disse-lhes: “Ó homens tolos e tardos de coração para crer em tudo o que os profetas disseram! 26 Não era necessário que Cristo sofresse essas coisas para entrar em sua glória?” 27 Então, começando por Moisés e por todos os profetas, Jesus interpretou para eles as coisas com relação a ele mesmo em todas as Escrituras. 
 ----
 
 ===== Important Terms: =====
