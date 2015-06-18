@@ -27,9 +27,7 @@
 <usfm> \v 48 When all the multitudes who came together to witness this sight saw the things that were done, they returned beating their breasts. \v 49 But all of his acquaintances, and the women who followed him from Galilee, stood at a distance, watching these things. </usfm>
 
 ===== Target ULB: =====
-
-**48** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>E toda as multidões que se reuniram para ver o acontecimento, apos o que viram, voltaram batendo no peito.</font> **49** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Mas todos seus conhecidos, e as mulheres que o haviam seguido desde a Galiléia, estavam de longe, observando estas coisas.</font>
-
+48 E toda as multidões que se reuniram para ver o acontecimento, apos o que viram, voltaram batendo no peito. 49 Mas todos seus conhecidos, e as mulheres que o haviam seguido desde a Galiléia, estavam de longe, observando estas coisas. 
 ----
 
 ===== Important Terms: =====
