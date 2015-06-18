@@ -14,8 +14,7 @@
 
 ===== Target ULB: =====
 
-**18** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Certo dia Jesus estava orando em particular, os seus discípulos estavam com ele, então ele os questionou: “Quem as multidões dizem que eu sou?”</font> **19** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E eles responderam: “Uns dizem que você é João Batista, alguns dizem que você é Elias e outros dizem que você é um dos profetas antigos que voltou à vida.”</font>
-
+18 Certo dia Jesus estava orando em particular, os seus discípulos estavam com ele, então ele os questionou: “Quem as multidões dizem que eu sou?” 19 E eles responderam: “Uns dizem que você é João Batista, alguns dizem que você é Elias e outros dizem que você é um dos profetas antigos que voltou à vida.” 
 ----
 
 ===== Important Terms: =====
