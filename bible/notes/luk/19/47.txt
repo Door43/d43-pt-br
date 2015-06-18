@@ -11,9 +11,11 @@
 ===== ULB: =====
 
 <usfm> \p \v 47 So Jesus was teaching daily in the temple. The chief priests and the scribes and the leaders of the people wanted to kill him, \v 48 but they could not find a way to do it, because all the people were listening to him intently. </usfm>
+===== Target ULB: =====
 
-**47** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>Jesus ensinava no templo diariamente. Os chefes dos sacerdotes, os escribas e os líderes do povo queriam matá-lo,</font> ** 48** <font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>mas eles não encontravam uma maneira de fazê-lo, porque todas as pessoas o escutavam atentamente.</font>
+47 Jesus ensinava no templo diariamente. Os chefes dos sacerdotes, os escribas e os líderes do povo queriam matá-lo,  48 mas eles não encontravam uma maneira de fazê-lo, porque todas as pessoas o escutavam atentamente. 
 
+----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:temple|temple]]
