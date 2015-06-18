@@ -16,8 +16,7 @@
 
 ===== Target ULB: =====
 
-**20** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>Ele disse a eles: “E vocês, o que dizem que eu sou?” E Pedro respondeu: “O Cristo de Deus”</font> **21** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>E Jesus os alertou e instruiu que não contassem isso a ninguém,</font> **22** <font 14px line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 15.6800003051758px; background-color: rgb(238, 238, 238);>dizendo: “É necessário que o Filho do Homem sofra muitas coisas, seja rejeitado pelos anciãos, pelos chefes dos sacerdotes, pelos escribas, seja morto e ressuscite no terceiro dia.</font>
-
+18 Certo dia Jesus estava orando em particular, os seus discípulos estavam com ele, então ele os questionou: “Quem as multidões dizem que eu sou?” 19 E eles responderam: “Uns dizem que você é João Batista, alguns dizem que você é Elias e outros dizem que você é um dos profetas antigos que voltou à vida.” 
 ----
 
 ===== Important Terms: =====
