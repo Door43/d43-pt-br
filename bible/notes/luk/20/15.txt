@@ -12,8 +12,10 @@
 
 <usfm> \v 15 They threw him out of the vineyard, and killed him. What then will the lord of the vineyard do to them? \v 16 He will come and destroy these vine dressers, and will give the vineyard to others." And when they heard it, they said, "God forbid!" </usfm>
 
-<font 14px line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;inherit;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px; background-color: rgb(238, 238, 238);>15 Eles lançaram ele fora da plantação e o mataram. E agora, o que o senhor da plantação fará com eles? 16 Ele virá e destruirá estes lavradores e dará a plantação a outros.” Quando ouviram isso, disseram, 'Que Deus não permita!'</font>
+===== Target ULB: =====
+15 Eles lançaram ele fora da plantação e o mataram. E agora, o que o senhor da plantação fará com eles? 16 Ele virá e destruirá estes lavradores e dará a plantação a outros.” Quando ouviram isso, disseram, 'Que Deus não permita!' 
 
+-----
 ===== Important Terms: =====
 
   * [[:pt-br:bible:notes:key-terms:vineyard|vineyard]]
