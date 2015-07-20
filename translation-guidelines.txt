@@ -82,6 +82,6 @@ In addition, a good translation is reviewed by the speakers of the language comm
 
 <font inherit/inherit;;#B22222;;inherit>3. Natural - Usa as formas correntes da língua que são comumente faladas.</font>
 
-//see also: [[:en:statement-of-faith|Statement of Faith]] and [[:en:bible:notes:checking:level1:home|Checking Information]]//
+//see also: [[:pt-br:statement-of-faith|Statement of Faith]] and [[:pt-br:bible:notes:checking:level1:home|Checking Information]]//
 
 ~~DISCUSSION:off~~
