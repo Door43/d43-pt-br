@@ -59,6 +59,6 @@ Peripheral beliefs are everything else that is in Scripture but about which sinc
 
 <font inherit/inherit;;#008000;;inherit>Crenças periféricas são todos os demais assuntos que estão nas Escrituras, mas sobre as quais sinceros seguidores de Cristo podem vir a descordar. (p. ex. Batismo, Ceia do Senhor, o Arrebatamento, etc.). Nós escolhemos concordar à descordar amigavelmente desses tópicos, e nos unirmos em direção ao objetivo comum de fazer discípulos de todos os grupos de pessoas (Mateus 28:18-20).</font>
 
-//see also: [[:en:translation-guidelines|Translation Guidelines]]//
+//see also: [[:pt-br:translation-guidelines|Translation Guidelines]]//
 
 ~~DISCUSSION:off~~
