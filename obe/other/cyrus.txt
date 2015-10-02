@@ -1,0 +1,23 @@
+====== Cyrus ======
+
+===== Facts: =====
+
+Cyrus was a Persian king who founded the Persian empire in about 550 BC, through military conquest.
+
+  * Cyrus conquered the city of Babylon, which led to the release of the Israelites who had been kept in exile there.
+  * Cyrus' edict of tolerance led his successor, Darius, to allow the rebuilding of the Jerusalem temple after the exile.
+  * Cyrus was reigning during the time when Daniel, Ezra, and Nehemiah were living.
+
+(Translation suggestions: [[:pt-br:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:pt-br:obe:other:Persia]], [[:pt-br:obe:other:Darius]], [[:pt-br:obe:other:Daniel]], [[:pt-br:obe:other:Ezra]], [[:pt-br:obe:other:Nehemiah]])
+
+===== Bible References: =====
+
+{{topic>cyrus&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
