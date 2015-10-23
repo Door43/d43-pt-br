@@ -9,9 +9,6 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
 ===== Important Terms: =====
 
 
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:good|good]]**
-
   * **[[:pt-br:obe:kt:God]]**
   * **[[:pt-br:obe:kt:good]]**
 
