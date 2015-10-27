@@ -6,12 +6,11 @@
 **Moses** told the **Israelites**, “**Stop being afraid**! **God will fight for you today and save you**.” Then God told Moses, “Tell the people to **move** toward the **Red Sea**.”
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:save|save]]**
-  * **[[:pt-br:obs:notes:key-terms:red-sea|Red Sea]]**
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:other:redsea]]**
 
 
 ==== Translation Notes: ====
