@@ -6,15 +6,14 @@
 **God** said to **Moses** and the people of **Israel**, “If you will **obey** me and **keep my covenant**, **you will be my prized possession**, a **kingdom of priests**, and a **holy nation**.”
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israel]]**
-  * **[[:pt-br:obs:notes:key-terms:obey|obey]]**
-  * **[[:pt-br:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom|kingdom]]**
-  * **[[:pt-br:obs:notes:key-terms:priest|priests]]**
-  * **[[:pt-br:obs:notes:key-terms:holy|holy]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:obey]]**
+  * **[[:pt-br:obe:kt:covenant]]**
+  * **[[:pt-br:obe:other:kingdom]]**
+  * **[[:pt-br:obe:kt:priest]]**
+  * **[[:pt-br:obe:kt:holy]]**
 
 
 ==== Translation Notes: ====
