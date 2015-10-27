@@ -7,10 +7,9 @@
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:bless|blessed]]**
-  * **[[:pt-br:obs:notes:key-terms:good|good]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:bless]]**
+  * **[[:pt-br:obe:kt:good]]**
 
 
 ==== Translation Notes: ====
