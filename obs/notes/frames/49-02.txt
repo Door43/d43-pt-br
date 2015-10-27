@@ -3,15 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
 
 **Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/heal|healed]]**
-  * **[[:pt-br:obs:notes:key-terms/demon|demons]]**
-  * **[[:pt-br:obs:notes:key-terms/raise|raised]]**
-  * **[[:pt-br:obs:notes:key-terms/death|dead]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:miracle]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:heal]]**
+  * **[[:pt-br:obe:kt:demon]]**
+  * **[[:pt-br:obe:kt:raise]]**
+  * **[[:pt-br:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
