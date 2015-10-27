@@ -5,12 +5,11 @@
 Philip explained to the Ethiopian man that **Isaiah** was writing about **Jesus**. Philip also used other **scriptures** to tell him the **good news** about Jesus.
 
 
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/isaiah|Isaiah]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:pt-br:obs:notes:key-terms/good-news|good news]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:isaiah]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:goodnews]]**
 
 
 ===== Translation Notes: =====
