@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
 
 The next day **the leaders of the city** released **Paul** and **Silas** from prison and asked them to leave **Philippi**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The good news about Jesus kept spreading**, and **the Church kept growing**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/paul|Paul]]**
-  * **[[:pt-br:obs:notes:key-terms/silas|Silas]]**
-  * **[[:pt-br:obs:notes:key-terms/philippi|Philippi]]**
-  * **[[:pt-br:obs:notes:key-terms/good-news|good news]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/church|Church]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:paul]]**
+  * **[[:pt-br:obe:other:silas]]**
+  * **[[:pt-br:obe:other:philippi]]**
+  * **[[:pt-br:obe:kt:goodnews]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:church]]**
 
 
 ===== Translation Notes: =====
