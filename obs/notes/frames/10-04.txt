@@ -6,13 +6,12 @@
 **God sent frogs all over Egypt**. **Pharaoh begged Moses** to take away the frogs. But after all the frogs died, Pharaoh **hardened his heart** and would not let the **Israelites** leave Egypt.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:pt-br:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:pt-br:obs:notes:key-terms:beg|begged]]**
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:pt-br:obe:kt/god]]**
+  * **[[:pt-br:obe:other/egypt]]**
+  * **[[:pt-br:obe:other/pharaoh]]**
+  * **[[:pt-br:obe:other/beg]]**
+  * **[[:pt-br:obe:other/moses]]**
+  * **[[:pt-br:obe:other/israel]]**
 
 
 ==== Translation Notes: ====
