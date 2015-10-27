@@ -3,12 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink}}
 
 “**Jesus is now exalted to the right hand of God the Father**. And Jesus has sent the **Holy Spirit** just as he **promised** he would do. The Holy Spirit is **causing** the things that you are now seeing and hearing.”
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:godthefather]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  * **[[:pt-br:obe:kt:promise]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:pt-br:obs:notes:key-terms/promise|promised]]**
 
 
 ===== Translation Notes: =====
