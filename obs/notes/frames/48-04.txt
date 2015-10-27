@@ -3,17 +3,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-04.jpg?nolink}}
 
 **God promised** that one of **Eve's descendants** would **crush Satan's head**, and Satan would **wound his heel**. This meant that Satan would kill the **Messiah**, but God would **raise him to life again**, and then the Messiah will crush the power of Satan forever. Many years later, God revealed that **Jesus** is the Messiah.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:other:eve]]**
+  * **[[:pt-br:obe:other:descendant]]**
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:raise]]**
+  * **[[:pt-br:obe:kt:life]]**
+  * **[[:pt-br:obe:kt:jesus]]**
 
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms/eve|Eve's]]**
-  * **[[:pt-br:obs:notes:key-terms/descendant|descendants]]**
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan's]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms/raise|raise]]**
-  * **[[:pt-br:obs:notes:key-terms/life|life]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
 
 
 ===== Translation Notes: =====
