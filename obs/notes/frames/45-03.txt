@@ -3,18 +3,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
 
 The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:highpriest]]**
+  * **[[:pt-br:obe:kt:true]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:abraham]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:disobey]]**
+  * **[[:pt-br:obe:other:rebel]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:kt:christ]]**
 
-  * **[[:pt-br:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:pt-br:obs:notes:key-terms/true|true]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:pt-br:obs:notes:key-terms/rebel|rebellious]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:pt-br:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
 
 
 ===== Translation Notes: =====
