@@ -6,16 +6,14 @@
 **Moses** climbed the mountain again and **prayed** that **God** would **forgive** the people. God **listened to** Moses and forgave them. **Moses wrote** the **Ten Commandments** on new stone tablets to replace the ones he had broken. Then God led the **Israelites** away from **Mount Sinai** toward the **Promised Land**.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:pray|prayed]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:forgive|forgive]]**
-  * **[[:pt-br:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
-
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:pray]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:forgive]]**
+  * **[[:pt-br:obe:other:tencommandments]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:sinai]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
 
 ==== Translation Notes: ====
 
