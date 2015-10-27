@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?nolink}}
 
 They put **Paul** and **Silas** in the most secure part of the prison and even locked up their feet. Yet **in the middle of the night**, they were **singing songs of praise to God**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/paul|Paul]]**
-  * **[[:pt-br:obs:notes:key-terms/silas|Silas]]**
-  * **[[:pt-br:obs:notes:key-terms/praise|praise]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:paul]]**
+  * **[[:pt-br:obe:other:silas]]**
+  * **[[:pt-br:obe:other:praise]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
