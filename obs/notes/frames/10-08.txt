@@ -6,14 +6,13 @@
 **After that**, **God sent hail** that destroyed most of the crops in **Egypt** and killed anybody who went outside. **Pharaoh** called **Moses** and **Aaron** and told them, “I have **sinned**. **You may go**.” So Moses **prayed**, and the hail stopped falling from the sky.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:pt-br:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sinned]]**
-  * **[[:pt-br:obs:notes:key-terms:pray|prayed]]**
+  * **[[:pt-br:obe:kt/god]]**
+  * **[[:pt-br:obe:other/egypt]]**
+  * **[[:pt-br:obe:other/pharaoh]]**
+  * **[[:pt-br:obe:other/moses]]**
+  * **[[:pt-br:obe:other/aaron]]**
+  * **[[:pt-br:obe:kt/sin]]**
+  * **[[:pt-br:obe:other/pray]]**
 
 
 ==== Translation Notes: ====
