@@ -3,15 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink}}
 
 **David** was the **king** of **Israel**, but **Jesus** is **the king of the entire universe**! He will come again and rule his **kingdom** with **justice** and **peace**, forever.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/david|David]]**
-  * **[[:pt-br:obs:notes:key-terms/king|king]]**
-  * **[[:pt-br:obs:notes:key-terms/israel|Israel]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:pt-br:obs:notes:key-terms/justice|justice]]**
-  * **[[:pt-br:obs:notes:key-terms/peace|peace]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:david]]**
+  * **[[:pt-br:obe:other:king]]**
+  * **[[:pt-br:obe:other:Israel]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
+  * **[[:pt-br:obe:kt:justice]]**
+  * **[[:pt-br:obe:other:peace]]**
 
 
 ===== Translation Notes: =====
