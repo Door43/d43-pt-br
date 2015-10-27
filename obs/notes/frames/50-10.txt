@@ -3,16 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?nolink}}
 
 “When the world ends, the **angels** will gather together all the people **who belong to the devil** and throw them into **a raging fire**, where they will cry and grind their teeth in terrible **suffering**. Then **the righteous ones** will **shine like the sun** in the **kingdom** of **God their Father**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/angel|angels]]**
-  * **[[:pt-br:obs:notes:key-terms/satan|devil]]**
-  * **[[:pt-br:obs:notes:key-terms/suffer|suffering]]**
-  * **[[:pt-br:obs:notes:key-terms/righteous|righteous]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:pt-br:obs:notes:key-terms/god-father|God their Father]]**
-
-
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:suffer]]**
+  * **[[:pt-br:obe:kt:righteous]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
+  * **[[:pt-br:obe:kt:godthefather]]**
 ===== Translation Notes: =====
 
   * **who belong to the devil** - This could also be translated as, "who obey the devil" or, "who are ruled by the devil." This refers to those who do not believe in Jesus but follow the evil ways of the devil.
