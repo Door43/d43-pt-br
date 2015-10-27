@@ -7,11 +7,10 @@
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:pt-br:obs:notes:key-terms:bless|bless]]**
-  * **[[:pt-br:obs:notes:key-terms:curse|curse]]**
+  * **[[:pt-br:obe:kt:God]]**
+  * **[[:pt-br:obe:other:Abraham]]**
+  * **[[:pt-br:obe:kt:bless]]**
+  * **[[:pt-br:obe:kt:curse]]**
 
 
 ===== Translation Notes: =====
