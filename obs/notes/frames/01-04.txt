@@ -7,11 +7,8 @@ On the **third day**, **God spoke** and separated the water from the dry land. H
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:good|good]]**
-
-
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:good]]**
 ==== Translation Notes: ====
 
   * **third day**  - The next in the series of orderly days in which God prepared the earth for life.
