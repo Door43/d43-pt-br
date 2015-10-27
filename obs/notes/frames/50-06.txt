@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
 
 “When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/servant|servants]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Master]]**
-  * **[[:pt-br:obs:notes:key-terms/good|good]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:kt:good]]**
 
 
 ===== Translation Notes: =====
