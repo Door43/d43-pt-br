@@ -3,15 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink}}
 
 **Jesus promised** to give a **crown** to everyone who **believes** in him. They will **live** and reign with **God** in **perfect peace** forever.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believes]]**
-  * **[[:pt-br:obs:notes:key-terms/life|live]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/peace|peace]]**
-
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:life]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:peace]]**
 
 ===== Translation Notes: =====
 
