@@ -6,13 +6,12 @@
 So **God sent a plague of gnats**. Then he sent a plague of **flies**. **Pharaoh** called **Moses** and **Aaron** and told them that if they stopped the plague, the **Israelites** could leave Egypt. When Moses prayed, God removed all the flies from **Egypt**. But Pharaoh **hardened his heart** and would not let the people go free.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:pt-br:obe:kt/god]]**
+  * **[[:pt-br:obe:other/pharaoh]]**
+  * **[[:pt-br:obe:other/moses]]**
+  * **[[:pt-br:obe:other/aaron]]**
+  * **[[:pt-br:obe:other/israel]]**
+  * **[[:pt-br:obe:other/egypt]]**
 
 
 ==== Translation Notes: ====
