@@ -7,11 +7,10 @@
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:pt-br:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:pt-br:obs:notes:key-terms:esau|Esau]]**
-  * **[[:pt-br:obs:notes:key-terms:bless|bless]]**
+  * **[[:pt-br:obe:other:jacob]]**
+  * **[[:pt-br:obe:other:isaac]]**
+  * **[[:pt-br:obe:other:esau]]**
+  * **[[:pt-br:obe:kt:bless]]**
 
 
 ===== Translation Notes: =====
