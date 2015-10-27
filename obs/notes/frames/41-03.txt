@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
 
 The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:sabbath]]**
+  * **[[:pt-br:obe:other:jew]]**
+  * **[[:pt-br:obe:other:tomb]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/sabbath|Sabbath]]**
-  * **[[:pt-br:obs:notes:key-terms/jew|Jews]]**
-  * **[[:pt-br:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:pt-br:obs:notes:key-terms/tomb|tomb]]**
 
 
 ===== Translation Notes: =====
