@@ -3,13 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
 
 When the women arrived at the tomb, the **angel** told them, “**Do not be afraid**. **Jesus** is not here. **He has risen from the dead**, just like he said he would! Look in the **tomb** and see.” The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:raise]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:other:tomb]]**
 
-  * **[[:pt-br:obs:notes:key-terms/angel|angel]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/raise|risen]]**
-  * **[[:pt-br:obs:notes:key-terms/death|dead]]**
-  * **[[:pt-br:obs:notes:key-terms/tomb|tomb]]**
 
 
 ===== Translation Notes: =====
