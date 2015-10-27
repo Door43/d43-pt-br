@@ -3,12 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-03.jpg?nolink}}
 
 Because **Adam** and **Eve sinned**, something **even more terrible** happened. They became enemies of **God**. As a result, every person since then has been born with a sinful nature and is also an enemy of God. The relationship between God and people was broken by sin. But God had a plan to restore that relationship.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:adam]]**
+  * **[[:pt-br:obe:other:eve]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:god]]**
 
-  * **[[:pt-br:obs:notes:key-terms/adam|Adam]]**
-  * **[[:pt-br:obs:notes:key-terms/eve|Eve]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sinned]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
 
 
 ===== Translation Notes: =====
