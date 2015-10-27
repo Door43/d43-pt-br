@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
 
 “You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Lord]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:crucify]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:kt:christ]]**
 
 
 ===== Translation Notes: =====
