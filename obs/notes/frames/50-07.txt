@@ -5,10 +5,9 @@
 “The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
 
 
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/servant|servants]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|master]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:lord]]**
 
 
 ===== Translation Notes: =====
