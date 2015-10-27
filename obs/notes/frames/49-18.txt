@@ -4,12 +4,11 @@
 
 **God** tells you to **pray**, to study **his word**, to **worship** him with other **Christians**, and to tell others what he has done for you. All of these things help you **to have a deeper relationship with him**.
 ===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/pray|pray]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|his word]]**
-  * **[[:pt-br:obs:notes:key-terms/worship|worship]]**
-  * **[[:pt-br:obs:notes:key-terms/christian|Christians]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:pray]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:christian]]**
 
 
 ===== Translation Notes: =====
