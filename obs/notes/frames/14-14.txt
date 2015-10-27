@@ -6,15 +6,14 @@
 After the **Israelites** had wandered in the wilderness for forty years, all of them **who had rebelled against God** were dead. Then God led **the people** to the edge of the **Promised Land** again. **Moses** was now very old, so God chose **Joshua** to help him lead the people. God also **promised** Moses that **one day**, he would send **another prophet like Moses**.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms:prophet|prophet]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:rebel]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:joshua]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:kt:prophet]]**
 
 
 ==== Translation Notes: ====
