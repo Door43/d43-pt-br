@@ -6,18 +6,17 @@
 **God** said, “I have seen the **suffering of my people**. I will send you to **Pharaoh** so that you can **bring the Israelites out of their slavery in Egypt**. I will give them the land of **Canaan**, the land I **promised** to **Abraham**, **Isaac**, and **Jacob**.”
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:suffer|suffering]]**
-  * **[[:pt-br:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:servant|slavery]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:pt-br:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:pt-br:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:pt-br:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:suffer]]**
+  * **[[:pt-br:obe:other:pharaoh]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:other:egypt]]**
+  * **[[:pt-br:obe:other:canaan]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:other:abraham]]**
+  * **[[:pt-br:obe:other:isaac]]**
+  * **[[:pt-br:obe:other:jacob]]**
 
 
 ==== Translation Notes: ====
