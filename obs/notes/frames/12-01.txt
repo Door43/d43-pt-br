@@ -6,14 +6,13 @@
 The **Israelites** were very happy to leave **Egypt**. **They were no longer slaves**, and they were **going** to the **Promised Land**! The **Egyptians** gave the Israelites whatever they asked for, even gold and silver and other valuable things. Some people from other nations **believed** in **God** and went along with the Israelites as they left Egypt.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:pt-br:obs:notes:key-terms:servant|slaves]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:pt-br:obs:notes:key-terms:believe|believed]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:egypt]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
+  * **[[:pt-br:obe:other:egypt]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ==== Translation Notes: ====
