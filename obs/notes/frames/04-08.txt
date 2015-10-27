@@ -7,15 +7,14 @@
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:pt-br:obs:notes:key-terms:sarah|Sarai]]**
-  * **[[:pt-br:obs:notes:key-terms:son|son]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:pt-br:obs:notes:key-terms:believe|believed]]**
-  * **[[:pt-br:obs:notes:key-terms:righteous|righteous]]**
+  * **[[:pt-br:obe:other:abraham]]**
+  * **[[:pt-br:obe:other:sarah]]**
+  * **[[:pt-br:obe:kt:son]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:other:descendant]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:righteous]]**
 
 
 ===== Translation Notes: =====
