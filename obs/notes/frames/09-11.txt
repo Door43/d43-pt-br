@@ -6,10 +6,10 @@
 **Moses** became a **shepherd** in the **wilderness** far away from **Egypt**. He married a woman from that place and had two sons.
 ===== Important Terms: =====
 
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:shepherd]]**
+  * **[[:pt-br:obe:other:egypt]]**
 
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:shepherd|shepherd]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
 
 
 ==== Translation Notes: ====
