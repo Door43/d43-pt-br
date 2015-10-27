@@ -3,20 +3,21 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg?nolink}}
 
 A **disciple** of **Jesus**' named Philip was one of the **believers** who fled from **Jerusalem** during the **persecution**. He went to **Samaria** where he **preached** about Jesus and many people were **saved**. Then **one day**, an **angel** from **God** told Philip to go to a certain road in the desert. As he walked along the road, Philip saw an important official from **Ethiopia** riding in his **chariot**. The **Holy Spirit** told Philip to go and talk to this man.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:believer]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
+  * **[[:pt-br:obe:other:persecute]]**
+  * **[[:pt-br:obe:other:samaria]]**
+  * **[[:pt-br:obe:other:preach]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:chariot]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  
 
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciple]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:pt-br:obs:notes:key-terms/believer|believers]]**
-  * **[[:pt-br:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:pt-br:obs:notes:key-terms/persecute|persecution]]**
-  * **[[:pt-br:obs:notes:key-terms/samaria|Samaria]]**
-  * **[[:pt-br:obs:notes:key-terms/preach|preached]]**
-  * **[[:pt-br:obs:notes:key-terms/save|saved]]**
-  * **[[:pt-br:obs:notes:key-terms/angel|angel]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
 
 
 ===== Translation Notes: =====
