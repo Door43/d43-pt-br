@@ -7,13 +7,12 @@ After **testing his brothers** to see **if they had changed**, **Joseph** said t
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:pt-br:obs:notes:key-terms:evil|evil]]**
-  * **[[:pt-br:obs:notes:key-terms:servant|slave]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:good|good]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:pt-br:obe:other:josephot]]**
+  * **[[:pt-br:obe:kt:evil]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:good]]**
+  * **[[:pt-br:obe:other:egypt]]**
 
 
 ==== Translation Notes: ====
