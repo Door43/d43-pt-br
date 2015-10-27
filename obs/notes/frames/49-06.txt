@@ -3,14 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-06.jpg?nolink}}
 
 **Jesus** taught that some people will **receive** him and be **saved**, but **others will not**. He said that some people are like good soil. They receive the **good news** of Jesus and are saved. Other people are like the hard soil of a path, where the **seed of God's word** does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into **his kingdom**.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:receive]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:kt:goodnews]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/receive|receive]]**
-  * **[[:pt-br:obs:notes:key-terms/save|saved]]**
-  * **[[:pt-br:obs:notes:key-terms/good-news|good news]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|his kingdom]]**
 
 
 ===== Translation Notes: =====
