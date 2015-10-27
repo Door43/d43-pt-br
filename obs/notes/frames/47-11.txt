@@ -3,18 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink}}
 
 The jailer trembled as he came to **Paul** and **Silas** and asked, “What must I do **to be saved**?” **Paul** answered, “**Believe in Jesus**, **the Master**, and **you and your family will be saved**.” Then the jailer took Paul and Silas into his home and washed their wounds. Paul **preached** the **good news** about Jesus to everyone in his house.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/paul|Paul]]**
-  * **[[:pt-br:obs:notes:key-terms/silas|Silas]]**
-  * **[[:pt-br:obs:notes:key-terms/save|saved]]**
-  * **[[:pt-br:obs:notes:key-terms/paul|Paul]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|Believe]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Master]]**
-  * **[[:pt-br:obs:notes:key-terms/save|saved]]**
-  * **[[:pt-br:obs:notes:key-terms/preach|preached]]**
-  * **[[:pt-br:obs:notes:key-terms/good-news|good news]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:paul]]**
+  * **[[:pt-br:obe:other:silas]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:other:preach]]**
+  * **[[:pt-br:obe:kt:goodnews]]**
 
 
 ===== Translation Notes: =====
