@@ -3,18 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?nolink}}
 
 The **slave girl** kept yelling as they walked, “These men are **servants** of the **Most High God**. They are telling you **the way to be saved**!” She did this so often that **Paul** became annoyed.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:pt-br:obs:notes:key-terms/servant|servants]]**
-  * **[[:pt-br:obs:notes:key-terms/god|Most High God]]**
-  * **[[:pt-br:obs:notes:key-terms/save|saved]]**
-  * **[[:pt-br:obs:notes:key-terms/paul|Paul]]**
-   
-  * **[[:pt-br:obe:kt:servant]]**
+===== Important Terms: =====     
+  * **[[:pt-br:obe:other:servant]]**
   * **[[:pt-br:obe:kt:god]]**
   * **[[:pt-br:obe:kt:save]]**
-  * **[[:pt-br:obe:kt:paul]]**
+  * **[[:pt-br:obe:other:paul]]**
 
 
 ===== Translation Notes: =====
