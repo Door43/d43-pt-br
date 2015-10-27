@@ -6,10 +6,9 @@
 When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:pt-br:obe:other:pharaoh]]**
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:egypt]]**
 
 
 ==== Translation Notes: ====
