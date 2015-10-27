@@ -6,15 +6,14 @@
 **Then God gave them the covenant and said**, “I am **Yahweh**, **your God**, **who saved you from slavery** in **Egypt**. Do not **worship** other **gods**.”
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:pt-br:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:pt-br:obs:notes:key-terms:save|saved]]**
-  * **[[:pt-br:obs:notes:key-terms:servant|slavery]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:pt-br:obs:notes:key-terms:worship|worship]]**
-  * **[[:pt-br:obs:notes:key-terms:god-false|gods]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:covenant]]**
+  * **[[:pt-br:obe:kt:yahweh]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:other:egypt]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:falsegod]]**
 
 
 ==== Translation Notes: ====
