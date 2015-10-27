@@ -3,12 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink}}
 
 The leaders of the **Temple** were very upset by what **Peter** and **John** were saying. So they arrested them and put them into prison. But many of the people **believed Peter's message**, and the **number of men** who believed in Jesus grew to about 5,000.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:temple]]**
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:other:johntheapostle]]**
+  * **[[:pt-br:obe:kt:believe]]**
 
-  * **[[:pt-br:obs:notes:key-terms/temple|Temple]]**
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/john|John]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believed]]**
 
 
 ===== Translation Notes: =====
