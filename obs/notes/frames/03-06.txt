@@ -7,10 +7,9 @@
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:noah|Noah]]**
-  * **[[:pt-br:obs:notes:key-terms:sacrifice|sacrifices]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:noah]]**
+  * **[[:pt-br:obe:other:sacrifice]]**
 
 
 ===== Translation Notes: =====
