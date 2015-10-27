@@ -5,9 +5,9 @@
 **Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**.
 ===== Important Terms: =====
 
-  * **[[:pt-br:obs:notes:key-terms:adam|Adam]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sin]]**
+  * **[[:pt-br:obe:other:adam]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:sin]]**
 ==== Translation Notes: ====
 
   * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:pt-br:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
