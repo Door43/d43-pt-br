@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink}}
 
 When **God created the world**, everything was **perfect**. **There was no sin**. **Adam** and **Eve** loved each other, and they loved God. **There was no sickness or death**. This was the way God wanted the world to be.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sin]]**
-  * **[[:pt-br:obs:notes:key-terms/adam|Adam]]**
-  * **[[:pt-br:obs:notes:key-terms/eve|Eve]]**
-  * **[[:pt-br:obs:notes:key-terms/love|loved]]**
-  * **[[:pt-br:obs:notes:key-terms/death|death]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:other:adam]]**
+  * **[[:pt-br:obe:other:eve]]**
+  * **[[:pt-br:obe:kt:love]]**
+  * **[[:pt-br:obe:kt:death]]**
 
 
 ===== Translation Notes: =====
