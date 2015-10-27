@@ -8,11 +8,8 @@ Then **God said**, â€œ**Let the earth produce all kinds** of trees and plants.â€
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:good|good]]**
-
-
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:good]]**
 ==== Translation Notes: ====
 
 
