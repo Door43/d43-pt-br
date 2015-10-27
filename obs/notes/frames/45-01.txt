@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
 
 One of the leaders **in the early Church** was a man named Stephen. He **had a good reputation** and **was full of the Holy Spirit and of wisdom**. Stephen did many **miracles** and **reasoned persuasively that** people should **believe** in **Jesus**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/church|Church]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:pt-br:obs:notes:key-terms/wise|wisdom]]**
-  * **[[:pt-br:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believe]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:kt:church]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  * **[[:pt-br:obe:kt:wise]]**
+  * **[[:pt-br:obe:kt:miracle]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
