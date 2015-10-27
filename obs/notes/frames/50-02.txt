@@ -3,15 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
 
 As we wait for **Jesus** to return, **God** wants us to live in a way that is **holy** and that honors him. He also wants us to tell others about his **kingdom**. When Jesus was living on earth he said, “My **disciples** will **preach** the **good news** about the kingdom of God to people everywhere in the world, and then **the end will come**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/holy|holy]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/preach|preach]]**
-  * **[[:pt-br:obs:notes:key-terms/good-news|good news]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:holy]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:other:preach]]**
+  * **[[:pt-br:obe:kt:goodnews]]**
 
 
 ===== Translation Notes: =====
