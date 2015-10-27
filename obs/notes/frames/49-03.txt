@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
 
 **Jesus** was also **a great teacher**, and he spoke with authority because he is the **Son of God**. He taught that you need to **love** other people **the same way** you love yourself.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:pt-br:obs:notes:key-terms/love|love]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:love]]**
 
 
 ===== Translation Notes: =====
