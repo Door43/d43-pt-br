@@ -6,10 +6,9 @@
 But **Pharaoh sinned** again and **hardened his heart**. He would not let the **Israelites** go free.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sinned]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:pt-br:obe:other/pharaoh]]**
+  * **[[:pt-br:obe:kt/sin]]**
+  * **[[:pt-br:obe:other/israel]]**
 
 
 ==== Translation Notes: ====
