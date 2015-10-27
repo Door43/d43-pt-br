@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink}}
 
 The **disciples** did not understand the meaning of the story, so they asked **Jesus** to explain it to them. Jesus said, “The man who planted the **good** seed represents the **Messiah**. The field represents the world. The good seed represents **the people of God’s kingdom**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/good|good]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|God's kingdom]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:good]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
 
 
 ===== Translation Notes: =====
