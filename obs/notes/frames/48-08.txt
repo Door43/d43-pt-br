@@ -3,18 +3,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-08.jpg?nolink}}
 
 When **God** told **Abraham** to offer his **son**, **Isaac**, as a **sacrifice**, God provided a **lamb** for the sacrifice **instead of his son**, **Isaac**. We all **deserve to die** for our **sins**! But God provided **Jesus**, the **Lamb of God**, as a sacrifice **to die in our place**.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:abraham]]**
+  * **[[:pt-br:obe:kt:son]]**
+  * **[[:pt-br:obe:other:isaac]]**
+  * **[[:pt-br:obe:other:sacrifice]]**
+  * **[[:pt-br:obe:kt:lamb]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+ 
 
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:pt-br:obs:notes:key-terms/son|son]]**
-  * **[[:pt-br:obs:notes:key-terms/isaac|Isaac]]**
-  * **[[:pt-br:obs:notes:key-terms/sacrifice|sacrifice]]**
-  * **[[:pt-br:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:pt-br:obs:notes:key-terms/death|die]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sins]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/lamb|Lamb of God]]**
 
 
 ===== Translation Notes: =====
