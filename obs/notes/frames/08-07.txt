@@ -7,11 +7,10 @@
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:pt-br:obs:notes:key-terms:dream|dreams]]**
-  * **[[:pt-br:obs:notes:key-terms:pharaoh|Pharaoh]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:josephot]]**
+  * **[[:pt-br:obe:other:dream]]**
+  * **[[:pt-br:obe:other:pharaoh]]**
 
 
 ==== Translation Notes: ====
