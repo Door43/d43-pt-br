@@ -3,15 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-08.jpg?nolink}}
 
 **Jesus** also told us that **God** hates **sin**. When **Adam** and **Eve sinned**, it affected all of their **descendants**. As a result, every person in the world sins and **is separated from God**. Therefore, everyone has become an enemy of God.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:other:adam]]**
+  * **[[:pt-br:obe:other:eve]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:other:descendant]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sin]]**
-  * **[[:pt-br:obs:notes:key-terms/adam|Adam]]**
-  * **[[:pt-br:obs:notes:key-terms/eve|Eve]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sinned]]**
-  * **[[:pt-br:obs:notes:key-terms/descendant|descendants]]**
 
 
 ===== Translation Notes: =====
