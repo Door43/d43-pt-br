@@ -3,14 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink}}
 
 If you are a **Christian**, **God** has **forgiven** your **sins** because of what **Jesus** did. Now, God **considers you to be** a close friend instead of an enemy.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/christian|Christian]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sins]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:christian]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:forgive]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:jesus]]**
 
 ===== Translation Notes: =====
 
