@@ -6,18 +6,17 @@
 
 
 
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believe]]**
-  * **[[:pt-br:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sinner]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/punish|punish]]**
-  * **[[:pt-br:obs:notes:key-terms/death|died]]**
-  * **[[:pt-br:obs:notes:key-terms/cross|cross]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:baptize]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:punish]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:cross]]**
 
 
 ===== Translation Notes: =====
