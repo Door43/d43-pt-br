@@ -3,16 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink}}
 
 **Because of your sin**, you are **guilty** and deserve to **die**. **God should be angry** with you, but **he poured out his anger on Jesus** instead of on you. When Jesus died on the **cross**, he **received your punishment**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/sin|sin]]**
-  * **[[:pt-br:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:pt-br:obs:notes:key-terms/death|die]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/cross|cross]]**
-  * **[[:pt-br:obs:notes:key-terms/receive|received]]**
-  * **[[:pt-br:obs:notes:key-terms/punish|punishment]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:guilt]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:cross]]**
+  * **[[:pt-br:obe:kt:receive]]**
+  * **[[:pt-br:obe:other:punish]]**
 
 
 ===== Translation Notes: =====
