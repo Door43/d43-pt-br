@@ -3,14 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink}}
 
 **Satan** spoke through the snake in **the garden** in order to **deceive Eve**. Then she and **Adam sinned** against **God**. Because they sinned, everyone on earth gets sick and everyone **dies**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan]]**
-  * **[[:pt-br:obs:notes:key-terms/eve|Eve]]**
-  * **[[:pt-br:obs:notes:key-terms/adam|Adam]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sinned]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/death|dies]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:other:Eve]]**
+  * **[[:pt-br:obe:other:adam]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:death]]**
+  
 
 
 ===== Translation Notes: =====
