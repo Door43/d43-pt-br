@@ -4,13 +4,11 @@
 
 **God** made a **covenant** with **the Israelites**, **who were his chosen people**. But God has now made a **New Covenant** that is available to everyone. Because of this New Covenant, anyone from any **people group** can become part of God’s people by **believing** in Jesus.
 ===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/covenant|covenant]]**
-  * **[[:pt-br:obs:notes:key-terms/israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms/covenant-new|New Covenant]]**
-  * **[[:pt-br:obs:notes:key-terms/people-group|people group]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believing]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:covenant]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:peoplegroup]]**
+  * **[[:pt-br:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
