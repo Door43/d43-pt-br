@@ -8,6 +8,10 @@
   * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
   * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
   * **[[:pt-br:obs:notes:key-terms/good|good]]**
+  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:good]]**
 
 
 ===== Translation Notes: =====
