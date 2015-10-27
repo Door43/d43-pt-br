@@ -3,13 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?nolink}}
 
 So the owners of the **slave girl** took **Paul** and **Silas** to the **Roman authorities**, who beat them and **threw them** into jail.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:pt-br:obs:notes:key-terms/paul|Paul]]**
-  * **[[:pt-br:obs:notes:key-terms/silas|Silas]]**
-  * **[[:pt-br:obs:notes:key-terms/rome|Roman authorities]]**
-
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:other:paul]]**
+  * **[[:pt-br:obe:other:silas]]**
+  * **[[:pt-br:obe:other:rome]]**
 
 ===== Translation Notes: =====
 
