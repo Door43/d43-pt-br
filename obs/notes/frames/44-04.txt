@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink}}
 
 A crowd of people quickly came to see the man who was **healed**. **Peter** said to them, “Why are you amazed that this man is healed? We did not heal him through our own power or goodness. Rather, it is the **power** of **Jesus** and the **faith** that Jesus gives that healed this man.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/heal|healed]]**
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/power|power]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/faith|faith]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:heal]]**
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:power]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:faith]]**
 
 
 ===== Translation Notes: =====
