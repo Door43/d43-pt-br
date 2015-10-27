@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-09.jpg?nolink}}
 
 During the next forty days, **Jesus** appeared to his **disciples** many times. Once, he even appeared to more than 500 people at the same time! He proved to his disciples in many ways that he was **alive**, and he taught them about the **kingdom of God**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/life|alive]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:life]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
 
 
 ===== Translation Notes: =====
