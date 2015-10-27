@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-15.jpg?nolink}}
 
 When **Jesus** returns, he will completely destroy **Satan** and **his kingdom**. He will throw Satan into **hell** where he will burn forever, along with everyone who chose to follow him rather than to **obey God**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom|kingdom]]**
-  * **[[:pt-br:obs:notes:key-terms/hell|hell]]**
-  * **[[:pt-br:obs:notes:key-terms/obey|obey]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
+===== Important Terms: =====     
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:other:kingdom]]**
+  * **[[:pt-br:obe:kt:hell]]**
+  * **[[:pt-br:obe:other:obey]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
