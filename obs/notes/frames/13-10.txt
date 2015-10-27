@@ -6,12 +6,11 @@
 The people all agreed to **obey** the laws that **God** had **given them**, to **worship** only God, and to be **his special people**. But a short time after they **promised** to obey God, they **sinned terribly**.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:obey|obey]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:worship|worship]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sinned]]**
+  * **[[:pt-br:obe:other:obey]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:kt:sin]]**
 
 
 ==== Translation Notes: ====
