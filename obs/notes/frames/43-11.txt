@@ -3,16 +3,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink}}
 
 **Peter** answered them, “Every one of you should **repent** and be **baptized in the name of Jesus Christ** so that **God** will **forgive** your **sins**. Then he will also give you the **gift of the Holy Spirit**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/repent|repent]]**
-  * **[[:pt-br:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]] [[:pt-br:obs:notes:key-terms/messiah|Christ]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sins]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:repent]]**
+  * **[[:pt-br:obe:kt:baptize]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:forgive]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
 
 
 ===== Translation Notes: =====
