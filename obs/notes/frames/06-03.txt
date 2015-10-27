@@ -7,11 +7,9 @@
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:rebekah|Rebekah]]**
-  * **[[:pt-br:obs:notes:key-terms:servant|servant]]**
-  * **[[:pt-br:obs:notes:key-terms:isaac|Isaac's]]**
-
+  * **[[:pt-br:obe:other:rebekah]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:other:isaac]]**
 
 ===== Translation Notes: =====
 
