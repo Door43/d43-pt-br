@@ -6,12 +6,11 @@
 **God provided** a way to **save** the firstborn **son** of anyone who **believed** in him. Each family had to choose a **perfect lamb** and kill it.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:save|save]]**
-  * **[[:pt-br:obs:notes:key-terms:son|son]]**
-  * **[[:pt-br:obs:notes:key-terms:believe|believed]]**
-  * **[[:pt-br:obs:notes:key-terms:lamb|lamb]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:kt:son]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:lamb]]**
 
 
 ==== Translation Notes: ====
