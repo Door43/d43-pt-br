@@ -3,17 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
 
 Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, God **cursed** it and decided to destroy it. But some day God will create **a new heaven** and **a new earth** that will be perfect.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/adam|Adam]]**
-  * **[[:pt-br:obs:notes:key-terms/eve|Eve]]**
-  * **[[:pt-br:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sin]]**
-  * **[[:pt-br:obs:notes:key-terms/curse|cursed]]**
-  * **[[:pt-br:obs:notes:key-terms/heaven|heaven]]**
-
-
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:adam]]**
+  * **[[:pt-br:obe:other:eve]]**
+  * **[[:pt-br:obe:other:disobey]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:curse]]**
+  * **[[:pt-br:obe:kt:heaven]]**
 ===== Translation Notes: =====
 
   * **brought sin into** - This could be translated as, "caused sin to enter."
