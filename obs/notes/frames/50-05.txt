@@ -3,12 +3,7 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink}}
 
 **Jesus** told his **disciples** a story to explain what will happen to people when the world ends. He said, “A man planted **good seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/good|good]]**
-  
+===== Important Terms: =====  
   * **[[:pt-br:obe:kt:jesus]]**
   * **[[:pt-br:obe:kt:disciple]]**
   * **[[:pt-br:obe:kt:good]]**
