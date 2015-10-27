@@ -6,20 +6,19 @@
 **God** had **promised Abraham**, **Isaac**, and **Jacob** that he would give the **Promised Land** to their **descendants**, but now there were many **people groups** living there. They were called **Canaanites**. The Canaanites did not **worship** or **obey** God. They worshiped **false gods** and did many **evil** things.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:pt-br:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:pt-br:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:pt-br:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:pt-br:obs:notes:key-terms:people-group|people groups]]**
-  * **[[:pt-br:obs:notes:key-terms:canaan|Canaanites]]**
-  * **[[:pt-br:obs:notes:key-terms:worship|worship]]**
-  * **[[:pt-br:obs:notes:key-terms:obey|obey]]**
-  * **[[:pt-br:obs:notes:key-terms:god-false|false gods]]**
-  * **[[:pt-br:obs:notes:key-terms:evil|evil]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:other:abraham]]**
+  * **[[:pt-br:obe:other:isaac]]**
+  * **[[:pt-br:obe:other:jacob]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
+  * **[[:pt-br:obe:other:descendant]]**
+  * **[[:pt-br:obe:other:peoplegroup]]**
+  * **[[:pt-br:obe:other:canaan]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:other:obey]]**
+  * **[[:pt-br:obe:kt:falsegod]]**
+  * **[[:pt-br:obe:kt:evil]]**
 
 
 ==== Translation Notes: ====
