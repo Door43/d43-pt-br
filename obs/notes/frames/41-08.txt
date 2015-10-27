@@ -3,12 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink}}
 
 As the women were on their way to tell the **disciples** the good news, **Jesus** appeared to them, and they **worshiped** him. Jesus said, “Do not be afraid. Go and tell my disciples to go to **Galilee**. They **will see me** there.”
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:other:galilee]]**
 
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:pt-br:obs:notes:key-terms/galilee|Galilee]]**
 
 
 ===== Translation Notes: =====
