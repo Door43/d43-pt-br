@@ -7,9 +7,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:curse|cursed]]**
-  * **[[:pt-br:obs:notes:key-terms:descendant|descendant]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:curse]]**
+  * **[[:pt-br:obe:other:descendant]]**
 
 
 ===== Translation Notes: =====
