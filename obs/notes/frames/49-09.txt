@@ -3,16 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink}}
 
 But **God loved** everyone in the world so much that he **gave his only Son** so that **whoever believes in Jesus will not be punished for his sins**, **but will live with God foreve**r.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/love|loved]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believes]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/punish|punished]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sins]]**
-  * **[[:pt-br:obs:notes:key-terms/life|live]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:love]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:punish]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
