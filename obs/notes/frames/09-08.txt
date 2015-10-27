@@ -6,12 +6,11 @@
 One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egyptian]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:pt-br:obs:notes:key-terms:servant|slave]]**
-  * **[[:pt-br:obs:notes:key-terms:save|save]]**
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:egypt]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:save]]**
 
 
 ==== Translation Notes: ====
