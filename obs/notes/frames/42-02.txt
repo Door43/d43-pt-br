@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink}}
 
 **Jesus** approached them and started walking with them, but they **did not recognize him**. He asked what they were talking about, and they told him about **all the remarkable things that had happened** concerning Jesus during the previous few days. They thought they were talking to a visitor who did not know what had happened in **Jerusalem**.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
 
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/jerusalem|Jerusalem]]**
 
 
 ===== Translation Notes: =====
