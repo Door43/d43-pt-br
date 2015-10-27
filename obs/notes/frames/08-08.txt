@@ -7,10 +7,9 @@
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:pt-br:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:pt-br:obe:other:pharaoh]]**
+  * **[[:pt-br:obe:other:josephot]]**
+  * **[[:pt-br:obe:other:egypt]]**
 
 
 ==== Translation Notes: ====
