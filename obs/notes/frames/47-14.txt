@@ -3,16 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
 
 **Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/paul|Paul]]**
-  * **[[:pt-br:obs:notes:key-terms/christian|Christian]]**
-  * **[[:pt-br:obs:notes:key-terms/preach|preaching]]**
-  * **[[:pt-br:obs:notes:key-terms/good-news|good news]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/believer|believers]]**
-  * **[[:pt-br:obs:notes:key-terms/church|churches]]**
-
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:paul]]**
+  * **[[:pt-br:obe:kt:christian]]**
+  * **[[:pt-br:obe:other:preach]]**
+  * **[[:pt-br:obe:kt:goodnews]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:believer]]**
+  * **[[:pt-br:obe:kt:church]]**
 
 ===== Translation Notes: =====
 
