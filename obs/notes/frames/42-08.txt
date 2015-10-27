@@ -4,16 +4,15 @@
 
 “It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
 ===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/repent|repent]]**
-  * **[[:pt-br:obs:notes:key-terms/receive|receive]]**
-  * **[[:pt-br:obs:notes:key-terms/forgive|forgiveness]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sins]]**
-  * **[[:pt-br:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:pt-br:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:pt-br:obs:notes:key-terms/witness|witnesses]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:repent]]**
+  * **[[:pt-br:obe:kt:receive]]**
+  * **[[:pt-br:obe:kt:forgive]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
+  * **[[:pt-br:obe:other:peoplegroup]]**
+  * **[[:pt-br:obe:kt:witness]]**
 
 
 ===== Translation Notes: =====
