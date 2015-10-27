@@ -6,10 +6,13 @@
 Then **God sent darkness that lasted for three days**. It was so dark that the **Egyptians** could not leave their houses. But there was light where the **Israelites** lived.
 ===== Important Terms: =====
 
-
   * **[[:pt-br:obs:notes:key-terms:god|God]]**
   * **[[:pt-br:obs:notes:key-terms:egypt|Egyptians]]**
   * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
+
+  * **[[:pt-br:obe:kt/god]]**
+  * **[[:pt-br:obe:other/egypt]]**
+  * **[[:pt-br:obe:other/israel]]**
 
 
 ==== Translation Notes: ====
