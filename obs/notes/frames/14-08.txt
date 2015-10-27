@@ -6,13 +6,11 @@
 **God was very angry** and **came to** the **Tent of Meeting**. **God** said, “Because you have rebelled against me, all of the people will have to **wander in the wilderness**. Except for **Joshua** and **Caleb**, everyone who is twenty years or older will die there and never enter the **Promised Land**.”
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:pt-br:obs:notes:key-terms:caleb|Caleb]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:pt-br:obe:kt:God]]**
+  * **[[:pt-br:obe:other:tentofmeeting]]**
+  * **[[:pt-br:obe:other:joshua]]**
+  * **[[:pt-br:obe:other:caleb]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
 
 
 ==== Translation Notes: ====
