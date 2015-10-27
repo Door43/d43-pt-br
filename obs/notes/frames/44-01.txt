@@ -3,12 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink}}
 
 **One day**, **Peter** and **John** were going to the **Temple**. As they approached the Temple gate, they saw **a crippled man** who was **begging** for money.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:other:johntheapostle]]**
+  * **[[:pt-br:obe:kt:temple]]**
+  * **[[:pt-br:obe:other:beg]]**
 
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/john|John]]**
-  * **[[:pt-br:obs:notes:key-terms/temple|Temple]]**
-  * **[[:pt-br:obs:notes:key-terms/beg|begging]]**
 
 
 ===== Translation Notes: =====
