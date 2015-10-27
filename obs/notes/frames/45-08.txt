@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
 
 When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:pt-br:obs:notes:key-terms/isaiah|prophet Isaiah]]**
-  * **[[:pt-br:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:pt-br:obs:notes:key-terms/life|life]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:chariot]]**
+  * **[[:pt-br:obe:other:isaiah]]**
+  * **[[:pt-br:obe:kt:lamb]]**
+  * **[[:pt-br:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
