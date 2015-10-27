@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
 
 “Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/israel|Israel]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/miracle|signs and wonders]]**
-  * **[[:pt-br:obs:notes:key-terms/power|power]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:vi:key-terms/crucify|crucified]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:miracle]]**
+  * **[[:pt-br:obe:kt:power]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:crucify]]**
 
 
 ===== Translation Notes: =====
