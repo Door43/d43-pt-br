@@ -3,18 +3,18 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
 
 **Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:other:heal]]**
+  * **[[:pt-br:obe:kt:power]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:crucify]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:raise]]**
+  * **[[:pt-br:obe:kt:life]]**
+  * **[[:pt-br:obe:kt:save]]**
 
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/heal|healed]]**
-  * **[[:pt-br:obs:notes:key-terms/power|power]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/raise|raised]]**
-  * **[[:pt-br:obs:notes:key-terms/life|life]]**
-  * **[[:pt-br:obs:notes:key-terms/save|saved]]**
 
 
 ===== Translation Notes: =====
