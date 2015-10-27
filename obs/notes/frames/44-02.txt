@@ -3,11 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink}}
 
 **Peter** looked at the lame man and said, “I do not have any money to give you. But I will give you what I do have. **In the name of Jesus**, **get up** and walk!”
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
