@@ -3,9 +3,8 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink}}
 
 The Ethiopian continued traveling toward his home, happy that he knew **Jesus**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
