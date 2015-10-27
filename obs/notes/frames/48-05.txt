@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
 
 When **God** destroyed the whole earth by the flood, he provided the boat to **save** the people who **believed** in him. In the same way, everyone deserves to be **destroyed because of their sins**, but God provided **Jesus** to save everyone who believes in him.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/save|save]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believed]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sins]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
