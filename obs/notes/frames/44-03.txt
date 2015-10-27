@@ -3,12 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink}}
 
 Immediately, **God healed** the lame man, and he began to walk and jump around, and to **praise** God. The people in the **courtyard of the Temple** were amazed.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:heal]]**
+  * **[[:pt-br:obe:other:praise]]**
+  * **[[:pt-br:obe:kt:temple]]**
 
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/heal|healed]]**
-  * **[[:pt-br:obs:notes:key-terms/praise|praise]]**
-  * **[[:pt-br:obs:notes:key-terms/temple|Temple]]**
 
 
 ===== Translation Notes: =====
