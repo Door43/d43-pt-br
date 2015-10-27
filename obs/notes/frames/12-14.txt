@@ -6,13 +6,12 @@
 **God** commanded the **Israelites** to celebrate **the Passover** every year in order to **remember how God gave them victory over** the **Egyptians** and rescued them from being **slaves**. They celebrated by killing a **perfect lamb**, eating it with **unleavened bread**, and telling about how God had **saved** them.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:passover|Passover]]**
-  * **[[:pt-br:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:pt-br:obs:notes:key-terms:servant|slaves]]**
-  * **[[:pt-br:obs:notes:key-terms:lamb|lamb]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:kt:passover]]**
+  * **[[:pt-br:obe:other:egypt]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:lamb]]**
 
 
 ==== Translation Notes: ====
