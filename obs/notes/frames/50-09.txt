@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink}}
 
 “The weeds represent the people **who belong to the evil one**. The enemy who planted the weeds represents **the devil**. The harvest **represents the end of the world**, and **the harvesters** represent **God's angels**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/evil|evil]]**
-  * **[[:pt-br:obs:notes:key-terms/satan|devil]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God's]]**
-  * **[[:pt-br:obs:notes:key-terms/angel|angels]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:evil]]**
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:angel]]**
 
 
 ===== Translation Notes: =====
