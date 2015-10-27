@@ -7,9 +7,9 @@ When **Isaac** was a young man, **God tested Abraham's faith** by saying, “Tak
 
 ===== Important Terms: =====
 
-  * **[[:pt-br:obe:other:Isaac]]**
-  * **[[:pt-br:obe:kt:God]]**
-  * **[[:pt-br:obe:other:Abraham]]**
+  * **[[:pt-br:obe:other:isaac]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:abraham]]**
   * **[[:pt-br:obe:kt:faith]]**
   * **[[:pt-br:obe:kt:son]]**
   * **[[:pt-br:obe:other:sacrifice]]**
