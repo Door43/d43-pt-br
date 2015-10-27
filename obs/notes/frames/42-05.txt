@@ -3,13 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
 
 The two men said to each other, “That was **Jesus**! That is why **our hearts were burning** when he explained **God’s word** to us!” Immediately, they went back to **Jerusalem**. When they arrived, they told the **disciples**, “Jesus is **alive**! We have seen him!”
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:life]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:pt-br:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/life|alive]]**
 
 
 ===== Translation Notes: =====
