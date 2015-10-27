@@ -3,10 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-04.jpg?nolink}}
 
 He also taught that you need to **love God** more than you love anything else, including **your wealth**.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:love]]**
+  * **[[:pt-br:obe:kt:god]]**
 
-  * **[[:pt-br:obs:notes:key-terms/love|love]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
 
 
 ===== Translation Notes: =====
