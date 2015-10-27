@@ -6,12 +6,11 @@
 For many days, **Moses** was on top of **Mount Sinai** talking with **God**. **The people became tired of waiting** for him to return. So they **brought gold** to **Aaron** and asked him to make an **idol** for them!
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms:sinai|Mount Sinai]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:pt-br:obs:notes:key-terms:idol|idol]]**
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:sinai]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:aaron]]**
+  * **[[:pt-br:obe:other:idol]]**
 
 
 ==== Translation Notes: ====
