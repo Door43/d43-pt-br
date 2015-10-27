@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink}}
 
 A young man named **Saul** agreed with the people who killed Stephen and **guarded their robes** while they threw stones at him. That day, many people in **Jerusalem** started **persecuting** the followers of Jesus, so the **believers** fled to other places. **But in spite of this**, they **preached** about Jesus everywhere they went.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/paul|Saul]]**
-  * **[[:pt-br:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:pt-br:obs:notes:key-terms/persecute|persecuting]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/believer|believers]]**
-  * **[[:pt-br:obs:notes:key-terms/preach|preached]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:paul]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
+  * **[[:pt-br:obe:other:persecute]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:believer]]**
+  * **[[:pt-br:obe:other:preach]]**
 
 
 ===== Translation Notes: =====
