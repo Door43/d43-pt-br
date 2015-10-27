@@ -7,17 +7,16 @@ But **Esau** had already **forgiven Jacob**, and they were happy to see each oth
 
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:esau|Esau]]**
-  * **[[:pt-br:obs:notes:key-terms:forgive|forgiven]]**
-  * **[[:pt-br:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:pt-br:obs:notes:key-terms:peace|peacefully]]**
-  * **[[:pt-br:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:pt-br:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:pt-br:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promises]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:abraham|Abraham]]**
+  * **[[:pt-br:obe:other:esau]]**
+  * **[[:pt-br:obe:kt:forgive]]**
+  * **[[:pt-br:obe:other:jacob]]**
+  * **[[:pt-br:obe:other:peace]]**
+  * **[[:pt-br:obe:other:canaan]]**
+  * **[[:pt-br:obe:other:isaac]]**
+  * **[[:pt-br:obe:kt:covenant]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:abraham]]**
 
 
 ===== Translation Notes: =====
