@@ -3,13 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink}}
 
 **Moses** was **a great prophet** who proclaimed the **word of God**. But **Jesus** is **the greatest prophet** of all. He is **God**, so everything he did and said were the actions and words of God. That is why Jesus is called the Word of God.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:god]]**
+  
 
 
 ===== Translation Notes: =====
