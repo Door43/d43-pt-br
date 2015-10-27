@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-05.jpg?nolink}}
 
 Some of the people **accused the disciples of being drunk**. But **Peter** stood up and said to them, “Listen to me! These people are not drunk! This **fulfills** the **prophecy** made by the prophet **Joel** in which God said, ‘In **the last days**, I will **pour out my Spirit**.’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/fulfill|fulfills]]**
-  * **[[:pt-br:obs:notes:key-terms/prophet|prophecy]]**
-  * **[[:vi:key-terms/holy-spirit|Spirit]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:fulfill]]**
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
 
 
 ===== Translation Notes: =====
