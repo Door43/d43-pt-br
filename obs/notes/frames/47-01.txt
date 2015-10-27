@@ -3,17 +3,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?nolink}}
 
 As Saul traveled throughout the **Roman Empire**, **he began to use his Roman name**, “**Paul**.” One day, Paul and his friend **Silas** went to the town of **Philippi** to **proclaim** the **good news** about **Jesus**. They went to a place by the river outside the city where people gathered to pray. There they met a woman named Lydia who was a **merchant**. She **loved** and **worshiped God**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/rome|Roman Empire]]**
-  * **[[:pt-br:obs:notes:key-terms/paul|Paul]]**
-  * **[[:pt-br:obs:notes:key-terms/silas|Silas]]**
-  * **[[:pt-br:obs:notes:key-terms/philippi|Philippi]]**
-  * **[[:pt-br:obs:notes:key-terms/good-news|good news]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/love|loved]]**
-  * **[[:pt-br:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:rome]]**
+  * **[[:pt-br:obe:other:paul]]**
+  * **[[:pt-br:obe:other:silas]]**
+  * **[[:pt-br:obe:other:philippi]]**
+  * **[[:pt-br:obe:kt:goodnews]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:love]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
