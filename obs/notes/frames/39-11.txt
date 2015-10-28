@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
 
 After speaking with **Jesus**, **Pilate** went out to the crowd and said, “**I find no guilt in this man**.” But the **Jewish leaders** and the crowd shouted, “**Crucify** him!” Pilate replied, “**He is not guilty**.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:pt-br:obs:notes:key-terms/guilt|guilt]]**
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/crucify|Crucify]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:pilate]]**
+  * **[[:pt-br:obe:kt:guilt]]**
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:kt:crucify]]**
 
 
 ===== Translation Notes: =====
