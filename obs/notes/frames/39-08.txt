@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink}}
 
 **Peter** went away and **cried bitterly**. Meanwhile, **Judas**, **the betrayer**, saw that the **Jewish leaders had condemned Jesus to die**. Judas became full of sorrow and went away and killed himself.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/judas|Judas]]**
-  * **[[:pt-br:obs:notes:key-terms/betray|betrayer]]**
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:other:judasiscariot]]**
+  * **[[:pt-br:obe:kt:betray]]**
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
