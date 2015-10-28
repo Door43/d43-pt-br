@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink}}
 
 After the soldiers **mocked Jesus**, they **led him away to crucify him**. They made him carry the **cross** on which he would die.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/mock|mocked]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/crucify|crucify]]**
-  * **[[:pt-br:obs:notes:key-terms/cross|cross]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:mock]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:crucify]]**
+  * **[[:pt-br:obe:kt:cross]]**
 
 
 ===== Translation Notes: =====
