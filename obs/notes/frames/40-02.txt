@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink}}
 
 The soldiers brought **Jesus** to a place called “**the Skull**” and nailed his hands and feet to the **cross**. But Jesus said, “**Father**, **forgive them**, **because they do not know what they are doing**.” **Pilate** commanded that they write, “**King of the Jews**” on a sign and put it on the cross above Jesus’ head.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/cross|cross]]**
-  * **[[:pt-br:obs:notes:key-terms/god-father|Father]]**
-  * **[[:pt-br:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:pt-br:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:pt-br:obs:notes:key-terms/king-of-jews|King of the Jews]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:cross]]**
+  * **[[:pt-br:obe:kt:godthefather]]**
+  * **[[:pt-br:obe:kt:forgive]]**
+  * **[[:pt-br:obe:other:pilate]]**
+  * **[[:pt-br:obe:kt:kingofthejews]]**
 
 
 ===== Translation Notes: =====
