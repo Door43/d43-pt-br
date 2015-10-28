@@ -3,13 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
 
 Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:pt-br:obs:notes:key-terms/rome|Roman]]**
-  * **[[:pt-br:obs:notes:key-terms/king-of-jews|king of the Jews]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:pilate]]**
+  * **[[:pt-br:obe:other:rome]]**
+  * **[[:pt-br:obe:kt:kingofthejews]]**
+  
 
 
 ===== Translation Notes: =====
