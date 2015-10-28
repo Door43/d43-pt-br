@@ -3,15 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
 
 **Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:crucify]]**
+  * **[[:pt-br:obe:other:mock]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:guilt]]**
+  * **[[:pt-br:obe:kt:innocent]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:pt-br:obs:notes:key-terms/mock|mocked]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:pt-br:obs:notes:key-terms/innocent|innocent]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|kingdom]]**
 
 
 ===== Translation Notes: =====
