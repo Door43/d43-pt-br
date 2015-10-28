@@ -3,16 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink}}
 
 Jesus said, “**I am**, and you will see me **seated with God and coming from heaven**.” The **high priest tore his clothes in anger** and shouted to the other **religious leaders**, “We do not need any more **witnesses**! You have heard him say that he is the **Son of God**. **What is your judgment**?”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:pt-br:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:pt-br:obs:notes:key-terms/judge|judgment]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:heaven]]**
+  * **[[:pt-br:obe:kt:highpriest]]**
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:kt:witness]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:judge]]**
 
 
 ===== Translation Notes: =====
