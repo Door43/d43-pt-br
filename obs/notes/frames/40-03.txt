@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink}}
 
 The soldiers **gambled for Jesus' clothing**. When they did this, **they fulfilled a prophecy that said**, “They divided my garments among them, and gambled for my clothing.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:pt-br:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:pt-br:obs:notes:key-terms/prophet|prophecy]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:fulfill]]**
+  * **[[:pt-br:obe:kt:prophet]]**
 
 
 ===== Translation Notes: =====
