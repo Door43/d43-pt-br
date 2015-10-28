@@ -3,16 +3,17 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink}}
 
 After the soldiers **crucified Jesus**, **the unbelieving Jewish leaders** said to **Pilate**, “**That liar**, **Jesus**, **said** he would **rise from the dead** after three days. Someone must guard the **tomb** to make sure that his **disciples** do not steal the body and then say he has risen from the dead.”
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:crucify]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:other:pilate]]**
+  * **[[:pt-br:obe:kt:raise]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:other:tomb]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+ 
 
-  * **[[:pt-br:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:vi:key-terms/raise|rise]]**
-  * **[[:pt-br:obs:notes:key-terms/death|dead]]**
-  * **[[:pt-br:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
 
 
 ===== Translation Notes: =====
