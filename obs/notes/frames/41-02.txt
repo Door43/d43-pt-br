@@ -3,11 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink}}
 
 **Pilate** said, “Take some soldiers and make the **tomb** as secure as you can.” So **they placed a seal on the stone** at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:pt-br:obs:notes:key-terms/tomb|tomb]]**
-
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:pilate]]**
+  * **[[:pt-br:obe:other:tomb]]**
 
 ===== Translation Notes: =====
 
