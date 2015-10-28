@@ -3,15 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
 
 The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They said to him, “If you are the **Son of God**, come down from the **cross** and **save** yourself! Then we will **believe** you.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/mock|mocked]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:pt-br:obs:notes:key-terms/cross|cross]]**
-  * **[[:pt-br:obs:notes:key-terms/save|save]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believe]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:other:mock]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:cross]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:kt:believe]]**
 
 
 ===== Translation Notes: =====
