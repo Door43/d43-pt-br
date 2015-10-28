@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink}}
 
 As **Peter** was waiting outside the house, a **servant girl** saw him and said to him, “You also were with **Jesus**!” Peter **denied it**. Later, another girl said the same thing, and **Peter denied it again**. Finally, the people said, “We know that you were with Jesus because you both **are from Galilee**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/servant|servant girl]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/galilee|Galilee]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:galilee]]**
 
 
 ===== Translation Notes: =====
