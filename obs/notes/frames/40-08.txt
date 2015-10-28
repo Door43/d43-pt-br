@@ -3,13 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
 
 **Through his death**, **Jesus opened a way** for people to **come to God**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **innocent**. He was the **Son of God**.”
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:innocent]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
 
-  * **[[:pt-br:obs:notes:key-terms/death|death]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/innocent|innocent]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
 
 
 ===== Translation Notes: =====
