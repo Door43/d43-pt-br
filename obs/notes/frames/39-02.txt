@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink}}
 
 Inside the house, the **Jewish leaders put Jesus on trial**. They brought many false **witnesses** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was guilty of anything**. Jesus did not say anything.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:pt-br:obs:notes:key-terms/guilt|guilty]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:witness]]**
+  * **[[:pt-br:obe:kt:guilt]]**
 
 
 ===== Translation Notes: =====
