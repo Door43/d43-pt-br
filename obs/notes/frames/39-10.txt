@@ -3,16 +3,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink}}
 
 Jesus answered, “**You have said so**, but **my kingdom is not an earthly kingdom**. If it were, **my servants would fight for me**. I have come to earth to tell the **truth** about **God**. Everyone who **loves** the truth **listens to me**.” **Pilate** said, “**What is truth**?”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom|kingdom]]**
-  * **[[:pt-br:obs:notes:key-terms/servant|servants]]**
-  * **[[:pt-br:obs:notes:key-terms/true|truth]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/love|loves]]**
-  * **[[:pt-br:obs:notes:key-terms/pilate|Pilate]]**
+===== Important Terms: =====    
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
+  * **[[:pt-br:obe:other:kingdom]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:true]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:love]]**
+  * **[[:pt-br:obe:other:pilate]]**
+  
 
 
 ===== Translation Notes: =====
