@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink}}
 
 Finally, the **high priest** looked directly at **Jesus** and said, “Tell us, are you the **Messiah**, the **Son of the living God**?”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of the living God]]**
+===== Important Terms: =====     
+  * **[[:pt-br:obe:kt:highpriest]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
 
 
 ===== Translation Notes: =====
