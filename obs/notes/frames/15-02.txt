@@ -6,13 +6,12 @@
 The **Israelites** had to cross the **Jordan River** to enter into the **Promised Land**. God told Joshua, “Have the priests go first.” When the priests started to step into the Jordan River, the water upstream stopped flowing so the Israelites could cross over to the other side of the river on dry ground.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:jordan-river|Jordan River]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:pt-br:obs:notes:key-terms:priest|priests]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:jordanriver]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
+  * **[[:pt-br:obe:kt:God]]**
+  * **[[:pt-br:obe:other:joshua]]**
+  * **[[:pt-br:obe:kt:priest]]**
 
 
 ==== Translation Notes: ====
