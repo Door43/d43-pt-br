@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink}}
 
 “But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/servant|servants]]**
-  * **[[:pt-br:obs:notes:key-terms/son|son]]**
-  * **[[:pt-br:obs:notes:key-terms/death|dead]]**
-  * **[[:pt-br:obs:notes:key-terms/life|alive]]**
+===== Important Terms: =====     
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:son]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:life]]**
 
 
 ===== Translation Notes: =====
