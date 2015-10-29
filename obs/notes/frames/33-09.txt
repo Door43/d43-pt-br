@@ -3,11 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
 
 “But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:good]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:believe]]**
 
-  * **[[:pt-br:obs:notes:key-terms/good|good]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believes]]**
 
 
 ===== Translation Notes: =====
