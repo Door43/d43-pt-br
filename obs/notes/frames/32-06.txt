@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink}}
 
 The **man with the demon cried out** in a loud voice, “**What do you want with me**, **Jesus**, **Son** of **the Most High God**? Please do not torture me!” Then Jesus asked the demon, “What is your name?” **He replied**, “My name is **Legion**, because **we are many**.” (A “legion” was a group of several thousand soldiers in the Roman army.)
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/demon-possessed|man with the demon]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son]]**
-  * **[[:pt-br:obs:notes:key-terms/god|Most High God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:demonpossessed]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**'
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
