@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
 
 Then **Peter** said to **Jesus**, “**Master****Bold Text**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Master]]**
+===== Important Terms: =====     
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:lord]]**
 
 
 ===== Translation Notes: =====
