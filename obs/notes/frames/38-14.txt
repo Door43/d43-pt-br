@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink}}
 
 **Judas** came with the **Jewish leaders**, soldiers, and a large crowd. They were carrying swords and clubs. Judas **came to Jesus** and said, “**Greetings**, **Teacher**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, **do you betray me with a kiss**?”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/judas|Judas]]**
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/teacher|Teacher]]**
-  * **[[:pt-br:obs:notes:key-terms/betray|betray]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:judasiscariot]]**
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:teacher]]**
+  * **[[:pt-br:obe:kt:betray]]**
 
 
 ===== Translation Notes: =====
