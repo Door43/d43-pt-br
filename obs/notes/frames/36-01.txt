@@ -3,13 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink}}
 
 One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **John** with him. (The disciple named John was not the same person who **baptized** Jesus.) They went up on a high mountain by themselves to pray.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/john|John]]**
-  * **[[:pt-br:obs:notes:key-terms/baptize|baptized]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:other:johnthebaptist]]**
+  * **[[:pt-br:obe:kt:baptize]]**
+   
 
 
 ===== Translation Notes: =====
