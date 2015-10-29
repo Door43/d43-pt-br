@@ -3,12 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink}}
 
 But the **religious leaders** of the **Jews** were **jealous**, so they **gathered together** to plan how they could kill **Jesus** and **Lazarus**.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:other:jew]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:lazarus]]**
+  
 
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:pt-br:obs:notes:key-terms/jew|Jews]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/lazarus|Lazarus]]**
+
+
 
 
 ===== Translation Notes: =====
