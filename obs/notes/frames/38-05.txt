@@ -3,14 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?nolink}}
 
 Then **Jesus** picked up a cup and said, “**Drink this**. **It is my blood of the New Covenant** that **is poured out for the forgiveness of sins**. Do this to **remember me** every time you drink it.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/blood|blood]]**
-  * **[[:pt-br:obs:notes:key-terms/covenant-new|New Covenant]]**
-  * **[[:pt-br:obs:notes:key-terms/forgive|forgiveness]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sins]]**
-
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:blood]]**
+  * **[[:pt-br:obe:kt:newcovenant]]**
+  * **[[:pt-br:obe:kt:forgive]]**
+  * **[[:pt-br:obe:kt:sin]]**
 
 ===== Translation Notes: =====
 
