@@ -3,10 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?nolink}}
 
 When the man came to **Jesus**, he **fell on his knees** in front of him. Jesus said to the **demon**, “Come out of this man!”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/demon|demon]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:demon]]**
 
 
 ===== Translation Notes: =====
