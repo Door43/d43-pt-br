@@ -3,9 +3,8 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-12.jpg?nolink}}
 
 So the man went away and told everyone about what **Jesus** had done for him. Everyone who **heard his story was filled with wonder and amazement**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+===== Important Terms: =====     
+  * **[[:pt-br:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
