@@ -3,16 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
 
 **Jesus** replied, “**I am the Resurrection and the Life**. Whoever **believes** in me **will live**, **even though he dies**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **Master**! I believe you are the **Messiah**, the **Son of God**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/resurrection|Resurrection]]**
-  * **[[:pt-br:obs:notes:key-terms/life|Life]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believes]]**
-  * **[[:pt-br:obs:notes:key-terms/death|dies]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Master]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:resurrection]]**
+  * **[[:pt-br:obe:kt:life]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
 
 
 ===== Translation Notes: =====
