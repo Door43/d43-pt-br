@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink}}
 
 **When Peter and Jesus got into the boat**, **the wind** immediately stopped blowing and the water became calm. The **disciples** were amazed. They **worshiped** Jesus, saying to him, “**Truly, you are the Son of God**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:pt-br:obs:notes:key-terms/true|Truly]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:true]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
 
 
 ===== Translation Notes: =====
