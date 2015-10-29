@@ -5,13 +5,13 @@
 Then **Peter** became afraid and began to sink in the water. He cried out, “**Master**, **save** me!” **Jesus** reached out right away and grabbed him. Then he said to Peter, “**You man of little faith**, **why did you doubt**?”
 
 
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms:peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms:lord|Master]]**
-  * **[[:pt-br:obs:notes:key-terms:save|save]]**
-  * **[[:pt-br:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms:faith|faith]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:faith]]**
+   
 
 
 ===== Translation Notes: =====
