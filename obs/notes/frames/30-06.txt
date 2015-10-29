@@ -4,10 +4,9 @@
 
 
 **Jesus** told his **disciples** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
