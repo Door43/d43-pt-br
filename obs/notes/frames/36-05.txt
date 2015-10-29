@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink}}
 
 As **Peter** was talking, a bright cloud came down and surrounded them and **a voice from the cloud said**, “This is my **Son** whom I **love**. I am pleased with him. **Listen to him**.” The three **disciples** were **terrified** and **fell on the ground**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son]]**
-  * **[[:pt-br:obs:notes:key-terms/love|love]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:love]]**
+  * **[[:pt-br:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
