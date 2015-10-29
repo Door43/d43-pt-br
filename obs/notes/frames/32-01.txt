@@ -3,10 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
 
 **One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
