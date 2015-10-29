@@ -3,10 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink}}
 
 “The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
+  * **[[:pt-br:obe:kt:joy]]**
 
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:pt-br:obs:notes:key-terms/joy|joy]]**
 
 
 ===== Translation Notes: =====
