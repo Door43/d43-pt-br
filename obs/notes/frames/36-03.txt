@@ -4,13 +4,11 @@
 
 Then **Moses** and the prophet **Elijah appeared**. These men had lived on the earth hundreds of years before this. They talked with **Jesus** about **his death**, **which would soon happen in Jerusalem**.
 ===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms/[prophet|prophet]]**
-  * **[[:pt-br:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/death|death]]**
-  * **[[:pt-br:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
 
 
 ===== Translation Notes: =====
