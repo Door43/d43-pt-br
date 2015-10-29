@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
 
 “The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sinner]]**
-  * **[[:pt-br:obs:notes:key-terms/adultery|adulterers]]**
-  * **[[:pt-br:obs:notes:key-terms/tax-collector|tax collector]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:adultery]]**
+  * **[[:pt-br:obe:other:taxcollector]]**
 
 
 ===== Translation Notes: =====
