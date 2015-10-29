@@ -3,13 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink}}
 
 Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
-===== Important Terms: =====
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:other:lazarus]]**
+  * **[[:pt-br:obe:other:tomb]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Master]]**
-  * **[[:pt-br:obs:notes:key-terms/death|died]]**
-  * **[[:pt-br:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:pt-br:obs:notes:key-terms/tomb|tomb]]**
 
 
 ===== Translation Notes: =====
