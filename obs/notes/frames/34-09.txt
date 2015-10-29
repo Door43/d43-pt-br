@@ -3,15 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
 
 “But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/tax-collector|tax collector]]**
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:pt-br:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:pt-br:obs:notes:key-terms/pray|prayed]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/mercy|merciful]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sinner]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:taxcollector]]**
+  * **[[:pt-br:obe:other:jewishleaders]]**
+  * **[[:pt-br:obe:kt:heaven]]**
+  * **[[:pt-br:obe:other:pray]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:mercy]]**
+  * **[[:pt-br:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
