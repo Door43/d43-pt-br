@@ -4,13 +4,12 @@
 
 As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus, “It is **good** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
 
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/moses|Moses]]**
-  * **[[:pt-br:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
-  * **[[:pt-br:obs:notes:key-terms/good|good]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:moses]]**
+  * **[[:pt-br:obe:other:elijah]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:good]]**
 
 
 ===== Translation Notes: =====
