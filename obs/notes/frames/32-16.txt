@@ -3,14 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
 
 The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/faith|faith]]**
-  * **[[:pt-br:obs:notes:key-terms/heal|healed]]**
-  * **[[:pt-br:obs:notes:key-terms/peace|peace]]**
-
-
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:faith]]**
+  * **[[:pt-br:obe:other:heal]]**
+  * **[[:pt-br:obe:other:peace]]**
 ===== Translation Notes: =====
 
   * **fell on her knees** - That is, "quickly knelt down."
