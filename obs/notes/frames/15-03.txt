@@ -7,7 +7,7 @@
 ===== Important Terms: =====
 
   * **[[:pt-br:obe:other:jordanriver]]**
-  * **[[:pt-br:obe:kt:God]]**
+  * **[[:pt-br:obe:kt:god]]**
   * **[[:pt-br:obe:other:joshua]]**
   * **[[:pt-br:obe:other:jericho]]**
   * **[[:pt-br:obe:other:obey]]**
