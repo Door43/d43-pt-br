@@ -3,11 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-07.jpg?nolink}}
 
 After **Judas** took the bread, **Satan entered into him**. **Judas left and went** to help the **Jewish** leaders arrest Jesus. **It was nighttime**.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:judasiscariot]]**
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:other:jew]]**
 
-  * **[[:pt-br:obs:notes:key-terms/judas|Judas]]**
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan]]**
-  * **[[:pt-br:obs:notes:key-terms/jew|Jewish]]**
 
 
 ===== Translation Notes: =====
