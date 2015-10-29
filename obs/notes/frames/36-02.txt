@@ -3,10 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?nolink}}
 
 As **Jesus** was praying, his face became as bright as the sun and his clothes became as white as light, **whiter** than anyone on earth could make them.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:pray]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/pray|praying]]**
 
 
 ===== Translation Notes: =====
