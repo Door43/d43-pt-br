@@ -3,13 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink}}
 
 So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** told them, “Help him take off those grave clothes and release him!” Many of the **Jews believed** in Jesus **because of this miracle**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/jew|Jews]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believed]]**
-  * **[[:pt-br:obs:notes:key-terms/miracle|miracle]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:lazarus]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:jew]]**
+  * **[[:pt-br:obe:kt:believe]]**
+  * **[[:pt-br:obe:kt:miracle]]**
+  
 
 
 ===== Translation Notes: =====
