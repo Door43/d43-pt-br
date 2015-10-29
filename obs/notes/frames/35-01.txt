@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink}}
 
 **One day**, **Jesus** was teaching many **tax collectors** and other **sinners** who had gathered to hear him.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/tax-collector|tax collectors]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sinners]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:taxcollector]]**
+  * **[[:pt-br:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
