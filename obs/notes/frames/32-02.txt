@@ -3,10 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink}}
 
 When they reached the other side of the lake, **a demon-possessed man came running up to Jesus**.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:demonpossessed]]**
+  * **[[:pt-br:obe:kt:jesus]]**
 
-  * **[[:pt-br:obs:notes:key-terms/demon-possessed|demon-possessed]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
 
 
 ===== Translation Notes: =====
