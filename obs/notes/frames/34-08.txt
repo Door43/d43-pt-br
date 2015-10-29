@@ -3,9 +3,8 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink}}
 
 “‘For example, I **fast** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/fast|fast]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:fast]]**
 
 
 ===== Translation Notes: =====
