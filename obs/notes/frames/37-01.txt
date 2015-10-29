@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
 
 One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:pt-br:obs:notes:key-terms/death|death]]**
-  * **[[:pt-br:obs:notes:key-terms/glory|glory]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/love|loved]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:lazarus]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:glory]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:love]]**
 
 
 ===== Translation Notes: =====
