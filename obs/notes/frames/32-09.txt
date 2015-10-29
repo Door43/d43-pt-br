@@ -3,10 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink}}
 
 When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **Jesus** had done. The people from the town came and saw the man **who used to have the demons**. He was sitting calmly, wearing clothes, and acting like a normal person.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/demon|demons]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:demon]]**
 
 
 ===== Translation Notes: =====
