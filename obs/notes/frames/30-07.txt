@@ -5,12 +5,10 @@
 Then **Jesus** took the five loaves of bread and the two fish, looked up to **heaven**, and thanked **God** for the food.
 
 
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:heaven]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 ===== Translation Notes: =====
 
