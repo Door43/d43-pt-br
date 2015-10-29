@@ -3,10 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink}}
 
 **Jesus** told many other **stories** about the **kingdom of God**. For example, he said, “The kingdom of God is like a **mustard seed** that someone planted in his field. You know that the mustard seed is **the smallest seed of all**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:kingdomofgod]]**
 
 
 ===== Translation Notes: =====
