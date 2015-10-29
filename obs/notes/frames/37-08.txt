@@ -3,12 +3,15 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink}}
 
 **Jesus** responded, “**Did I not tell you** that you would **see God's glory** if you **believe** in me?” So **they rolled the stone away**.
-===== Important Terms: =====
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:glory]]**
+  * **[[:pt-br:obe:kt:believe]]**
 
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God's]]**
-  * **[[:pt-br:obs:notes:key-terms/glory|glory]]**
-  * **[[:pt-br:obs:notes:key-terms/believe|believe]]**
+
+
+
 
 
 ===== Translation Notes: =====
