@@ -3,9 +3,8 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink}}
 
 The **demons** came out of the man and entered the pigs. The pigs ran down a steep bank into the lake and drowned. There were about 2,000 pigs in the **herd**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/demon|demons]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:demon]]**
 
 
 ===== Translation Notes: =====
