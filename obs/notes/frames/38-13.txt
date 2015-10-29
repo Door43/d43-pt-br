@@ -3,12 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink}}
 
 **After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/pray|prayer]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:pt-br:obs:notes:key-terms/betray|betrayer]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:pray]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:disciple]]**
+  * **[[:pt-br:obe:kt:betray]]**
 
 
 ===== Translation Notes: =====
