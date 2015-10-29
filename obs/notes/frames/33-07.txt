@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
 
 “The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:pt-br:obs:notes:key-terms/joy|joy]]**
-  * **[[:pt-br:obs:notes:key-terms/persecute|persecution]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:joy]]**
+  * **[[:pt-br:obe:other:persecute]]**
 
 
 ===== Translation Notes: =====
