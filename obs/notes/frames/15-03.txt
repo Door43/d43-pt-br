@@ -6,13 +6,12 @@
 **After the people crossed the Jordan River**, **God** told **Joshua how to attack** the powerful city of **Jericho**. The people **obeyed** God. Just as God told them to do, the soldiers and **priests** marched around the city of Jericho **once a day for six days**.
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:jordan-river|Jordan River]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:joshua|Joshua]]**
-  * **[[:pt-br:obs:notes:key-terms:jericho|Jericho]]**
-  * **[[:pt-br:obs:notes:key-terms:obey|obeyed]]**
-  * **[[:pt-br:obs:notes:key-terms:priest|priests]]**
+  * **[[:pt-br:obe:other:jordanriver]]**
+  * **[[:pt-br:obe:kt:God]]**
+  * **[[:pt-br:obe:other:joshua]]**
+  * **[[:pt-br:obe:other:jericho]]**
+  * **[[:pt-br:obe:other:obey]]**
+  * **[[:pt-br:obe:kt:priest]]**
 
 
 ==== Translation Notes: ====
