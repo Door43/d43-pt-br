@@ -3,9 +3,8 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink}}
 **
 Jesus** told this story. “A farmer went out to plant **some seed**. As he was **spreading the seeds by hand**, some seeds happened to fall on the path, and the birds came and ate all of those seeds.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
