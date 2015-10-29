@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink}}
 
 Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/power|power]]**
-  * **[[:pt-br:obs:notes:key-terms/disciple|disciples]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:power]]**
+  * **[[:pt-br:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
