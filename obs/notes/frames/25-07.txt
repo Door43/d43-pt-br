@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink}}
 
 **Jesus** replied, “**Get away from me**, **Satan**! **In God’s word he commands his people**, ‘**Worship only the Lord your God and only serve him**.’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:pt-br:obs:notes:key-terms/worship|Worship]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Lord]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
