@@ -5,14 +5,12 @@
 
 Even though **God punished** his people for their **sin** by taking them away into **exile**, he **did not forget** them or his **promises**. God continued to **watch over** his people and **speak to them through his prophets**. He promised that, after seventy years, they would return to the **Promised Land** again.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:punish|punished]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sin]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promises]]**
-  * **[[:pt-br:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:punish]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
 
 
 ==== Translation Notes: ====
