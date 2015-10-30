@@ -5,16 +5,14 @@
 
 In **Jerusalem**, **Solomon** built the **Temple** for which his father **David** had planned and gathered materials. People now **worshiped God** and offered **sacrifices** to him at the Temple instead of at the **Tent of Meeting**. God came and **was present in the Temple**, and he lived there **with his people**.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:jerusalem|Jerusalem]]**
-  * **[[:pt-br:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:pt-br:obs:notes:key-terms:temple|Temple]]**
-  * **[[:pt-br:obs:notes:key-terms:david|David]]**
-  * **[[:pt-br:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:pt-br:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
+  * **[[:pt-br:obe:other:solomon]]**
+  * **[[:pt-br:obe:kt:temple]]**
+  * **[[:pt-br:obe:other:david]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:sacrifice]]**
+  * **[[:pt-br:obe:other:tentofmeeting]]**
 
 
 ==== Translation Notes: ====
