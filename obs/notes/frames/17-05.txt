@@ -5,16 +5,14 @@
 
 Eventually, **Saul** died in battle, and **David** became **king** of **Israel**. He was a good king, and the people **loved** him. **God blessed** David and **made him successful**. David fought many battles and God helped him defeat Israel's enemies. David conquered **Jerusalem** and made it **his capital city**. **During David’s reign**, Israel became powerful and wealthy.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:saul|Saul]]**
-  * **[[:pt-br:obs:notes:key-terms:david|David]]**
-  * **[[:pt-br:obs:notes:key-terms:king|king]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israel]]**
-  * **[[:pt-br:obs:notes:key-terms:love|loved]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:bless|blessed]]**
-  * **[[:pt-br:obs:notes:key-terms:jerusalem|Jerusalem]]**
+  * **[[:pt-br:obe:other:saul]]**
+  * **[[:pt-br:obe:other:david]]**
+  * **[[:pt-br:obe:other:king]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:kt:love]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:bless]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
 
 
 ==== Translation Notes: ====
