@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
 
 **Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
