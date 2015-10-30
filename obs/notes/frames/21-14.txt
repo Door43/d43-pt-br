@@ -4,18 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?nolink}}
 
 The **prophets** foretold that the **Messiah** would **die** and that **God** would also **raise him from the dead**. **Through the Messiah’s death and resurrection**, **God would** accomplish his plan to **save sinners** and **start the New Covenant**.
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:pt-br:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms:death|die]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:raise|raise]]**
-  * **[[:pt-br:obs:notes:key-terms:resurrection|resurrection]]**
-  * **[[:pt-br:obs:notes:key-terms:save|save]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sinners]]**
-  * **[[:pt-br:obs:notes:key-terms:covenant-new|New Covenant]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:raise]]**
+  * **[[:pt-br:obe:kt:resurrection]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:newcovenant]]**
 
 
 ==== Translation Notes: ====
