@@ -5,17 +5,15 @@
 
 
 The **prophets** also said that the **Messiah** would be perfect, **having no sin**. He would **die** to **receive the punishment for other people’s sin**. His punishment would bring **peace** between **God** and people. For this reason, **it was God's will to crush the Messiah**.
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:pt-br:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sin]]**
-  * **[[:pt-br:obs:notes:key-terms:death|die]]**
-  * **[[:pt-br:obs:notes:key-terms:receive|receive]]**
-  * **[[:pt-br:obs:notes:key-terms:punish|punishment]]**
-  * **[[:pt-br:obs:notes:key-terms:peace|peace]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:death]]**
+  * **[[:pt-br:obe:kt:receive]]**
+  * **[[:pt-br:obe:other:punish]]**
+  * **[[:pt-br:obe:other:peace]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ==== Translation Notes: ====
