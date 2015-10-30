@@ -5,14 +5,12 @@
 That night, there were some **shepherds** in a nearby field **guarding their flocks**. Suddenly, **a shining angel** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **Messiah**, the **Master**, has been born in **Bethlehem**!”
 
 
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms/shepherd|shepherds]]**
-  * **[[:pt-br:obs:notes:key-terms/angel|angel]]**
-  * **[[:pt-br:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Master]]**
-  * **[[:pt-br:obs:notes:key-terms/bethlehem|Bethlehem]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:shepherd]]**
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:other:bethlehem]]**
 
 
 ===== Translation Notes: =====
