@@ -4,11 +4,10 @@
 
 Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good news to the poor**, **freedom to captives, recovery of sight for the blind**, and **release to the oppressed**. This is **the year of the Lord's favor**.”
 ===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Spirit]]**
-  * **[[:pt-br:obs:notes:key-terms/good-news|good news]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Lord's]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  * **[[:pt-br:obe:kt:goodnews]]**
+  * **[[:pt-br:obe:kt:lord]]**
 
 
 ===== Translation Notes: =====
