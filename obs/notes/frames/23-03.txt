@@ -3,10 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink}}
 
 So **Joseph** married **Mary** and took her home as his wife, but **he did not sleep with her** until she had given birth.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:pt-br:obs:notes:key-terms/mary|Mary]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:other:josephnt]]**
+  * **[[:pt-br:obe:other:mary]]**
 
 
 ===== Translation Notes: =====
