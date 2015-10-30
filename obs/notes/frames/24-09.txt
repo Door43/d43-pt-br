@@ -3,17 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink}}
 
 **God had told John**, “**The Holy Spirit will come down and rest on** someone you **baptize**. That person is the **Son of God**.” There is only one God. But when John baptized Jesus, he heard **God the Father** speak, he saw God the Son, who is **Jesus**, and he saw God the Holy Spirit.
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:pt-br:obs:notes:key-terms/baptize|baptize]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:pt-br:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:johnthebaptist]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  * **[[:pt-br:obe:kt:baptize]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  
 
 
 ===== Translation Notes: =====
