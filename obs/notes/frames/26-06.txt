@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink}}
 
 **Jesus** continued saying, “And during the time of the **prophet Elisha**, there were many people in **Israel** with skin diseases. But Elisha did not **heal** any of them. He only healed the skin disease of **Naaman**, **a commander** of Israel’s enemies.” The people who were listening to Jesus were **Jews**. So when they heard him say this, **they were furious at him**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:pt-br:obs:notes:key-terms/israel|Israel]]**
-  * **[[:pt-br:obs:notes:key-terms/heal|heal]]**
-  * **[[:pt-br:obs:notes:key-terms/naaman|Naaman]]**
-  * **[[:pt-br:obs:notes:key-terms/jew|Jews]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:heal]]**
+  * **[[:pt-br:obe:other:naaman]]**
+  * **[[:pt-br:obe:other:jew]]**
 
 
 ===== Translation Notes: =====
