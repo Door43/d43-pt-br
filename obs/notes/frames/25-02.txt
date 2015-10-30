@@ -3,13 +3,11 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
 
 **Satan tempted Jesus** by saying, “If you are the **Son of God**, **turn these rocks into bread** so you can eat!”
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan]]**
-  * **[[:pt-br:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
+===== Important Terms: ===== 
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:tempt]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
 
 
 ===== Translation Notes: =====
