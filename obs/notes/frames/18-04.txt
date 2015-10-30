@@ -5,14 +5,12 @@
 
 **God** was angry with **Solomon** and, **as a punishment for Solomon’s unfaithfulness**, **he promised to divide** the nation of **Israel** into two **kingdoms** after Solomon’s death.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:solomon|Solomon]]**
-  * **[[:pt-br:obs:notes:key-terms:punish|punishment]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israel]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom|kingdoms]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:solomon]]**
+  * **[[:pt-br:obe:other:punish]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:kingdom]]**
 
 
 ==== Translation Notes: ====
