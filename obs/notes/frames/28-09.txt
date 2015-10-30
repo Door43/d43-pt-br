@@ -7,6 +7,9 @@
 
   * **[[:pt-br:obs:notes:key-terms/peter|Peter]]**
   * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+  
+  * **[[:pt-br:obe:other:peter]]**
+  * **[[:pt-br:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
