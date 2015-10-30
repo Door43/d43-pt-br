@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink}}
 **
 Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/temple|Temple]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/angel|angels]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:temple]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:angel]]**
 
 
 ===== Translation Notes: =====
