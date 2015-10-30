@@ -10,7 +10,15 @@
   * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
   * **[[:pt-br:obs:notes:key-terms/power|power]]**
   * **[[:pt-br:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:pt-br:obs:notes:key-terms/galilee|Galilee]]**
+  * **[[:pt-br:obs:notes:key-terms/galilee|Galilee]]*
+  * 
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:tempt]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:power]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  * **[[:pt-br:obe:other:galilee]]**
+  
 
 
 ===== Translation Notes: =====
