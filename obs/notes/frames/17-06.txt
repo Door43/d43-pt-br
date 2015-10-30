@@ -5,16 +5,14 @@
 
 **David** wanted to **build a temple** where all the **Israelites** could **worship God** and offer him **sacrifices**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **Tent of Meeting** that **Moses** had built.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:david|David]]**
-  * **[[:pt-br:obs:notes:key-terms:temple|temple]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:worship|worship]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:pt-br:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
-  * **[[:pt-br:obs:notes:key-terms:moses|Moses]]**
+  * **[[:pt-br:obe:other:david]]**
+  * **[[:pt-br:obe:kt:temple]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:sacrifice]]**
+  * **[[:pt-br:obe:other:tentofmeeting]]**
+  * **[[:pt-br:obe:other:moses]]**
 
 
 ==== Translation Notes: ====
