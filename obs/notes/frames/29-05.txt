@@ -3,9 +3,8 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
 
 “But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/servant|servant]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:servant]]**
 
 
 ===== Translation Notes: =====
