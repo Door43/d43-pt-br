@@ -5,17 +5,15 @@
 
 **Elijah** was a **prophet** when **Ahab** was **king** over the **kingdom of Israel**. Ahab was an **evil** man who encouraged people to **worship** a false **god** named **Baal**. Elijah said to Ahab, “There will be no rain or dew in the kingdom of Israel **until I say so**.” **This made Ahab very angry**.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:pt-br:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:pt-br:obs:notes:key-terms:ahab|Ahab]]**
-  * **[[:pt-br:obs:notes:key-terms:king|king]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:pt-br:obs:notes:key-terms:evil|evil]]**
-  * **[[:pt-br:obs:notes:key-terms:worship|worship]]**
-  * **[[:pt-br:obs:notes:key-terms:god-false|god]]**
-  * **[[:pt-br:obs:notes:key-terms:baal|Baal]]**
+  * **[[:pt-br:obe:other:elijah]]**
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:other:ahab]]**
+  * **[[:pt-br:obe:other:king]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:kt:evil]]**
+  * **[[:pt-br:obe:kt:worship]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:baal]]**
 
 
 ==== Translation Notes: ====
