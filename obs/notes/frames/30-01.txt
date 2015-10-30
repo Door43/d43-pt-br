@@ -5,11 +5,10 @@
 **Jesus** sent his **apostles** to **preach** and to teach people in many different villages. When they returned to where Jesus was, they told him what they had done. Then Jesus invited them to go with him to a **quiet place** across the lake to rest for a while. So, they got into a boat and went to the other side of the lake.
 
 
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:pt-br:obs:notes:key-terms/preach|preach]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:apostle]]**
+  * **[[:pt-br:obe:other:preach]]**
 
 
 ===== Translation Notes: =====
