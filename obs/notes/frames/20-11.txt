@@ -5,12 +5,15 @@
 
 About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defeated **Babylon**, so the Persian Empire replaced the Babylonian Empire. **The Israelites were now called Jews** and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered **the land of Judah**.
 ===== Important Terms: =====
-
-
   * **[[:pt-br:obs:notes:key-terms:king|king]]**
   * **[[:pt-br:obs:notes:key-terms:babylon|Babylon]]**
   * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
   * **[[:pt-br:obs:notes:key-terms:jew|Jews]]**
+
+  * **[[:pt-br:obe:other:king]]**
+  * **[[:pt-br:obe:other:babylon]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:jew]]**
 
 
 ==== Translation Notes: ====
