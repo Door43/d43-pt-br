@@ -5,20 +5,18 @@
 
 **God** chose a young **Israelite** named David to be **king** after **Saul**. David was a **shepherd** from the town of **Bethlehem**. At different times while he was **watching** his father's **sheep**, David had killed both a lion and a bear that had attacked the sheep. David was a **humble** and **righteous** man who **trusted** and **obeyed** God.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:pt-br:obs:notes:key-terms:david|David]]**
-  * **[[:pt-br:obs:notes:key-terms:king|king]]**
-  * **[[:pt-br:obs:notes:key-terms:saul|Saul]]**
-  * **[[:pt-br:obs:notes:key-terms:shepherd|shepherd]]**
-  * **[[:pt-br:obs:notes:key-terms:bethlehem|Bethlehem]]**
-  * **[[:pt-br:obs:notes:key-terms:sheep|sheep]]**
-  * **[[:pt-br:obs:notes:key-terms:humble|humble]]**
-  * **[[:pt-br:obs:notes:key-terms:righteous|righteous]]**
-  * **[[:pt-br:obs:notes:key-terms:trust|trusted]]**
-  * **[[:pt-br:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:david]]**
+  * **[[:pt-br:obe:other:king]]**
+  * **[[:pt-br:obe:other:saul]]**
+  * **[[:pt-br:obe:other:shepherd]]**
+  * **[[:pt-br:obe:other:bethlehem]]**
+  * **[[:pt-br:obe:other:sheep]]**
+  * **[[:pt-br:obe:other:humble]]**
+  * **[[:pt-br:obe:kt:righteous]]**
+  * **[[:pt-br:obe:kt:trust]]**
+  * **[[:pt-br:obe:other:obey]]**
 
 
 ==== Translation Notes: ====
