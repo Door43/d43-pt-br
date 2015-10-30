@@ -6,13 +6,11 @@
 
 **Nebuchadnezzar** and his army took almost all of the people of the **kingdom of Judah** to **Babylon**, **leaving only the poorest people behind** to plant the fields. **This period of time** when **God's** people were forced to leave the **Promised Land** is called the **Exile**.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
-  * **[[:pt-br:obs:notes:key-terms:babylon|Babylon]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God's]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:pt-br:obe:other:nebuchadnezzar]]**
+  * **[[:pt-br:obe:other:kingdomofjudah]]**
+  * **[[:pt-br:obe:other:babylon]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
 
 
 ==== Translation Notes: ====
