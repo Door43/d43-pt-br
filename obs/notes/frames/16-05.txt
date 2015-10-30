@@ -6,13 +6,12 @@
 One day, a man of Israel named **Gideon** was **threshing grain secretly** so the **Midianites** would not steal it. The **angel** of **Yahweh** came to Gideon and said, “**God is with you**, mighty warrior. Go and save **Israel** from the Midianites.”
 ===== Important Terms: =====
 
-
-  * **[[:pt-br:obs:notes:key-terms:gideon|Gideon]]**
-  * **[[:pt-br:obs:notes:key-terms:midian|Midianites]]**
-  * **[[:pt-br:obs:notes:key-terms:angel|angel]]**
-  * **[[:pt-br:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israel]]**
+  * **[[:pt-br:obe:other:gideon]]**
+  * **[[:pt-br:obe:other:midian]]**
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:kt:yahweh]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:israel]]**
 
 
 ==== Translation Notes: ====
