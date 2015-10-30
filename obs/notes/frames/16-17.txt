@@ -5,15 +5,13 @@
 
 **This pattern repeated many times**: the **Israelites** would **sin**, **God** would **punish** them, they would **repent**, and God would send a **deliverer** to **save** them. Over many years, God sent many deliverers who saved the Israelites from their enemies.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sin]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:punish|punish]]**
-  * **[[:pt-br:obs:notes:key-terms:repent|repent]]**
-  * **[[:pt-br:obs:notes:key-terms:deliverer|deliverer]]**
-  * **[[:pt-br:obs:notes:key-terms:save|save]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:punish]]**
+  * **[[:pt-br:obe:kt:repent]]**
+  * **[[:pt-br:obe:kt:deliverer]]**
+  * **[[:pt-br:obe:kt:save]]**
 
 
 ==== Translation Notes: ====
