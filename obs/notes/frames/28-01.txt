@@ -3,15 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink}}
 
 **One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/good|Good]]**
-  * **[[:pt-br:obs:notes:key-terms/teacher|teacher]]**
-  * **[[:pt-br:obs:notes:key-terms/eternal-life|eternal life]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/obey|obey]]**
-  * **[[:pt-br:obs:notes:key-terms/gods-law|God's laws]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:good]]**
+  * **[[:pt-br:obe:kt:teacher]]**
+  * **[[:pt-br:obe:kt:eternity]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:lawofmoses]]**
 
 
 ===== Translation Notes: =====
