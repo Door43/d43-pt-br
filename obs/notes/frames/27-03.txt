@@ -3,9 +3,8 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink}}
 
 But the **law expert** wanted to prove that he was **righteous**, so he asked, “**Who is my neighbor**?”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/righteous|righteous]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:righteous]]**
 
 
 ===== Translation Notes: =====
