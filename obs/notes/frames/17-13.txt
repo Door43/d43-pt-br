@@ -5,19 +5,17 @@
 
 After **Uriah** was killed, **David** married **Bathsheba**. Later, she gave birth to David's son. **God** was very angry about what David had done, so he sent the **prophet Nathan** to tell David how **evil** his **sin** was. David **repented** of his sin and God **forgave** him. For the rest of his life, David **followed and obeyed God**, even in difficult times.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:uriah|Uriah]]**
-  * **[[:pt-br:obs:notes:key-terms:david|David]]**
-  * **[[:pt-br:obs:notes:key-terms:bathsheba|Bathsheba]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:pt-br:obs:notes:key-terms:nathan|Nathan]]**
-  * **[[:pt-br:obs:notes:key-terms:evil|evil]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sin]]**
-  * **[[:pt-br:obs:notes:key-terms:repent|repented]]**
-  * **[[:pt-br:obs:notes:key-terms:forgive|forgave]]**
-  * **[[:pt-br:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:pt-br:obe:other:uriah]]**
+  * **[[:pt-br:obe:other:david]]**
+  * **[[:pt-br:obe:other:bathsheba]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:prophet]]**
+  * **[[:pt-br:obe:other:nathan]]**
+  * **[[:pt-br:obe:kt:evil]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:kt:repent]]**
+  * **[[:pt-br:obe:kt:forgive]]**
+  * **[[:pt-br:obe:other:obey]]**
 
 
 ==== Translation Notes: ====
