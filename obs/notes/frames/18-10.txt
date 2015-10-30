@@ -5,11 +5,9 @@
 
 The **kingdoms** of **Judah** and **Israel** became enemies and often fought against each other.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:kingdom|kingdoms]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom-of-israel|Israel]]**
+  * **[[:pt-br:obe:other:kingdom]]**
+  * **[[:pt-br:obe:other:kingdomofjudah]]**
+  * **[[:pt-br:obe:other:israel]]**
 
 
 ==== Translation Notes: ====
