@@ -5,11 +5,9 @@
 
 The **Assyrians** gathered all the leaders, the rich people, and the people with **skills** and took them to Assyria. Only the very poor **Israelites** who had not been killed **remained** in the **kingdom of Israel**.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:assyria|Assyrians]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
+  * **[[:pt-br:obe:other:assyria]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:kingdomofisrael]]**
 
 
 ==== Translation Notes: ====
