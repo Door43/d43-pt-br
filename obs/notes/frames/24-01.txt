@@ -3,12 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink}}
 
 **John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:pt-br:obs:notes:key-terms/zechariah-nt|Zechariah]]**
-  * **[[:pt-br:obs:notes:key-terms/prophet|prophet]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:johnthebaptist]]**
+  * **[[:pt-br:obe:other:zechariahnt]]**
+  * **[[:pt-br:obe:kt:prophet]]**
 
 
 ===== Translation Notes: =====
