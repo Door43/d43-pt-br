@@ -5,13 +5,11 @@
 
 Then the **Assyrians** brought **foreigners** to live in the land where the **kingdom of Israel** had been. The foreigners rebuilt the destroyed cities and married the **Israelites** who were left there. The **descendants** of the Israelites who married foreigners were called **Samaritans**.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:assyria|Assyrians]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:pt-br:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:pt-br:obs:notes:key-terms:samaria|Samaritans]]**
+  * **[[:pt-br:obe:other:assyria]]**
+  * **[[:pt-br:obe:other:kingdomofisrael]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:descendant]]**
+  * **[[:pt-br:obe:other:samaria]]**
 
 
 ==== Translation Notes: ====
