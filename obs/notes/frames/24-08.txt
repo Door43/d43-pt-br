@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink}}
 
 When **Jesus** came up out of the water after being **baptized**, the **Spirit of God appeared in the form of a dove** and came down and rested on him. At the same time, God's voice spoke from **heaven**, saying, “You are **my Son whom I love**, and I am very pleased with you.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Spirit of God]]**
-  * **[[:pt-br:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son]]**
-  * **[[:pt-br:obs:notes:key-terms/love|love]]**
+===== Important Terms: =====     
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:baptize]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  * **[[:pt-br:obe:kt:heaven]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:love]]**
 
 
 ===== Translation Notes: =====
