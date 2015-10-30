@@ -3,17 +3,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
 
 The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/angel|angel]]**
-  * **[[:pt-br:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:pt-br:obs:notes:key-terms/mary|Mary]]**
-  * **[[:pt-br:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:pt-br:obs:notes:key-terms/son|son]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/yahweh|Yahweh]]**
-  * **[[:pt-br:obs:notes:key-terms/save|saves]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sins]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:other:josephnt]]**
+  * **[[:pt-br:obe:other:mary]]**
+  * **[[:pt-br:obe:kt:holyspirit]]**
+  * **[[:pt-br:obe:kt:son]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:yahweh]]**
+  * **[[:pt-br:obe:kt:save]]**
+  * **[[:pt-br:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
