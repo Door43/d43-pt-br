@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
 
 Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/kingdom|kingdoms]]**
-  * **[[:pt-br:obs:notes:key-terms/glory|glory]]**
-  * **[[:pt-br:obs:notes:key-terms/worship|worship]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:other:kingdom]]**
+  * **[[:pt-br:obe:kt:glory]]**
+  * **[[:pt-br:obe:kt:worship]]**
 
 
 ===== Translation Notes: =====
