@@ -3,13 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink}}
 
 But **Jesus** replied to **Satan** by quoting from the **scriptures**. He said, “**In God's word**, **he commands his people**, ‘**Do not test the Lord your God**.’”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/satan|Satan]]**
-  * **[[:pt-br:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:pt-br:obs:notes:key-terms/lord|Lord]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:satan]]**
+  * **[[:pt-br:obe:kt:wordofgod]]**
+  * **[[:pt-br:obe:kt:lord]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
