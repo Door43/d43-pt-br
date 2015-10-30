@@ -8,14 +8,12 @@ To **punish** the **king** of **Judah** for rebelling, **Nebuchadnezzar's** sold
 
 
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:punish|punish]]**
-  * **[[:pt-br:obs:notes:key-terms:king|king]]**
-  * **[[:pt-br:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:pt-br:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar's]]**
-  * **[[:pt-br:obs:notes:key-terms:son|sons]]**
-  * **[[:pt-br:obs:notes:key-terms:babylon|Babylon]]**
+  * **[[:pt-br:obe:other:punish]]**
+  * **[[:pt-br:obe:other:king]]**
+  * **[[:pt-br:obe:other:judah]]**
+  * **[[:pt-br:obe:other:nebuchadnezzar]]**
+  * **[[:pt-br:obe:kt:son]]**
+  * **[[:pt-br:obe:other:babylon]]**
 
 
 ==== Translation Notes: ====
