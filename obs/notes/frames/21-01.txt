@@ -5,15 +5,13 @@
 
 **From the very beginning**, **God** planned to send the **Messiah**. The first **promise** of the Messiah came to **Adam** and **Eve**. God promised that a **descendant** of Eve would be born who would **crush the snake’s head**. **The snake who deceived Eve was Satan**. The promise meant that the Messiah would defeat Satan completely.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promise]]**
-  * **[[:pt-br:obs:notes:key-terms:adam|Adam]]**
-  * **[[:pt-br:obs:notes:key-terms:eve|Eve]]**
-  * **[[:pt-br:obs:notes:key-terms:descendant|descendant]]**
-  * **[[:pt-br:obs:notes:key-terms:satan|Satan]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:other:adam]]**
+  * **[[:pt-br:obe:other:eve]]**
+  * **[[:pt-br:obe:other:descendant]]**
+  * **[[:pt-br:obe:kt:satan]]**
 
 
 ==== Translation Notes: ====
