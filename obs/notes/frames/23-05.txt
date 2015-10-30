@@ -3,10 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
 
 When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/bethlehem|Bethlehem]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
+===== Important Terms: =====     
+  * **[[:pt-br:obe:other:bethlehem]]**
+  * **[[:pt-br:obe:kt:jesus]]**
  
 
 ===== Translation Notes: =====
