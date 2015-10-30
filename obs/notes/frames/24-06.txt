@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink}}
 
 The next day, **Jesus** came to be **baptized** by **John**. When John saw him, he said, “Look! **There is** the **Lamb of God** who **will take away** the **sin of the world**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:pt-br:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:pt-br:obs:notes:key-terms/lamb|Lamb]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
-  * **[[:pt-br:obs:notes:key-terms/sin|sin]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:baptize]]**
+  * **[[:pt-br:obe:other:johnthebaptist]]**
+  * **[[:pt-br:obe:kt:lamb]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:sin]]**
 
 
 ===== Translation Notes: =====
