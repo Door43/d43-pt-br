@@ -3,14 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink}}
 
 The **shepherds** soon arrived at the place where **Jesus** was and they found him lying in a feeding trough, just as the **angel** had told them. They were very excited. **Mary** was very happy, too. The shepherds returned to the fields where their sheep were, **praising God** for **all they had heard and seen**.
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/shepherd|shepherds]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/angel|angel]]**
-  * **[[:pt-br:obs:notes:key-terms/mary|Mary]]**
-  * **[[:pt-br:obs:notes:key-terms/praise|praising]]**
-  * **[[:pt-br:obs:notes:key-terms/god|God]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:shepherd]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:other:mary]]**
+  * **[[:pt-br:obe:other:praise]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
