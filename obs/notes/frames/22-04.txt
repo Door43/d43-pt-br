@@ -5,15 +5,14 @@
 
 
 When **Elizabeth** was **six months pregnant**, the same **angel** suddenly appeared to **Elizabeth’s relative**, whose name was **Mary**. She was a **virgin** and **was engaged** to be married to a man named **Joseph**. The angel said, “You will become pregnant and give birth to a son. You are to name him **Jesus**. He will be the **Son** of the **Most High God** and will rule forever.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/angel|angel]]**
-  * **[[:pt-br:obs:notes:key-terms/mary|Mary]]**
-  * **[[:pt-br:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:pt-br:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:pt-br:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:pt-br:obs:notes:key-terms/god-son|Son]]**
-  * **[[:pt-br:obs:notes:key-terms/god-father|Most High God]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:other:mary]]**
+  * **[[:pt-br:obe:other:virgin]]**
+  * **[[:pt-br:obe:other:josephnt]]**
+  * **[[:pt-br:obe:kt:jesus]]**
+  * **[[:pt-br:obe:kt:sonofgod]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ===== Translation Notes: =====
