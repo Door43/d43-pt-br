@@ -5,13 +5,11 @@
 
 Then **Elijah** said to **King Ahab**, “Return immediately to the city, because the rain is coming.” Soon **the sky grew black**, and a heavy rain began. **Yahweh** had ended the **drought** and proved that he is the true **God**.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:pt-br:obs:notes:key-terms:king|King]]**
-  * **[[:pt-br:obs:notes:key-terms:ahab|Ahab]]**
-  * **[[:pt-br:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
+  * **[[:pt-br:obe:other:elijah]]**
+  * **[[:pt-br:obe:other:king]]**
+  * **[[:pt-br:obe:other:ahab]]**
+  * **[[:pt-br:obe:kt:yahweh]]**
+  * **[[:pt-br:obe:kt:god]]**
 
 
 ==== Translation Notes: ====
