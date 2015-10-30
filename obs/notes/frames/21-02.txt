@@ -8,15 +8,13 @@
 
 
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:pt-br:obs:notes:key-terms:people-group|people groups]]**
-  * **[[:pt-br:obs:notes:key-terms:bless|blessing]]**
-  * **[[:pt-br:obs:notes:key-terms:fulfill|fulfilled]]**
-  * **[[:pt-br:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms:save|saved]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:abraham]]**
+  * **[[:pt-br:obe:other:peoplegroup]]**
+  * **[[:pt-br:obe:kt:bless]]**
+  * **[[:pt-br:obe:kt:fulfill]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:save]]**
 
 
 ==== Translation Notes: ====
