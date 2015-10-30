@@ -6,18 +6,16 @@
 Then **Elijah prayed**, “**Yahweh**, **God** of **Abraham**, **Isaac**, and **Jacob**, **show us** today that you are the God of **Israel** and that **I am your servant**. **Answer me** so that **these people will know** that you are the **true** God.”
 
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:pt-br:obs:notes:key-terms:pray|prayed]]**
-  * **[[:pt-br:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:pt-br:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:pt-br:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:pt-br:obs:notes:key-terms:israel|Israel]]**
-  * **[[:pt-br:obs:notes:key-terms:servant|servant]]**
-  * **[[:pt-br:obs:notes:key-terms:true|true]]**
+  * **[[:pt-br:obe:other:elijah]]**
+  * **[[:pt-br:obe:other:pray]]**
+  * **[[:pt-br:obe:kt:yahweh]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:abraham]]**
+  * **[[:pt-br:obe:other:isaac]]**
+  * **[[:pt-br:obe:other:jacob]]**
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:other:servant]]**
+  * **[[:pt-br:obe:kt:true]]**
 
 
 ==== Translation Notes: ====
