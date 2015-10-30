@@ -4,14 +4,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
 
 **God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:promise|promised]]**
-  * **[[:pt-br:obs:notes:key-terms:david|King David]]**
-  * **[[:pt-br:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms:descendant|descendants]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:kt:promise]]**
+  * **[[:pt-br:obe:other:david]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:other:descendant]]**
 
 
 ==== Translation Notes: ====
