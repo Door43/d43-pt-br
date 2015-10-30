@@ -6,12 +6,10 @@
 
 When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **Promised Land** and **worshiped at the Temple**.
 ===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:jerusalem|Jerusalem]]**
-  * **[[:pt-br:obs:notes:key-terms:temple|Temple]]**
-  * **[[:pt-br:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:pt-br:obs:notes:key-terms:worship|worshiped]]**
+  * **[[:pt-br:obe:other:jerusalem]]**
+  * **[[:pt-br:obe:kt:temple]]**
+  * **[[:pt-br:obe:kt:promisedland]]**
+  * **[[:pt-br:obe:kt:worship]]**
 
 
 ==== Translation Notes: ====
