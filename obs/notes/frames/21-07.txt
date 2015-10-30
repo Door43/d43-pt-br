@@ -4,18 +4,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-07.jpg?nolink}}
 
 **Israelite priests** made **sacrifices** to **God on behalf of** the people **as a substitute for the punishment for their sins**. Priests also **prayed** to God for the people. The **Messiah** would be the **perfect high priest** who would **offer himself** as a **perfect sacrifice** to God
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:pt-br:obs:notes:key-terms:priest|priests]]**
-  * **[[:pt-br:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:pt-br:obs:notes:key-terms:god|God]]**
-  * **[[:pt-br:obs:notes:key-terms:punish|punishment]]**
-  * **[[:pt-br:obs:notes:key-terms:sin|sins]]**
-  * **[[:pt-br:obs:notes:key-terms:pray|prayed]]**
-  * **[[:pt-br:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:pt-br:obs:notes:key-terms:priest-high|high priest]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:israel]]**
+  * **[[:pt-br:obe:kt:priest]]**
+  * **[[:pt-br:obe:other:sacrifice]]**
+  * **[[:pt-br:obe:kt:god]]**
+  * **[[:pt-br:obe:other:punish]]**
+  * **[[:pt-br:obe:kt:sin]]**
+  * **[[:pt-br:obe:other:pray]]**
+  * **[[:pt-br:obe:kt:christ]]**
+  * **[[:pt-br:obe:kt:highpriest]]**
 
 
 ==== Translation Notes: ====
