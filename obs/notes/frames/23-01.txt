@@ -3,14 +3,12 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink}}
 
 **Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**.
-===== Important Terms: =====
-
-
-  * **[[:pt-br:obs:notes:key-terms/mary|Mary]]**
-  * **[[:pt-br:obs:notes:key-terms/righteous|righteous]]**
-  * **[[:pt-br:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:pt-br:obs:notes:key-terms/angel|angel]]**
-  * **[[:pt-br:obs:notes:key-terms/dream|dream]]**
+===== Important Terms: =====  
+  * **[[:pt-br:obe:other:mary]]**
+  * **[[:pt-br:obe:kt:righteous]]**
+  * **[[:pt-br:obe:other:josephnt]]**
+  * **[[:pt-br:obe:kt:angel]]**
+  * **[[:pt-br:obe:other:dream]]**
 
 
 ===== Translation Notes: =====
