@@ -3,11 +3,10 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
 
 “Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
-===== Important Terms: =====
-
-  * **[[:pt-br:obs:notes:key-terms/jew|Jewish]]**
-  * **[[:pt-br:obs:notes:key-terms/priest|priest]]**
-  * **[[:pt-br:obs:notes:key-terms/jewish-leaders|religious leader]]**
+===== Important Terms: =====   
+  * **[[:pt-br:obe:other:jew]]**
+  * **[[:pt-br:obe:kt:priest]]**
+  * **[[:pt-br:obe:other:jewishleaders]]**
 
 
 ===== Translation Notes: =====
