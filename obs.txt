@@ -1,7 +1,7 @@
 ====== Histórias bíblicas livres ======
 
-{{  :en:obs-pic_360p.jpg?nolink&300}}**50 key stories of the Bible, from Creation to Revelation, for evangelism & discipleship, in text, audio, and video, on any mobile phone, in any language, for free.**
+{{  :en:obs-pic_360p.jpg?nolink&300}}Cinqüenta histórias-chave da Bíblia, da Criação ao Apocalipse, para evangelismo & discipulado, em texto, áudio e vídeo, em qualquer telefone celular, em qualquer língua, de graça.
 
-Feel free to join the Open Bible Stories translation team and help finish a translation, or start a new one.
+Sinta-se à vontade para unir-se à equipe de tradução das **Histórias bíblicas livres** e ajude a terminar uma tradução, ou começar uma nova.
 
-{{page>pt-br:obs:stories}}
+ {{page>pt-br:obs:stories}}
