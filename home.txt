@@ -1,3 +1,7 @@
-===== Porta43 – Português =====
+===== Porta43 – Português (pt-br) =====
 
-Seja bem vindo!
+Welcome to Door43! Please feel free to [[:pt-br:home?do=edit|edit]] this page in your own language. More information about how to get started can be found [[:en:get-started|here]].
+
+===== Resources =====
+
+  * **[[:pt-br:obs|Historias Livres da Biblia (pt-br)]]**
