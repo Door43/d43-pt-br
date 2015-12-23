@@ -1,11 +1,11 @@
-====== Complete List of Important Terms ======
+====== Complete List of Important Terms - Brazilian Portuguese ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:pt-br:obe:kt:home|Key Terms]]
-  * [[:pt-br:obe:other:home|Other Terms]]
+  * [[:pt-br:obe:kt:home]]
+  * [[:pt-br:obe:other:home]]
 
-==== All Terms in the OBE: ====
+==== All Important Terms: ====
 
 <nspages pt-br:obe -r -title -exclude:home -textPages="">
 
