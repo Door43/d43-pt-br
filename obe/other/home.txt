@@ -1,9 +1,8 @@
-====== OBE Other Terms ======
+====== List of the Other Terms in the OBE Directory ======
 
 ~~NOCACHE~~
 
-Link to [[:pt-br:obe:kt:home|OBE Key Terms]] \\ 
-Link to [[:pt-br:obe:home|All OBE Terms]]
+Link to [[:pt-br:obe:kt:home]] \\ 
+Link to [[:pt-br:obe:home]]
 
-
-<nspages pt-br:obe:other -title -exclude:home -textPages="List of other terms:">
+<nspages pt-br:obe:other -title -exclude:home -textPages="">
