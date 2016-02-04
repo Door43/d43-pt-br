@@ -1,4 +1,3 @@
-
 ===== Porta43 – Português (pt-br) =====
 
 Welcome to Door43, an openly-collaborative platform for creating, translating, and distributing open-licensed discipleship resources in any language.
@@ -11,7 +10,7 @@ These are the resources currently available for translation and use:
   * [[:pt-br:obs:notes|translationNotes]] – Translation and exegetical notes for Open Bible Stories.
   * [[:pt-br:lexicon|Open Bible Lexicon]] – A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
   * [[:pt-br:library|Open Christian Library]] – A growing catalog of open-licensed Biblical resources.
-  * [[:pt-br:ta|translationAcademy]] – A modular, media-based, self-paced training course for translators and translation facilitators. 
+  * [[:pt-br:ta|translationAcademy]] – A modular, media-based, self-paced training course for translators and translation facilitators.
 
 ==== About Door43 ====
 
@@ -20,7 +19,6 @@ These are the resources currently available for translation and use:
   * **[[:pt-br:ta:vol1:intro:translation_guidelines|Translation Guidelines]]** – The principles and procedures that all contributors must follow.
   * **[[:pt-br:ta:vol1:intro:open_license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
   * **[[:pt-br:technical|Technical Details]]** – The technology behind Door43.
-
 ==== Extending Door43 ====
 
 Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
