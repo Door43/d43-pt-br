@@ -9,7 +9,6 @@
   * **[[:pt-br:obe:kt:sin]]**
   * **[[:pt-br:obe:other:adam]]**
   * **[[:pt-br:obe:other:eve]]**
-  * **[[:pt-br:obe:kt:sin]]**
   * **[[:pt-br:obe:other:descendant]]**
 
 
