@@ -33,9 +33,9 @@
 ===== Translation Notes: =====
 
 Informações úteis para a tradução:
-  * **Theophilus**  - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: **[[:pt-br:ta:translate:translatenames|How to Translate Names]]**)
+  * **Theophilus**  - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: [[:pt-br:ta:translate:translatenames|How to Translate Names]])
   * ** Teófilo  ** - Este nome significa "amigo de Deus". Pode vir a descrever o caráter deste homem ou talvez possa ser seu próprio nome. A maioria das traduções consideram como um nome.
-  * **us **- The word "us" in this section may exclude Theophilus, but the text does not specifically say that. (See: **[[:pt-br:ta:vocabulary:exclusive|Exclusive]]**)
+  * **us **- The word "us" in this section may exclude Theophilus, but the text does not specifically say that. (See: [[:pt-br:ta:vocabulary:exclusive|Exclusive]]) 
   * ** nós  ** - A palavra "nós" nesta sessão pode vir a excluir Teófilo, mas o texto não menciona isso especificamente.
   * **accounts**  - "reports" or "narratives" or "true stories"
   * ** Contas  ** - "relatórios" ou "narrativas" ou "estórias verdadeiras"
